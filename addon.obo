@@ -1,0 +1,48 @@
+[Term]
+id: WBbt:0007010
+name: TL.ap
+def: "cell\, which is the posterior descendent of TL.a." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007011
+name: TL.app
+def: "cell\, which is the posterior descendent of TL.ap." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007012
+name: TL.pp
+def: "cell\, which is the posterior descendent of TL.p." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007013
+name: TL.ppp
+def: "cell\, which is the posterior descendent of TL.pp." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007014
+name: TR.ap
+def: "cell\, which is the posterior descendent of TR.a." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007015
+name: TR.app
+def: "cell\, which is the posterior descendent of TR.ap." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007016
+name: TR.pp
+def: "cell\, which is the posterior descendent of TR.p." [WB:rynl ""]
+is_a: WBbt:0004017
+
+[Term]
+id: WBbt:0007017
+name: TR.ppp
+def: "cell\, which is the posterior descendent of TR.pp." [WB:rynl ""]
+is_a: WBbt:0004017
+

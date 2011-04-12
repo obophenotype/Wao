@@ -1,0 +1,432 @@
+
+
+Anatomy_term : WBbt:0003679
+Database MODEncodeTissueEMB_panneural
+
+Database : MODEncodeTissueEMB_panneural
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_panneural"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_panneural"
+
+
+Anatomy_term : WBbt:0004017
+Database MODEncodeTissueEMB_ALLREF
+
+Database : MODEncodeTissueEMB_ALLREF
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ALLREF"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ALLREF"
+
+
+Anatomy_term : WBbt:0005792
+Database MODEncodeTissueEMB_intestine
+
+Database : MODEncodeTissueEMB_intestine
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_intestine"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_intestine"
+
+
+Anatomy_term : WBbt:0005751
+Database MODEncodeTissueEMB_coelomocytes
+
+Database : MODEncodeTissueEMB_coelomocytes
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_coelomocytes"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_coelomocytes"
+
+
+Anatomy_term : WBbt:0005842
+Database MODEncodeTissueEMB_AVA_neurons
+
+Database : MODEncodeTissueEMB_AVA_neurons
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_AVA_neurons"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_AVA_neurons"
+
+
+Anatomy_term : WBbt:0006831
+Database MODEncodeTissueL3_L4_PVD_OLL
+
+Database : MODEncodeTissueL3_L4_PVD_OLL
+Name "MODEncode Genome Browser Wiggle Track for Tissue L3_L4_PVD_OLL"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L3_L4_PVD_OLL"
+
+
+Anatomy_term : WBbt:0006847
+Database MODEncodeTissueL3_L4_PVD_OLL
+
+Database : MODEncodeTissueL3_L4_PVD_OLL
+Name "MODEncode Genome Browser Wiggle Track for Tissue L3_L4_PVD_OLL"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L3_L4_PVD_OLL"
+
+
+Anatomy_term : WBbt:0004017
+Database MODEncodeTissueL2_reference
+
+Database : MODEncodeTissueL2_reference
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_reference"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_reference"
+
+
+Anatomy_term : WBbt:0003679
+Database MODEncodeTissueL2_panneural
+
+Database : MODEncodeTissueL2_panneural
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_panneural"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_panneural"
+
+
+Anatomy_term : WBbt:0005792
+Database MODEncodeTissueL2_intestine
+
+Database : MODEncodeTissueL2_intestine
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_intestine"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_intestine"
+
+
+Anatomy_term : WBbt:0005812
+Database MODEncodeTissueL2_excretory_cell
+
+Database : MODEncodeTissueL2_excretory_cell
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_excretory_cell"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_excretory_cell"
+
+
+Anatomy_term : WBbt:0006804
+Database MODEncodeTissueL2_bw_muscle
+
+Database : MODEncodeTissueL2_bw_muscle
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_bw_muscle"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_bw_muscle"
+
+
+Anatomy_term : WBbt:0005190
+Database MODEncodeTissueL2_GABA_neurons
+
+Database : MODEncodeTissueL2_GABA_neurons
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_GABA_neurons"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_GABA_neurons"
+
+
+Anatomy_term : WBbt:0006746
+Database MODEncodeTissueEMB_dopa
+
+Database : MODEncodeTissueEMB_dopa
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_dopa"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_dopa"
+
+
+Anatomy_term : WBbt:0005190
+Database MODEncodeTissueEMB_GABA
+
+Database : MODEncodeTissueEMB_GABA
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_GABA"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_GABA"
+
+
+Anatomy_term : WBbt:0005278
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0005339
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0005304
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0003851
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0005396
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0004740
+Database MODEncodeTissueL2_A_class_neuron
+
+Database : MODEncodeTissueL2_A_class_neuron
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_A_class_neuron"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_A_class_neuron"
+
+
+Anatomy_term : WBbt:0006804
+Database MODEncodeTissueEMB_bw_v2
+
+Database : MODEncodeTissueEMB_bw_v2
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_bw_v2"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_bw_v2"
+
+
+Anatomy_term : WBbt:0005178
+Database MODEncodeTissueYA_gonad
+
+Database : MODEncodeTissueYA_gonad
+Name "MODEncode Genome Browser Wiggle Track for Tissue YA_gonad"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=REINKE_TF_WIG\/YA_gonad"
+
+
+Anatomy_term : WBbt:0005278
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0005339
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0005304
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0003851
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0005396
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0004740
+Database MODEncodeTissueEMB_ACLASS
+
+Database : MODEncodeTissueEMB_ACLASS
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_ACLASS"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_ACLASS"
+
+
+Anatomy_term : WBbt:0006746
+Database MODEncodeTissueL3_L4_dopa
+
+Database : MODEncodeTissueL3_L4_dopa
+Name "MODEncode Genome Browser Wiggle Track for Tissue L3_L4_dopa"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L3_L4_dopa"
+
+
+Anatomy_term : WBbt:0004017
+Database MODEncodeTissueYA_reference
+
+Database : MODEncodeTissueYA_reference
+Name "MODEncode Genome Browser Wiggle Track for Tissue YA_reference"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/YA_reference"
+
+
+Anatomy_term : WBbt:0005751
+Database MODEncodeTissueL2_coelomocytes
+
+Database : MODEncodeTissueL2_coelomocytes
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_coelomocytes"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_coelomocytes"
+
+
+Anatomy_term : WBbt:0006813
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005842
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005841
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0006818
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0006819
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0003850
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005840
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0006976
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005835
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005400
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005353
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0005346
+Database MODEncodeTissueL2_glut_rec
+
+Database : MODEncodeTissueL2_glut_rec
+Name "MODEncode Genome Browser Wiggle Track for Tissue L2_glut_rec"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L2_glut_rec"
+
+
+Anatomy_term : WBbt:0004017
+Database MODEncodeTissueL3_L4_reference
+
+Database : MODEncodeTissueL3_L4_reference
+Name "MODEncode Genome Browser Wiggle Track for Tissue L3_L4_reference"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L3_L4_reference"
+
+
+Anatomy_term : WBbt:0008406
+Database MODEncodeTissueYA_CEPsh
+
+Database : MODEncodeTissueYA_CEPsh
+Name "MODEncode Genome Browser Wiggle Track for Tissue YA_CEPsh"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/YA_CEPsh"
+
+
+Anatomy_term : WBbt:0006849
+Database MODEncodeTissueEMB_GLP
+
+Database : MODEncodeTissueEMB_GLP
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_GLP"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_GLP"
+
+
+Anatomy_term : WBbt:0007846
+Database MODEncodeTissueEMB_hypodermal
+
+Database : MODEncodeTissueEMB_hypodermal
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_hypodermal"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_hypodermal"
+
+
+Anatomy_term : WBbt:0007846
+Database MODEncodeTissueL3_L4_hypodermal
+
+Database : MODEncodeTissueL3_L4_hypodermal
+Name "MODEncode Genome Browser Wiggle Track for Tissue L3_L4_hypodermal"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=PEMBRYO_FAX_WIG\/L3_L4_hypodermal"
+
+
+Anatomy_term : WBbt:0006825
+Database MODEncodeTissueEMB_BAG
+
+Database : MODEncodeTissueEMB_BAG
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_BAG"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_BAG"
+
+
+Anatomy_term : WBbt:0005840
+Database MODEncodeTissueEMB_PVC
+
+Database : MODEncodeTissueEMB_PVC
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_PVC"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_PVC"
+
+
+Anatomy_term : WBbt:0005451
+Database MODEncodeTissueEMB_PhM
+
+Database : MODEncodeTissueEMB_PhM
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_PhM"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_PhM"
+
+
+Anatomy_term : WBbt:0004017
+Database MODEncodeTissueEMB_0hr_ref_array_v2
+
+Database : MODEncodeTissueEMB_0hr_ref_array_v2
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_0hr_ref_array_v2"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_0hr_ref_array_v2"
+
+
+Anatomy_term : WBbt:0006819
+Database MODEncodeTissueEMB_AVE_neurons
+
+Database : MODEncodeTissueEMB_AVE_neurons
+Name "MODEncode Genome Browser Wiggle Track for Tissue EMB_AVE_neurons"
+URL_constructor "http:\/\/modencode.oicr.on.ca\/fgb2\/gbrowse\/worm\/?label=EMBRYO_FAX_WIG\/EMB_AVE_neurons"
