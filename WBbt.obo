@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 12:04:2011 10:44
+date: 21:04:2011 15:23
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -17913,7 +17913,7 @@ id: WBbt:0005177
 name: HO neuron
 def: "Hook sensory neurons" [WB:rynl]
 is_a: WBbt:0005759
-is_a: WBbt:0006930
+relationship: part_of WBbt:0006930
 
 [Term]
 id: WBbt:0004762
@@ -17936,7 +17936,7 @@ name: HOsh
 def: "Sheath of hook sensillum\, receptor anterior to cloaca in male" [ISBN:0-87969-307-X]
 synonym: "lineage name\: P10.ppppp" []
 is_a: WBbt:0005811
-is_a: WBbt:0006930
+relationship: part_of WBbt:0006930
 
 [Term]
 id: WBbt:0004759
@@ -17944,7 +17944,7 @@ name: HOso
 def: "Socket of hook sensillum\, receptor anterior to cloaca in male" [ISBN:0-87969-307-X]
 synonym: "lineage name\: P10.ppaa" []
 is_a: WBbt:0005750
-is_a: WBbt:0006930
+relationship: part_of WBbt:0006930
 
 [Term]
 id: WBbt:0006830
@@ -44441,6 +44441,12 @@ name: gubernaculum
 is_obsolete: true
 
 [Term]
+id: WBbt:0008424
+name: gubernaculum
+def: "A sclerotized cuticular structure at the base of the male tail fan which houses the retracted spicules and guides the eversion of the spicules through the anus." [WB:Paper00038216 ""]
+relationship: part_of WBbt:0008423
+
+[Term]
 id: WBbt:0006908
 name: gubernaculum muscle
 def: "specialized muscle type in male sex organ." [WB:rynl ""]
@@ -44629,6 +44635,12 @@ synonym: "head mesoderm cell" []
 synonym: "lineage name\: MS.appaaa" []
 is_a: WBbt:0004017
 relationship: part_of WBbt:0005737
+
+[Term]
+id: WBbt:0008425
+name: hook
+def: "A small lump on the gubernaculum of the male tail. This structure lies on the ventral surface just anterior and central to the base of the spicule openings and contains a sensory structure called the hook sensillum. " [WB:Paper00038216 ""]
+is_a: WBbt:0008424
 
 [Term]
 id: WBbt:0007847
@@ -46577,6 +46589,13 @@ def: "one of a pair of cells\, situates at the distal tip of the male gonad." [W
 synonym: "gon_male_dtc" []
 is_a: WBbt:0006865
 relationship: part_of WBbt:0006794
+
+[Term]
+id: WBbt:0008423
+name: male genital
+def: "antomical structure of the male involved in sexual reproduction." [WB:rynl ""]
+is_a: WBbt:0005757
+is_a: WBbt:0008422
 
 [Term]
 id: WBbt:0005578
@@ -49072,6 +49091,15 @@ is_a: WBbt:0005757
 is_a: WBbt:0006783
 
 [Term]
+id: WBbt:0008422
+name: sex organ
+def: "anatomical part of the body which is involved in sexual reproduction and constitutes the reproductive system." [WB:rynl ""]
+comment: Term definition modified from wikipedia entry.
+synonym: "genitalia" []
+is_a: WBbt:0003760
+relationship: part_of WBbt:0005747
+
+[Term]
 id: WBbt:0005363
 name: sheath cell
 is_obsolete: true
@@ -50204,11 +50232,11 @@ is_obsolete: true
 [Term]
 id: WBbt:0006748
 name: vulva
-def: "female genitalia" [WB:rynl ""]
+def: "female genital." [WB:rynl ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem3a.htm#Thevulva>
 is_a: WBbt:0005758
+is_a: WBbt:0008422
 relationship: part_of WBbt:0005740
-relationship: part_of WBbt:0005747
 
 [Term]
 id: WBbt:0005259
