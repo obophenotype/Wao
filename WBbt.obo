@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 21:04:2011 15:23
+date: 03:05:2011 12:30
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -42251,7 +42251,7 @@ relationship: part_of WBbt:0005748
 [Term]
 id: WBbt:0006925
 name: apoptotic cell
-def: "cell destined to die by apoptosis." [WB:rynl ""]
+def: "cell destined to die by apoptosis (programmed cell death\, PCD)." [WB:rynl ""]
 is_a: WBbt:0004017
 
 [Term]
@@ -43229,7 +43229,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0007803
 name: engulfing cell
-def: "cell that engulfs a cell undergoing programmed cell death (apoptosis)." [WB:rynl ""]
+def: "cell that engulfs a cell undergoing programmed cell death (PCD\, apoptosis)." [WB:rynl ""]
 is_a: WBbt:0004017
 
 [Term]
