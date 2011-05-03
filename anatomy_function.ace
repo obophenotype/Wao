@@ -5201,3 +5201,410 @@ Reference WBPaper00037977
 
 
 
+Anatomy_function : "WBbtf0401"
+Assay	"Genetic_mosaic"	"WBPaper00038056_1"
+Phenotype	"WBPhenotype:0000273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:(movement in liquid) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Involved	"WBbt:0003679"	Sufficient	"Reduced locomotion of egl-19(n582) was partially restored by neuronal EGL-19 transgene, but was either unaffected (in liquid) or very slightly improved by muscle EGL-19 transgene. However, locomotion was only fully rescued when EGL-19 transgene was present in both neurons and muscles."
+Involved	"WBbt:0003675"	Sufficient	"Reduced locomotion of egl-19(n582) was partially restored by neuronal EGL-19 transgene, but was either unaffected (in liquid) or very slightly improved by muscle EGL-19 transgene. However, locomotion was only fully rescued when EGL-19 transgene was present in both neurons and muscles."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_1
+Genotype "egl-19(n582); Ex[egl-19(+) sur-5::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0402"
+Assay	"Genetic_mosaic"	"WBPaper00038056_1"
+Phenotype	"WBPhenotype:0000646"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000008(velocity) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Involved	"WBbt:0003679"	Sufficient	"Reduced locomotion of egl-19(n582) was partially restored by neuronal EGL-19 transgene, but was either unaffected (in liquid) or very slightly improved by muscle EGL-19 transgene. However, locomotion was only fully rescued when EGL-19 transgene was present in both neurons and muscles."
+Involved	"WBbt:0003675"	Sufficient	"Reduced locomotion of egl-19(n582) was partially restored by neuronal EGL-19 transgene, but was either unaffected (in liquid) or very slightly improved by muscle EGL-19 transgene. However, locomotion was only fully rescued when EGL-19 transgene was present in both neurons and muscles."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_1
+Genotype "egl-19(n582); Ex[egl-19(+) sur-5::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0403"
+Assay	"Genetic_mosaic"	"WBPaper00038056_1"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0045760(activation of action potential)|PATO:0000044(frequency) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Involved	"WBbt:0003679"	Sufficient	"we compared the kinetics and frequency of spontaneous action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the frequency and duration of the action potentials were fully restored. When the transgene was present in neurons alone, only the frequency of action potentials was rescued, suggesting that frequency was strictly regulated through a neuronal role of L-VGCC/EGL-19."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_1
+Genotype "egl-19(n582); Ex[egl-19(+) sur-5::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0404"
+Assay	"Genetic_mosaic"	"WBPaper00038056_1"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0045760(activation of action potential)|PATO:0001309(duration) QUALITY:PATO:0000573(long)"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Not_involved	"WBbt:0003679"	Insufficient	"we compared the kinetics and frequency of spontaneous action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the frequency and duration of the action potentials were fully restored. When the transgene was present in neurons alone, the duration of action potentials was not rescued (remains longer than WT)."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_1
+Genotype "egl-19(n582); Ex[egl-19(+) sur-5::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0405"
+Assay	"Genetic_mosaic"	"WBPaper00038056_1"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:(resting membrane potential) QUALITY:PATO:0001475(high)"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Not_involved	"WBbt:0003679"	Insufficient	"we compared action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the wild-type level of resting membrane potentials was fully restored. When the transgene was present in neurons alone, the resting potential was not affected, higher than that of wild type."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_1
+Genotype "egl-19(n582); Ex[egl-19(+) sur-5::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0406"
+Assay	"Expression_mosaic"	"WBPaper00038056_2"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:(resting membrane potential) QUALITY:PATO:0001475(high) NOT"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Involved	"WBbt:0006804"	Sufficient	"we compared action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the wild-type level of resting membrane potentials was fully restored. We used an alternative strategy where we expressed EGL-19 minigene by a body wall muscle-specific promoter in egl-19(n582) mutants. In these animals, the resting membrane potential was fully restored."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_2
+Genotype "egl-19(n582); Ex[Pmyo-3-egl-19 Podr-1::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0407"
+Assay	"Expression_mosaic"	"WBPaper00038056_2"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0045760(activation of action potential)|PATO:0000044(frequency) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Not_involved	"WBbt:0006804"	Insufficient	"we compared the kinetics and frequency of spontaneous action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the frequency and duration of the action potentials were fully restored. We used an alternative strategy where we expressed EGL-19 minigene by a body wall muscle-specific promoter in egl-19(n582) mutants. In these animals, the action potential frequency remains reduced."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_2
+Genotype "egl-19(n582); Ex[Pmyo-3-egl-19 Podr-1::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0408"
+Assay	"Expression_mosaic"	"WBPaper00038056_2"
+Phenotype	"WBPhenotype:0001315"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0045760(activation of action potential)|PATO:0001309(duration) QUALITY:PATO:0000573(long) NOT"
+Gene	"WBGene00001187"	Published_as	"egl-19"
+Involved	"WBbt:0006804"	Sufficient	"we compared the kinetics and frequency of spontaneous action potentials in egl-19 (n582) mutants that carried a functional EGL-19 transgene in different tissues by mosaic analyses and tissue-specific rescue. When the transgene was present in both neurons and muscles, the frequency and duration of the action potentials were fully restored. We used an alternative strategy where we expressed EGL-19 minigene by a body wall muscle-specific promoter in egl-19(n582) mutants. In these animals, the duration of action potential was partially restored."
+Reference	"WBPaper00038056"
+
+Condition : WBPaper00038056_2
+Genotype "egl-19(n582); Ex[Pmyo-3-egl-19 Podr-1::GFP]"
+Reference WBPaper00038056
+
+
+
+
+Anatomy_function : "WBbtf0409"
+Assay	"Expression_mosaic"	"WBPaper00037082_1"
+Phenotype	"WBPhenotype:0000107"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0030728(ovulation) QUALITY:PATO:0000694(premature)"
+Gene	"WBGene00007772"	Published_as	"egrh-1"
+Not_involved	"WBbt:0005784"	Insufficient	"we examined the effect of egrh-1(RNAi) in an rrf-1(pk1417) mutant background. rrf-1(pk1417) mutants are specifically resistant to RNAi in the soma but remain sensitive to RNAi in the germline. We found that egrh-1(RNAi) was less effective in rrf-1(pk1417) than in a wild-type background. Indeed, rrf-1(pk1417); egrh-1(RNAi) animals exhibited only a slight increase in the frequency of oocyte defects when compared with untreated rrf-1(pk1417) mutants. Thus, we conclude that egrh-1 functions in the soma."
+Reference	"WBPaper00037082"
+
+Condition : WBPaper00037082_1
+Genotype "rrf-1(pk1417)"
+Treatment "egrh-1(RNAi)"
+Reference WBPaper00037082
+
+
+
+Anatomy_function : "WBbtf0410"
+Assay	"Genetic_mosaic"	"WBPaper00037082_2"
+Phenotype	"WBPhenotype:0000107"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0030728(ovulation) QUALITY:PATO:0000694(premature)"
+Gene	"WBGene00007772"	Published_as	"egrh-1"
+Involved	"WBbt:0005785"	Necessary	"We next examined the phenotype of egrh-1(tm1736) animals that were mosaic for a rescuing transgene. We generated the strain egrh-1(tm1736); cuEx531 containing the egrh-1(+) cosmid C27C12 and the cell autonomous marker for somatic cells sur-5::gfp. We first identified animals that specifically lost this transgene in the EMS blastomere, which is the precursor of the somatic gonad and gut but not the germline, and 95% of these animals exhibited abnormal and distal oocytes. Thus, egrh-1 function is required in somatic tissues derived from EMS. We next identified mosaic animals that lost the transgene only in MS or E, the descendants of EMS that give rise to the somatic gonad or gut, respectively. Loss in either MS or E resulted in the egrh-1 phenotype, strongly suggesting that egrh-1 function is required in both the somatic gonad and the gut for normal oocyte development."
+Involved	"WBbt:0005792"	Necessary	"We next examined the phenotype of egrh-1(tm1736) animals that were mosaic for a rescuing transgene. We generated the strain egrh-1(tm1736); cuEx531 containing the egrh-1(+) cosmid C27C12 and the cell autonomous marker for somatic cells sur-5::gfp. We first identified animals that specifically lost this transgene in the EMS blastomere, which is the precursor of the somatic gonad and gut but not the germline, and 95% of these animals exhibited abnormal and distal oocytes. Thus, egrh-1 function is required in somatic tissues derived from EMS. We next identified mosaic animals that lost the transgene only in MS or E, the descendants of EMS that give rise to the somatic gonad or gut, respectively. Loss in either MS or E resulted in the egrh-1 phenotype, strongly suggesting that egrh-1 function is required in both the somatic gonad and the gut for normal oocyte development."
+Not_involved	"WBbt:0005784"	Unnecessary	"Although we were not able to find any animals that lost the transgene only in the germline precursor P2, we did find one animal that lost the transgene in P2 but had a second loss later in the E lineage. This animal exhibited a wild-type phenotype, suggesting that egrh-1 function is not required in the germline."
+Reference	"WBPaper00037082"
+
+Condition : WBPaper00037082_2
+Genotype "egrh-1(tm1736); CuEx531[egrh-1(+) sur-5::gfp]"
+Reference WBPaper00037082
+
+
+
+Anatomy_function : "WBbtf0411"
+Assay	"Expression_mosaic"	"WBPaper00037082_3"
+Phenotype	"WBPhenotype:0000107"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0030728(ovulation) QUALITY:PATO:0000694(premature) NOT"
+Gene	"WBGene00007772"	Published_as	"egrh-1"
+Involved	"WBbt:0005792"	Sufficient	"We next expressed egrh-1 in the E lineage using the ges-1 promoter and asked if gut expression is sufficient to rescue egrh1 mutants. egrh-1 expression in the E lineage partially rescued the formation of abnormal and distal oocytes in both egrh-1 mutant hermaphrodites and egrh-1 mutant females."
+Reference	"WBPaper00037082"
+
+Condition : WBPaper00037082_3
+Genotype "egrh-1(tm1736); Ex[ges-1::egrh-1]"
+Reference WBPaper00037082
+
+
+
+Anatomy_function : "WBbtf0412"
+Assay	"Expression_mosaic"	"WBPaper00036485_1"
+Phenotype	"WBPhenotype:0001930"	Autonomous
+Phenotype	"WBPhenotype:0001930"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0031253(membrane extension) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00016539"	Published_as	"madd-2"
+Involved	"WBbt:0006804"	Sufficient	"To test whether madd-2 functions cell autonomously, we expressed MADD-2 in either all BWMs (by using the myo-3 promoter) or only the distal BWMs (by using the him-4 promoter) of tr103 mutants and observed complete rescue of the muscle arm extension defects."
+Reference	"WBPaper00036485"
+
+Condition : WBPaper00036485_1
+Genotype "madd-2(tr103); Ex[myo-3p::MADD-2A]"
+Reference WBPaper00036485
+
+
+
+Anatomy_function : "WBbtf0413"
+Assay	"Expression_mosaic"	"WBPaper00036485_2"
+Phenotype	"WBPhenotype:0001930"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0031253(membrane extension) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00016539"	Published_as	"madd-2"
+Not_involved	"WBbt:0003679"	Insufficient	"To test whether madd-2 functions cell autonomously, we expressed MADD-2 in either all BWMs (by using the myo-3 promoter) or only the distal BWMs (by using the him-4 promoter) of tr103 mutants and observed complete rescue of the muscle arm extension defects. By contrast, neuronal expression of MADD-2 failed to rescue the muscle arm extension defects of the madd-2 null mutant."
+Reference	"WBPaper00036485"
+
+Condition : WBPaper00036485_2
+Genotype "madd-2(tr103); Ex[unc-119p::MADD-2A]"
+Reference WBPaper00036485
+
+
+
+Anatomy_function : "WBbtf0414"
+Assay	"Expression_mosaic"	"WBPaper00036215_1"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00000380"	Published_as	"cct-5"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting cct-5 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_1
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "cct-5 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0415"
+Assay	"Expression_mosaic"	"WBPaper00036215_2"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00020391"	Published_as	"cct-7"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting cct-7 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_2
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "cct-7 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0416"
+Assay	"Expression_mosaic"	"WBPaper00036215_3"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00001834"	Published_as	"hda-1"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting hda-1 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_3
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "hda-1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0417"
+Assay	"Expression_mosaic"	"WBPaper00036215_4"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00003218"	Published_as	"mep-1"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting mep-1 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_4
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "mep-1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0418"
+Assay	"Expression_mosaic"	"WBPaper00036215_5"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00001345"	Published_as	"fos-1a"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting fos-1a gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_5
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "fos-1a RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0419"
+Assay	"Expression_mosaic"	"WBPaper00036215_6"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00016739"	Published_as	"C48A7.2"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting C48A7.2 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_6
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "C48A7.2 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0420"
+Assay	"Expression_mosaic"	"WBPaper00036215_7"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00012230"	Published_as	"cacn-1"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting cacn-1 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_7
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "cacn-1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0421"
+Assay	"Expression_mosaic"	"WBPaper00036215_8"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00009223"	Published_as	"F28F8.5"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting F28F8.5 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_8
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "F28F8.5 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0422"
+Assay	"Expression_mosaic"	"WBPaper00036215_9"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00020600"	Published_as	"T20B12.1"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting T20B12.1 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_9
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "T20B12.1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0423"
+Assay	"Expression_mosaic"	"WBPaper00036215_10"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00003048"	Published_as	"lit-1"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting lit-1 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_10
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "lit-1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0424"
+Assay	"Expression_mosaic"	"WBPaper00036215_11"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00021097"	Published_as	"cdc-37"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting cdc-37 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_11
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "cdc-37 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0425"
+Assay	"Expression_mosaic"	"WBPaper00036215_12"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00020190"	Published_as	"T03F1.8"
+Involved	"WBbt:0004522"	Necessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting T03F1.8 gene, which showed transgene localization in the AC, blocked invasion. Because uterine cells do not contribute to AC invasion, an AC invasion defect in this background indicates that the gene functions in the AC."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_12
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "T03F1.8 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0426"
+Assay	"Expression_mosaic"	"WBPaper00036215_13"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced) NOT"
+Gene	"WBGene00006796"	Published_as	"unc-62"
+Not_involved	"WBbt:0007815"	Unnecessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting unc-62 gene, which were not expressed in the AC, showed normal invasion."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_13
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "unc-62 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0427"
+Assay	"Expression_mosaic"	"WBPaper00036215_14"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|PATO:0002103(infiltrating)|GO:0005604(basement membrane) QUALITY:PATO:0000468(reduced) NOT"
+Gene	"WBGene00001824"	Published_as	"hbl-1"
+Not_involved	"WBbt:0007815"	Unnecessary	"we used a C. elegans strain in which only uterine tissue, including the AC, is sensitive to RNAi. RNAi depletions targeting hbl-1 gene, which were not expressed in the AC, showed normal invasion."
+Reference	"WBPaper00036215"
+
+Condition : WBPaper00036215_14
+Genotype "rde-1(ne219); fos-1a>RDE-1;rrf-3(pk1426)"
+Treatment "hbl-1 RNAi"
+Reference WBPaper00036215
+
+
+
+Anatomy_function : "WBbtf0428"
+Assay	"Genetic_mosaic"	"WBPaper00036007_1"
+Phenotype	"WBPhenotype:0001225"	Autonomous
+Phenotype	"WBPhenotype:0001225"	Remark	"ENTITY:WBbt:0008410(phasmid socket cell)|GO:0045165(cell fate commitment) QUALITY:PATO:0000468(reduced)"
+Gene	"WBGene00022473"	Published_as	"bet-1"
+Involved	"WBbt:0008409"	Sufficient
+Involved	"WBbt:0008409"	Necessary
+Involved	"WBbt:0008409"	Remark	"To examine whether BET-1 functions cell-autonomously, we performed a mosaic analysis. Genetic mosaics were generated by the spontaneous loss of an extrachromosomal array containing scm::bet-1::gfp during embryogenesis in bet-1 mutants. When BET1::GFP was expressed in the T, but not the neighboring V6, lineage, the Psa phenotype was usually rescued, but expression in the V6, but not the T, lineage did not rescue it. Therefore, BET-1 functions cell-autonomously."
+Reference	"WBPaper00036007"
+
+Condition : WBPaper00036007_1
+Genotype "bet-1(os46); Ex[scm::bet-1::gfp]"
+Reference WBPaper00036007
+
+
+

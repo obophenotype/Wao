@@ -216,13 +216,13 @@ sub printace {
 		elsif ($def_ref =~ /wb:(.*) \"\"/i) {
 		    print "Paper_evidence [$1]";
 		} 
-		elsif ($def_ref =~ /wbpaper:(\d{8}) \"\"/i) {   # WBPaper:00000653
+		elsif ($def_ref =~ /wbpaper:(\d{8})(| \"\")/i) {   # WBPaper:00000653
 		    print "Paper_evidence WBPaper$1";
 		}
 		elsif ($def_ref =~ /caro:(.*) \"\"/i) { #KLUGE
 		}
 		else {
-		    print "UNKNOWN REF: $def_ref\n";
+		    print "UNKNOWN REF: \"$def_ref\"\n";
 		    exit;
 		}
 		print "\n";
