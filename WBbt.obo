@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 03:05:2011 12:30
+date: 03:05:2011 14:57
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -17304,7 +17304,7 @@ is_a: WBbt:0006828
 
 [Term]
 id: WBbt:0005763
-name: Function
+name: Functional system
 def: "concerns with functional aspects of cells and anatomical parts" [WB:rynl]
 is_a: WBbt:0000100
 
@@ -42371,6 +42371,19 @@ def: "precursor cell destined to divide some time after hatching." [WB:rynl ""]
 is_a: WBbt:0004017
 
 [Term]
+id: WBbt:0008427
+name: blastocoel
+def: "The fluid-filled compartment inside the developing embryo at the onset of gastrulation\, surrounded by the early blastomeres\, into which some cells begin to migrate at gastrulation to create a multi-layered embryo. This internal space later is converted into the pseudocoelom as the embryo develops." [WB:Paper00038216 ""]
+is_a: WBbt:0005732
+
+[Term]
+id: WBbt:0008428
+name: blastopore
+def: "A hole in the ventral/posterior side of the embryo caused by the inward flow of cells during gastrulation." [WB:Paper00038216 ""]
+synonym: "gastrulation pore" []
+is_a: WBbt:0005732
+
+[Term]
 id: WBbt:0005332
 name: body ganglion
 def: "ganglion in the trunk of the body." [WB:rynl ""]
@@ -47326,6 +47339,12 @@ id: WBbt:0005780
 name: non-striated muscle
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/ver1/handbook/mesodermal.htm/musclepartIII.htm>
 is_a: WBbt:0003675
+
+[Term]
+id: WBbt:0008426
+name: nose
+def: "The extreme anterior portion of the body." [WB:Paper00038216 ""]
+is_a: WBbt:0005738
 
 [Term]
 id: WBbt:0006910
