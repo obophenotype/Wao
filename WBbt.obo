@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 03:05:2011 14:57
+date: 06:05:2011 10:00
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -43510,7 +43510,6 @@ relationship: part_of WBbt:0005735
 id: WBbt:0006796
 name: germ cell
 def: "a cell\, of either sex\, directly concerned in the production of a new organism." [WB:rynl ""]
-is_a: WBbt:0004017
 is_a: WBbt:0005784
 relationship: develops_from WBbt:0006849
 
@@ -43525,6 +43524,7 @@ name: germ line
 def: "cell line which early in development becomes differentiated from the remaining somatic cell line\, and alone has the potential to undergo meiosis and form gametes." [ISBN:0140512888 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem2.htm>
 synonym: "germline" []
+is_a: WBbt:0004017
 is_a: WBbt:0005729
 relationship: part_of WBbt:0005747
 
