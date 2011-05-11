@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 06:05:2011 10:00
+date: 11:05:2011 13:46
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -48154,6 +48154,12 @@ synonym: "lineage name\: MS.aaapapp" []
 synonym: "m8" []
 is_a: WBbt:0005451
 relationship: part_of WBbt:0003732
+
+[Term]
+id: WBbt:0008429
+name: polar body
+def: "One of two small cells produced\, each during one of the two meiotic cell divisions\, which are then discarded in the creation of the haploid germ cell." [WB:Paper00038216 ""]
+is_a: WBbt:0004017
 
 [Term]
 id: WBbt:0005489
