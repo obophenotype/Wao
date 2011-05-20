@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 16:05:2011 15:52
+date: 20:05:2011 13:27
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -17288,6 +17288,7 @@ name: FLP
 def: "neuron type\, a set of two neurons\, which have ciliated endings situated immediately dorsal to the lateral inner labial sensilla in the head but have no associated sheath or socket cells; they have flattened processes in this region of the cilium." [WB:Paper00000938 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/FLPframeset.html>
 is_a: WBbt:0006816
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004798
@@ -18135,6 +18136,7 @@ name: IL1 neuron
 def: "neuron type\, a set of six ciliated neurons with striated rootlets\, each of which is one of two component neurons of the inner labial sensilla." [WB:Paper00000938 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/IL1frameset.html>
 is_a: WBbt:0005117
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004738
@@ -21968,6 +21970,7 @@ name: OLQ
 def: "neuron type\, a set of four neurons with ciliated endings and striated rootlets in the dorsal and ventral outer labial sensilla." [WB:Paper00000938 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/OLQframeset.html>
 is_a: WBbt:0006801
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004439
@@ -25458,6 +25461,7 @@ name: PVD
 def: "neuron type\, a set of two interneurons with cell bodies situated laterally in the posterior body." [WB:Paper00000938 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/PVDframeset.html>
 is_a: WBbt:0005113
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004090
@@ -46981,6 +46985,12 @@ name: mechanoreceptors
 is_obsolete: true
 
 [Term]
+id: WBbt:0008431
+name: mechanosensory neuron
+def: "neuron that senses and responds to mechanical stimuli\, such as touch." [WB:rynl ""]
+is_a: WBbt:0005759
+
+[Term]
 id: WBbt:0005565
 name: mechanosensory neurons
 is_obsolete: true
@@ -49522,7 +49532,7 @@ def: "neurons that sense body touch\, have specialized microtubules in processes
 synonym: "microtubule cell" []
 synonym: "touch cell" []
 synonym: "touch receptor" []
-is_a: WBbt:0005759
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004877
