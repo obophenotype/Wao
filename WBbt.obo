@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 20:05:2011 13:27
+date: 20:05:2011 14:02
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -11398,6 +11398,7 @@ synonym: "lineage name\: QR.ap" []
 is_a: WBbt:0006751
 is_a: WBbt:0006816
 is_a: WBbt:0006974
+is_a: WBbt:0008432
 
 [Term]
 id: WBbt:0005334
@@ -11570,6 +11571,8 @@ is_a: WBbt:0005394
 is_a: WBbt:0005837
 is_a: WBbt:0005839
 is_a: WBbt:0006829
+is_a: WBbt:0008433
+is_a: WBbt:0008434
 
 [Term]
 id: WBbt:0003890
@@ -12838,6 +12841,7 @@ def: "neuron type\, a set of two neurons with ciliated endings\, in the head\, w
 comment: BAG neuron sense CO2 \[WBpaper00038260\]
 is_a: WBbt:0006816
 is_a: WBbt:0008430
+is_a: WBbt:0008432
 
 [Term]
 id: WBbt:0003824
@@ -21970,7 +21974,6 @@ name: OLQ
 def: "neuron type\, a set of four neurons with ciliated endings and striated rootlets in the dorsal and ventral outer labial sensilla." [WB:Paper00000938 ""]
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/OLQframeset.html>
 is_a: WBbt:0006801
-is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0004439
@@ -25431,6 +25434,7 @@ synonym: "lineage name\: QL.ap" []
 is_a: WBbt:0005097
 is_a: WBbt:0005600
 is_a: WBbt:0006816
+is_a: WBbt:0008432
 
 [Term]
 id: WBbt:0005840
@@ -30169,6 +30173,7 @@ def: "neuron type\, a set of two neurons with cell bodies that are situated sub-
 comment: LINKOUT\:\:WORMATLAS\:\:<http\://www.wormatlas.org/neurons/Individual%20Neurons/URXframeset.html>
 is_a: WBbt:0005113
 is_a: WBbt:0006974
+is_a: WBbt:0008432
 
 [Term]
 id: WBbt:0004928
@@ -42566,6 +42571,7 @@ is_obsolete: true
 id: WBbt:0008430
 name: carbon dioxide sensory neuron
 def: "neuron that senses changes of CO2 concentration in the environment." [WB:rynl ""]
+comment: REF\: WBPaper00038260
 synonym: "CO2 sensory neuron" []
 is_a: WBbt:0005759
 
@@ -42910,8 +42916,8 @@ is_obsolete: true
 id: WBbt:0006928
 name: deirid neuron
 def: "neuron of anterior and post- deirid sensillum." [WB:rynl ""]
-is_a: WBbt:0005759
 is_a: WBbt:0006816
+is_a: WBbt:0008431
 
 [Term]
 id: WBbt:0005238
@@ -47350,6 +47356,12 @@ is_a: WBbt:0005754
 is_a: WBbt:0005762
 
 [Term]
+id: WBbt:0008434
+name: nociceptor neuron
+def: "neuron that senses pain." [WB:rynl ""]
+is_a: WBbt:0005759
+
+[Term]
 id: WBbt:0005511
 name: non-pharyngeal muscle
 is_obsolete: true
@@ -47414,6 +47426,12 @@ comment: XREF\:\:CARO\:0000012
 is_a: WBbt:0005766
 
 [Term]
+id: WBbt:0008433
+name: osmosensory neuron
+def: "neuron that senses and responds to changes in osmolarity in the environment." [WB:rynl ""]
+is_a: WBbt:0005759
+
+[Term]
 id: WBbt:0005503
 name: outer labial lateral sensillum
 is_a: WBbt:0005501
@@ -47424,6 +47442,7 @@ name: outer labial neuron
 def: "neuron type\, set of  six neurons in the outer labial sensillum." [WB:wjc ""]
 synonym: "OL neuron" []
 is_a: WBbt:0006816
+is_a: WBbt:0008431
 relationship: part_of WBbt:0005501
 
 [Term]
@@ -47470,6 +47489,12 @@ is_obsolete: true
 id: WBbt:0005495
 name: oviduct posterior
 is_obsolete: true
+
+[Term]
+id: WBbt:0008432
+name: oxygene sensory neuron
+def: "neuron that senses and responds to oxygen." [WB:rynl ""]
+is_a: WBbt:0005759
 
 [Typedef]
 id: part_of
