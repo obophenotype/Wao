@@ -5608,3 +5608,166 @@ Reference WBPaper00036007
 
 
 
+Anatomy_function : "WBbtf0429"
+Assay	"Expression_mosaic"	"WBPaper00038281_1"
+Phenotype	"WBPhenotype:0000892"	Autonomous
+Phenotype	"WBPhenotype:0000892"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|WBbt:0005784(germline)|GO:0008283(cell proliferation) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000871"	Published_as	"cye-1"
+Involved	"WBbt:0005784"	Necessary	"we restricted cye-1 RNAi to the germline using rrf-1 mutants, which are defective for somatic but not germline RNAi; this mutant therefore permitted CYE-1 depletion in young larvae without affecting somatic divisions. However, cye-1 RNAi treatment initiated in rrf-1 first stage larvae (L1s) again resulted in typical distal germline defects."
+Reference	"WBPaper00038281"
+
+Condition : WBPaper00038281_1
+Genotype: rrf-1(pk1417)
+Treatment: "cye-1 RNAi"
+Reference WBPaper00038281
+
+
+
+Anatomy_function : "WBbtf0430"
+Assay	"Expression_mosaic"	"WBPaper00038281_2"
+Phenotype	"WBPhenotype:0000892"	Autonomous
+Phenotype	"WBPhenotype:0000892"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|WBbt:0005784(germline)|GO:0008283(cell proliferation) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000871"	Published_as	"cye-1"
+Involved	"WBbt:0005784"	Necessary	"a genomic cye-1 transgene, qIs134, generated using a method predicted to allow expression in somatic cells but not germ cells. Consistent with that prediction, CYE-1 protein was detected in somatic but not germ cells of cye-1(0); qIs134 embryos and qIs134 rescued cye-1(0) somatic defects. However, germlines in these somatically rescued cye-1(0); qIs134 animals were smaller than normal, with abnormally enlarged distal germ cells, as seen previously in cye-1 null mutants."
+Reference	"WBPaper00038281"
+
+Condition : WBPaper00038281_2
+Genotype: cye-1(eh10); qIs134[cye-1(+) Psur-5::GFGP]
+Reference WBPaper00038281
+
+
+
+Anatomy_function : "WBbtf0431"
+Assay	"Expression_mosaic"	"WBPaper00038260_1"
+Phenotype	"WBPhenotype:0001765"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|CHEBI:16526(carbon dioxide) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006525"	Published_as	"tax-2"
+Involved	"WBbt:0005662"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Involved	"WBbt:0006825"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Involved	"WBbt:0005663"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Involved	"WBbt:0003927"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Involved	"WBbt:0004096"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Involved	"WBbt:0006846"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD, BAG, ASE, and AQR, PQR and URX neurons rescues CO2 avoidance in tax-2(p694) mutants."
+Reference	"WBPaper00038260"
+
+Condition : WBPaper00038260_1
+Genotype: "tax-2(p694); Ex[pgcy-8::tax-2 pflp-17::tax-2 pflp-6ASE-specific::tax-2 pgcy-32::tax-2]"
+Reference WBPaper00038260
+
+
+
+Anatomy_function : "WBbtf0432"
+Assay	"Genetic_ablation"	"WBPaper00038260_2"
+Phenotype	"WBPhenotype:0001765"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|CHEBI:16526(carbon dioxide) QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0005662"	Necessary	"Specification of the AFD neurons requires the otd/Otx homeodomain transcription factor ttx-1, which is expressed only in AFD. ttx-1 mutants had a strong CO2 avoidance defect off food, and a weaker defect on food."
+Reference	"WBPaper00038260"
+
+Condition : WBPaper00038260_2
+Genotype: "ttx-1(p767)"
+Reference WBPaper00038260
+
+
+
+Anatomy_function : "WBbtf0433"
+Assay	"Genetic_ablation"	"WBPaper00038260_3"
+Phenotype	"WBPhenotype:0001765"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|CHEBI:16526(carbon dioxide) QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0006825"	Necessary	"To ablate BAG we expressed the egl-1 programmed cell death activator from a BAG-specific gcy-33 promoter. Surprisingly, the CO2 avoidance of BAG-ablated animals was not significantly different from wild-type, both on and off food. We asked if combined genetic ablation of AFD and BAG causes a synthetic CO2 avoidance phenotype. Ablating the BAG neurons disrupted the residual CO2 avoidance of ttx-1(p767) mutants on food."
+Reference	"WBPaper00038260"
+
+Condition : WBPaper00038260_3
+Genotype: "ttx-1(p767); Ex[pgcy-33::egl-1]"
+Reference WBPaper00038260
+
+
+
+Anatomy_function : "WBbtf0434"
+Assay	"Genetic_ablation"	"WBPaper00038260_3"
+Phenotype	"WBPhenotype:0000551"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|GO:0035178(turning)|CHEBI:16526(carbon dioxide) QUALITY:PATO:0000460(abnormal)"
+Involved	"WBbt:0006825"	Necessary	"Coablation of AFD and BAG abolished the suppression of reversals and omega turns following a fall in CO2. These data suggest that together BAG and AFD act to suppress reversals and omega turns when CO2 decreases."
+Involved	"WBbt:0005662"	Necessary	"Coablation of AFD and BAG abolished the suppression of reversals and omega turns following a fall in CO2. These data suggest that together BAG and AFD act to suppress reversals and omega turns when CO2 decreases."
+Reference	"WBPaper00038260"
+
+Condition : WBPaper00038260_3
+Genotype: "ttx-1(p767); Ex[pgcy-33::egl-1]"
+Reference WBPaper00038260
+
+
+
+Anatomy_function : "WBbtf0435"
+Assay	"Expression_mosaic"	"WBPaper00038234_1"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased) NOT"
+Gene	"WBGene00003807"	Published_as	"npr-1"
+Involved	"WBbt:0006842"	Sufficient	"Specific transgenic expression of the N2 npr-1 allele in its essential site of action, the RMG motor neurons, sharply reduced the bacterial lawn leaving rate of HW (Hawaiin CB4856) animals"
+Reference	"WBPaper00038234"
+
+Condition : WBPaper00038234_1
+Genotype "Ex[flp-21::LoxStopLox::npr-1(N2)]; Ex[ncs-1::nCre]"
+Reference WBPaper00038234
+
+
+
+Anatomy_function : "WBbtf0436"
+Assay	"Expression_mosaic"	"WBPaper00038234_2"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased) NOT"
+Gene	"WBGene00006475"	Published_as	"tyra-3"
+Involved	"WBbt:0005668"	Sufficient	"expression of tyra-3 in ASK or BAG sensory neurons in worms of Hawaiin background significantly reduced leaving from bacterial lawn."
+Reference	"WBPaper00038234"
+
+Condition : WBPaper00038234_2
+Genotype "Ex[Psra-9::tyra-3b]"
+Reference WBPaper00038234
+
+
+
+Anatomy_function : "WBbtf0437"
+Assay	"Expression_mosaic"	"WBPaper00038234_3"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased) NOT"
+Gene	"WBGene00006475"	Published_as	"tyra-3"
+Involved	"WBbt:0006825"	Sufficient	"expression of tyra-3 in ASK or BAG sensory neurons in worms of Hawaiin background significantly reduced leaving from bacterial lawn."
+Reference	"WBPaper00038234"
+
+Condition : WBPaper00038234_3
+Genotype "Ex[Pflp-17::tyra-3b]"
+Reference WBPaper00038234
+
+
+
+Anatomy_function : "WBbtf0438"
+Assay	"Expression_mosaic"	"WBPaper00038234_4"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased)"
+Gene	"WBGene00006475"	Published_as	"tyra-3"
+Not_involved	"WBbt:0005244"	Insufficient	"expression of tyra-3 in CEP or ADL sensory neurons in worms of Hawaiin background did not significantly reduce leaving from bacterial lawn."
+Reference	"WBPaper00038234"
+
+Condition : WBPaper00038234_4
+Genotype "Ex[Pdat-1::tyra-3b]"
+Reference WBPaper00038234
+
+
+
+Anatomy_function : "WBbtf0439"
+Assay	"Expression_mosaic"	"WBPaper00038234_4"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased)"
+Gene	"WBGene00006475"	Published_as	"tyra-3"
+Not_involved	"WBbt:0005661"	Insufficient	"expression of tyra-3 in CEP or ADL sensory neurons in worms of Hawaiin background did not significantly reduce leaving from bacterial lawn."
+Reference	"WBPaper00038234"
+
+Condition : WBPaper00038234_4
+Genotype "Ex[Psri-51::tyra-3b]"
+Reference WBPaper00038234
+
+
+
+Anatomy_function : "WBbtf0440"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0000470(increased) NOT"
+Involved	"WBbt:0005668"	Necessary	"Killing the ASK neurons reduced the leaving rate of Hawaiin animals, indicating that ASK can promote leaving. The ablation resembled the effect of the ASK::tyra-3 transgene, suggesting that tyra-3 reduces ASK activity. In agreement with this idea, killing the ASK neurons in a strain with the N2 high-activity tyra-3 allele did not reduce their leaving rates further."
+Reference	"WBPaper00038234"
+
+
+Anatomy_function : "WBbtf0441"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0001997(reduced) NOT"
+Involved	"WBbt:0006825"	Necessary	"Killing the BAG neurons increased leaving rates in the strain with the N2 tyra-3 allele, demonstrating that BAG neurons prevent leaving. However, killing BAG had no effect in the strain with the Hawaiin tyra-3 allele, suggesting that BAG activity is already low in this strain under the assay conditions."
+Reference	"WBPaper00038234"
+
+
