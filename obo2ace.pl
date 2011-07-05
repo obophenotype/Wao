@@ -103,6 +103,12 @@ while(<>) {
 	    $syn_ref =~ s/^\[//;
 	    $syn_ref =~ s/\]$//;
 	    push (@syn_refs, $syn_ref);
+##--- added to remove "lineage name:" from synonyms----------------##
+	    if ($synonym =~ /^lineage name\\: (.+)/) {
+		$synonym = $1;
+	    push (@synonyms, $synonym);
+	    }
+##-----------------------------------------------------------------##
 	}
 	elsif ($tag eq 'alt_id') {
 	    $alt_id = $val;
