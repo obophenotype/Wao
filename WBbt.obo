@@ -1,5 +1,5 @@
 format-version: 1.0
-date: 20:05:2011 14:02
+date: 12:07:2011 14:12
 saved-by: raymond
 auto-generated-by: DAG-Edit 1.417
 default-namespace: worm_anatomy
@@ -34,2070 +34,9 @@ def: "cells in the AB.a lineage" [WB:rynl]
 is_obsolete: true
 
 [Term]
-id: WBbt:0001641
-name: ABalaaaalal nucleus
-def: "nucleus of pedigree ABalaaaalal" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001009
-relationship: part_of WBbt:0003967
-
-[Term]
-id: WBbt:0002119
-name: ABalaaaalpp nucleus
-def: "nucleus of pedigree ABalaaaalpp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001011
-relationship: part_of WBbt:0004529
-
-[Term]
-id: WBbt:0002728
-name: ABalaaaarlp nucleus
-def: "nucleus of pedigree ABalaaaarlp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001014
-relationship: part_of WBbt:0005025
-
-[Term]
-id: WBbt:0002729
-name: ABalaaaarrp nucleus
-def: "nucleus of pedigree ABalaaaarrp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001016
-relationship: part_of WBbt:0005023
-
-[Term]
-id: WBbt:0002125
-name: ABalaaapall nucleus
-def: "nucleus of pedigree ABalaaapall" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001020
-relationship: part_of WBbt:0004518
-
-[Term]
-id: WBbt:0001695
-name: ABalaaapalr nucleus
-def: "nucleus of pedigree ABalaaapalr" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001020
-relationship: part_of WBbt:0003866
-
-[Term]
-id: WBbt:0002117
-name: ABalaaaparr nucleus
-def: "nucleus of pedigree ABalaaaparr" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001021
-relationship: part_of WBbt:0004533
-
-[Term]
-id: WBbt:0002118
-name: ABalaaappll nucleus
-def: "nucleus of pedigree ABalaaappll" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001024
-relationship: part_of WBbt:0004531
-
-[Term]
-id: WBbt:0001696
-name: ABalaaapprl nucleus
-def: "nucleus of pedigree ABalaaapprl" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001026
-relationship: part_of WBbt:0003865
-
-[Term]
-id: WBbt:0002126
-name: ABalaaapprr nucleus
-def: "nucleus of pedigree ABalaaapprr" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001026
-relationship: part_of WBbt:0004517
-
-[Term]
-id: WBbt:0001642
-name: ABalaapaaar nucleus
-def: "nucleus of pedigree ABalaapaaar" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001030
-relationship: part_of WBbt:0003965
-
-[Term]
-id: WBbt:0002120
-name: ABalaapaapp nucleus
-def: "nucleus of pedigree ABalaapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001032
-relationship: part_of WBbt:0004527
-
-[Term]
-id: WBbt:0001898
-name: ABalaapappp nucleus
-def: "nucleus of pedigree ABalaapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001036
-relationship: part_of WBbt:0004917
-
-[Term]
-id: WBbt:0001692
-name: ABalaappapa nucleus
-def: "nucleus of pedigree ABalaappapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001041
-relationship: part_of WBbt:0003869
-
-[Term]
-id: WBbt:0002456
-name: ABalaappapp nucleus
-def: "nucleus of pedigree ABalaappapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001041
-relationship: part_of WBbt:0004423
-
-[Term]
-id: WBbt:0002702
-name: ABalaapppaa nucleus
-def: "nucleus of pedigree ABalaapppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001043
-relationship: part_of WBbt:0003958
-
-[Term]
-id: WBbt:0002108
-name: ABalaappppaa nucleus
-def: "nucleus of pedigree ABalaappppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001046
-relationship: part_of WBbt:0004551
-
-[Term]
-id: WBbt:0002114
-name: ABalaappppp nucleus
-def: "nucleus of pedigree ABalaappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001045
-relationship: part_of WBbt:0004539
-
-[Term]
-id: WBbt:0001700
-name: ABalapaaaaa nucleus
-def: "nucleus of pedigree ABalapaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001052
-relationship: part_of WBbt:0003849
-
-[Term]
-id: WBbt:0001881
-name: ABalapaaapa nucleus
-def: "nucleus of pedigree ABalapaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001054
-relationship: part_of WBbt:0004949
-
-[Term]
-id: WBbt:0002445
-name: ABalapaaapp nucleus
-def: "nucleus of pedigree ABalapaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001054
-relationship: part_of WBbt:0004441
-
-[Term]
-id: WBbt:0002701
-name: ABalapaapaa nucleus
-def: "nucleus of pedigree ABalapaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001056
-relationship: part_of WBbt:0003960
-
-[Term]
-id: WBbt:0002107
-name: ABalapaappaa nucleus
-def: "nucleus of pedigree ABalapaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001059
-relationship: part_of WBbt:0004553
-
-[Term]
-id: WBbt:0002113
-name: ABalapaappp nucleus
-def: "nucleus of pedigree ABalapaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001058
-relationship: part_of WBbt:0004541
-
-[Term]
-id: WBbt:0002447
-name: ABalapapapaa nucleus
-def: "nucleus of pedigree ABalapapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001065
-relationship: part_of WBbt:0004439
-
-[Term]
-id: WBbt:0002926
-name: ABalapapapp nucleus
-def: "nucleus of pedigree ABalapapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001064
-relationship: part_of WBbt:0004924
-
-[Term]
-id: WBbt:0002105
-name: ABalapappaaa nucleus
-def: "nucleus of pedigree ABalapappaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001069
-relationship: part_of WBbt:0004738
-
-[Term]
-id: WBbt:0002111
-name: ABalapappap nucleus
-def: "nucleus of pedigree ABalapappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001068
-relationship: part_of WBbt:0004545
-
-[Term]
-id: WBbt:0001702
-name: ABalapapppa nucleus
-def: "nucleus of pedigree ABalapapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001071
-relationship: part_of WBbt:0003847
-
-[Term]
-id: WBbt:0001895
-name: ABalapapppp nucleus
-def: "nucleus of pedigree ABalapapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001071
-relationship: part_of WBbt:0004921
-
-[Term]
-id: WBbt:0002707
-name: ABalappaapa nucleus
-def: "nucleus of pedigree ABalappaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001076
-relationship: part_of WBbt:0003938
-
-[Term]
-id: WBbt:0001701
-name: ABalappapaa nucleus
-def: "nucleus of pedigree ABalappapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001079
-relationship: part_of WBbt:0003848
-
-[Term]
-id: WBbt:0001882
-name: ABalappappa nucleus
-def: "nucleus of pedigree ABalappappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001081
-relationship: part_of WBbt:0004947
-
-[Term]
-id: WBbt:0002446
-name: ABalappappp nucleus
-def: "nucleus of pedigree ABalappappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001081
-relationship: part_of WBbt:0004440
-
-[Term]
-id: WBbt:0001647
-name: ABalapppaaa nucleus
-def: "nucleus of pedigree ABalapppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001084
-relationship: part_of WBbt:0003955
-
-[Term]
-id: WBbt:0002727
-name: ABalapppaap nucleus
-def: "nucleus of pedigree ABalapppaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001084
-relationship: part_of WBbt:0005027
-
-[Term]
-id: WBbt:0002448
-name: ABalapppapaa nucleus
-def: "nucleus of pedigree ABalapppapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001086
-relationship: part_of WBbt:0004438
-
-[Term]
-id: WBbt:0002927
-name: ABalapppapp nucleus
-def: "nucleus of pedigree ABalapppapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001085
-relationship: part_of WBbt:0004922
-
-[Term]
-id: WBbt:0002106
-name: ABalappppaaa nucleus
-def: "nucleus of pedigree ABalappppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001090
-relationship: part_of WBbt:0004737
-
-[Term]
-id: WBbt:0002112
-name: ABalappppap nucleus
-def: "nucleus of pedigree ABalappppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001089
-relationship: part_of WBbt:0004543
-
-[Term]
-id: WBbt:0001703
-name: ABalapppppa nucleus
-def: "nucleus of pedigree ABalapppppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001092
-relationship: part_of WBbt:0003846
-
-[Term]
-id: WBbt:0001896
-name: ABalapppppp nucleus
-def: "nucleus of pedigree ABalapppppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001092
-relationship: part_of WBbt:0004919
-
-[Term]
-id: WBbt:0002001
-name: ABalpaaaaaa nucleus
-def: "nucleus of pedigree ABalpaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001098
-relationship: part_of WBbt:0004546
-
-[Term]
-id: WBbt:0002257
-name: ABalpaaaaap nucleus
-def: "nucleus of pedigree ABalpaaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001098
-relationship: part_of WBbt:0003635
-relationship: part_of WBbt:0004328
-
-[Term]
-id: WBbt:0002249
-name: ABalpaaaapa nucleus
-def: "nucleus of pedigree ABalpaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001099
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004334
-
-[Term]
-id: WBbt:0002253
-name: ABalpaaapaa nucleus
-def: "nucleus of pedigree ABalpaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001102
-relationship: part_of WBbt:0003635
-relationship: part_of WBbt:0004330
-
-[Term]
-id: WBbt:0002297
-name: ABalpaaappp nucleus
-def: "nucleus of pedigree ABalpaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001104
-relationship: part_of WBbt:0004463
-
-[Term]
-id: WBbt:0007031
-name: ABalpaapaaa
-def: "embryonic cell of pedigree ABalpaapaaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001661
-name: ABalpaapaaa nucleus
-def: "nucleus of pedigree ABalpaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001108
-relationship: part_of WBbt:0004570
-relationship: part_of WBbt:0007031
-
-[Term]
-id: WBbt:0001997
-name: ABalpaapaap nucleus
-def: "nucleus of pedigree ABalpaapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001108
-relationship: part_of WBbt:0004554
-
-[Term]
-id: WBbt:0002288
-name: ABalpaapapa nucleus
-def: "nucleus of pedigree ABalpaapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001109
-relationship: part_of WBbt:0004301
-
-[Term]
-id: WBbt:0002261
-name: ABalpaapapp nucleus
-def: "nucleus of pedigree ABalpaapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001109
-relationship: part_of WBbt:0003631
-relationship: part_of WBbt:0004324
-
-[Term]
-id: WBbt:0007032
-name: ABalpaappaa
-def: "embryonic cell of pedigree ABalpaappaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001657
-name: ABalpaappaa nucleus
-def: "nucleus of pedigree ABalpaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001111
-relationship: part_of WBbt:0004572
-relationship: part_of WBbt:0007032
-
-[Term]
-id: WBbt:0007033
-name: ABalpaappap
-def: "embryonic cell of pedigree ABalpaappap" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001664
-name: ABalpaappap nucleus
-def: "nucleus of pedigree ABalpaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001111
-relationship: part_of WBbt:0004568
-relationship: part_of WBbt:0007033
-
-[Term]
-id: WBbt:0002090
-name: ABalpaapppa nucleus
-def: "nucleus of pedigree ABalpaapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001112
-relationship: part_of WBbt:0004694
-
-[Term]
-id: WBbt:0002093
-name: ABalpaapppp nucleus
-def: "nucleus of pedigree ABalpaapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001112
-relationship: part_of WBbt:0004692
-
-[Term]
-id: WBbt:0002715
-name: ABalpapaaaa nucleus
-def: "nucleus of pedigree ABalpapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001116
-relationship: part_of WBbt:0005051
-
-[Term]
-id: WBbt:0002094
-name: ABalpapaaap nucleus
-def: "nucleus of pedigree ABalpapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001116
-relationship: part_of WBbt:0004692
-
-[Term]
-id: WBbt:0007034
-name: ABalpapaapa
-def: "embryonic cell of pedigree ABalpapaapa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001659
-name: ABalpapaapa nucleus
-def: "nucleus of pedigree ABalpapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001117
-relationship: part_of WBbt:0004573
-relationship: part_of WBbt:0007034
-
-[Term]
-id: WBbt:0002829
-name: ABalpapapapp nucleus
-def: "nucleus of pedigree ABalpapapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001121
-relationship: part_of WBbt:0004976
-
-[Term]
-id: WBbt:0002831
-name: ABalpapappp nucleus
-def: "nucleus of pedigree ABalpapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001123
-relationship: part_of WBbt:0004974
-
-[Term]
-id: WBbt:0002099
-name: ABalpappaapa nucleus
-def: "nucleus of pedigree ABalpappaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001129
-relationship: part_of WBbt:0004744
-
-[Term]
-id: WBbt:0001999
-name: ABalpappapa nucleus
-def: "nucleus of pedigree ABalpappapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001131
-relationship: part_of WBbt:0004550
-
-[Term]
-id: WBbt:0002296
-name: ABalpappapp nucleus
-def: "nucleus of pedigree ABalpappapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001131
-relationship: part_of WBbt:0003707
-relationship: part_of WBbt:0004293
-
-[Term]
-id: WBbt:0002097
-name: ABalpapppaa nucleus
-def: "nucleus of pedigree ABalpapppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001133
-relationship: part_of WBbt:0004746
-
-[Term]
-id: WBbt:0002290
-name: ABalpappppa nucleus
-def: "nucleus of pedigree ABalpappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001135
-relationship: part_of WBbt:0004299
-
-[Term]
-id: WBbt:0002265
-name: ABalpappppp nucleus
-def: "nucleus of pedigree ABalpappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001135
-relationship: part_of WBbt:0003631
-relationship: part_of WBbt:0004322
-
-[Term]
-id: WBbt:0001691
-name: ABalppaaapa nucleus
-def: "nucleus of pedigree ABalppaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001141
-relationship: part_of WBbt:0003870
-
-[Term]
-id: WBbt:0002455
-name: ABalppaaapp nucleus
-def: "nucleus of pedigree ABalppaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001141
-relationship: part_of WBbt:0004424
-
-[Term]
-id: WBbt:0001897
-name: ABalppaappp nucleus
-def: "nucleus of pedigree ABalppaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001144
-relationship: part_of WBbt:0004918
-
-[Term]
-id: WBbt:0002121
-name: ABalppapaap nucleus
-def: "nucleus of pedigree ABalppapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001148
-relationship: part_of WBbt:0004525
-
-[Term]
-id: WBbt:0002737
-name: ABalppapapa nucleus
-def: "nucleus of pedigree ABalppapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001149
-relationship: part_of WBbt:0005007
-
-[Term]
-id: WBbt:0002127
-name: ABalppapapp nucleus
-def: "nucleus of pedigree ABalppapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001149
-relationship: part_of WBbt:0004503
-
-[Term]
-id: WBbt:0002835
-name: ABalppappaa nucleus
-def: "nucleus of pedigree ABalppappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001151
-relationship: part_of WBbt:0004970
-
-[Term]
-id: WBbt:0002109
-name: ABalppapppaa nucleus
-def: "nucleus of pedigree ABalppapppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001153
-relationship: part_of WBbt:0004549
-
-[Term]
-id: WBbt:0002115
-name: ABalppapppp nucleus
-def: "nucleus of pedigree ABalppapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001152
-relationship: part_of WBbt:0004538
-
-[Term]
-id: WBbt:0001697
-name: ABalpppaaaa nucleus
-def: "nucleus of pedigree ABalpppaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001158
-relationship: part_of WBbt:0003864
-
-[Term]
-id: WBbt:0002451
-name: ABalpppaaap nucleus
-def: "nucleus of pedigree ABalpppaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001158
-relationship: part_of WBbt:0004428
-
-[Term]
-id: WBbt:0002443
-name: ABalpppaapd nucleus
-def: "nucleus of pedigree ABalpppaapd" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001159
-relationship: part_of WBbt:0004443
-
-[Term]
-id: WBbt:0001687
-name: ABalpppapppa nucleus
-def: "nucleus of pedigree ABalpppapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001165
-relationship: part_of WBbt:0003884
-
-[Term]
-id: WBbt:0001631
-name: ABalppppaad nucleus
-def: "nucleus of pedigree ABalppppaad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001169
-relationship: part_of WBbt:0003997
-
-[Term]
-id: WBbt:0002441
-name: ABalppppapaa nucleus
-def: "nucleus of pedigree ABalppppapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001172
-relationship: part_of WBbt:0004445
-
-[Term]
-id: WBbt:0001629
-name: ABalpppppaa nucleus
-def: "nucleus of pedigree ABalpppppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001176
-relationship: part_of WBbt:0004003
-
-[Term]
-id: WBbt:0001710
-name: ABalpppppap nucleus
-def: "nucleus of pedigree ABalpppppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001176
-relationship: part_of WBbt:0003829
-
-[Term]
-id: WBbt:0001677
-name: ABalppppppaa nucleus
-def: "nucleus of pedigree ABalppppppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001178
-relationship: part_of WBbt:0003904
-
-[Term]
-id: WBbt:0001685
-name: ABalpppppppa nucleus
-def: "nucleus of pedigree ABalpppppppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001180
-relationship: part_of WBbt:0003886
-
-[Term]
-id: WBbt:0001689
-name: ABalpppppppp nucleus
-def: "nucleus of pedigree ABalpppppppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001180
-relationship: part_of WBbt:0003872
-
-[Term]
-id: WBbt:0001995
-name: ABaraaaaaaa nucleus
-def: "nucleus of pedigree ABaraaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001187
-relationship: part_of WBbt:0004556
-
-[Term]
-id: WBbt:0002247
-name: ABaraaaaaap nucleus
-def: "nucleus of pedigree ABaraaaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001187
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004336
-
-[Term]
-id: WBbt:0001996
-name: ABaraaaaapa nucleus
-def: "nucleus of pedigree ABaraaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001188
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004333
-relationship: part_of WBbt:0004555
-
-[Term]
-id: WBbt:0002248
-name: ABaraaaaapp nucleus
-def: "nucleus of pedigree ABaraaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001188
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004335
-
-[Term]
-id: WBbt:0001994
-name: ABaraaaapap nucleus
-def: "nucleus of pedigree ABaraaaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001190
-relationship: part_of WBbt:0003701
-
-[Term]
-id: WBbt:0007035
-name: ABaraaapaaa
-def: "embryonic cell of pedigree ABaraaapaaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001662
-name: ABaraaapaaa nucleus
-def: "nucleus of pedigree ABaraaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001195
-relationship: part_of WBbt:0004569
-relationship: part_of WBbt:0007035
-
-[Term]
-id: WBbt:0001998
-name: ABaraaapaap nucleus
-def: "nucleus of pedigree ABaraaapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001195
-relationship: part_of WBbt:0004552
-
-[Term]
-id: WBbt:0002289
-name: ABaraaapapa nucleus
-def: "nucleus of pedigree ABaraaapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001196
-relationship: part_of WBbt:0004300
-
-[Term]
-id: WBbt:0002271
-name: ABaraaapapp nucleus
-def: "nucleus of pedigree ABaraaapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001196
-relationship: part_of WBbt:0003741
-relationship: part_of WBbt:0004317
-
-[Term]
-id: WBbt:0007036
-name: ABaraaappaa
-def: "embryonic cell of pedigree ABaraaappaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001660
-name: ABaraaappaa nucleus
-def: "nucleus of pedigree ABaraaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001198
-relationship: part_of WBbt:0004565
-relationship: part_of WBbt:0007036
-
-[Term]
-id: WBbt:0007037
-name: ABaraaappap
-def: "embryonic cell of pedigree ABaraaappap" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001665
-name: ABaraaappap nucleus
-def: "nucleus of pedigree ABaraaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001198
-relationship: part_of WBbt:0004566
-relationship: part_of WBbt:0007037
-
-[Term]
-id: WBbt:0007038
-name: ABaraaapppa
-def: "embryonic cell of pedigree ABaraaapppa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001658
-name: ABaraaapppa nucleus
-def: "nucleus of pedigree ABaraaapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001199
-relationship: part_of WBbt:0004571
-relationship: part_of WBbt:0007038
-
-[Term]
-id: WBbt:0002091
-name: ABaraaapppp nucleus
-def: "nucleus of pedigree ABaraaapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001199
-relationship: part_of WBbt:0004694
-
-[Term]
-id: WBbt:0002000
-name: ABaraapaaaa nucleus
-def: "nucleus of pedigree ABaraapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001203
-relationship: part_of WBbt:0004548
-
-[Term]
-id: WBbt:0002245
-name: ABaraapaaap nucleus
-def: "nucleus of pedigree ABaraapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001203
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004338
-
-[Term]
-id: WBbt:0002251
-name: ABaraapaapa nucleus
-def: "nucleus of pedigree ABaraapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001204
-relationship: part_of WBbt:0003632
-relationship: part_of WBbt:0004332
-
-[Term]
-id: WBbt:0002291
-name: ABaraapaapp nucleus
-def: "nucleus of pedigree ABaraapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001204
-relationship: part_of WBbt:0004298
-
-[Term]
-id: WBbt:0002439
-name: ABaraapapaav nucleus
-def: "nucleus of pedigree ABaraapapaav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001207
-relationship: part_of WBbt:0004457
-
-[Term]
-id: WBbt:0002277
-name: ABaraapapap nucleus
-def: "nucleus of pedigree ABaraapapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001206
-relationship: part_of WBbt:0003738
-relationship: part_of WBbt:0004312
-
-[Term]
-id: WBbt:0002254
-name: ABaraapappa nucleus
-def: "nucleus of pedigree ABaraapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001209
-relationship: part_of WBbt:0004487
-
-[Term]
-id: WBbt:0002262
-name: ABaraapappp nucleus
-def: "nucleus of pedigree ABaraapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001209
-relationship: part_of WBbt:0004471
-
-[Term]
-id: WBbt:0002299
-name: ABaraappaaa nucleus
-def: "nucleus of pedigree ABaraappaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001212
-relationship: part_of WBbt:0003664
-relationship: part_of WBbt:0008407
-
-[Term]
-id: WBbt:0002246
-name: ABaraappaap nucleus
-def: "nucleus of pedigree ABaraappaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001212
-relationship: part_of WBbt:0003744
-relationship: part_of WBbt:0004337
-
-[Term]
-id: WBbt:0002252
-name: ABaraappapa nucleus
-def: "nucleus of pedigree ABaraappapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001213
-relationship: part_of WBbt:0003632
-relationship: part_of WBbt:0004331
-
-[Term]
-id: WBbt:0002292
-name: ABaraappapp nucleus
-def: "nucleus of pedigree ABaraappapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001213
-relationship: part_of WBbt:0004297
-
-[Term]
-id: WBbt:0002440
-name: ABaraapppaav nucleus
-def: "nucleus of pedigree ABaraapppaav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001216
-relationship: part_of WBbt:0004446
-
-[Term]
-id: WBbt:0002278
-name: ABaraapppap nucleus
-def: "nucleus of pedigree ABaraapppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001215
-relationship: part_of WBbt:0003735
-relationship: part_of WBbt:0004311
-
-[Term]
-id: WBbt:0002256
-name: ABaraappppa nucleus
-def: "nucleus of pedigree ABaraappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001218
-relationship: part_of WBbt:0004473
-
-[Term]
-id: WBbt:0002264
-name: ABaraappppp nucleus
-def: "nucleus of pedigree ABaraappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001218
-relationship: part_of WBbt:0004469
-
-[Term]
-id: WBbt:0002002
-name: ABarapaaaaa nucleus
-def: "nucleus of pedigree ABarapaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001223
-relationship: part_of WBbt:0004544
-
-[Term]
-id: WBbt:0002258
-name: ABarapaaaap nucleus
-def: "nucleus of pedigree ABarapaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001223
-relationship: part_of WBbt:0003633
-relationship: part_of WBbt:0004327
-
-[Term]
-id: WBbt:0007039
-name: ABarapaaapa
-def: "embryonic cell of pedigree ABarapaaapa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0002250
-name: ABarapaaapa nucleus
-def: "nucleus of pedigree ABarapaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001224
-relationship: part_of WBbt:0007039
-
-[Term]
-id: WBbt:0002255
-name: ABarapaapaa nucleus
-def: "nucleus of pedigree ABarapaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001227
-relationship: part_of WBbt:0003633
-relationship: part_of WBbt:0004329
-
-[Term]
-id: WBbt:0002263
-name: ABarapaappa nucleus
-def: "nucleus of pedigree ABarapaappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001229
-relationship: part_of WBbt:0003629
-relationship: part_of WBbt:0004323
-
-[Term]
-id: WBbt:0002298
-name: ABarapaappp nucleus
-def: "nucleus of pedigree ABarapaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001229
-relationship: part_of WBbt:0004461
-
-[Term]
-id: WBbt:0002100
-name: ABarapapaapa nucleus
-def: "nucleus of pedigree ABarapapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001234
-relationship: part_of WBbt:0004743
-
-[Term]
-id: WBbt:0007040
-name: ABarapapapa
-def: "embryonic cell of pedigree ABarapapapa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001663
-name: ABarapapapa nucleus
-def: "nucleus of pedigree ABarapapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001236
-relationship: part_of WBbt:0004567
-relationship: part_of WBbt:0007040
-
-[Term]
-id: WBbt:0002103
-name: ABarapapapp nucleus
-def: "nucleus of pedigree ABarapapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001236
-relationship: part_of WBbt:0004740
-
-[Term]
-id: WBbt:0002098
-name: ABarapappaa nucleus
-def: "nucleus of pedigree ABarapappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001238
-relationship: part_of WBbt:0004745
-
-[Term]
-id: WBbt:0002293
-name: ABarapapppa nucleus
-def: "nucleus of pedigree ABarapapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001240
-relationship: part_of WBbt:0004296
-
-[Term]
-id: WBbt:0002266
-name: ABarapapppp nucleus
-def: "nucleus of pedigree ABarapapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001240
-relationship: part_of WBbt:0003629
-relationship: part_of WBbt:0004321
-
-[Term]
-id: WBbt:0007041
-name: ABarappaaaa
-def: "embryonic cell of pedigree ABarappaaaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0002716
-name: ABarappaaaa nucleus
-def: "nucleus of pedigree ABarappaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001244
-relationship: part_of WBbt:0005049
-relationship: part_of WBbt:0007041
-
-[Term]
-id: WBbt:0002092
-name: ABarappaapa nucleus
-def: "nucleus of pedigree ABarappaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001246
-relationship: part_of WBbt:0004694
-
-[Term]
-id: WBbt:0002830
-name: ABarappapapp nucleus
-def: "nucleus of pedigree ABarappapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001250
-relationship: part_of WBbt:0004975
-
-[Term]
-id: WBbt:0001958
-name: ABarappappa nucleus
-def: "nucleus of pedigree ABarappappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001252
-relationship: part_of WBbt:0004845
-
-[Term]
-id: WBbt:0002832
-name: ABarappappp nucleus
-def: "nucleus of pedigree ABarappappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001252
-relationship: part_of WBbt:0004973
-
-[Term]
-id: WBbt:0002122
-name: ABarapppaap nucleus
-def: "nucleus of pedigree ABarapppaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001255
-relationship: part_of WBbt:0004523
-
-[Term]
-id: WBbt:0002738
-name: ABarapppapa nucleus
-def: "nucleus of pedigree ABarapppapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001256
-relationship: part_of WBbt:0005005
-
-[Term]
-id: WBbt:0002128
-name: ABarapppapp nucleus
-def: "nucleus of pedigree ABarapppapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001256
-relationship: part_of WBbt:0004501
-
-[Term]
-id: WBbt:0002836
-name: ABarappppaa nucleus
-def: "nucleus of pedigree ABarappppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001258
-relationship: part_of WBbt:0004969
-
-[Term]
-id: WBbt:0002110
-name: ABarapppppaa nucleus
-def: "nucleus of pedigree ABarapppppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001260
-relationship: part_of WBbt:0004547
-
-[Term]
-id: WBbt:0002116
-name: ABarapppppp nucleus
-def: "nucleus of pedigree ABarapppppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001259
-relationship: part_of WBbt:0004537
-
-[Term]
-id: WBbt:0002453
-name: ABarpaaaaal nucleus
-def: "nucleus of pedigree ABarpaaaaal" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001267
-relationship: part_of WBbt:0004426
-
-[Term]
-id: WBbt:0002454
-name: ABarpaaaaar nucleus
-def: "nucleus of pedigree ABarpaaaaar" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001267
-relationship: part_of WBbt:0004425
-
-[Term]
-id: WBbt:0002449
-name: ABarpaaaapa nucleus
-def: "nucleus of pedigree ABarpaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001268
-relationship: part_of WBbt:0004430
-
-[Term]
-id: WBbt:0002450
-name: ABarpaaapaa nucleus
-def: "nucleus of pedigree ABarpaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001270
-relationship: part_of WBbt:0004429
-
-[Term]
-id: WBbt:0002919
-name: ABarpapaaaa nucleus
-def: "nucleus of pedigree ABarpapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001282
-relationship: part_of WBbt:0004936
-
-[Term]
-id: WBbt:0002925
-name: ABarpapaappp nucleus
-def: "nucleus of pedigree ABarpapaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001286
-relationship: part_of WBbt:0004926
-
-[Term]
-id: WBbt:0003258
-name: ABarpappaa nucleus
-def: "nucleus of pedigree ABarpappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001291
-relationship: part_of WBbt:0004579
-
-[Term]
 id: WBbt:0005430
 name: AB.p lineage
 def: "cells in the AB.p lineage" [WB:rynl]
-is_obsolete: true
-
-[Term]
-id: WBbt:0002918
-name: ABplaaaaaaa nucleus
-def: "nucleus of pedigree ABplaaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001320
-relationship: part_of WBbt:0004940
-
-[Term]
-id: WBbt:0002924
-name: ABplaaaaappp nucleus
-def: "nucleus of pedigree ABplaaaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001324
-relationship: part_of WBbt:0004928
-
-[Term]
-id: WBbt:0003257
-name: ABplaaapaa nucleus
-def: "nucleus of pedigree ABplaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001329
-relationship: part_of WBbt:0004581
-
-[Term]
-id: WBbt:0002123
-name: ABplaapaaap nucleus
-def: "nucleus of pedigree ABplaapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001335
-relationship: part_of WBbt:0004521
-
-[Term]
-id: WBbt:0002922
-name: ABplaapaapa nucleus
-def: "nucleus of pedigree ABplaapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001337
-relationship: part_of WBbt:0004932
-
-[Term]
-id: WBbt:0007042
-name: ABplaapaapp
-def: "embryonic cell of pedigree ABplaapaapp" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001652
-name: ABplaapaapp nucleus
-def: "nucleus of pedigree ABplaapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001337
-relationship: part_of WBbt:0003935
-relationship: part_of WBbt:0007042
-
-[Term]
-id: WBbt:0001708
-name: ABplaapapaa nucleus
-def: "nucleus of pedigree ABplaapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001339
-relationship: part_of WBbt:0003831
-
-[Term]
-id: WBbt:0001679
-name: ABplaapapap nucleus
-def: "nucleus of pedigree ABplaapapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001339
-relationship: part_of WBbt:0003892
-
-[Term]
-id: WBbt:0001637
-name: ABplaapappa nucleus
-def: "nucleus of pedigree ABplaapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001340
-relationship: part_of WBbt:0003985
-
-[Term]
-id: WBbt:0001683
-name: ABplaapapppa nucleus
-def: "nucleus of pedigree ABplaapapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001341
-relationship: part_of WBbt:0003888
-
-[Term]
-id: WBbt:0001623
-name: ABplapaaaapa nucleus
-def: "nucleus of pedigree ABplapaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001356
-relationship: part_of WBbt:0004009
-
-[Term]
-id: WBbt:0001621
-name: ABplapaaaapp nucleus
-def: "nucleus of pedigree ABplapaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001356
-relationship: part_of WBbt:0004013
-
-[Term]
-id: WBbt:0002024
-name: ABplapaaapad nucleus
-def: "nucleus of pedigree ABplapaaapad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001358
-relationship: part_of WBbt:0004798
-
-[Term]
-id: WBbt:0001645
-name: ABplapaaapav nucleus
-def: "nucleus of pedigree ABplapaaapav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001358
-relationship: part_of WBbt:0003959
-
-[Term]
-id: WBbt:0002733
-name: ABplapaaapp nucleus
-def: "nucleus of pedigree ABplapaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001357
-relationship: part_of WBbt:0005017
-
-[Term]
-id: WBbt:0002618
-name: ABplapappppaa nucleus
-def: "nucleus of pedigree ABplapappppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001369
-relationship: part_of WBbt:0004104
-
-[Term]
-id: WBbt:0001650
-name: ABplapappppap nucleus
-def: "nucleus of pedigree ABplapappppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001369
-relationship: part_of WBbt:0003939
-
-[Term]
-id: WBbt:0002632
-name: ABplapppaaa nucleus
-def: "nucleus of pedigree ABplapppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001380
-relationship: part_of WBbt:0004076
-
-[Term]
-id: WBbt:0002739
-name: ABplpaaaaaa nucleus
-def: "nucleus of pedigree ABplpaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001392
-relationship: part_of WBbt:0005003
-
-[Term]
-id: WBbt:0001712
-name: ABplpaaaaap nucleus
-def: "nucleus of pedigree ABplpaaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001392
-relationship: part_of WBbt:0003827
-
-[Term]
-id: WBbt:0002005
-name: ABplpaaaapa nucleus
-def: "nucleus of pedigree ABplpaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001393
-relationship: part_of WBbt:0004540
-
-[Term]
-id: WBbt:0001957
-name: ABplpaaaapp nucleus
-def: "nucleus of pedigree ABplpaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001393
-relationship: part_of WBbt:0004846
-
-[Term]
-id: WBbt:0002920
-name: ABplpaaapaa nucleus
-def: "nucleus of pedigree ABplpaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001395
-relationship: part_of WBbt:0004935
-
-[Term]
-id: WBbt:0002457
-name: ABplpaaappaa nucleus
-def: "nucleus of pedigree ABplpaaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001397
-relationship: part_of WBbt:0004437
-
-[Term]
-id: WBbt:0002928
-name: ABplpaaappp nucleus
-def: "nucleus of pedigree ABplpaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001396
-relationship: part_of WBbt:0004920
-
-[Term]
-id: WBbt:0002719
-name: ABplpaapaaa nucleus
-def: "nucleus of pedigree ABplpaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001401
-relationship: part_of WBbt:0005043
-
-[Term]
-id: WBbt:0001693
-name: ABplpaapaap nucleus
-def: "nucleus of pedigree ABplpaapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001401
-relationship: part_of WBbt:0003868
-
-[Term]
-id: WBbt:0001681
-name: ABplpaappaa nucleus
-def: "nucleus of pedigree ABplpaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001404
-relationship: part_of WBbt:0003890
-
-[Term]
-id: WBbt:0002703
-name: ABplpaappap nucleus
-def: "nucleus of pedigree ABplpaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001404
-relationship: part_of WBbt:0003956
-
-[Term]
-id: WBbt:0001899
-name: ABplpaappppa nucleus
-def: "nucleus of pedigree ABplpaappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001406
-relationship: part_of WBbt:0004933
-
-[Term]
-id: WBbt:0002833
-name: ABplpapaaaa nucleus
-def: "nucleus of pedigree ABplpapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001411
-relationship: part_of WBbt:0004972
-
-[Term]
-id: WBbt:0002746
-name: ABplpapaapa nucleus
-def: "nucleus of pedigree ABplpapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001412
-relationship: part_of WBbt:0004989
-
-[Term]
-id: WBbt:0002752
-name: ABplpapaapp nucleus
-def: "nucleus of pedigree ABplpapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001412
-relationship: part_of WBbt:0004978
-
-[Term]
-id: WBbt:0002748
-name: ABplpapappa nucleus
-def: "nucleus of pedigree ABplpapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001415
-relationship: part_of WBbt:0004985
-
-[Term]
-id: WBbt:0001961
-name: ABplpapappp nucleus
-def: "nucleus of pedigree ABplpapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001415
-relationship: part_of WBbt:0004842
-
-[Term]
-id: WBbt:0002730
-name: ABplpappaaa nucleus
-def: "nucleus of pedigree ABplpappaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001418
-relationship: part_of WBbt:0005021
-
-[Term]
-id: WBbt:0002004
-name: ABplpappaap nucleus
-def: "nucleus of pedigree ABplpappaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001418
-relationship: part_of WBbt:0005812
-
-[Term]
-id: WBbt:0002635
-name: ABplpappppa nucleus
-def: "nucleus of pedigree ABplpappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001422
-relationship: part_of WBbt:0004070
-
-[Term]
-id: WBbt:0002697
-name: ABplpappppp nucleus
-def: "nucleus of pedigree ABplpappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001422
-relationship: part_of WBbt:0004788
-
-[Term]
-id: WBbt:0002750
-name: ABplppaaaaa nucleus
-def: "nucleus of pedigree ABplppaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001427
-relationship: part_of WBbt:0004981
-
-[Term]
-id: WBbt:0002705
-name: ABplppaaaapp nucleus
-def: "nucleus of pedigree ABplppaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001428
-relationship: part_of WBbt:0003941
-
-[Term]
-id: WBbt:0002713
-name: ABplppaapap nucleus
-def: "nucleus of pedigree ABplppaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001432
-relationship: part_of WBbt:0003926
-
-[Term]
-id: WBbt:0001635
-name: ABplppaappa nucleus
-def: "nucleus of pedigree ABplppaappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001434
-relationship: part_of WBbt:0003989
-
-[Term]
-id: WBbt:0001962
-name: ABplppaappp nucleus
-def: "nucleus of pedigree ABplppaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001434
-relationship: part_of WBbt:0004841
-
-[Term]
-id: WBbt:0002742
-name: ABplppapaaaa nucleus
-def: "nucleus of pedigree ABplppapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001438
-relationship: part_of WBbt:0004998
-
-[Term]
-id: WBbt:0002708
-name: ABplppapaaap nucleus
-def: "nucleus of pedigree ABplppapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001438
-relationship: part_of WBbt:0003936
-
-[Term]
-id: WBbt:0002741
-name: ABplppapaap nucleus
-def: "nucleus of pedigree ABplppapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001437
-relationship: part_of WBbt:0004999
-
-[Term]
-id: WBbt:0001949
-name: ABplppapapa nucleus
-def: "nucleus of pedigree ABplppapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001439
-relationship: part_of WBbt:0004869
-
-[Term]
-id: WBbt:0001951
-name: ABplppapapp nucleus
-def: "nucleus of pedigree ABplppapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001439
-relationship: part_of WBbt:0004865
-
-[Term]
-id: WBbt:0002710
-name: ABplppappaa nucleus
-def: "nucleus of pedigree ABplppappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001441
-relationship: part_of WBbt:0003932
-
-[Term]
-id: WBbt:0001964
-name: ABplppappap nucleus
-def: "nucleus of pedigree ABplppappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001441
-relationship: part_of WBbt:0004839
-
-[Term]
-id: WBbt:0001966
-name: ABplppapppa nucleus
-def: "nucleus of pedigree ABplppapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001442
-relationship: part_of WBbt:0004837
-
-[Term]
-id: WBbt:0001968
-name: ABplppapppp nucleus
-def: "nucleus of pedigree ABplppapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001442
-relationship: part_of WBbt:0004825
-
-[Term]
-id: WBbt:0001956
-name: ABplpppaaaa nucleus
-def: "nucleus of pedigree ABplpppaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001446
-relationship: part_of WBbt:0004857
-
-[Term]
-id: WBbt:0001953
-name: ABplpppaaap nucleus
-def: "nucleus of pedigree ABplpppaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001446
-relationship: part_of WBbt:0004861
-
-[Term]
-id: WBbt:0002623
-name: ABplpppaapaa nucleus
-def: "nucleus of pedigree ABplpppaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001448
-relationship: part_of WBbt:0004094
-
-[Term]
-id: WBbt:0002179
-name: ABplpppaapap nucleus
-def: "nucleus of pedigree ABplpppaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001448
-relationship: part_of WBbt:0004493
-
-[Term]
-id: WBbt:0002606
-name: ABplpppaapp nucleus
-def: "nucleus of pedigree ABplpppaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001447
-relationship: part_of WBbt:0004366
-
-[Term]
-id: WBbt:0002630
-name: ABplppppaaa nucleus
-def: "nucleus of pedigree ABplppppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001455
-relationship: part_of WBbt:0004082
-relationship: part_of WBbt:0007836
-
-[Term]
-id: WBbt:0002699
-name: ABplppppaap nucleus
-def: "nucleus of pedigree ABplppppaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001455
-relationship: part_of WBbt:0004787
-
-[Term]
-id: WBbt:0002436
-name: ABplpppppaa nucleus
-def: "nucleus of pedigree ABplpppppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001458
-relationship: part_of WBbt:0003833
-
-[Term]
-id: WBbt:0002435
-name: ABplpppppap nucleus
-def: "nucleus of pedigree ABplpppppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001458
-relationship: part_of WBbt:0008385
-relationship: part_of WBbt:0008386
-
-[Term]
-id: WBbt:0001698
-name: ABpraaaaaaa nucleus
-def: "nucleus of pedigree ABpraaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001467
-relationship: part_of WBbt:0003863
-
-[Term]
-id: WBbt:0002452
-name: ABpraaaaaap nucleus
-def: "nucleus of pedigree ABpraaaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001467
-relationship: part_of WBbt:0004427
-
-[Term]
-id: WBbt:0002444
-name: ABpraaaaapd nucleus
-def: "nucleus of pedigree ABpraaaaapd" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001468
-relationship: part_of WBbt:0004442
-
-[Term]
-id: WBbt:0001634
-name: ABpraaaapav nucleus
-def: "nucleus of pedigree ABpraaaapav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001471
-relationship: part_of WBbt:0003991
-
-[Term]
-id: WBbt:0001688
-name: ABpraaaapppa nucleus
-def: "nucleus of pedigree ABpraaaapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001474
-relationship: part_of WBbt:0003883
-
-[Term]
-id: WBbt:0001632
-name: ABpraaapaad nucleus
-def: "nucleus of pedigree ABpraaapaad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001478
-relationship: part_of WBbt:0003995
-
-[Term]
-id: WBbt:0002442
-name: ABpraaapapaa nucleus
-def: "nucleus of pedigree ABpraaapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001481
-relationship: part_of WBbt:0004444
-
-[Term]
-id: WBbt:0001630
-name: ABpraaappaa nucleus
-def: "nucleus of pedigree ABpraaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001485
-relationship: part_of WBbt:0003999
-
-[Term]
-id: WBbt:0001711
-name: ABpraaappap nucleus
-def: "nucleus of pedigree ABpraaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001485
-relationship: part_of WBbt:0003828
-
-[Term]
-id: WBbt:0001678
-name: ABpraaapppaa nucleus
-def: "nucleus of pedigree ABpraaapppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001487
-relationship: part_of WBbt:0003903
-
-[Term]
-id: WBbt:0001686
-name: ABpraaappppa nucleus
-def: "nucleus of pedigree ABpraaappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001489
-relationship: part_of WBbt:0003885
-
-[Term]
-id: WBbt:0001690
-name: ABpraaappppp nucleus
-def: "nucleus of pedigree ABpraaappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001489
-relationship: part_of WBbt:0003871
-
-[Term]
-id: WBbt:0002124
-name: ABpraapaaap nucleus
-def: "nucleus of pedigree ABpraapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001493
-relationship: part_of WBbt:0004519
-
-[Term]
-id: WBbt:0002923
-name: ABpraapaapa nucleus
-def: "nucleus of pedigree ABpraapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001495
-relationship: part_of WBbt:0004930
-
-[Term]
-id: WBbt:0007043
-name: ABpraapaapp
-def: "embryonic cell of pedigree ABpraapaapp" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001653
-name: ABpraapaapp nucleus
-def: "nucleus of pedigree ABpraapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001495
-relationship: part_of WBbt:0003933
-relationship: part_of WBbt:0007043
-
-[Term]
-id: WBbt:0001709
-name: ABpraapapaa nucleus
-def: "nucleus of pedigree ABpraapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001497
-relationship: part_of WBbt:0003830
-
-[Term]
-id: WBbt:0001680
-name: ABpraapapap nucleus
-def: "nucleus of pedigree ABpraapapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001497
-relationship: part_of WBbt:0003891
-
-[Term]
-id: WBbt:0001638
-name: ABpraapappa nucleus
-def: "nucleus of pedigree ABpraapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001498
-relationship: part_of WBbt:0003984
-
-[Term]
-id: WBbt:0001684
-name: ABpraapapppa nucleus
-def: "nucleus of pedigree ABpraapapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001499
-relationship: part_of WBbt:0003887
-
-[Term]
-id: WBbt:0001624
-name: ABprapaaaapa nucleus
-def: "nucleus of pedigree ABprapaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001514
-relationship: part_of WBbt:0004007
-
-[Term]
-id: WBbt:0001622
-name: ABprapaaaapp nucleus
-def: "nucleus of pedigree ABprapaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001514
-relationship: part_of WBbt:0004011
-
-[Term]
-id: WBbt:0002025
-name: ABprapaaapad nucleus
-def: "nucleus of pedigree ABprapaaapad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001516
-relationship: part_of WBbt:0004797
-
-[Term]
-id: WBbt:0001646
-name: ABprapaaapav nucleus
-def: "nucleus of pedigree ABprapaaapav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001516
-relationship: part_of WBbt:0003957
-
-[Term]
-id: WBbt:0002734
-name: ABprapaaapp nucleus
-def: "nucleus of pedigree ABprapaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001515
-relationship: part_of WBbt:0005013
-
-[Term]
-id: WBbt:0002619
-name: ABprapappppaa nucleus
-def: "nucleus of pedigree ABprapappppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001527
-relationship: part_of WBbt:0004103
-
-[Term]
-id: WBbt:0001651
-name: ABprapappppap nucleus
-def: "nucleus of pedigree ABprapappppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001527
-relationship: part_of WBbt:0003937
-
-[Term]
-id: WBbt:0002633
-name: ABprapppaaa nucleus
-def: "nucleus of pedigree ABprapppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001538
-relationship: part_of WBbt:0004074
-
-[Term]
-id: WBbt:0002740
-name: ABprpaaaaaa nucleus
-def: "nucleus of pedigree ABprpaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001550
-relationship: part_of WBbt:0005001
-
-[Term]
-id: WBbt:0001713
-name: ABprpaaaaap nucleus
-def: "nucleus of pedigree ABprpaaaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001550
-relationship: part_of WBbt:0003826
-
-[Term]
-id: WBbt:0001959
-name: ABprpaaaapp nucleus
-def: "nucleus of pedigree ABprpaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001551
-relationship: part_of WBbt:0004844
-
-[Term]
-id: WBbt:0002921
-name: ABprpaaapaa nucleus
-def: "nucleus of pedigree ABprpaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001553
-relationship: part_of WBbt:0004934
-
-[Term]
-id: WBbt:0002458
-name: ABprpaaappaa nucleus
-def: "nucleus of pedigree ABprpaaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001555
-relationship: part_of WBbt:0004431
-
-[Term]
-id: WBbt:0002929
-name: ABprpaaappp nucleus
-def: "nucleus of pedigree ABprpaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001554
-relationship: part_of WBbt:0004906
-
-[Term]
-id: WBbt:0002720
-name: ABprpaapaaa nucleus
-def: "nucleus of pedigree ABprpaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001559
-relationship: part_of WBbt:0005041
-
-[Term]
-id: WBbt:0001694
-name: ABprpaapaap nucleus
-def: "nucleus of pedigree ABprpaapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001559
-relationship: part_of WBbt:0003867
-
-[Term]
-id: WBbt:0001682
-name: ABprpaappaa nucleus
-def: "nucleus of pedigree ABprpaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001563
-relationship: part_of WBbt:0003889
-
-[Term]
-id: WBbt:0002704
-name: ABprpaappap nucleus
-def: "nucleus of pedigree ABprpaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001563
-relationship: part_of WBbt:0003942
-
-[Term]
-id: WBbt:0001900
-name: ABprpaappppa nucleus
-def: "nucleus of pedigree ABprpaappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001565
-relationship: part_of WBbt:0004931
-
-[Term]
-id: WBbt:0002834
-name: ABprpapaaaa nucleus
-def: "nucleus of pedigree ABprpapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001570
-relationship: part_of WBbt:0004971
-
-[Term]
-id: WBbt:0002747
-name: ABprpapaapa nucleus
-def: "nucleus of pedigree ABprpapaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001571
-relationship: part_of WBbt:0004987
-
-[Term]
-id: WBbt:0002753
-name: ABprpapaapp nucleus
-def: "nucleus of pedigree ABprpapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001571
-relationship: part_of WBbt:0004977
-
-[Term]
-id: WBbt:0002749
-name: ABprpapappa nucleus
-def: "nucleus of pedigree ABprpapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001574
-relationship: part_of WBbt:0004983
-
-[Term]
-id: WBbt:0001955
-name: ABprpapappp nucleus
-def: "nucleus of pedigree ABprpapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001574
-relationship: part_of WBbt:0004858
-
-[Term]
-id: WBbt:0002712
-name: ABprpappaaa nucleus
-def: "nucleus of pedigree ABprpappaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001577
-relationship: part_of WBbt:0003928
-
-[Term]
-id: WBbt:0001706
-name: ABprpappaap nucleus
-def: "nucleus of pedigree ABprpappaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001577
-relationship: part_of WBbt:0003843
-
-[Term]
-id: WBbt:0001960
-name: ABprpappapp nucleus
-def: "nucleus of pedigree ABprpappapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001578
-relationship: part_of WBbt:0004843
-
-[Term]
-id: WBbt:0002717
-name: ABprpapppaa nucleus
-def: "nucleus of pedigree ABprpapppaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001580
-relationship: part_of WBbt:0005047
-
-[Term]
-id: WBbt:0001699
-name: ABprpapppap nucleus
-def: "nucleus of pedigree ABprpapppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001580
-relationship: part_of WBbt:0003850
-
-[Term]
-id: WBbt:0003244
-name: ABprpappppa nucleus
-def: "nucleus of pedigree ABprpappppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001581
-relationship: part_of WBbt:0004510
-
-[Term]
-id: WBbt:0003243
-name: ABprpappppp nucleus
-def: "nucleus of pedigree ABprpappppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001581
-relationship: part_of WBbt:0004511
-
-[Term]
-id: WBbt:0002751
-name: ABprppaaaaa nucleus
-def: "nucleus of pedigree ABprppaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001586
-relationship: part_of WBbt:0004979
-
-[Term]
-id: WBbt:0002706
-name: ABprppaaaapp nucleus
-def: "nucleus of pedigree ABprppaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001587
-relationship: part_of WBbt:0003940
-
-[Term]
-id: WBbt:0002714
-name: ABprppaapap nucleus
-def: "nucleus of pedigree ABprppaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001591
-relationship: part_of WBbt:0005053
-
-[Term]
-id: WBbt:0001636
-name: ABprppaappa nucleus
-def: "nucleus of pedigree ABprppaappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001593
-relationship: part_of WBbt:0003987
-
-[Term]
-id: WBbt:0001963
-name: ABprppaappp nucleus
-def: "nucleus of pedigree ABprppaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001593
-relationship: part_of WBbt:0004840
-
-[Term]
-id: WBbt:0002743
-name: ABprppapaaaa nucleus
-def: "nucleus of pedigree ABprppapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001597
-relationship: part_of WBbt:0004997
-
-[Term]
-id: WBbt:0002709
-name: ABprppapaaap nucleus
-def: "nucleus of pedigree ABprppapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001597
-relationship: part_of WBbt:0003934
-
-[Term]
-id: WBbt:0001948
-name: ABprppapaap nucleus
-def: "nucleus of pedigree ABprppapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001596
-relationship: part_of WBbt:0004871
-
-[Term]
-id: WBbt:0001950
-name: ABprppapapa nucleus
-def: "nucleus of pedigree ABprppapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001598
-relationship: part_of WBbt:0004867
-
-[Term]
-id: WBbt:0001952
-name: ABprppapapp nucleus
-def: "nucleus of pedigree ABprppapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001598
-relationship: part_of WBbt:0004863
-
-[Term]
-id: WBbt:0002711
-name: ABprppappaa nucleus
-def: "nucleus of pedigree ABprppappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001600
-relationship: part_of WBbt:0003930
-
-[Term]
-id: WBbt:0001965
-name: ABprppappap nucleus
-def: "nucleus of pedigree ABprppappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001600
-relationship: part_of WBbt:0004838
-
-[Term]
-id: WBbt:0001967
-name: ABprppapppa nucleus
-def: "nucleus of pedigree ABprppapppa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001601
-relationship: part_of WBbt:0004826
-
-[Term]
-id: WBbt:0001969
-name: ABprppapppp nucleus
-def: "nucleus of pedigree ABprppapppp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001601
-relationship: part_of WBbt:0004824
-
-[Term]
-id: WBbt:0002624
-name: ABprpppaapaa nucleus
-def: "nucleus of pedigree ABprpppaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001607
-relationship: part_of WBbt:0004092
-
-[Term]
-id: WBbt:0002180
-name: ABprpppaapap nucleus
-def: "nucleus of pedigree ABprpppaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001607
-relationship: part_of WBbt:0004491
-
-[Term]
-id: WBbt:0002607
-name: ABprpppaapp nucleus
-def: "nucleus of pedigree ABprpppaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001606
-relationship: part_of WBbt:0004365
-
-[Term]
-id: WBbt:0002631
-name: ABprppppaaa nucleus
-def: "nucleus of pedigree ABprppppaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001614
-relationship: part_of WBbt:0004078
-relationship: part_of WBbt:0007837
-
-[Term]
-id: WBbt:0002700
-name: ABprppppaap nucleus
-def: "nucleus of pedigree ABprppppaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001614
-relationship: part_of WBbt:0004776
-
-[Term]
-id: WBbt:0002438
-name: ABprpppppap nucleus
-def: "nucleus of pedigree ABprpppppap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001617
-relationship: part_of WBbt:0008387
-relationship: part_of WBbt:0008388
-
-[Term]
-id: WBbt:0005428
-name: ABpxppxx
-def: "collection of specific banches of the AB.p lineage" [WB:rynl]
 is_obsolete: true
 
 [Term]
@@ -2205,6 +144,13 @@ relationship: DESCENDENTOF WBbt:0001008
 relationship: part_of WBbt:0005966
 
 [Term]
+id: WBbt:0001641
+name: ABalaaaalal nucleus
+def: "nucleus of pedigree ABalaaaalal" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001009
+relationship: part_of WBbt:0003967
+
+[Term]
 id: WBbt:0005995
 name: ABalaaaalar
 def: "embryonic cell" [WB:rynl]
@@ -2244,6 +190,13 @@ name: ABalaaaalpa nucleus
 def: "nucleus of pedigree ABalaaaalpa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001011
 relationship: part_of WBbt:0006368
+
+[Term]
+id: WBbt:0002119
+name: ABalaaaalpp nucleus
+def: "nucleus of pedigree ABalaaaalpp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001011
+relationship: part_of WBbt:0004529
 
 [Term]
 id: WBbt:0006155
@@ -2286,6 +239,13 @@ relationship: DESCENDENTOF WBbt:0001014
 relationship: part_of WBbt:0006601
 
 [Term]
+id: WBbt:0002728
+name: ABalaaaarlp nucleus
+def: "nucleus of pedigree ABalaaaarlp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001014
+relationship: part_of WBbt:0005025
+
+[Term]
 id: WBbt:0006500
 name: ABalaaaarr
 def: "embryonic cell" [WB:rynl]
@@ -2311,6 +271,13 @@ name: ABalaaaarra nucleus
 def: "nucleus of pedigree ABalaaaarra" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001016
 relationship: part_of WBbt:0006224
+
+[Term]
+id: WBbt:0002729
+name: ABalaaaarrp nucleus
+def: "nucleus of pedigree ABalaaaarrp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001016
+relationship: part_of WBbt:0005023
 
 [Term]
 id: WBbt:0005982
@@ -2352,6 +319,20 @@ relationship: DESCENDENTOF WBbt:0001019
 relationship: part_of WBbt:0006473
 
 [Term]
+id: WBbt:0002125
+name: ABalaaapall nucleus
+def: "nucleus of pedigree ABalaaapall" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001020
+relationship: part_of WBbt:0004518
+
+[Term]
+id: WBbt:0001695
+name: ABalaaapalr nucleus
+def: "nucleus of pedigree ABalaaapalr" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001020
+relationship: part_of WBbt:0003866
+
+[Term]
 id: WBbt:0006248
 name: ABalaaapar
 def: "embryonic cell" [WB:rynl]
@@ -2377,6 +358,13 @@ name: ABalaaaparl nucleus
 def: "nucleus of pedigree ABalaaaparl" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001021
 relationship: part_of WBbt:0006033
+
+[Term]
+id: WBbt:0002117
+name: ABalaaaparr nucleus
+def: "nucleus of pedigree ABalaaaparr" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001021
+relationship: part_of WBbt:0004533
 
 [Term]
 id: WBbt:0006706
@@ -2405,6 +393,13 @@ relationship: DESCENDENTOF WBbt:0001023
 relationship: part_of WBbt:0006467
 
 [Term]
+id: WBbt:0002118
+name: ABalaaappll nucleus
+def: "nucleus of pedigree ABalaaappll" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001024
+relationship: part_of WBbt:0004531
+
+[Term]
 id: WBbt:0006264
 name: ABalaaapplr
 def: "embryonic cell" [WB:rynl]
@@ -2430,6 +425,20 @@ name: ABalaaappr nucleus
 def: "nucleus of pedigree ABalaaappr" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001023
 relationship: part_of WBbt:0006029
+
+[Term]
+id: WBbt:0001696
+name: ABalaaapprl nucleus
+def: "nucleus of pedigree ABalaaapprl" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001026
+relationship: part_of WBbt:0003865
+
+[Term]
+id: WBbt:0002126
+name: ABalaaapprr nucleus
+def: "nucleus of pedigree ABalaaapprr" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001026
+relationship: part_of WBbt:0004517
 
 [Term]
 id: WBbt:0005907
@@ -2498,6 +507,13 @@ relationship: DESCENDENTOF WBbt:0001030
 relationship: part_of WBbt:0005985
 
 [Term]
+id: WBbt:0001642
+name: ABalaapaaar nucleus
+def: "nucleus of pedigree ABalaapaaar" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001030
+relationship: part_of WBbt:0003965
+
+[Term]
 id: WBbt:0006206
 name: ABalaapaap
 def: "embryonic cell" [WB:rynl]
@@ -2523,6 +539,13 @@ name: ABalaapaapa nucleus
 def: "nucleus of pedigree ABalaapaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001032
 relationship: part_of WBbt:0006401
+
+[Term]
+id: WBbt:0002120
+name: ABalaapaapp nucleus
+def: "nucleus of pedigree ABalaapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001032
+relationship: part_of WBbt:0004527
 
 [Term]
 id: WBbt:0006626
@@ -2579,6 +602,13 @@ relationship: DESCENDENTOF WBbt:0001036
 relationship: part_of WBbt:0006417
 
 [Term]
+id: WBbt:0001898
+name: ABalaapappp nucleus
+def: "nucleus of pedigree ABalaapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001036
+relationship: part_of WBbt:0004917
+
+[Term]
 id: WBbt:0006553
 name: ABalaapp
 def: "embryonic cell" [WB:rynl]
@@ -2632,6 +662,20 @@ relationship: DESCENDENTOF WBbt:0001039
 relationship: part_of WBbt:0006287
 
 [Term]
+id: WBbt:0001692
+name: ABalaappapa nucleus
+def: "nucleus of pedigree ABalaappapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001041
+relationship: part_of WBbt:0003869
+
+[Term]
+id: WBbt:0002456
+name: ABalaappapp nucleus
+def: "nucleus of pedigree ABalaappapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001041
+relationship: part_of WBbt:0004423
+
+[Term]
 id: WBbt:0006683
 name: ABalaappp
 def: "embryonic cell" [WB:rynl]
@@ -2656,6 +700,13 @@ name: ABalaapppa nucleus
 def: "nucleus of pedigree ABalaapppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001042
 relationship: part_of WBbt:0006026
+
+[Term]
+id: WBbt:0002702
+name: ABalaapppaa nucleus
+def: "nucleus of pedigree ABalaapppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001043
+relationship: part_of WBbt:0003958
 
 [Term]
 id: WBbt:0006266
@@ -2698,6 +749,13 @@ relationship: DESCENDENTOF WBbt:0001045
 relationship: part_of WBbt:0006560
 
 [Term]
+id: WBbt:0002108
+name: ABalaappppaa nucleus
+def: "nucleus of pedigree ABalaappppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001046
+relationship: part_of WBbt:0004551
+
+[Term]
 id: WBbt:0005900
 name: ABalaappppap
 def: "embryonic cell" [WB:rynl]
@@ -2710,6 +768,13 @@ name: ABalaappppap nucleus
 def: "nucleus of pedigree ABalaappppap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001046
 relationship: part_of WBbt:0005900
+
+[Term]
+id: WBbt:0002114
+name: ABalaappppp nucleus
+def: "nucleus of pedigree ABalaappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001045
+relationship: part_of WBbt:0004539
 
 [Term]
 id: WBbt:0006101
@@ -2777,6 +842,13 @@ relationship: DESCENDENTOF WBbt:0001051
 relationship: part_of WBbt:0006002
 
 [Term]
+id: WBbt:0001700
+name: ABalapaaaaa nucleus
+def: "nucleus of pedigree ABalapaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001052
+relationship: part_of WBbt:0003849
+
+[Term]
 id: WBbt:0006726
 name: ABalapaaaap
 def: "embryonic cell" [WB:rynl]
@@ -2804,6 +876,20 @@ relationship: DESCENDENTOF WBbt:0001051
 relationship: part_of WBbt:0006493
 
 [Term]
+id: WBbt:0001881
+name: ABalapaaapa nucleus
+def: "nucleus of pedigree ABalapaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001054
+relationship: part_of WBbt:0004949
+
+[Term]
+id: WBbt:0002445
+name: ABalapaaapp nucleus
+def: "nucleus of pedigree ABalapaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001054
+relationship: part_of WBbt:0004441
+
+[Term]
 id: WBbt:0006217
 name: ABalapaap
 def: "embryonic cell" [WB:rynl]
@@ -2828,6 +914,13 @@ name: ABalapaapa nucleus
 def: "nucleus of pedigree ABalapaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001055
 relationship: part_of WBbt:0005981
+
+[Term]
+id: WBbt:0002701
+name: ABalapaapaa nucleus
+def: "nucleus of pedigree ABalapaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001056
+relationship: part_of WBbt:0003960
 
 [Term]
 id: WBbt:0006738
@@ -2870,6 +963,13 @@ relationship: DESCENDENTOF WBbt:0001058
 relationship: part_of WBbt:0006196
 
 [Term]
+id: WBbt:0002107
+name: ABalapaappaa nucleus
+def: "nucleus of pedigree ABalapaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001059
+relationship: part_of WBbt:0004553
+
+[Term]
 id: WBbt:0005856
 name: ABalapaappap
 def: "embryonic cell" [WB:rynl]
@@ -2882,6 +982,13 @@ name: ABalapaappap nucleus
 def: "nucleus of pedigree ABalapaappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001059
 relationship: part_of WBbt:0005856
+
+[Term]
+id: WBbt:0002113
+name: ABalapaappp nucleus
+def: "nucleus of pedigree ABalapaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001058
+relationship: part_of WBbt:0004541
 
 [Term]
 id: WBbt:0006562
@@ -2950,6 +1057,13 @@ relationship: DESCENDENTOF WBbt:0001064
 relationship: part_of WBbt:0006575
 
 [Term]
+id: WBbt:0002447
+name: ABalapapapaa nucleus
+def: "nucleus of pedigree ABalapapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001065
+relationship: part_of WBbt:0004439
+
+[Term]
 id: WBbt:0006365
 name: ABalapapapap
 def: "embryonic cell" [WB:rynl]
@@ -2962,6 +1076,13 @@ name: ABalapapapap nucleus
 def: "nucleus of pedigree ABalapapapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001065
 relationship: part_of WBbt:0006365
+
+[Term]
+id: WBbt:0002926
+name: ABalapapapp nucleus
+def: "nucleus of pedigree ABalapapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001064
+relationship: part_of WBbt:0004924
 
 [Term]
 id: WBbt:0006132
@@ -3003,6 +1124,13 @@ relationship: DESCENDENTOF WBbt:0001068
 relationship: part_of WBbt:0006542
 
 [Term]
+id: WBbt:0002105
+name: ABalapappaaa nucleus
+def: "nucleus of pedigree ABalapappaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001069
+relationship: part_of WBbt:0004738
+
+[Term]
 id: WBbt:0006372
 name: ABalapappaap
 def: "embryonic cell" [WB:rynl]
@@ -3017,6 +1145,13 @@ relationship: DESCENDENTOF WBbt:0001069
 relationship: part_of WBbt:0006372
 
 [Term]
+id: WBbt:0002111
+name: ABalapappap nucleus
+def: "nucleus of pedigree ABalapappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001068
+relationship: part_of WBbt:0004545
+
+[Term]
 id: WBbt:0006616
 name: ABalapappp
 def: "embryonic cell" [WB:rynl]
@@ -3028,6 +1163,20 @@ name: ABalapappp nucleus
 def: "nucleus of pedigree ABalapappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001067
 relationship: part_of WBbt:0006616
+
+[Term]
+id: WBbt:0001702
+name: ABalapapppa nucleus
+def: "nucleus of pedigree ABalapapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001071
+relationship: part_of WBbt:0003847
+
+[Term]
+id: WBbt:0001895
+name: ABalapapppp nucleus
+def: "nucleus of pedigree ABalapapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001071
+relationship: part_of WBbt:0004921
 
 [Term]
 id: WBbt:0005946
@@ -3096,6 +1245,13 @@ relationship: DESCENDENTOF WBbt:0001074
 relationship: part_of WBbt:0006727
 
 [Term]
+id: WBbt:0002707
+name: ABalappaapa nucleus
+def: "nucleus of pedigree ABalappaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001076
+relationship: part_of WBbt:0003938
+
+[Term]
 id: WBbt:0005963
 name: ABalappaapp
 def: "embryonic cell" [WB:rynl]
@@ -3136,6 +1292,13 @@ relationship: DESCENDENTOF WBbt:0001078
 relationship: part_of WBbt:0006412
 
 [Term]
+id: WBbt:0001701
+name: ABalappapaa nucleus
+def: "nucleus of pedigree ABalappapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001079
+relationship: part_of WBbt:0003848
+
+[Term]
 id: WBbt:0006675
 name: ABalappapap
 def: "embryonic cell" [WB:rynl]
@@ -3161,6 +1324,20 @@ name: ABalappapp nucleus
 def: "nucleus of pedigree ABalappapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001078
 relationship: part_of WBbt:0006003
+
+[Term]
+id: WBbt:0001882
+name: ABalappappa nucleus
+def: "nucleus of pedigree ABalappappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001081
+relationship: part_of WBbt:0004947
+
+[Term]
+id: WBbt:0002446
+name: ABalappappp nucleus
+def: "nucleus of pedigree ABalappappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001081
+relationship: part_of WBbt:0004440
 
 [Term]
 id: WBbt:0006242
@@ -3202,6 +1379,20 @@ relationship: DESCENDENTOF WBbt:0001083
 relationship: part_of WBbt:0006703
 
 [Term]
+id: WBbt:0001647
+name: ABalapppaaa nucleus
+def: "nucleus of pedigree ABalapppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001084
+relationship: part_of WBbt:0003955
+
+[Term]
+id: WBbt:0002727
+name: ABalapppaap nucleus
+def: "nucleus of pedigree ABalapppaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001084
+relationship: part_of WBbt:0005027
+
+[Term]
 id: WBbt:0006015
 name: ABalapppap
 def: "embryonic cell" [WB:rynl]
@@ -3228,6 +1419,13 @@ relationship: DESCENDENTOF WBbt:0001085
 relationship: part_of WBbt:0006339
 
 [Term]
+id: WBbt:0002448
+name: ABalapppapaa nucleus
+def: "nucleus of pedigree ABalapppapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001086
+relationship: part_of WBbt:0004438
+
+[Term]
 id: WBbt:0006578
 name: ABalapppapap
 def: "embryonic cell" [WB:rynl]
@@ -3240,6 +1438,13 @@ name: ABalapppapap nucleus
 def: "nucleus of pedigree ABalapppapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001086
 relationship: part_of WBbt:0006578
+
+[Term]
+id: WBbt:0002927
+name: ABalapppapp nucleus
+def: "nucleus of pedigree ABalapppapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001085
+relationship: part_of WBbt:0004922
 
 [Term]
 id: WBbt:0005923
@@ -3281,6 +1486,13 @@ relationship: DESCENDENTOF WBbt:0001089
 relationship: part_of WBbt:0006522
 
 [Term]
+id: WBbt:0002106
+name: ABalappppaaa nucleus
+def: "nucleus of pedigree ABalappppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001090
+relationship: part_of WBbt:0004737
+
+[Term]
 id: WBbt:0006295
 name: ABalappppaap
 def: "embryonic cell" [WB:rynl]
@@ -3295,6 +1507,13 @@ relationship: DESCENDENTOF WBbt:0001090
 relationship: part_of WBbt:0006295
 
 [Term]
+id: WBbt:0002112
+name: ABalappppap nucleus
+def: "nucleus of pedigree ABalappppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001089
+relationship: part_of WBbt:0004543
+
+[Term]
 id: WBbt:0006513
 name: ABalappppp
 def: "embryonic cell" [WB:rynl]
@@ -3306,6 +1525,20 @@ name: ABalappppp nucleus
 def: "nucleus of pedigree ABalappppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001088
 relationship: part_of WBbt:0006513
+
+[Term]
+id: WBbt:0001703
+name: ABalapppppa nucleus
+def: "nucleus of pedigree ABalapppppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001092
+relationship: part_of WBbt:0003846
+
+[Term]
+id: WBbt:0001896
+name: ABalapppppp nucleus
+def: "nucleus of pedigree ABalapppppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001092
+relationship: part_of WBbt:0004919
 
 [Term]
 id: WBbt:0005865
@@ -3386,6 +1619,21 @@ relationship: DESCENDENTOF WBbt:0001097
 relationship: part_of WBbt:0006436
 
 [Term]
+id: WBbt:0002001
+name: ABalpaaaaaa nucleus
+def: "nucleus of pedigree ABalpaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001098
+relationship: part_of WBbt:0004546
+
+[Term]
+id: WBbt:0002257
+name: ABalpaaaaap nucleus
+def: "nucleus of pedigree ABalpaaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001098
+relationship: part_of WBbt:0003635
+relationship: part_of WBbt:0004328
+
+[Term]
 id: WBbt:0006728
 name: ABalpaaaap
 def: "embryonic cell" [WB:rynl]
@@ -3397,6 +1645,14 @@ name: ABalpaaaap nucleus
 def: "nucleus of pedigree ABalpaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001097
 relationship: part_of WBbt:0006728
+
+[Term]
+id: WBbt:0002249
+name: ABalpaaaapa nucleus
+def: "nucleus of pedigree ABalpaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001099
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004334
 
 [Term]
 id: WBbt:0006131
@@ -3437,6 +1693,14 @@ name: ABalpaaapa nucleus
 def: "nucleus of pedigree ABalpaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001101
 relationship: part_of WBbt:0006618
+
+[Term]
+id: WBbt:0002253
+name: ABalpaaapaa nucleus
+def: "nucleus of pedigree ABalpaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001102
+relationship: part_of WBbt:0003635
+relationship: part_of WBbt:0004330
 
 [Term]
 id: WBbt:0006471
@@ -3480,6 +1744,13 @@ relationship: DESCENDENTOF WBbt:0001104
 relationship: part_of WBbt:0006590
 
 [Term]
+id: WBbt:0002297
+name: ABalpaaappp nucleus
+def: "nucleus of pedigree ABalpaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001104
+relationship: part_of WBbt:0004463
+
+[Term]
 id: WBbt:0005934
 name: ABalpaap
 def: "embryonic cell" [WB:rynl]
@@ -3519,6 +1790,27 @@ relationship: DESCENDENTOF WBbt:0001107
 relationship: part_of WBbt:0006405
 
 [Term]
+id: WBbt:0007031
+name: ABalpaapaaa
+def: "embryonic cell of pedigree ABalpaapaaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001661
+name: ABalpaapaaa nucleus
+def: "nucleus of pedigree ABalpaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001108
+relationship: part_of WBbt:0004570
+relationship: part_of WBbt:0007031
+
+[Term]
+id: WBbt:0001997
+name: ABalpaapaap nucleus
+def: "nucleus of pedigree ABalpaapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001108
+relationship: part_of WBbt:0004554
+
+[Term]
 id: WBbt:0006606
 name: ABalpaapap
 def: "embryonic cell" [WB:rynl]
@@ -3530,6 +1822,21 @@ name: ABalpaapap nucleus
 def: "nucleus of pedigree ABalpaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001107
 relationship: part_of WBbt:0006606
+
+[Term]
+id: WBbt:0002288
+name: ABalpaapapa nucleus
+def: "nucleus of pedigree ABalpaapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001109
+relationship: part_of WBbt:0004301
+
+[Term]
+id: WBbt:0002261
+name: ABalpaapapp nucleus
+def: "nucleus of pedigree ABalpaapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001109
+relationship: part_of WBbt:0003631
+relationship: part_of WBbt:0004324
 
 [Term]
 id: WBbt:0006708
@@ -3558,6 +1865,34 @@ relationship: DESCENDENTOF WBbt:0001110
 relationship: part_of WBbt:0006432
 
 [Term]
+id: WBbt:0007032
+name: ABalpaappaa
+def: "embryonic cell of pedigree ABalpaappaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001657
+name: ABalpaappaa nucleus
+def: "nucleus of pedigree ABalpaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001111
+relationship: part_of WBbt:0004572
+relationship: part_of WBbt:0007032
+
+[Term]
+id: WBbt:0007033
+name: ABalpaappap
+def: "embryonic cell of pedigree ABalpaappap" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001664
+name: ABalpaappap nucleus
+def: "nucleus of pedigree ABalpaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001111
+relationship: part_of WBbt:0004568
+relationship: part_of WBbt:0007033
+
+[Term]
 id: WBbt:0006171
 name: ABalpaappp
 def: "embryonic cell" [WB:rynl]
@@ -3569,6 +1904,20 @@ name: ABalpaappp nucleus
 def: "nucleus of pedigree ABalpaappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001110
 relationship: part_of WBbt:0006171
+
+[Term]
+id: WBbt:0002090
+name: ABalpaapppa nucleus
+def: "nucleus of pedigree ABalpaapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001112
+relationship: part_of WBbt:0004694
+
+[Term]
+id: WBbt:0002093
+name: ABalpaapppp nucleus
+def: "nucleus of pedigree ABalpaapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001112
+relationship: part_of WBbt:0004692
 
 [Term]
 id: WBbt:0005949
@@ -3623,6 +1972,20 @@ relationship: DESCENDENTOF WBbt:0001115
 relationship: part_of WBbt:0006257
 
 [Term]
+id: WBbt:0002715
+name: ABalpapaaaa nucleus
+def: "nucleus of pedigree ABalpapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001116
+relationship: part_of WBbt:0005051
+
+[Term]
+id: WBbt:0002094
+name: ABalpapaaap nucleus
+def: "nucleus of pedigree ABalpapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001116
+relationship: part_of WBbt:0004692
+
+[Term]
 id: WBbt:0006023
 name: ABalpapaap
 def: "embryonic cell" [WB:rynl]
@@ -3634,6 +1997,20 @@ name: ABalpapaap nucleus
 def: "nucleus of pedigree ABalpapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001115
 relationship: part_of WBbt:0006023
+
+[Term]
+id: WBbt:0007034
+name: ABalpapaapa
+def: "embryonic cell of pedigree ABalpapaapa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001659
+name: ABalpapaapa nucleus
+def: "nucleus of pedigree ABalpapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001117
+relationship: part_of WBbt:0004573
+relationship: part_of WBbt:0007034
 
 [Term]
 id: WBbt:0006745
@@ -3710,6 +2087,13 @@ relationship: DESCENDENTOF WBbt:0001121
 relationship: part_of WBbt:0006214
 
 [Term]
+id: WBbt:0002829
+name: ABalpapapapp nucleus
+def: "nucleus of pedigree ABalpapapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001121
+relationship: part_of WBbt:0004976
+
+[Term]
 id: WBbt:0006456
 name: ABalpapapp
 def: "embryonic cell" [WB:rynl]
@@ -3735,6 +2119,13 @@ name: ABalpapappa nucleus
 def: "nucleus of pedigree ABalpapappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001123
 relationship: part_of WBbt:0006715
+
+[Term]
+id: WBbt:0002831
+name: ABalpapappp nucleus
+def: "nucleus of pedigree ABalpapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001123
+relationship: part_of WBbt:0004974
 
 [Term]
 id: WBbt:0006607
@@ -3803,6 +2194,13 @@ relationship: DESCENDENTOF WBbt:0001127
 relationship: part_of WBbt:0006431
 
 [Term]
+id: WBbt:0002099
+name: ABalpappaapa nucleus
+def: "nucleus of pedigree ABalpappaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001129
+relationship: part_of WBbt:0004744
+
+[Term]
 id: WBbt:0006068
 name: ABalpappaapp
 def: "embryonic cell" [WB:rynl]
@@ -3828,6 +2226,21 @@ name: ABalpappap nucleus
 def: "nucleus of pedigree ABalpappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001126
 relationship: part_of WBbt:0006327
+
+[Term]
+id: WBbt:0001999
+name: ABalpappapa nucleus
+def: "nucleus of pedigree ABalpappapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001131
+relationship: part_of WBbt:0004550
+
+[Term]
+id: WBbt:0002296
+name: ABalpappapp nucleus
+def: "nucleus of pedigree ABalpappapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001131
+relationship: part_of WBbt:0003707
+relationship: part_of WBbt:0004293
 
 [Term]
 id: WBbt:0006459
@@ -3856,6 +2269,13 @@ relationship: DESCENDENTOF WBbt:0001132
 relationship: part_of WBbt:0006701
 
 [Term]
+id: WBbt:0002097
+name: ABalpapppaa nucleus
+def: "nucleus of pedigree ABalpapppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001133
+relationship: part_of WBbt:0004746
+
+[Term]
 id: WBbt:0006118
 name: ABalpapppap
 def: "embryonic cell" [WB:rynl]
@@ -3881,6 +2301,21 @@ name: ABalpapppp nucleus
 def: "nucleus of pedigree ABalpapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001132
 relationship: part_of WBbt:0006238
+
+[Term]
+id: WBbt:0002290
+name: ABalpappppa nucleus
+def: "nucleus of pedigree ABalpappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001135
+relationship: part_of WBbt:0004299
+
+[Term]
+id: WBbt:0002265
+name: ABalpappppp nucleus
+def: "nucleus of pedigree ABalpappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001135
+relationship: part_of WBbt:0003631
+relationship: part_of WBbt:0004322
 
 [Term]
 id: WBbt:0006486
@@ -3962,6 +2397,20 @@ relationship: DESCENDENTOF WBbt:0001139
 relationship: part_of WBbt:0006332
 
 [Term]
+id: WBbt:0001691
+name: ABalppaaapa nucleus
+def: "nucleus of pedigree ABalppaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001141
+relationship: part_of WBbt:0003870
+
+[Term]
+id: WBbt:0002455
+name: ABalppaaapp nucleus
+def: "nucleus of pedigree ABalppaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001141
+relationship: part_of WBbt:0004424
+
+[Term]
 id: WBbt:0006020
 name: ABalppaap
 def: "embryonic cell" [WB:rynl]
@@ -4016,6 +2465,13 @@ relationship: DESCENDENTOF WBbt:0001144
 relationship: part_of WBbt:0006293
 
 [Term]
+id: WBbt:0001897
+name: ABalppaappp nucleus
+def: "nucleus of pedigree ABalppaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001144
+relationship: part_of WBbt:0004918
+
+[Term]
 id: WBbt:0006112
 name: ABalppap
 def: "embryonic cell" [WB:rynl]
@@ -4062,6 +2518,13 @@ relationship: DESCENDENTOF WBbt:0001148
 relationship: part_of WBbt:0005031
 
 [Term]
+id: WBbt:0002121
+name: ABalppapaap nucleus
+def: "nucleus of pedigree ABalppapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001148
+relationship: part_of WBbt:0004525
+
+[Term]
 id: WBbt:0006188
 name: ABalppapap
 def: "embryonic cell" [WB:rynl]
@@ -4073,6 +2536,20 @@ name: ABalppapap nucleus
 def: "nucleus of pedigree ABalppapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001147
 relationship: part_of WBbt:0006188
+
+[Term]
+id: WBbt:0002737
+name: ABalppapapa nucleus
+def: "nucleus of pedigree ABalppapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001149
+relationship: part_of WBbt:0005007
+
+[Term]
+id: WBbt:0002127
+name: ABalppapapp nucleus
+def: "nucleus of pedigree ABalppapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001149
+relationship: part_of WBbt:0004503
 
 [Term]
 id: WBbt:0005938
@@ -4099,6 +2576,13 @@ name: ABalppappa nucleus
 def: "nucleus of pedigree ABalppappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001150
 relationship: part_of WBbt:0005975
+
+[Term]
+id: WBbt:0002835
+name: ABalppappaa nucleus
+def: "nucleus of pedigree ABalppappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001151
+relationship: part_of WBbt:0004970
 
 [Term]
 id: WBbt:0001761
@@ -4134,6 +2618,13 @@ relationship: DESCENDENTOF WBbt:0001152
 relationship: part_of WBbt:0006463
 
 [Term]
+id: WBbt:0002109
+name: ABalppapppaa nucleus
+def: "nucleus of pedigree ABalppapppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001153
+relationship: part_of WBbt:0004549
+
+[Term]
 id: WBbt:0006254
 name: ABalppapppap
 def: "embryonic cell" [WB:rynl]
@@ -4146,6 +2637,13 @@ name: ABalppapppap nucleus
 def: "nucleus of pedigree ABalppapppap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001153
 relationship: part_of WBbt:0006254
+
+[Term]
+id: WBbt:0002115
+name: ABalppapppp nucleus
+def: "nucleus of pedigree ABalppapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001152
+relationship: part_of WBbt:0004538
 
 [Term]
 id: WBbt:0006048
@@ -4200,6 +2698,20 @@ relationship: DESCENDENTOF WBbt:0001157
 relationship: part_of WBbt:0006165
 
 [Term]
+id: WBbt:0001697
+name: ABalpppaaaa nucleus
+def: "nucleus of pedigree ABalpppaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001158
+relationship: part_of WBbt:0003864
+
+[Term]
+id: WBbt:0002451
+name: ABalpppaaap nucleus
+def: "nucleus of pedigree ABalpppaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001158
+relationship: part_of WBbt:0004428
+
+[Term]
 id: WBbt:0006052
 name: ABalpppaap
 def: "embryonic cell" [WB:rynl]
@@ -4211,6 +2723,13 @@ name: ABalpppaap nucleus
 def: "nucleus of pedigree ABalpppaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001157
 relationship: part_of WBbt:0006052
+
+[Term]
+id: WBbt:0002443
+name: ABalpppaapd nucleus
+def: "nucleus of pedigree ABalpppaapd" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001159
+relationship: part_of WBbt:0004443
 
 [Term]
 id: WBbt:0006394
@@ -4307,6 +2826,13 @@ relationship: DESCENDENTOF WBbt:0001163
 relationship: part_of WBbt:0006623
 
 [Term]
+id: WBbt:0001687
+name: ABalpppapppa nucleus
+def: "nucleus of pedigree ABalpppapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001165
+relationship: part_of WBbt:0003884
+
+[Term]
 id: WBbt:0005942
 name: ABalpppapppp
 def: "embryonic cell" [WB:rynl]
@@ -4360,6 +2886,13 @@ relationship: DESCENDENTOF WBbt:0001168
 relationship: part_of WBbt:0006526
 
 [Term]
+id: WBbt:0001631
+name: ABalppppaad nucleus
+def: "nucleus of pedigree ABalppppaad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001169
+relationship: part_of WBbt:0003997
+
+[Term]
 id: WBbt:0006303
 name: ABalppppaav
 def: "embryonic cell" [WB:rynl]
@@ -4398,6 +2931,13 @@ name: ABalppppapa nucleus
 def: "nucleus of pedigree ABalppppapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001171
 relationship: part_of WBbt:0006705
+
+[Term]
+id: WBbt:0002441
+name: ABalppppapaa nucleus
+def: "nucleus of pedigree ABalppppapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001172
+relationship: part_of WBbt:0004445
 
 [Term]
 id: WBbt:0006462
@@ -4454,6 +2994,20 @@ relationship: DESCENDENTOF WBbt:0001175
 relationship: part_of WBbt:0006638
 
 [Term]
+id: WBbt:0001629
+name: ABalpppppaa nucleus
+def: "nucleus of pedigree ABalpppppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001176
+relationship: part_of WBbt:0004003
+
+[Term]
+id: WBbt:0001710
+name: ABalpppppap nucleus
+def: "nucleus of pedigree ABalpppppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001176
+relationship: part_of WBbt:0003829
+
+[Term]
 id: WBbt:0006396
 name: ABalpppppp
 def: "embryonic cell" [WB:rynl]
@@ -4478,6 +3032,13 @@ name: ABalppppppa nucleus
 def: "nucleus of pedigree ABalppppppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001177
 relationship: part_of WBbt:0006166
+
+[Term]
+id: WBbt:0001677
+name: ABalppppppaa nucleus
+def: "nucleus of pedigree ABalppppppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001178
+relationship: part_of WBbt:0003904
 
 [Term]
 id: WBbt:0005952
@@ -4505,6 +3066,20 @@ name: ABalppppppp nucleus
 def: "nucleus of pedigree ABalppppppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001177
 relationship: part_of WBbt:0006599
+
+[Term]
+id: WBbt:0001685
+name: ABalpppppppa nucleus
+def: "nucleus of pedigree ABalpppppppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001180
+relationship: part_of WBbt:0003886
+
+[Term]
+id: WBbt:0001689
+name: ABalpppppppp nucleus
+def: "nucleus of pedigree ABalpppppppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001180
+relationship: part_of WBbt:0003872
 
 [Term]
 id: WBbt:0006411
@@ -4598,6 +3173,21 @@ relationship: DESCENDENTOF WBbt:0001186
 relationship: part_of WBbt:0005904
 
 [Term]
+id: WBbt:0001995
+name: ABaraaaaaaa nucleus
+def: "nucleus of pedigree ABaraaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001187
+relationship: part_of WBbt:0004556
+
+[Term]
+id: WBbt:0002247
+name: ABaraaaaaap nucleus
+def: "nucleus of pedigree ABaraaaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001187
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004336
+
+[Term]
 id: WBbt:0006558
 name: ABaraaaaap
 def: "embryonic cell" [WB:rynl]
@@ -4609,6 +3199,23 @@ name: ABaraaaaap nucleus
 def: "nucleus of pedigree ABaraaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001186
 relationship: part_of WBbt:0006558
+
+[Term]
+id: WBbt:0001996
+name: ABaraaaaapa nucleus
+def: "nucleus of pedigree ABaraaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001188
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004333
+relationship: part_of WBbt:0004555
+
+[Term]
+id: WBbt:0002248
+name: ABaraaaaapp nucleus
+def: "nucleus of pedigree ABaraaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001188
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004335
 
 [Term]
 id: WBbt:0006311
@@ -4649,6 +3256,13 @@ name: ABaraaaapaa nucleus
 def: "nucleus of pedigree ABaraaaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001190
 relationship: part_of WBbt:0006719
+
+[Term]
+id: WBbt:0001994
+name: ABaraaaapap nucleus
+def: "nucleus of pedigree ABaraaaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001190
+relationship: part_of WBbt:0003701
 
 [Term]
 id: WBbt:0006111
@@ -4704,6 +3318,27 @@ relationship: DESCENDENTOF WBbt:0001194
 relationship: part_of WBbt:0006359
 
 [Term]
+id: WBbt:0007035
+name: ABaraaapaaa
+def: "embryonic cell of pedigree ABaraaapaaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001662
+name: ABaraaapaaa nucleus
+def: "nucleus of pedigree ABaraaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001195
+relationship: part_of WBbt:0004569
+relationship: part_of WBbt:0007035
+
+[Term]
+id: WBbt:0001998
+name: ABaraaapaap nucleus
+def: "nucleus of pedigree ABaraaapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001195
+relationship: part_of WBbt:0004552
+
+[Term]
 id: WBbt:0005971
 name: ABaraaapap
 def: "embryonic cell" [WB:rynl]
@@ -4715,6 +3350,21 @@ name: ABaraaapap nucleus
 def: "nucleus of pedigree ABaraaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001194
 relationship: part_of WBbt:0005971
+
+[Term]
+id: WBbt:0002289
+name: ABaraaapapa nucleus
+def: "nucleus of pedigree ABaraaapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001196
+relationship: part_of WBbt:0004300
+
+[Term]
+id: WBbt:0002271
+name: ABaraaapapp nucleus
+def: "nucleus of pedigree ABaraaapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001196
+relationship: part_of WBbt:0003741
+relationship: part_of WBbt:0004317
 
 [Term]
 id: WBbt:0006189
@@ -4743,6 +3393,34 @@ relationship: DESCENDENTOF WBbt:0001197
 relationship: part_of WBbt:0006437
 
 [Term]
+id: WBbt:0007036
+name: ABaraaappaa
+def: "embryonic cell of pedigree ABaraaappaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001660
+name: ABaraaappaa nucleus
+def: "nucleus of pedigree ABaraaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001198
+relationship: part_of WBbt:0004565
+relationship: part_of WBbt:0007036
+
+[Term]
+id: WBbt:0007037
+name: ABaraaappap
+def: "embryonic cell of pedigree ABaraaappap" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001665
+name: ABaraaappap nucleus
+def: "nucleus of pedigree ABaraaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001198
+relationship: part_of WBbt:0004566
+relationship: part_of WBbt:0007037
+
+[Term]
 id: WBbt:0006655
 name: ABaraaappp
 def: "embryonic cell" [WB:rynl]
@@ -4754,6 +3432,27 @@ name: ABaraaappp nucleus
 def: "nucleus of pedigree ABaraaappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001197
 relationship: part_of WBbt:0006655
+
+[Term]
+id: WBbt:0007038
+name: ABaraaapppa
+def: "embryonic cell of pedigree ABaraaapppa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001658
+name: ABaraaapppa nucleus
+def: "nucleus of pedigree ABaraaapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001199
+relationship: part_of WBbt:0004571
+relationship: part_of WBbt:0007038
+
+[Term]
+id: WBbt:0002091
+name: ABaraaapppp nucleus
+def: "nucleus of pedigree ABaraaapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001199
+relationship: part_of WBbt:0004694
 
 [Term]
 id: WBbt:0006272
@@ -4808,6 +3507,21 @@ relationship: DESCENDENTOF WBbt:0001202
 relationship: part_of WBbt:0006445
 
 [Term]
+id: WBbt:0002000
+name: ABaraapaaaa nucleus
+def: "nucleus of pedigree ABaraapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001203
+relationship: part_of WBbt:0004548
+
+[Term]
+id: WBbt:0002245
+name: ABaraapaaap nucleus
+def: "nucleus of pedigree ABaraapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001203
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004338
+
+[Term]
 id: WBbt:0006223
 name: ABaraapaap
 def: "embryonic cell" [WB:rynl]
@@ -4819,6 +3533,21 @@ name: ABaraapaap nucleus
 def: "nucleus of pedigree ABaraapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001202
 relationship: part_of WBbt:0006223
+
+[Term]
+id: WBbt:0002251
+name: ABaraapaapa nucleus
+def: "nucleus of pedigree ABaraapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001204
+relationship: part_of WBbt:0003632
+relationship: part_of WBbt:0004332
+
+[Term]
+id: WBbt:0002291
+name: ABaraapaapp nucleus
+def: "nucleus of pedigree ABaraapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001204
+relationship: part_of WBbt:0004298
 
 [Term]
 id: WBbt:0006006
@@ -4874,6 +3603,21 @@ relationship: DESCENDENTOF WBbt:0001207
 relationship: part_of WBbt:0006245
 
 [Term]
+id: WBbt:0002439
+name: ABaraapapaav nucleus
+def: "nucleus of pedigree ABaraapapaav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001207
+relationship: part_of WBbt:0004457
+
+[Term]
+id: WBbt:0002277
+name: ABaraapapap nucleus
+def: "nucleus of pedigree ABaraapapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001206
+relationship: part_of WBbt:0003738
+relationship: part_of WBbt:0004312
+
+[Term]
 id: WBbt:0005999
 name: ABaraapapp
 def: "embryonic cell" [WB:rynl]
@@ -4885,6 +3629,20 @@ name: ABaraapapp nucleus
 def: "nucleus of pedigree ABaraapapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001205
 relationship: part_of WBbt:0005999
+
+[Term]
+id: WBbt:0002254
+name: ABaraapappa nucleus
+def: "nucleus of pedigree ABaraapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001209
+relationship: part_of WBbt:0004487
+
+[Term]
+id: WBbt:0002262
+name: ABaraapappp nucleus
+def: "nucleus of pedigree ABaraapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001209
+relationship: part_of WBbt:0004471
 
 [Term]
 id: WBbt:0006153
@@ -4932,6 +3690,22 @@ def: "cell of lineage ABaraappaaa\, normally becomes MI pharyngeal neuron." [WB:
 is_a: WBbt:0007028
 
 [Term]
+id: WBbt:0002299
+name: ABaraappaaa nucleus
+def: "nucleus of pedigree ABaraappaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001212
+relationship: part_of WBbt:0003664
+relationship: part_of WBbt:0008407
+
+[Term]
+id: WBbt:0002246
+name: ABaraappaap nucleus
+def: "nucleus of pedigree ABaraappaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001212
+relationship: part_of WBbt:0003744
+relationship: part_of WBbt:0004337
+
+[Term]
 id: WBbt:0006286
 name: ABaraappap
 def: "embryonic cell" [WB:rynl]
@@ -4943,6 +3717,21 @@ name: ABaraappap nucleus
 def: "nucleus of pedigree ABaraappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001211
 relationship: part_of WBbt:0006286
+
+[Term]
+id: WBbt:0002252
+name: ABaraappapa nucleus
+def: "nucleus of pedigree ABaraappapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001213
+relationship: part_of WBbt:0003632
+relationship: part_of WBbt:0004331
+
+[Term]
+id: WBbt:0002292
+name: ABaraappapp nucleus
+def: "nucleus of pedigree ABaraappapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001213
+relationship: part_of WBbt:0004297
 
 [Term]
 id: WBbt:0006064
@@ -4998,6 +3787,21 @@ relationship: DESCENDENTOF WBbt:0001216
 relationship: part_of WBbt:0006322
 
 [Term]
+id: WBbt:0002440
+name: ABaraapppaav nucleus
+def: "nucleus of pedigree ABaraapppaav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001216
+relationship: part_of WBbt:0004446
+
+[Term]
+id: WBbt:0002278
+name: ABaraapppap nucleus
+def: "nucleus of pedigree ABaraapppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001215
+relationship: part_of WBbt:0003735
+relationship: part_of WBbt:0004311
+
+[Term]
 id: WBbt:0006127
 name: ABaraapppp
 def: "embryonic cell" [WB:rynl]
@@ -5009,6 +3813,20 @@ name: ABaraapppp nucleus
 def: "nucleus of pedigree ABaraapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001214
 relationship: part_of WBbt:0006127
+
+[Term]
+id: WBbt:0002256
+name: ABaraappppa nucleus
+def: "nucleus of pedigree ABaraappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001218
+relationship: part_of WBbt:0004473
+
+[Term]
+id: WBbt:0002264
+name: ABaraappppp nucleus
+def: "nucleus of pedigree ABaraappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001218
+relationship: part_of WBbt:0004469
 
 [Term]
 id: WBbt:0005903
@@ -5076,6 +3894,21 @@ relationship: DESCENDENTOF WBbt:0001222
 relationship: part_of WBbt:0006071
 
 [Term]
+id: WBbt:0002002
+name: ABarapaaaaa nucleus
+def: "nucleus of pedigree ABarapaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001223
+relationship: part_of WBbt:0004544
+
+[Term]
+id: WBbt:0002258
+name: ABarapaaaap nucleus
+def: "nucleus of pedigree ABarapaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001223
+relationship: part_of WBbt:0003633
+relationship: part_of WBbt:0004327
+
+[Term]
 id: WBbt:0006392
 name: ABarapaaap
 def: "embryonic cell" [WB:rynl]
@@ -5087,6 +3920,19 @@ name: ABarapaaap nucleus
 def: "nucleus of pedigree ABarapaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001222
 relationship: part_of WBbt:0006392
+
+[Term]
+id: WBbt:0007039
+name: ABarapaaapa
+def: "embryonic cell of pedigree ABarapaaapa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0002250
+name: ABarapaaapa nucleus
+def: "nucleus of pedigree ABarapaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001224
+relationship: part_of WBbt:0007039
 
 [Term]
 id: WBbt:0006737
@@ -5129,6 +3975,14 @@ relationship: DESCENDENTOF WBbt:0001226
 relationship: part_of WBbt:0006193
 
 [Term]
+id: WBbt:0002255
+name: ABarapaapaa nucleus
+def: "nucleus of pedigree ABarapaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001227
+relationship: part_of WBbt:0003633
+relationship: part_of WBbt:0004329
+
+[Term]
 id: WBbt:0006589
 name: ABarapaapap
 def: "embryonic cell" [WB:rynl]
@@ -5154,6 +4008,21 @@ name: ABarapaapp nucleus
 def: "nucleus of pedigree ABarapaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001226
 relationship: part_of WBbt:0006377
+
+[Term]
+id: WBbt:0002263
+name: ABarapaappa nucleus
+def: "nucleus of pedigree ABarapaappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001229
+relationship: part_of WBbt:0003629
+relationship: part_of WBbt:0004323
+
+[Term]
+id: WBbt:0002298
+name: ABarapaappp nucleus
+def: "nucleus of pedigree ABarapaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001229
+relationship: part_of WBbt:0004461
 
 [Term]
 id: WBbt:0006334
@@ -5222,6 +4091,13 @@ relationship: DESCENDENTOF WBbt:0001232
 relationship: part_of WBbt:0006402
 
 [Term]
+id: WBbt:0002100
+name: ABarapapaapa nucleus
+def: "nucleus of pedigree ABarapapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001234
+relationship: part_of WBbt:0004743
+
+[Term]
 id: WBbt:0006602
 name: ABarapapaapp
 def: "embryonic cell" [WB:rynl]
@@ -5247,6 +4123,27 @@ name: ABarapapap nucleus
 def: "nucleus of pedigree ABarapapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001231
 relationship: part_of WBbt:0005932
+
+[Term]
+id: WBbt:0007040
+name: ABarapapapa
+def: "embryonic cell of pedigree ABarapapapa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001663
+name: ABarapapapa nucleus
+def: "nucleus of pedigree ABarapapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001236
+relationship: part_of WBbt:0004567
+relationship: part_of WBbt:0007040
+
+[Term]
+id: WBbt:0002103
+name: ABarapapapp nucleus
+def: "nucleus of pedigree ABarapapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001236
+relationship: part_of WBbt:0004740
 
 [Term]
 id: WBbt:0006147
@@ -5275,6 +4172,13 @@ relationship: DESCENDENTOF WBbt:0001237
 relationship: part_of WBbt:0006309
 
 [Term]
+id: WBbt:0002098
+name: ABarapappaa nucleus
+def: "nucleus of pedigree ABarapappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001238
+relationship: part_of WBbt:0004745
+
+[Term]
 id: WBbt:0006739
 name: ABarapappap
 def: "embryonic cell" [WB:rynl]
@@ -5300,6 +4204,21 @@ name: ABarapappp nucleus
 def: "nucleus of pedigree ABarapappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001237
 relationship: part_of WBbt:0006480
+
+[Term]
+id: WBbt:0002293
+name: ABarapapppa nucleus
+def: "nucleus of pedigree ABarapapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001240
+relationship: part_of WBbt:0004296
+
+[Term]
+id: WBbt:0002266
+name: ABarapapppp nucleus
+def: "nucleus of pedigree ABarapapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001240
+relationship: part_of WBbt:0003629
+relationship: part_of WBbt:0004321
 
 [Term]
 id: WBbt:0006192
@@ -5354,6 +4273,20 @@ relationship: DESCENDENTOF WBbt:0001243
 relationship: part_of WBbt:0006440
 
 [Term]
+id: WBbt:0007041
+name: ABarappaaaa
+def: "embryonic cell of pedigree ABarappaaaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0002716
+name: ABarappaaaa nucleus
+def: "nucleus of pedigree ABarappaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001244
+relationship: part_of WBbt:0005049
+relationship: part_of WBbt:0007041
+
+[Term]
 id: WBbt:0006178
 name: ABarappaaap
 def: "embryonic cell" [WB:rynl]
@@ -5379,6 +4312,13 @@ name: ABarappaap nucleus
 def: "nucleus of pedigree ABarappaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001243
 relationship: part_of WBbt:0006103
+
+[Term]
+id: WBbt:0002092
+name: ABarappaapa nucleus
+def: "nucleus of pedigree ABarappaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001246
+relationship: part_of WBbt:0004694
 
 [Term]
 id: WBbt:0005891
@@ -5455,6 +4395,13 @@ relationship: DESCENDENTOF WBbt:0001250
 relationship: part_of WBbt:0006060
 
 [Term]
+id: WBbt:0002830
+name: ABarappapapp nucleus
+def: "nucleus of pedigree ABarappapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001250
+relationship: part_of WBbt:0004975
+
+[Term]
 id: WBbt:0005871
 name: ABarappapp
 def: "embryonic cell" [WB:rynl]
@@ -5466,6 +4413,20 @@ name: ABarappapp nucleus
 def: "nucleus of pedigree ABarappapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001248
 relationship: part_of WBbt:0005871
+
+[Term]
+id: WBbt:0001958
+name: ABarappappa nucleus
+def: "nucleus of pedigree ABarappappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001252
+relationship: part_of WBbt:0004845
+
+[Term]
+id: WBbt:0002832
+name: ABarappappp nucleus
+def: "nucleus of pedigree ABarappappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001252
+relationship: part_of WBbt:0004973
 
 [Term]
 id: WBbt:0006524
@@ -5514,6 +4475,13 @@ relationship: DESCENDENTOF WBbt:0001255
 relationship: part_of WBbt:0005029
 
 [Term]
+id: WBbt:0002122
+name: ABarapppaap nucleus
+def: "nucleus of pedigree ABarapppaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001255
+relationship: part_of WBbt:0004523
+
+[Term]
 id: WBbt:0005855
 name: ABarapppap
 def: "embryonic cell" [WB:rynl]
@@ -5525,6 +4493,20 @@ name: ABarapppap nucleus
 def: "nucleus of pedigree ABarapppap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001254
 relationship: part_of WBbt:0005855
+
+[Term]
+id: WBbt:0002738
+name: ABarapppapa nucleus
+def: "nucleus of pedigree ABarapppapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001256
+relationship: part_of WBbt:0005005
+
+[Term]
+id: WBbt:0002128
+name: ABarapppapp nucleus
+def: "nucleus of pedigree ABarapppapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001256
+relationship: part_of WBbt:0004501
 
 [Term]
 id: WBbt:0006564
@@ -5551,6 +4533,13 @@ name: ABarappppa nucleus
 def: "nucleus of pedigree ABarappppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001257
 relationship: part_of WBbt:0006687
+
+[Term]
+id: WBbt:0002836
+name: ABarappppaa nucleus
+def: "nucleus of pedigree ABarappppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001258
+relationship: part_of WBbt:0004969
 
 [Term]
 id: WBbt:0001762
@@ -5586,6 +4575,13 @@ relationship: DESCENDENTOF WBbt:0001259
 relationship: part_of WBbt:0006203
 
 [Term]
+id: WBbt:0002110
+name: ABarapppppaa nucleus
+def: "nucleus of pedigree ABarapppppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001260
+relationship: part_of WBbt:0004547
+
+[Term]
 id: WBbt:0006407
 name: ABarapppppap
 def: "embryonic cell" [WB:rynl]
@@ -5598,6 +4594,13 @@ name: ABarapppppap nucleus
 def: "nucleus of pedigree ABarapppppap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001260
 relationship: part_of WBbt:0006407
+
+[Term]
+id: WBbt:0002116
+name: ABarapppppp nucleus
+def: "nucleus of pedigree ABarapppppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001259
+relationship: part_of WBbt:0004537
 
 [Term]
 id: WBbt:0006653
@@ -5678,6 +4681,20 @@ relationship: DESCENDENTOF WBbt:0001266
 relationship: part_of WBbt:0005957
 
 [Term]
+id: WBbt:0002453
+name: ABarpaaaaal nucleus
+def: "nucleus of pedigree ABarpaaaaal" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001267
+relationship: part_of WBbt:0004426
+
+[Term]
+id: WBbt:0002454
+name: ABarpaaaaar nucleus
+def: "nucleus of pedigree ABarpaaaaar" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001267
+relationship: part_of WBbt:0004425
+
+[Term]
 id: WBbt:0006246
 name: ABarpaaaap
 def: "embryonic cell" [WB:rynl]
@@ -5689,6 +4706,13 @@ name: ABarpaaaap nucleus
 def: "nucleus of pedigree ABarpaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001266
 relationship: part_of WBbt:0006246
+
+[Term]
+id: WBbt:0002449
+name: ABarpaaaapa nucleus
+def: "nucleus of pedigree ABarpaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001268
+relationship: part_of WBbt:0004430
 
 [Term]
 id: WBbt:0001891
@@ -5722,6 +4746,13 @@ name: ABarpaaapa nucleus
 def: "nucleus of pedigree ABarpaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001269
 relationship: part_of WBbt:0006252
+
+[Term]
+id: WBbt:0002450
+name: ABarpaaapaa nucleus
+def: "nucleus of pedigree ABarpaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001270
+relationship: part_of WBbt:0004429
 
 [Term]
 id: WBbt:0001892
@@ -5899,6 +4930,13 @@ relationship: DESCENDENTOF WBbt:0001281
 relationship: part_of WBbt:0006207
 
 [Term]
+id: WBbt:0002919
+name: ABarpapaaaa nucleus
+def: "nucleus of pedigree ABarpapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001282
+relationship: part_of WBbt:0004936
+
+[Term]
 id: WBbt:0005992
 name: ABarpapaaap
 def: "embryonic cell\, dies in hermaphrodite\, becomes CEMDR in male." [WB:rynl]
@@ -5967,6 +5005,13 @@ relationship: DESCENDENTOF WBbt:0001286
 relationship: part_of WBbt:0004937
 
 [Term]
+id: WBbt:0002925
+name: ABarpapaappp nucleus
+def: "nucleus of pedigree ABarpapaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001286
+relationship: part_of WBbt:0004926
+
+[Term]
 id: WBbt:0005867
 name: ABarpapap
 def: "embryonic cell" [WB:rynl]
@@ -6033,6 +5078,13 @@ name: ABarpappa nucleus
 def: "nucleus of pedigree ABarpappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001290
 relationship: part_of WBbt:0006273
+
+[Term]
+id: WBbt:0003258
+name: ABarpappaa nucleus
+def: "nucleus of pedigree ABarpappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001291
+relationship: part_of WBbt:0004579
 
 [Term]
 id: WBbt:0006085
@@ -6557,6 +5609,13 @@ relationship: DESCENDENTOF WBbt:0001319
 relationship: part_of WBbt:0006330
 
 [Term]
+id: WBbt:0002918
+name: ABplaaaaaaa nucleus
+def: "nucleus of pedigree ABplaaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001320
+relationship: part_of WBbt:0004940
+
+[Term]
 id: WBbt:0006541
 name: ABplaaaaaap
 def: "embryonic cell\, dies in hermaphrodite but comes a cephalic neuron in male." [WB:rynl]
@@ -6623,6 +5682,13 @@ name: ABplaaaaappa nucleus
 def: "nucleus of pedigree ABplaaaaappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001324
 relationship: part_of WBbt:0004938
+
+[Term]
+id: WBbt:0002924
+name: ABplaaaaappp nucleus
+def: "nucleus of pedigree ABplaaaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001324
+relationship: part_of WBbt:0004928
 
 [Term]
 id: WBbt:0006625
@@ -6692,6 +5758,13 @@ name: ABplaaapa nucleus
 def: "nucleus of pedigree ABplaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001328
 relationship: part_of WBbt:0006680
+
+[Term]
+id: WBbt:0003257
+name: ABplaaapaa nucleus
+def: "nucleus of pedigree ABplaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001329
+relationship: part_of WBbt:0004581
 
 [Term]
 id: WBbt:0005911
@@ -6803,6 +5876,13 @@ relationship: part_of WBbt:0004690
 relationship: part_of WBbt:0006285
 
 [Term]
+id: WBbt:0002123
+name: ABplaapaaap nucleus
+def: "nucleus of pedigree ABplaapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001335
+relationship: part_of WBbt:0004521
+
+[Term]
 id: WBbt:0006518
 name: ABplaapaap
 def: "embryonic cell" [WB:rynl]
@@ -6814,6 +5894,27 @@ name: ABplaapaap nucleus
 def: "nucleus of pedigree ABplaapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001334
 relationship: part_of WBbt:0006518
+
+[Term]
+id: WBbt:0002922
+name: ABplaapaapa nucleus
+def: "nucleus of pedigree ABplaapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001337
+relationship: part_of WBbt:0004932
+
+[Term]
+id: WBbt:0007042
+name: ABplaapaapp
+def: "embryonic cell of pedigree ABplaapaapp" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001652
+name: ABplaapaapp nucleus
+def: "nucleus of pedigree ABplaapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001337
+relationship: part_of WBbt:0003935
+relationship: part_of WBbt:0007042
 
 [Term]
 id: WBbt:0005887
@@ -6842,6 +5943,20 @@ relationship: DESCENDENTOF WBbt:0001338
 relationship: part_of WBbt:0006120
 
 [Term]
+id: WBbt:0001708
+name: ABplaapapaa nucleus
+def: "nucleus of pedigree ABplaapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001339
+relationship: part_of WBbt:0003831
+
+[Term]
+id: WBbt:0001679
+name: ABplaapapap nucleus
+def: "nucleus of pedigree ABplaapapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001339
+relationship: part_of WBbt:0003892
+
+[Term]
 id: WBbt:0006586
 name: ABplaapapp
 def: "embryonic cell" [WB:rynl]
@@ -6855,6 +5970,13 @@ relationship: DESCENDENTOF WBbt:0001338
 relationship: part_of WBbt:0006586
 
 [Term]
+id: WBbt:0001637
+name: ABplaapappa nucleus
+def: "nucleus of pedigree ABplaapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001340
+relationship: part_of WBbt:0003985
+
+[Term]
 id: WBbt:0006387
 name: ABplaapappp
 def: "embryonic cell" [WB:rynl]
@@ -6866,6 +5988,13 @@ name: ABplaapappp nucleus
 def: "nucleus of pedigree ABplaapappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001340
 relationship: part_of WBbt:0006387
+
+[Term]
+id: WBbt:0001683
+name: ABplaapapppa nucleus
+def: "nucleus of pedigree ABplaapapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001341
+relationship: part_of WBbt:0003888
 
 [Term]
 id: WBbt:0006159
@@ -7074,6 +6203,20 @@ relationship: DESCENDENTOF WBbt:0001354
 relationship: part_of WBbt:0006592
 
 [Term]
+id: WBbt:0001623
+name: ABplapaaaapa nucleus
+def: "nucleus of pedigree ABplapaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001356
+relationship: part_of WBbt:0004009
+
+[Term]
+id: WBbt:0001621
+name: ABplapaaaapp nucleus
+def: "nucleus of pedigree ABplapaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001356
+relationship: part_of WBbt:0004013
+
+[Term]
 id: WBbt:0006317
 name: ABplapaaap
 def: "embryonic cell" [WB:rynl]
@@ -7098,6 +6241,27 @@ name: ABplapaaapa nucleus
 def: "nucleus of pedigree ABplapaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001357
 relationship: part_of WBbt:0006061
+
+[Term]
+id: WBbt:0002024
+name: ABplapaaapad nucleus
+def: "nucleus of pedigree ABplapaaapad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001358
+relationship: part_of WBbt:0004798
+
+[Term]
+id: WBbt:0001645
+name: ABplapaaapav nucleus
+def: "nucleus of pedigree ABplapaaapav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001358
+relationship: part_of WBbt:0003959
+
+[Term]
+id: WBbt:0002733
+name: ABplapaaapp nucleus
+def: "nucleus of pedigree ABplapaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001357
+relationship: part_of WBbt:0005017
 
 [Term]
 id: WBbt:0005849
@@ -7278,6 +6442,20 @@ relationship: DESCENDENTOF WBbt:0001368
 relationship: part_of WBbt:0006457
 
 [Term]
+id: WBbt:0002618
+name: ABplapappppaa nucleus
+def: "nucleus of pedigree ABplapappppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001369
+relationship: part_of WBbt:0004104
+
+[Term]
+id: WBbt:0001650
+name: ABplapappppap nucleus
+def: "nucleus of pedigree ABplapappppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001369
+relationship: part_of WBbt:0003939
+
+[Term]
 id: WBbt:0006615
 name: ABplapappppp
 def: "embryonic cell" [WB:rynl]
@@ -7431,6 +6609,13 @@ name: ABplapppaa nucleus
 def: "nucleus of pedigree ABplapppaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001379
 relationship: part_of WBbt:0005935
+
+[Term]
+id: WBbt:0002632
+name: ABplapppaaa nucleus
+def: "nucleus of pedigree ABplapppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001380
+relationship: part_of WBbt:0004076
 
 [Term]
 id: WBbt:0006671
@@ -7625,6 +6810,20 @@ relationship: DESCENDENTOF WBbt:0001391
 relationship: part_of WBbt:0005893
 
 [Term]
+id: WBbt:0002739
+name: ABplpaaaaaa nucleus
+def: "nucleus of pedigree ABplpaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001392
+relationship: part_of WBbt:0005003
+
+[Term]
+id: WBbt:0001712
+name: ABplpaaaaap nucleus
+def: "nucleus of pedigree ABplpaaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001392
+relationship: part_of WBbt:0003827
+
+[Term]
 id: WBbt:0006528
 name: ABplpaaaap
 def: "embryonic cell" [WB:rynl]
@@ -7636,6 +6835,20 @@ name: ABplpaaaap nucleus
 def: "nucleus of pedigree ABplpaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001391
 relationship: part_of WBbt:0006528
+
+[Term]
+id: WBbt:0002005
+name: ABplpaaaapa nucleus
+def: "nucleus of pedigree ABplpaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001393
+relationship: part_of WBbt:0004540
+
+[Term]
+id: WBbt:0001957
+name: ABplpaaaapp nucleus
+def: "nucleus of pedigree ABplpaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001393
+relationship: part_of WBbt:0004846
 
 [Term]
 id: WBbt:0006313
@@ -7662,6 +6875,13 @@ name: ABplpaaapa nucleus
 def: "nucleus of pedigree ABplpaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001394
 relationship: part_of WBbt:0006093
+
+[Term]
+id: WBbt:0002920
+name: ABplpaaapaa nucleus
+def: "nucleus of pedigree ABplpaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001395
+relationship: part_of WBbt:0004935
 
 [Term]
 id: WBbt:0001893
@@ -7697,6 +6917,13 @@ relationship: DESCENDENTOF WBbt:0001396
 relationship: part_of WBbt:0006600
 
 [Term]
+id: WBbt:0002457
+name: ABplpaaappaa nucleus
+def: "nucleus of pedigree ABplpaaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001397
+relationship: part_of WBbt:0004437
+
+[Term]
 id: WBbt:0006291
 name: ABplpaaappap
 def: "embryonic cell" [WB:rynl]
@@ -7709,6 +6936,13 @@ name: ABplpaaappap nucleus
 def: "nucleus of pedigree ABplpaaappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001397
 relationship: part_of WBbt:0006291
+
+[Term]
+id: WBbt:0002928
+name: ABplpaaappp nucleus
+def: "nucleus of pedigree ABplpaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001396
+relationship: part_of WBbt:0004920
 
 [Term]
 id: WBbt:0006077
@@ -7748,6 +6982,20 @@ name: ABplpaapaa nucleus
 def: "nucleus of pedigree ABplpaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001400
 relationship: part_of WBbt:0005882
+
+[Term]
+id: WBbt:0002719
+name: ABplpaapaaa nucleus
+def: "nucleus of pedigree ABplpaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001401
+relationship: part_of WBbt:0005043
+
+[Term]
+id: WBbt:0001693
+name: ABplpaapaap nucleus
+def: "nucleus of pedigree ABplpaapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001401
+relationship: part_of WBbt:0003868
 
 [Term]
 id: WBbt:0006556
@@ -7817,6 +7065,20 @@ relationship: DESCENDENTOF WBbt:0001403
 relationship: part_of WBbt:0006670
 
 [Term]
+id: WBbt:0001681
+name: ABplpaappaa nucleus
+def: "nucleus of pedigree ABplpaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001404
+relationship: part_of WBbt:0003890
+
+[Term]
+id: WBbt:0002703
+name: ABplpaappap nucleus
+def: "nucleus of pedigree ABplpaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001404
+relationship: part_of WBbt:0003956
+
+[Term]
 id: WBbt:0006568
 name: ABplpaappp
 def: "embryonic cell" [WB:rynl]
@@ -7848,6 +7110,13 @@ name: ABplpaapppp nucleus
 def: "nucleus of pedigree ABplpaapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001405
 relationship: part_of WBbt:0006336
+
+[Term]
+id: WBbt:0001899
+name: ABplpaappppa nucleus
+def: "nucleus of pedigree ABplpaappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001406
+relationship: part_of WBbt:0004933
 
 [Term]
 id: WBbt:0005947
@@ -7916,6 +7185,13 @@ relationship: DESCENDENTOF WBbt:0001410
 relationship: part_of WBbt:0006679
 
 [Term]
+id: WBbt:0002833
+name: ABplpapaaaa nucleus
+def: "nucleus of pedigree ABplpapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001411
+relationship: part_of WBbt:0004972
+
+[Term]
 id: WBbt:0001643
 name: ABplpapaaap nucleus
 def: "nucleus of pedigree ABplpapaaap" [WB:rynl]
@@ -7934,6 +7210,20 @@ name: ABplpapaap nucleus
 def: "nucleus of pedigree ABplpapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001410
 relationship: part_of WBbt:0006403
+
+[Term]
+id: WBbt:0002746
+name: ABplpapaapa nucleus
+def: "nucleus of pedigree ABplpapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001412
+relationship: part_of WBbt:0004989
+
+[Term]
+id: WBbt:0002752
+name: ABplpapaapp nucleus
+def: "nucleus of pedigree ABplpapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001412
+relationship: part_of WBbt:0004978
 
 [Term]
 id: WBbt:0006177
@@ -7982,6 +7272,20 @@ relationship: DESCENDENTOF WBbt:0001413
 relationship: part_of WBbt:0006693
 
 [Term]
+id: WBbt:0002748
+name: ABplpapappa nucleus
+def: "nucleus of pedigree ABplpapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001415
+relationship: part_of WBbt:0004985
+
+[Term]
+id: WBbt:0001961
+name: ABplpapappp nucleus
+def: "nucleus of pedigree ABplpapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001415
+relationship: part_of WBbt:0004842
+
+[Term]
 id: WBbt:0006420
 name: ABplpapp
 def: "embryonic cell" [WB:rynl]
@@ -8019,6 +7323,20 @@ name: ABplpappaa nucleus
 def: "nucleus of pedigree ABplpappaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001417
 relationship: part_of WBbt:0006551
+
+[Term]
+id: WBbt:0002730
+name: ABplpappaaa nucleus
+def: "nucleus of pedigree ABplpappaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001418
+relationship: part_of WBbt:0005021
+
+[Term]
+id: WBbt:0002004
+name: ABplpappaap nucleus
+def: "nucleus of pedigree ABplpappaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001418
+relationship: part_of WBbt:0005812
 
 [Term]
 id: WBbt:0006621
@@ -8090,6 +7408,20 @@ relationship: DESCENDENTOF WBbt:0001420
 relationship: part_of WBbt:0006019
 
 [Term]
+id: WBbt:0002635
+name: ABplpappppa nucleus
+def: "nucleus of pedigree ABplpappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001422
+relationship: part_of WBbt:0004070
+
+[Term]
+id: WBbt:0002697
+name: ABplpappppp nucleus
+def: "nucleus of pedigree ABplpappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001422
+relationship: part_of WBbt:0004788
+
+[Term]
 id: WBbt:0006353
 name: ABplpp
 def: "embryonic cell" [WB:rynl]
@@ -8155,6 +7487,13 @@ relationship: DESCENDENTOF WBbt:0001426
 relationship: part_of WBbt:0006650
 
 [Term]
+id: WBbt:0002750
+name: ABplppaaaaa nucleus
+def: "nucleus of pedigree ABplppaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001427
+relationship: part_of WBbt:0004981
+
+[Term]
 id: WBbt:0006414
 name: ABplppaaaap
 def: "embryonic cell" [WB:rynl]
@@ -8180,6 +7519,13 @@ name: ABplppaaaapa nucleus
 def: "nucleus of pedigree ABplppaaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001428
 relationship: part_of WBbt:0006453
+
+[Term]
+id: WBbt:0002705
+name: ABplppaaaapp nucleus
+def: "nucleus of pedigree ABplppaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001428
+relationship: part_of WBbt:0003941
 
 [Term]
 id: WBbt:0006696
@@ -8236,6 +7582,13 @@ relationship: DESCENDENTOF WBbt:0001432
 relationship: part_of WBbt:0006443
 
 [Term]
+id: WBbt:0002713
+name: ABplppaapap nucleus
+def: "nucleus of pedigree ABplppaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001432
+relationship: part_of WBbt:0003926
+
+[Term]
 id: WBbt:0006673
 name: ABplppaapp
 def: "embryonic cell" [WB:rynl]
@@ -8247,6 +7600,20 @@ name: ABplppaapp nucleus
 def: "nucleus of pedigree ABplppaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001431
 relationship: part_of WBbt:0006673
+
+[Term]
+id: WBbt:0001635
+name: ABplppaappa nucleus
+def: "nucleus of pedigree ABplppaappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001434
+relationship: part_of WBbt:0003989
+
+[Term]
+id: WBbt:0001962
+name: ABplppaappp nucleus
+def: "nucleus of pedigree ABplppaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001434
+relationship: part_of WBbt:0004841
 
 [Term]
 id: WBbt:0006028
@@ -8301,6 +7668,27 @@ relationship: DESCENDENTOF WBbt:0001437
 relationship: part_of WBbt:0006550
 
 [Term]
+id: WBbt:0002742
+name: ABplppapaaaa nucleus
+def: "nucleus of pedigree ABplppapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001438
+relationship: part_of WBbt:0004998
+
+[Term]
+id: WBbt:0002708
+name: ABplppapaaap nucleus
+def: "nucleus of pedigree ABplppapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001438
+relationship: part_of WBbt:0003936
+
+[Term]
+id: WBbt:0002741
+name: ABplppapaap nucleus
+def: "nucleus of pedigree ABplppapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001437
+relationship: part_of WBbt:0004999
+
+[Term]
 id: WBbt:0006570
 name: ABplppapap
 def: "embryonic cell" [WB:rynl]
@@ -8312,6 +7700,20 @@ name: ABplppapap nucleus
 def: "nucleus of pedigree ABplppapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001436
 relationship: part_of WBbt:0006570
+
+[Term]
+id: WBbt:0001949
+name: ABplppapapa nucleus
+def: "nucleus of pedigree ABplppapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001439
+relationship: part_of WBbt:0004869
+
+[Term]
+id: WBbt:0001951
+name: ABplppapapp nucleus
+def: "nucleus of pedigree ABplppapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001439
+relationship: part_of WBbt:0004865
 
 [Term]
 id: WBbt:0006356
@@ -8340,6 +7742,20 @@ relationship: DESCENDENTOF WBbt:0001440
 relationship: part_of WBbt:0006140
 
 [Term]
+id: WBbt:0002710
+name: ABplppappaa nucleus
+def: "nucleus of pedigree ABplppappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001441
+relationship: part_of WBbt:0003932
+
+[Term]
+id: WBbt:0001964
+name: ABplppappap nucleus
+def: "nucleus of pedigree ABplppappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001441
+relationship: part_of WBbt:0004839
+
+[Term]
 id: WBbt:0005869
 name: ABplppappp
 def: "embryonic cell" [WB:rynl]
@@ -8351,6 +7767,20 @@ name: ABplppappp nucleus
 def: "nucleus of pedigree ABplppappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001440
 relationship: part_of WBbt:0005869
+
+[Term]
+id: WBbt:0001966
+name: ABplppapppa nucleus
+def: "nucleus of pedigree ABplppapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001442
+relationship: part_of WBbt:0004837
+
+[Term]
+id: WBbt:0001968
+name: ABplppapppp nucleus
+def: "nucleus of pedigree ABplppapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001442
+relationship: part_of WBbt:0004825
 
 [Term]
 id: WBbt:0006669
@@ -8405,6 +7835,20 @@ relationship: DESCENDENTOF WBbt:0001445
 relationship: part_of WBbt:0006025
 
 [Term]
+id: WBbt:0001956
+name: ABplpppaaaa nucleus
+def: "nucleus of pedigree ABplpppaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001446
+relationship: part_of WBbt:0004857
+
+[Term]
+id: WBbt:0001953
+name: ABplpppaaap nucleus
+def: "nucleus of pedigree ABplpppaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001446
+relationship: part_of WBbt:0004861
+
+[Term]
 id: WBbt:0006723
 name: ABplpppaap
 def: "embryonic cell" [WB:rynl]
@@ -8429,6 +7873,27 @@ name: ABplpppaapa nucleus
 def: "nucleus of pedigree ABplpppaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001447
 relationship: part_of WBbt:0006503
+
+[Term]
+id: WBbt:0002623
+name: ABplpppaapaa nucleus
+def: "nucleus of pedigree ABplpppaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001448
+relationship: part_of WBbt:0004094
+
+[Term]
+id: WBbt:0002179
+name: ABplpppaapap nucleus
+def: "nucleus of pedigree ABplpppaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001448
+relationship: part_of WBbt:0004493
+
+[Term]
+id: WBbt:0002606
+name: ABplpppaapp nucleus
+def: "nucleus of pedigree ABplpppaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001447
+relationship: part_of WBbt:0004366
 
 [Term]
 id: WBbt:0006665
@@ -8530,6 +7995,21 @@ relationship: DESCENDENTOF WBbt:0001454
 relationship: part_of WBbt:0006109
 
 [Term]
+id: WBbt:0002630
+name: ABplppppaaa nucleus
+def: "nucleus of pedigree ABplppppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001455
+relationship: part_of WBbt:0004082
+relationship: part_of WBbt:0007836
+
+[Term]
+id: WBbt:0002699
+name: ABplppppaap nucleus
+def: "nucleus of pedigree ABplppppaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001455
+relationship: part_of WBbt:0004787
+
+[Term]
 id: WBbt:0005919
 name: ABplppppap
 def: "embryonic cell" [WB:rynl]
@@ -8593,6 +8073,21 @@ name: ABplpppppa nucleus
 def: "nucleus of pedigree ABplpppppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001457
 relationship: part_of WBbt:0006343
+
+[Term]
+id: WBbt:0002436
+name: ABplpppppaa nucleus
+def: "nucleus of pedigree ABplpppppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001458
+relationship: part_of WBbt:0003833
+
+[Term]
+id: WBbt:0002435
+name: ABplpppppap nucleus
+def: "nucleus of pedigree ABplpppppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001458
+relationship: part_of WBbt:0008385
+relationship: part_of WBbt:0008386
 
 [Term]
 id: WBbt:0005960
@@ -8722,6 +8217,20 @@ relationship: DESCENDENTOF WBbt:0001466
 relationship: part_of WBbt:0005988
 
 [Term]
+id: WBbt:0001698
+name: ABpraaaaaaa nucleus
+def: "nucleus of pedigree ABpraaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001467
+relationship: part_of WBbt:0003863
+
+[Term]
+id: WBbt:0002452
+name: ABpraaaaaap nucleus
+def: "nucleus of pedigree ABpraaaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001467
+relationship: part_of WBbt:0004427
+
+[Term]
 id: WBbt:0006176
 name: ABpraaaaap
 def: "embryonic cell" [WB:rynl]
@@ -8733,6 +8242,13 @@ name: ABpraaaaap nucleus
 def: "nucleus of pedigree ABpraaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001466
 relationship: part_of WBbt:0006176
+
+[Term]
+id: WBbt:0002444
+name: ABpraaaaapd nucleus
+def: "nucleus of pedigree ABpraaaaapd" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001468
+relationship: part_of WBbt:0004442
 
 [Term]
 id: WBbt:0005917
@@ -8782,6 +8298,13 @@ relationship: DESCENDENTOF WBbt:0001471
 relationship: part_of WBbt:0005033
 
 [Term]
+id: WBbt:0001634
+name: ABpraaaapav nucleus
+def: "nucleus of pedigree ABpraaaapav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001471
+relationship: part_of WBbt:0003991
+
+[Term]
 id: WBbt:0006690
 name: ABpraaaapp
 def: "embryonic cell" [WB:rynl]
@@ -8820,6 +8343,13 @@ name: ABpraaaappp nucleus
 def: "nucleus of pedigree ABpraaaappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001472
 relationship: part_of WBbt:0006247
+
+[Term]
+id: WBbt:0001688
+name: ABpraaaapppa nucleus
+def: "nucleus of pedigree ABpraaaapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001474
+relationship: part_of WBbt:0003883
 
 [Term]
 id: WBbt:0006331
@@ -8875,6 +8405,13 @@ relationship: DESCENDENTOF WBbt:0001477
 relationship: part_of WBbt:0006114
 
 [Term]
+id: WBbt:0001632
+name: ABpraaapaad nucleus
+def: "nucleus of pedigree ABpraaapaad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001478
+relationship: part_of WBbt:0003995
+
+[Term]
 id: WBbt:0005974
 name: ABpraaapaav
 def: "embryonic cell" [WB:rynl]
@@ -8913,6 +8450,13 @@ name: ABpraaapapa nucleus
 def: "nucleus of pedigree ABpraaapapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001480
 relationship: part_of WBbt:0006404
+
+[Term]
+id: WBbt:0002442
+name: ABpraaapapaa nucleus
+def: "nucleus of pedigree ABpraaapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001481
+relationship: part_of WBbt:0004444
 
 [Term]
 id: WBbt:0006215
@@ -8969,6 +8513,20 @@ relationship: DESCENDENTOF WBbt:0001484
 relationship: part_of WBbt:0006483
 
 [Term]
+id: WBbt:0001630
+name: ABpraaappaa nucleus
+def: "nucleus of pedigree ABpraaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001485
+relationship: part_of WBbt:0003999
+
+[Term]
+id: WBbt:0001711
+name: ABpraaappap nucleus
+def: "nucleus of pedigree ABpraaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001485
+relationship: part_of WBbt:0003828
+
+[Term]
 id: WBbt:0006194
 name: ABpraaappp
 def: "embryonic cell" [WB:rynl]
@@ -8993,6 +8551,13 @@ name: ABpraaapppa nucleus
 def: "nucleus of pedigree ABpraaapppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001486
 relationship: part_of WBbt:0006009
+
+[Term]
+id: WBbt:0001678
+name: ABpraaapppaa nucleus
+def: "nucleus of pedigree ABpraaapppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001487
+relationship: part_of WBbt:0003903
 
 [Term]
 id: WBbt:0006657
@@ -9020,6 +8585,20 @@ name: ABpraaapppp nucleus
 def: "nucleus of pedigree ABpraaapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001486
 relationship: part_of WBbt:0005931
+
+[Term]
+id: WBbt:0001686
+name: ABpraaappppa nucleus
+def: "nucleus of pedigree ABpraaappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001489
+relationship: part_of WBbt:0003885
+
+[Term]
+id: WBbt:0001690
+name: ABpraaappppp nucleus
+def: "nucleus of pedigree ABpraaappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001489
+relationship: part_of WBbt:0003871
 
 [Term]
 id: WBbt:0006548
@@ -9088,6 +8667,13 @@ relationship: part_of WBbt:0004690
 relationship: part_of WBbt:0006544
 
 [Term]
+id: WBbt:0002124
+name: ABpraapaaap nucleus
+def: "nucleus of pedigree ABpraapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001493
+relationship: part_of WBbt:0004519
+
+[Term]
 id: WBbt:0006373
 name: ABpraapaap
 def: "embryonic cell" [WB:rynl]
@@ -9099,6 +8685,27 @@ name: ABpraapaap nucleus
 def: "nucleus of pedigree ABpraapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001492
 relationship: part_of WBbt:0006373
+
+[Term]
+id: WBbt:0002923
+name: ABpraapaapa nucleus
+def: "nucleus of pedigree ABpraapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001495
+relationship: part_of WBbt:0004930
+
+[Term]
+id: WBbt:0007043
+name: ABpraapaapp
+def: "embryonic cell of pedigree ABpraapaapp" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0001653
+name: ABpraapaapp nucleus
+def: "nucleus of pedigree ABpraapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001495
+relationship: part_of WBbt:0003933
+relationship: part_of WBbt:0007043
 
 [Term]
 id: WBbt:0006062
@@ -9127,6 +8734,20 @@ relationship: DESCENDENTOF WBbt:0001496
 relationship: part_of WBbt:0005872
 
 [Term]
+id: WBbt:0001709
+name: ABpraapapaa nucleus
+def: "nucleus of pedigree ABpraapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001497
+relationship: part_of WBbt:0003830
+
+[Term]
+id: WBbt:0001680
+name: ABpraapapap nucleus
+def: "nucleus of pedigree ABpraapapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001497
+relationship: part_of WBbt:0003891
+
+[Term]
 id: WBbt:0006530
 name: ABpraapapp
 def: "embryonic cell" [WB:rynl]
@@ -9140,6 +8761,13 @@ relationship: DESCENDENTOF WBbt:0001496
 relationship: part_of WBbt:0006530
 
 [Term]
+id: WBbt:0001638
+name: ABpraapappa nucleus
+def: "nucleus of pedigree ABpraapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001498
+relationship: part_of WBbt:0003984
+
+[Term]
 id: WBbt:0005862
 name: ABpraapappp
 def: "embryonic cell" [WB:rynl]
@@ -9151,6 +8779,13 @@ name: ABpraapappp nucleus
 def: "nucleus of pedigree ABpraapappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001498
 relationship: part_of WBbt:0005862
+
+[Term]
+id: WBbt:0001684
+name: ABpraapapppa nucleus
+def: "nucleus of pedigree ABpraapapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001499
+relationship: part_of WBbt:0003887
 
 [Term]
 id: WBbt:0006567
@@ -9359,6 +8994,20 @@ relationship: DESCENDENTOF WBbt:0001512
 relationship: part_of WBbt:0006184
 
 [Term]
+id: WBbt:0001624
+name: ABprapaaaapa nucleus
+def: "nucleus of pedigree ABprapaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001514
+relationship: part_of WBbt:0004007
+
+[Term]
+id: WBbt:0001622
+name: ABprapaaaapp nucleus
+def: "nucleus of pedigree ABprapaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001514
+relationship: part_of WBbt:0004011
+
+[Term]
 id: WBbt:0005977
 name: ABprapaaap
 def: "embryonic cell" [WB:rynl]
@@ -9383,6 +9032,27 @@ name: ABprapaaapa nucleus
 def: "nucleus of pedigree ABprapaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001515
 relationship: part_of WBbt:0006633
+
+[Term]
+id: WBbt:0002025
+name: ABprapaaapad nucleus
+def: "nucleus of pedigree ABprapaaapad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001516
+relationship: part_of WBbt:0004797
+
+[Term]
+id: WBbt:0001646
+name: ABprapaaapav nucleus
+def: "nucleus of pedigree ABprapaaapav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001516
+relationship: part_of WBbt:0003957
+
+[Term]
+id: WBbt:0002734
+name: ABprapaaapp nucleus
+def: "nucleus of pedigree ABprapaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001515
+relationship: part_of WBbt:0005013
 
 [Term]
 id: WBbt:0006624
@@ -9563,6 +9233,20 @@ relationship: DESCENDENTOF WBbt:0001526
 relationship: part_of WBbt:0006713
 
 [Term]
+id: WBbt:0002619
+name: ABprapappppaa nucleus
+def: "nucleus of pedigree ABprapappppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001527
+relationship: part_of WBbt:0004103
+
+[Term]
+id: WBbt:0001651
+name: ABprapappppap nucleus
+def: "nucleus of pedigree ABprapappppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001527
+relationship: part_of WBbt:0003937
+
+[Term]
 id: WBbt:0006731
 name: ABprapappppp
 def: "embryonic cell" [WB:rynl]
@@ -9717,6 +9401,13 @@ name: ABprapppaa nucleus
 def: "nucleus of pedigree ABprapppaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001537
 relationship: part_of WBbt:0006234
+
+[Term]
+id: WBbt:0002633
+name: ABprapppaaa nucleus
+def: "nucleus of pedigree ABprapppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001538
+relationship: part_of WBbt:0004074
 
 [Term]
 id: WBbt:0005937
@@ -9911,6 +9602,20 @@ relationship: DESCENDENTOF WBbt:0001549
 relationship: part_of WBbt:0006027
 
 [Term]
+id: WBbt:0002740
+name: ABprpaaaaaa nucleus
+def: "nucleus of pedigree ABprpaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001550
+relationship: part_of WBbt:0005001
+
+[Term]
+id: WBbt:0001713
+name: ABprpaaaaap nucleus
+def: "nucleus of pedigree ABprpaaaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001550
+relationship: part_of WBbt:0003826
+
+[Term]
 id: WBbt:0006721
 name: ABprpaaaap
 def: "embryonic cell" [WB:rynl]
@@ -9930,6 +9635,13 @@ def: "nucleus of pedigree ABprpaaaapa" [WB:rynl]
 synonym: "G1 nucleus" []
 relationship: DESCENDENTOF WBbt:0001551
 relationship: part_of WBbt:0004780
+
+[Term]
+id: WBbt:0001959
+name: ABprpaaaapp nucleus
+def: "nucleus of pedigree ABprpaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001551
+relationship: part_of WBbt:0004844
 
 [Term]
 id: WBbt:0006490
@@ -9956,6 +9668,13 @@ name: ABprpaaapa nucleus
 def: "nucleus of pedigree ABprpaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001552
 relationship: part_of WBbt:0006149
+
+[Term]
+id: WBbt:0002921
+name: ABprpaaapaa nucleus
+def: "nucleus of pedigree ABprpaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001553
+relationship: part_of WBbt:0004934
 
 [Term]
 id: WBbt:0001894
@@ -9991,6 +9710,13 @@ relationship: DESCENDENTOF WBbt:0001554
 relationship: part_of WBbt:0006695
 
 [Term]
+id: WBbt:0002458
+name: ABprpaaappaa nucleus
+def: "nucleus of pedigree ABprpaaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001555
+relationship: part_of WBbt:0004431
+
+[Term]
 id: WBbt:0006464
 name: ABprpaaappap
 def: "embryonic cell" [WB:rynl]
@@ -10003,6 +9729,13 @@ name: ABprpaaappap nucleus
 def: "nucleus of pedigree ABprpaaappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001555
 relationship: part_of WBbt:0006464
+
+[Term]
+id: WBbt:0002929
+name: ABprpaaappp nucleus
+def: "nucleus of pedigree ABprpaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001554
+relationship: part_of WBbt:0004906
 
 [Term]
 id: WBbt:0006253
@@ -10042,6 +9775,20 @@ name: ABprpaapaa nucleus
 def: "nucleus of pedigree ABprpaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001558
 relationship: part_of WBbt:0005875
+
+[Term]
+id: WBbt:0002720
+name: ABprpaapaaa nucleus
+def: "nucleus of pedigree ABprpaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001559
+relationship: part_of WBbt:0005041
+
+[Term]
+id: WBbt:0001694
+name: ABprpaapaap nucleus
+def: "nucleus of pedigree ABprpaapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001559
+relationship: part_of WBbt:0003867
 
 [Term]
 id: WBbt:0006105
@@ -10111,6 +9858,20 @@ relationship: DESCENDENTOF WBbt:0001562
 relationship: part_of WBbt:0005940
 
 [Term]
+id: WBbt:0001682
+name: ABprpaappaa nucleus
+def: "nucleus of pedigree ABprpaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001563
+relationship: part_of WBbt:0003889
+
+[Term]
+id: WBbt:0002704
+name: ABprpaappap nucleus
+def: "nucleus of pedigree ABprpaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001563
+relationship: part_of WBbt:0003942
+
+[Term]
 id: WBbt:0006280
 name: ABprpaappp
 def: "embryonic cell" [WB:rynl]
@@ -10142,6 +9903,13 @@ name: ABprpaapppp nucleus
 def: "nucleus of pedigree ABprpaapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001564
 relationship: part_of WBbt:0006508
+
+[Term]
+id: WBbt:0001900
+name: ABprpaappppa nucleus
+def: "nucleus of pedigree ABprpaappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001565
+relationship: part_of WBbt:0004931
 
 [Term]
 id: WBbt:0006709
@@ -10210,6 +9978,13 @@ relationship: DESCENDENTOF WBbt:0001569
 relationship: part_of WBbt:0006588
 
 [Term]
+id: WBbt:0002834
+name: ABprpapaaaa nucleus
+def: "nucleus of pedigree ABprpapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001570
+relationship: part_of WBbt:0004971
+
+[Term]
 id: WBbt:0001644
 name: ABprpapaaap nucleus
 def: "nucleus of pedigree ABprpapaaap" [WB:rynl]
@@ -10228,6 +10003,20 @@ name: ABprpapaap nucleus
 def: "nucleus of pedigree ABprpapaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001569
 relationship: part_of WBbt:0006010
+
+[Term]
+id: WBbt:0002747
+name: ABprpapaapa nucleus
+def: "nucleus of pedigree ABprpapaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001571
+relationship: part_of WBbt:0004987
+
+[Term]
+id: WBbt:0002753
+name: ABprpapaapp nucleus
+def: "nucleus of pedigree ABprpapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001571
+relationship: part_of WBbt:0004977
 
 [Term]
 id: WBbt:0006211
@@ -10276,6 +10065,20 @@ relationship: DESCENDENTOF WBbt:0001572
 relationship: part_of WBbt:0006651
 
 [Term]
+id: WBbt:0002749
+name: ABprpapappa nucleus
+def: "nucleus of pedigree ABprpapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001574
+relationship: part_of WBbt:0004983
+
+[Term]
+id: WBbt:0001955
+name: ABprpapappp nucleus
+def: "nucleus of pedigree ABprpapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001574
+relationship: part_of WBbt:0004858
+
+[Term]
 id: WBbt:0005852
 name: ABprpapp
 def: "embryonic cell" [WB:rynl]
@@ -10315,6 +10118,20 @@ relationship: DESCENDENTOF WBbt:0001576
 relationship: part_of WBbt:0006355
 
 [Term]
+id: WBbt:0002712
+name: ABprpappaaa nucleus
+def: "nucleus of pedigree ABprpappaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001577
+relationship: part_of WBbt:0003928
+
+[Term]
+id: WBbt:0001706
+name: ABprpappaap nucleus
+def: "nucleus of pedigree ABprpappaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001577
+relationship: part_of WBbt:0003843
+
+[Term]
 id: WBbt:0006561
 name: ABprpappap
 def: "embryonic cell" [WB:rynl]
@@ -10333,6 +10150,13 @@ name: ABprpappapa nucleus
 def: "nucleus of pedigree ABprpappapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001578
 relationship: part_of WBbt:0005045
+
+[Term]
+id: WBbt:0001960
+name: ABprpappapp nucleus
+def: "nucleus of pedigree ABprpappapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001578
+relationship: part_of WBbt:0004843
 
 [Term]
 id: WBbt:0005847
@@ -10361,6 +10185,20 @@ relationship: DESCENDENTOF WBbt:0001579
 relationship: part_of WBbt:0005972
 
 [Term]
+id: WBbt:0002717
+name: ABprpapppaa nucleus
+def: "nucleus of pedigree ABprpapppaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001580
+relationship: part_of WBbt:0005047
+
+[Term]
+id: WBbt:0001699
+name: ABprpapppap nucleus
+def: "nucleus of pedigree ABprpapppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001580
+relationship: part_of WBbt:0003850
+
+[Term]
 id: WBbt:0006658
 name: ABprpapppp
 def: "embryonic cell" [WB:rynl]
@@ -10372,6 +10210,20 @@ name: ABprpapppp nucleus
 def: "nucleus of pedigree ABprpapppp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001579
 relationship: part_of WBbt:0006658
+
+[Term]
+id: WBbt:0003244
+name: ABprpappppa nucleus
+def: "nucleus of pedigree ABprpappppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001581
+relationship: part_of WBbt:0004510
+
+[Term]
+id: WBbt:0003243
+name: ABprpappppp nucleus
+def: "nucleus of pedigree ABprpappppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001581
+relationship: part_of WBbt:0004511
 
 [Term]
 id: WBbt:0006347
@@ -10439,6 +10291,13 @@ relationship: DESCENDENTOF WBbt:0001585
 relationship: part_of WBbt:0006505
 
 [Term]
+id: WBbt:0002751
+name: ABprppaaaaa nucleus
+def: "nucleus of pedigree ABprppaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001586
+relationship: part_of WBbt:0004979
+
+[Term]
 id: WBbt:0006283
 name: ABprppaaaap
 def: "embryonic cell" [WB:rynl]
@@ -10464,6 +10323,13 @@ name: ABprppaaaapa nucleus
 def: "nucleus of pedigree ABprppaaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001587
 relationship: part_of WBbt:0005997
+
+[Term]
+id: WBbt:0002706
+name: ABprppaaaapp nucleus
+def: "nucleus of pedigree ABprppaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001587
+relationship: part_of WBbt:0003940
 
 [Term]
 id: WBbt:0006666
@@ -10520,6 +10386,13 @@ relationship: DESCENDENTOF WBbt:0001591
 relationship: part_of WBbt:0005941
 
 [Term]
+id: WBbt:0002714
+name: ABprppaapap nucleus
+def: "nucleus of pedigree ABprppaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001591
+relationship: part_of WBbt:0005053
+
+[Term]
 id: WBbt:0006684
 name: ABprppaapp
 def: "embryonic cell" [WB:rynl]
@@ -10531,6 +10404,20 @@ name: ABprppaapp nucleus
 def: "nucleus of pedigree ABprppaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001590
 relationship: part_of WBbt:0006684
+
+[Term]
+id: WBbt:0001636
+name: ABprppaappa nucleus
+def: "nucleus of pedigree ABprppaappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001593
+relationship: part_of WBbt:0003987
+
+[Term]
+id: WBbt:0001963
+name: ABprppaappp nucleus
+def: "nucleus of pedigree ABprppaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001593
+relationship: part_of WBbt:0004840
 
 [Term]
 id: WBbt:0006346
@@ -10585,6 +10472,27 @@ relationship: DESCENDENTOF WBbt:0001596
 relationship: part_of WBbt:0006610
 
 [Term]
+id: WBbt:0002743
+name: ABprppapaaaa nucleus
+def: "nucleus of pedigree ABprppapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001597
+relationship: part_of WBbt:0004997
+
+[Term]
+id: WBbt:0002709
+name: ABprppapaaap nucleus
+def: "nucleus of pedigree ABprppapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001597
+relationship: part_of WBbt:0003934
+
+[Term]
+id: WBbt:0001948
+name: ABprppapaap nucleus
+def: "nucleus of pedigree ABprppapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001596
+relationship: part_of WBbt:0004871
+
+[Term]
 id: WBbt:0006364
 name: ABprppapap
 def: "embryonic cell" [WB:rynl]
@@ -10596,6 +10504,20 @@ name: ABprppapap nucleus
 def: "nucleus of pedigree ABprppapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001595
 relationship: part_of WBbt:0006364
+
+[Term]
+id: WBbt:0001950
+name: ABprppapapa nucleus
+def: "nucleus of pedigree ABprppapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001598
+relationship: part_of WBbt:0004867
+
+[Term]
+id: WBbt:0001952
+name: ABprppapapp nucleus
+def: "nucleus of pedigree ABprppapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001598
+relationship: part_of WBbt:0004863
 
 [Term]
 id: WBbt:0005929
@@ -10624,6 +10546,20 @@ relationship: DESCENDENTOF WBbt:0001599
 relationship: part_of WBbt:0006617
 
 [Term]
+id: WBbt:0002711
+name: ABprppappaa nucleus
+def: "nucleus of pedigree ABprppappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001600
+relationship: part_of WBbt:0003930
+
+[Term]
+id: WBbt:0001965
+name: ABprppappap nucleus
+def: "nucleus of pedigree ABprppappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001600
+relationship: part_of WBbt:0004838
+
+[Term]
 id: WBbt:0006388
 name: ABprppappp
 def: "embryonic cell" [WB:rynl]
@@ -10635,6 +10571,20 @@ name: ABprppappp nucleus
 def: "nucleus of pedigree ABprppappp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001599
 relationship: part_of WBbt:0006388
+
+[Term]
+id: WBbt:0001967
+name: ABprppapppa nucleus
+def: "nucleus of pedigree ABprppapppa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001601
+relationship: part_of WBbt:0004826
+
+[Term]
+id: WBbt:0001969
+name: ABprppapppp nucleus
+def: "nucleus of pedigree ABprppapppp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001601
+relationship: part_of WBbt:0004824
 
 [Term]
 id: WBbt:0006158
@@ -10720,6 +10670,27 @@ name: ABprpppaapa nucleus
 def: "nucleus of pedigree ABprpppaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001606
 relationship: part_of WBbt:0006549
+
+[Term]
+id: WBbt:0002624
+name: ABprpppaapaa nucleus
+def: "nucleus of pedigree ABprpppaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001607
+relationship: part_of WBbt:0004092
+
+[Term]
+id: WBbt:0002180
+name: ABprpppaapap nucleus
+def: "nucleus of pedigree ABprpppaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001607
+relationship: part_of WBbt:0004491
+
+[Term]
+id: WBbt:0002607
+name: ABprpppaapp nucleus
+def: "nucleus of pedigree ABprpppaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001606
+relationship: part_of WBbt:0004365
 
 [Term]
 id: WBbt:0006237
@@ -10821,6 +10792,21 @@ relationship: DESCENDENTOF WBbt:0001613
 relationship: part_of WBbt:0006642
 
 [Term]
+id: WBbt:0002631
+name: ABprppppaaa nucleus
+def: "nucleus of pedigree ABprppppaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001614
+relationship: part_of WBbt:0004078
+relationship: part_of WBbt:0007837
+
+[Term]
+id: WBbt:0002700
+name: ABprppppaap nucleus
+def: "nucleus of pedigree ABprppppaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001614
+relationship: part_of WBbt:0004776
+
+[Term]
 id: WBbt:0006439
 name: ABprppppap
 def: "embryonic cell" [WB:rynl]
@@ -10899,6 +10885,14 @@ relationship: DESCENDENTOF WBbt:0001617
 relationship: part_of WBbt:0006138
 
 [Term]
+id: WBbt:0002438
+name: ABprpppppap nucleus
+def: "nucleus of pedigree ABprpppppap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001617
+relationship: part_of WBbt:0008387
+relationship: part_of WBbt:0008388
+
+[Term]
 id: WBbt:0006430
 name: ABprpppppp
 def: "embryonic cell" [WB:rynl]
@@ -10933,6 +10927,12 @@ relationship: DESCENDENTOF WBbt:0001619
 relationship: part_of WBbt:0004378
 relationship: part_of WBbt:0006256
 relationship: part_of WBbt:0008354
+
+[Term]
+id: WBbt:0005428
+name: ABpxppxx
+def: "collection of specific banches of the AB.p lineage" [WB:rynl]
+is_obsolete: true
 
 [Term]
 id: WBbt:0005728
@@ -13326,18 +13326,6 @@ id: WBbt:0000100
 name: C. elegans Cell and Anatomy Ontology
 
 [Term]
-id: WBbt:0007105
-name: Caappv
-def: "post-embryonic cell of pedigree Caappv" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0007106
-name: Cpappv
-def: "post-embryonic cell of pedigree Cpappv" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
 id: WBbt:0005252
 name: C.xxp
 is_obsolete: true
@@ -13950,6 +13938,12 @@ relationship: part_of WBbt:0004663
 relationship: part_of WBbt:0005991
 relationship: part_of WBbt:0008070
 relationship: part_of WBbt:0008071
+
+[Term]
+id: WBbt:0007105
+name: Caappv
+def: "post-embryonic cell of pedigree Caappv" [WB:rynl]
+is_a: WBbt:0007030
 
 [Term]
 id: WBbt:0002634
@@ -14692,6 +14686,12 @@ relationship: part_of WBbt:0004656
 relationship: part_of WBbt:0006100
 relationship: part_of WBbt:0008070
 relationship: part_of WBbt:0008071
+
+[Term]
+id: WBbt:0007106
+name: Cpappv
+def: "post-embryonic cell of pedigree Cpappv" [WB:rynl]
+is_a: WBbt:0007030
 
 [Term]
 id: WBbt:0002095
@@ -16278,20 +16278,6 @@ relationship: part_of WBbt:0007110
 relationship: part_of WBbt:0008229
 
 [Term]
-id: WBbt:0002130
-name: Earaad nucleus
-def: "nucleus of pedigree Earaad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001983
-relationship: part_of WBbt:0004356
-
-[Term]
-id: WBbt:0002132
-name: Earaav nucleus
-def: "nucleus of pedigree Earaav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0001983
-relationship: part_of WBbt:0004355
-
-[Term]
 id: WBbt:0007111
 name: E.arapa
 def: "post-embryonic cell of pedigree E.arapa" [WB:rynl]
@@ -16871,6 +16857,20 @@ name: Earaa nucleus
 def: "nucleus of pedigree Earaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001982
 relationship: part_of WBbt:0005959
+
+[Term]
+id: WBbt:0002130
+name: Earaad nucleus
+def: "nucleus of pedigree Earaad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001983
+relationship: part_of WBbt:0004356
+
+[Term]
+id: WBbt:0002132
+name: Earaav nucleus
+def: "nucleus of pedigree Earaav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0001983
+relationship: part_of WBbt:0004355
 
 [Term]
 id: WBbt:0002135
@@ -19518,370 +19518,6 @@ relationship: DESCENDENTOF WBbt:0002003
 relationship: part_of WBbt:0004458
 
 [Term]
-id: WBbt:0002034
-name: MSaaaaaal nucleus
-def: "nucleus of pedigree MSaaaaaal" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002306
-relationship: part_of WBbt:0004786
-
-[Term]
-id: WBbt:0002035
-name: MSaaaaaar nucleus
-def: "nucleus of pedigree MSaaaaaar" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002306
-relationship: part_of WBbt:0004785
-
-[Term]
-id: WBbt:0002101
-name: MSaaaaapaa nucleus
-def: "nucleus of pedigree MSaaaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002308
-relationship: part_of WBbt:0004742
-
-[Term]
-id: WBbt:0002268
-name: MSaaaaapp nucleus
-def: "nucleus of pedigree MSaaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002307
-relationship: part_of WBbt:0003743
-relationship: part_of WBbt:0004320
-
-[Term]
-id: WBbt:0002102
-name: MSaaaapaa nucleus
-def: "nucleus of pedigree MSaaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002310
-relationship: part_of WBbt:0004741
-
-[Term]
-id: WBbt:0002275
-name: MSaaaapap nucleus
-def: "nucleus of pedigree MSaaaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002310
-relationship: part_of WBbt:0003736
-relationship: part_of WBbt:0004314
-
-[Term]
-id: WBbt:0002284
-name: MSaaaappp nucleus
-def: "nucleus of pedigree MSaaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002311
-relationship: part_of WBbt:0004305
-
-[Term]
-id: WBbt:0002259
-name: MSaaapaaa nucleus
-def: "nucleus of pedigree MSaaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002315
-relationship: part_of WBbt:0003630
-relationship: part_of WBbt:0004326
-
-[Term]
-id: WBbt:0002270
-name: MSaaapaap nucleus
-def: "nucleus of pedigree MSaaapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002315
-relationship: part_of WBbt:0003628
-relationship: part_of WBbt:0004318
-
-[Term]
-id: WBbt:0002294
-name: MSaaapapa nucleus
-def: "nucleus of pedigree MSaaapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002316
-relationship: part_of WBbt:0003707
-relationship: part_of WBbt:0004295
-
-[Term]
-id: WBbt:0002287
-name: MSaaapapp nucleus
-def: "nucleus of pedigree MSaaapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002316
-relationship: part_of WBbt:0004302
-
-[Term]
-id: WBbt:0003249
-name: MSaaappp nucleus
-def: "nucleus of pedigree MSaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002317
-relationship: part_of WBbt:0004485
-
-[Term]
-id: WBbt:0002272
-name: MSaapaaaa nucleus
-def: "nucleus of pedigree MSaapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002322
-relationship: part_of WBbt:0003628
-relationship: part_of WBbt:0004316
-
-[Term]
-id: WBbt:0002279
-name: MSaapaaap nucleus
-def: "nucleus of pedigree MSaapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002322
-relationship: part_of WBbt:0003738
-relationship: part_of WBbt:0004310
-
-[Term]
-id: WBbt:0002285
-name: MSaapaapp nucleus
-def: "nucleus of pedigree MSaapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002323
-relationship: part_of WBbt:0004304
-
-[Term]
-id: WBbt:0002032
-name: MSaapapaa nucleus
-def: "nucleus of pedigree MSaapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002327
-relationship: part_of WBbt:0004526
-
-[Term]
-id: WBbt:0002282
-name: MSaapappa nucleus
-def: "nucleus of pedigree MSaapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002329
-relationship: part_of WBbt:0004307
-
-[Term]
-id: WBbt:0003246
-name: MSaapappp nucleus
-def: "nucleus of pedigree MSaapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002329
-relationship: part_of WBbt:0004508
-
-[Term]
-id: WBbt:0003248
-name: MSaappaa nucleus
-def: "nucleus of pedigree MSaappaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002331
-relationship: part_of WBbt:0004486
-
-[Term]
-id: WBbt:0003250
-name: MSaappap nucleus
-def: "nucleus of pedigree MSaappap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002331
-relationship: part_of WBbt:0004484
-
-[Term]
-id: WBbt:0002036
-name: MSapaaaad nucleus
-def: "nucleus of pedigree MSapaaaad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002343
-relationship: part_of WBbt:0004784
-
-[Term]
-id: WBbt:0002038
-name: MSapaaaav nucleus
-def: "nucleus of pedigree MSapaaaav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002343
-relationship: part_of WBbt:0004782
-
-[Term]
-id: WBbt:0007204
-name: MSapaapp
-def: "post-embryonic cell of pedigree MSapaapp" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0001883
-name: MSapapaaa nucleus
-def: "nucleus of pedigree MSapapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002349
-relationship: part_of WBbt:0004561
-
-[Term]
-id: WBbt:0001885
-name: MSapapaap nucleus
-def: "nucleus of pedigree MSapapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002349
-relationship: part_of WBbt:0004559
-
-[Term]
-id: WBbt:0002083
-name: MSappaaa nucleus
-def: "nucleus of pedigree MSappaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002356
-relationship: part_of WBbt:0004697
-
-[Term]
-id: WBbt:0003462
-name: MSappaap nucleus
-def: "nucleus of pedigree MSappaap" [WB:rynl]
-synonym: "Z4 nucleus" []
-relationship: DESCENDENTOF WBbt:0002356
-relationship: part_of WBbt:0004574
-
-[Term]
-id: WBbt:0002267
-name: MSpaaaaaa nucleus
-def: "nucleus of pedigree MSpaaaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002372
-relationship: part_of WBbt:0004467
-
-[Term]
-id: WBbt:0002260
-name: MSpaaaapa nucleus
-def: "nucleus of pedigree MSpaaaapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002374
-relationship: part_of WBbt:0003630
-relationship: part_of WBbt:0004325
-
-[Term]
-id: WBbt:0002269
-name: MSpaaaapp nucleus
-def: "nucleus of pedigree MSpaaaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002374
-relationship: part_of WBbt:0003743
-relationship: part_of WBbt:0004319
-
-[Term]
-id: WBbt:0002104
-name: MSpaaapaa nucleus
-def: "nucleus of pedigree MSpaaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002376
-relationship: part_of WBbt:0004739
-
-[Term]
-id: WBbt:0002274
-name: MSpaaapap nucleus
-def: "nucleus of pedigree MSpaaapap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002376
-relationship: part_of WBbt:0004465
-
-[Term]
-id: WBbt:0002276
-name: MSpaaappa nucleus
-def: "nucleus of pedigree MSpaaappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002377
-relationship: part_of WBbt:0003736
-relationship: part_of WBbt:0004313
-
-[Term]
-id: WBbt:0002281
-name: MSpaaappp nucleus
-def: "nucleus of pedigree MSpaaappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002377
-relationship: part_of WBbt:0004308
-
-[Term]
-id: WBbt:0002244
-name: MSpaapaaa nucleus
-def: "nucleus of pedigree MSpaapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002380
-relationship: part_of WBbt:0004488
-
-[Term]
-id: WBbt:0002295
-name: MSpaapapa nucleus
-def: "nucleus of pedigree MSpaapapa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002382
-relationship: part_of WBbt:0003707
-relationship: part_of WBbt:0004294
-
-[Term]
-id: WBbt:0003245
-name: MSpaapapp nucleus
-def: "nucleus of pedigree MSpaapapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002382
-relationship: part_of WBbt:0004509
-
-[Term]
-id: WBbt:0007205
-name: MSpapaaaa
-def: "post-embryonic cell of pedigree MSpapaaaa" [WB:rynl]
-is_a: WBbt:0007030
-
-[Term]
-id: WBbt:0002273
-name: MSpapaaaa nucleus
-def: "nucleus of pedigree MSpapaaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002387
-relationship: part_of WBbt:0003741
-relationship: part_of WBbt:0004315
-relationship: part_of WBbt:0007205
-
-[Term]
-id: WBbt:0002280
-name: MSpapaaap nucleus
-def: "nucleus of pedigree MSpapaaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002387
-relationship: part_of WBbt:0003735
-relationship: part_of WBbt:0004309
-
-[Term]
-id: WBbt:0002028
-name: MSpapaapaa nucleus
-def: "nucleus of pedigree MSpapaapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002389
-relationship: part_of WBbt:0004530
-relationship: part_of WBbt:0008350
-
-[Term]
-id: WBbt:0002286
-name: MSpapaapp nucleus
-def: "nucleus of pedigree MSpapaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002388
-relationship: part_of WBbt:0004303
-
-[Term]
-id: WBbt:0002033
-name: MSpapapaa nucleus
-def: "nucleus of pedigree MSpapapaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002392
-relationship: part_of WBbt:0004524
-
-[Term]
-id: WBbt:0002283
-name: MSpapappa nucleus
-def: "nucleus of pedigree MSpapappa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002394
-relationship: part_of WBbt:0004306
-
-[Term]
-id: WBbt:0003247
-name: MSpapappp nucleus
-def: "nucleus of pedigree MSpapappp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002394
-relationship: part_of WBbt:0004507
-
-[Term]
-id: WBbt:0002037
-name: MSppaaaad nucleus
-def: "nucleus of pedigree MSppaaaad" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002410
-relationship: part_of WBbt:0004783
-
-[Term]
-id: WBbt:0002039
-name: MSppaaaav nucleus
-def: "nucleus of pedigree MSppaaaav" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002410
-relationship: part_of WBbt:0004781
-
-[Term]
-id: WBbt:0002437
-name: MSppaapp nucleus
-def: "nucleus of pedigree MSppaapp" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002412
-relationship: part_of WBbt:0003822
-
-[Term]
-id: WBbt:0001884
-name: MSppapaaa nucleus
-def: "nucleus of pedigree MSppapaaa" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002416
-relationship: part_of WBbt:0004560
-
-[Term]
-id: WBbt:0001886
-name: MSppapaap nucleus
-def: "nucleus of pedigree MSppapaap" [WB:rynl]
-relationship: DESCENDENTOF WBbt:0002416
-relationship: part_of WBbt:0004558
-
-[Term]
 id: WBbt:0006086
 name: MSa
 def: "embryonic cell" [WB:rynl]
@@ -19960,6 +19596,20 @@ relationship: DESCENDENTOF WBbt:0002305
 relationship: part_of WBbt:0006391
 
 [Term]
+id: WBbt:0002034
+name: MSaaaaaal nucleus
+def: "nucleus of pedigree MSaaaaaal" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002306
+relationship: part_of WBbt:0004786
+
+[Term]
+id: WBbt:0002035
+name: MSaaaaaar nucleus
+def: "nucleus of pedigree MSaaaaaar" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002306
+relationship: part_of WBbt:0004785
+
+[Term]
 id: WBbt:0006609
 name: MSaaaaap
 def: "embryonic cell" [WB:rynl]
@@ -19984,6 +19634,21 @@ name: MSaaaaapa nucleus
 def: "nucleus of pedigree MSaaaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002307
 relationship: part_of WBbt:0006202
+
+[Term]
+id: WBbt:0002101
+name: MSaaaaapaa nucleus
+def: "nucleus of pedigree MSaaaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002308
+relationship: part_of WBbt:0004742
+
+[Term]
+id: WBbt:0002268
+name: MSaaaaapp nucleus
+def: "nucleus of pedigree MSaaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002307
+relationship: part_of WBbt:0003743
+relationship: part_of WBbt:0004320
 
 [Term]
 id: WBbt:0006143
@@ -20012,6 +19677,21 @@ relationship: DESCENDENTOF WBbt:0002309
 relationship: part_of WBbt:0006349
 
 [Term]
+id: WBbt:0002102
+name: MSaaaapaa nucleus
+def: "nucleus of pedigree MSaaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002310
+relationship: part_of WBbt:0004741
+
+[Term]
+id: WBbt:0002275
+name: MSaaaapap nucleus
+def: "nucleus of pedigree MSaaaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002310
+relationship: part_of WBbt:0003736
+relationship: part_of WBbt:0004314
+
+[Term]
 id: WBbt:0006595
 name: MSaaaapp
 def: "embryonic cell" [WB:rynl]
@@ -20037,6 +19717,13 @@ name: MSaaaappa nucleus
 def: "nucleus of pedigree MSaaaappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002311
 relationship: part_of WBbt:0005918
+
+[Term]
+id: WBbt:0002284
+name: MSaaaappp nucleus
+def: "nucleus of pedigree MSaaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002311
+relationship: part_of WBbt:0004305
 
 [Term]
 id: WBbt:0006160
@@ -20078,6 +19765,22 @@ relationship: DESCENDENTOF WBbt:0002314
 relationship: part_of WBbt:0006183
 
 [Term]
+id: WBbt:0002259
+name: MSaaapaaa nucleus
+def: "nucleus of pedigree MSaaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002315
+relationship: part_of WBbt:0003630
+relationship: part_of WBbt:0004326
+
+[Term]
+id: WBbt:0002270
+name: MSaaapaap nucleus
+def: "nucleus of pedigree MSaaapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002315
+relationship: part_of WBbt:0003628
+relationship: part_of WBbt:0004318
+
+[Term]
 id: WBbt:0006485
 name: MSaaapap
 def: "embryonic cell" [WB:rynl]
@@ -20089,6 +19792,21 @@ name: MSaaapap nucleus
 def: "nucleus of pedigree MSaaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002314
 relationship: part_of WBbt:0006485
+
+[Term]
+id: WBbt:0002294
+name: MSaaapapa nucleus
+def: "nucleus of pedigree MSaaapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002316
+relationship: part_of WBbt:0003707
+relationship: part_of WBbt:0004295
+
+[Term]
+id: WBbt:0002287
+name: MSaaapapp nucleus
+def: "nucleus of pedigree MSaaapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002316
+relationship: part_of WBbt:0004302
 
 [Term]
 id: WBbt:0005892
@@ -20116,6 +19834,13 @@ name: MSaaappa nucleus
 def: "nucleus of pedigree MSaaappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002317
 relationship: part_of WBbt:0006102
+
+[Term]
+id: WBbt:0003249
+name: MSaaappp nucleus
+def: "nucleus of pedigree MSaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002317
+relationship: part_of WBbt:0004485
 
 [Term]
 id: WBbt:0006312
@@ -20170,6 +19895,22 @@ relationship: DESCENDENTOF WBbt:0002321
 relationship: part_of WBbt:0005965
 
 [Term]
+id: WBbt:0002272
+name: MSaapaaaa nucleus
+def: "nucleus of pedigree MSaapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002322
+relationship: part_of WBbt:0003628
+relationship: part_of WBbt:0004316
+
+[Term]
+id: WBbt:0002279
+name: MSaapaaap nucleus
+def: "nucleus of pedigree MSaapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002322
+relationship: part_of WBbt:0003738
+relationship: part_of WBbt:0004310
+
+[Term]
 id: WBbt:0006169
 name: MSaapaap
 def: "embryonic cell" [WB:rynl]
@@ -20210,6 +19951,13 @@ relationship: DESCENDENTOF WBbt:0002324
 relationship: part_of WBbt:0006639
 
 [Term]
+id: WBbt:0002285
+name: MSaapaapp nucleus
+def: "nucleus of pedigree MSaapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002323
+relationship: part_of WBbt:0004304
+
+[Term]
 id: WBbt:0006533
 name: MSaapap
 def: "embryonic cell" [WB:rynl]
@@ -20234,6 +19982,13 @@ name: MSaapapa nucleus
 def: "nucleus of pedigree MSaapapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002326
 relationship: part_of WBbt:0006323
+
+[Term]
+id: WBbt:0002032
+name: MSaapapaa nucleus
+def: "nucleus of pedigree MSaapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002327
+relationship: part_of WBbt:0004526
 
 [Term]
 id: WBbt:0005996
@@ -20263,6 +20018,20 @@ relationship: DESCENDENTOF WBbt:0002326
 relationship: part_of WBbt:0006635
 
 [Term]
+id: WBbt:0002282
+name: MSaapappa nucleus
+def: "nucleus of pedigree MSaapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002329
+relationship: part_of WBbt:0004307
+
+[Term]
+id: WBbt:0003246
+name: MSaapappp nucleus
+def: "nucleus of pedigree MSaapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002329
+relationship: part_of WBbt:0004508
+
+[Term]
 id: WBbt:0006425
 name: MSaapp
 def: "embryonic cell" [WB:rynl]
@@ -20287,6 +20056,20 @@ name: MSaappa nucleus
 def: "nucleus of pedigree MSaappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002330
 relationship: part_of WBbt:0006200
+
+[Term]
+id: WBbt:0003248
+name: MSaappaa nucleus
+def: "nucleus of pedigree MSaappaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002331
+relationship: part_of WBbt:0004486
+
+[Term]
+id: WBbt:0003250
+name: MSaappap nucleus
+def: "nucleus of pedigree MSaappap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002331
+relationship: part_of WBbt:0004484
 
 [Term]
 id: WBbt:0006714
@@ -20469,6 +20252,20 @@ relationship: DESCENDENTOF WBbt:0002342
 relationship: part_of WBbt:0006540
 
 [Term]
+id: WBbt:0002036
+name: MSapaaaad nucleus
+def: "nucleus of pedigree MSapaaaad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002343
+relationship: part_of WBbt:0004784
+
+[Term]
+id: WBbt:0002038
+name: MSapaaaav nucleus
+def: "nucleus of pedigree MSapaaaav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002343
+relationship: part_of WBbt:0004782
+
+[Term]
 id: WBbt:0006306
 name: MSapaaap
 alt_id: WBbt:0003877
@@ -20513,6 +20310,12 @@ name: MSapaapa nucleus
 def: "nucleus of pedigree MSapaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002345
 relationship: part_of WBbt:0005928
+
+[Term]
+id: WBbt:0007204
+name: MSapaapp
+def: "post-embryonic cell of pedigree MSapaapp" [WB:rynl]
+is_a: WBbt:0007030
 
 [Term]
 id: WBbt:0002181
@@ -20561,6 +20364,20 @@ name: MSapapaa nucleus
 def: "nucleus of pedigree MSapapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002348
 relationship: part_of WBbt:0005881
+
+[Term]
+id: WBbt:0001883
+name: MSapapaaa nucleus
+def: "nucleus of pedigree MSapapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002349
+relationship: part_of WBbt:0004561
+
+[Term]
+id: WBbt:0001885
+name: MSapapaap nucleus
+def: "nucleus of pedigree MSapapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002349
+relationship: part_of WBbt:0004559
 
 [Term]
 id: WBbt:0006685
@@ -20670,6 +20487,21 @@ name: MSappaa nucleus
 def: "nucleus of pedigree MSappaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002355
 relationship: part_of WBbt:0006509
+
+[Term]
+id: WBbt:0002083
+name: MSappaaa nucleus
+def: "nucleus of pedigree MSappaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002356
+relationship: part_of WBbt:0004697
+
+[Term]
+id: WBbt:0003462
+name: MSappaap nucleus
+def: "nucleus of pedigree MSappaap" [WB:rynl]
+synonym: "Z4 nucleus" []
+relationship: DESCENDENTOF WBbt:0002356
+relationship: part_of WBbt:0004574
 
 [Term]
 id: WBbt:0006249
@@ -20911,6 +20743,13 @@ relationship: DESCENDENTOF WBbt:0002371
 relationship: part_of WBbt:0006363
 
 [Term]
+id: WBbt:0002267
+name: MSpaaaaaa nucleus
+def: "nucleus of pedigree MSpaaaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002372
+relationship: part_of WBbt:0004467
+
+[Term]
 id: WBbt:0006122
 name: MSpaaaaap
 def: "embryonic cell" [WB:rynl]
@@ -20936,6 +20775,22 @@ name: MSpaaaap nucleus
 def: "nucleus of pedigree MSpaaaap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002371
 relationship: part_of WBbt:0005914
+
+[Term]
+id: WBbt:0002260
+name: MSpaaaapa nucleus
+def: "nucleus of pedigree MSpaaaapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002374
+relationship: part_of WBbt:0003630
+relationship: part_of WBbt:0004325
+
+[Term]
+id: WBbt:0002269
+name: MSpaaaapp nucleus
+def: "nucleus of pedigree MSpaaaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002374
+relationship: part_of WBbt:0003743
+relationship: part_of WBbt:0004319
 
 [Term]
 id: WBbt:0006030
@@ -20964,6 +20819,20 @@ relationship: DESCENDENTOF WBbt:0002375
 relationship: part_of WBbt:0006241
 
 [Term]
+id: WBbt:0002104
+name: MSpaaapaa nucleus
+def: "nucleus of pedigree MSpaaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002376
+relationship: part_of WBbt:0004739
+
+[Term]
+id: WBbt:0002274
+name: MSpaaapap nucleus
+def: "nucleus of pedigree MSpaaapap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002376
+relationship: part_of WBbt:0004465
+
+[Term]
 id: WBbt:0006468
 name: MSpaaapp
 def: "embryonic cell" [WB:rynl]
@@ -20975,6 +20844,21 @@ name: MSpaaapp nucleus
 def: "nucleus of pedigree MSpaaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002375
 relationship: part_of WBbt:0006468
+
+[Term]
+id: WBbt:0002276
+name: MSpaaappa nucleus
+def: "nucleus of pedigree MSpaaappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002377
+relationship: part_of WBbt:0003736
+relationship: part_of WBbt:0004313
+
+[Term]
+id: WBbt:0002281
+name: MSpaaappp nucleus
+def: "nucleus of pedigree MSpaaappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002377
+relationship: part_of WBbt:0004308
 
 [Term]
 id: WBbt:0005878
@@ -21016,6 +20900,13 @@ relationship: DESCENDENTOF WBbt:0002379
 relationship: part_of WBbt:0006032
 
 [Term]
+id: WBbt:0002244
+name: MSpaapaaa nucleus
+def: "nucleus of pedigree MSpaapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002380
+relationship: part_of WBbt:0004488
+
+[Term]
 id: WBbt:0006692
 name: MSpaapaap
 def: "embryonic cell" [WB:rynl]
@@ -21041,6 +20932,21 @@ name: MSpaapap nucleus
 def: "nucleus of pedigree MSpaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002379
 relationship: part_of WBbt:0006474
+
+[Term]
+id: WBbt:0002295
+name: MSpaapapa nucleus
+def: "nucleus of pedigree MSpaapapa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002382
+relationship: part_of WBbt:0003707
+relationship: part_of WBbt:0004294
+
+[Term]
+id: WBbt:0003245
+name: MSpaapapp nucleus
+def: "nucleus of pedigree MSpaapapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002382
+relationship: part_of WBbt:0004509
 
 [Term]
 id: WBbt:0006204
@@ -21109,6 +21015,29 @@ relationship: DESCENDENTOF WBbt:0002386
 relationship: part_of WBbt:0006191
 
 [Term]
+id: WBbt:0007205
+name: MSpapaaaa
+def: "post-embryonic cell of pedigree MSpapaaaa" [WB:rynl]
+is_a: WBbt:0007030
+
+[Term]
+id: WBbt:0002273
+name: MSpapaaaa nucleus
+def: "nucleus of pedigree MSpapaaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002387
+relationship: part_of WBbt:0003741
+relationship: part_of WBbt:0004315
+relationship: part_of WBbt:0007205
+
+[Term]
+id: WBbt:0002280
+name: MSpapaaap nucleus
+def: "nucleus of pedigree MSpapaaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002387
+relationship: part_of WBbt:0003735
+relationship: part_of WBbt:0004309
+
+[Term]
 id: WBbt:0005987
 name: MSpapaap
 def: "embryonic cell" [WB:rynl]
@@ -21135,6 +21064,14 @@ relationship: DESCENDENTOF WBbt:0002388
 relationship: part_of WBbt:0006627
 
 [Term]
+id: WBbt:0002028
+name: MSpapaapaa nucleus
+def: "nucleus of pedigree MSpapaapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002389
+relationship: part_of WBbt:0004530
+relationship: part_of WBbt:0008350
+
+[Term]
 id: WBbt:0006418
 name: MSpapaapap
 def: "embryonic cell" [WB:rynl]
@@ -21147,6 +21084,13 @@ name: MSpapaapap nucleus
 def: "nucleus of pedigree MSpapaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002389
 relationship: part_of WBbt:0006418
+
+[Term]
+id: WBbt:0002286
+name: MSpapaapp nucleus
+def: "nucleus of pedigree MSpapaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002388
+relationship: part_of WBbt:0004303
 
 [Term]
 id: WBbt:0005968
@@ -21175,6 +21119,13 @@ relationship: DESCENDENTOF WBbt:0002391
 relationship: part_of WBbt:0006308
 
 [Term]
+id: WBbt:0002033
+name: MSpapapaa nucleus
+def: "nucleus of pedigree MSpapapaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002392
+relationship: part_of WBbt:0004524
+
+[Term]
 id: WBbt:0006622
 name: MSpapapap
 def: "embryonic cell" [WB:rynl]
@@ -21200,6 +21151,20 @@ name: MSpapapp nucleus
 def: "nucleus of pedigree MSpapapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002391
 relationship: part_of WBbt:0006415
+
+[Term]
+id: WBbt:0002283
+name: MSpapappa nucleus
+def: "nucleus of pedigree MSpapappa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002394
+relationship: part_of WBbt:0004306
+
+[Term]
+id: WBbt:0003247
+name: MSpapappp nucleus
+def: "nucleus of pedigree MSpapappp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002394
+relationship: part_of WBbt:0004507
 
 [Term]
 id: WBbt:0006201
@@ -21446,6 +21411,20 @@ relationship: DESCENDENTOF WBbt:0002409
 relationship: part_of WBbt:0006124
 
 [Term]
+id: WBbt:0002037
+name: MSppaaaad nucleus
+def: "nucleus of pedigree MSppaaaad" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002410
+relationship: part_of WBbt:0004783
+
+[Term]
+id: WBbt:0002039
+name: MSppaaaav nucleus
+def: "nucleus of pedigree MSppaaaav" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002410
+relationship: part_of WBbt:0004781
+
+[Term]
 id: WBbt:0006342
 name: MSppaaap
 alt_id: WBbt:0003842
@@ -21492,6 +21471,13 @@ relationship: DESCENDENTOF WBbt:0002412
 relationship: part_of WBbt:0006154
 
 [Term]
+id: WBbt:0002437
+name: MSppaapp nucleus
+def: "nucleus of pedigree MSppaapp" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002412
+relationship: part_of WBbt:0003822
+
+[Term]
 id: WBbt:0006383
 name: MSppap
 def: "embryonic cell" [WB:rynl]
@@ -21529,6 +21515,20 @@ name: MSppapaa nucleus
 def: "nucleus of pedigree MSppapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002415
 relationship: part_of WBbt:0006539
+
+[Term]
+id: WBbt:0001884
+name: MSppapaaa nucleus
+def: "nucleus of pedigree MSppapaaa" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002416
+relationship: part_of WBbt:0004560
+
+[Term]
+id: WBbt:0001886
+name: MSppapaap nucleus
+def: "nucleus of pedigree MSppapaap" [WB:rynl]
+relationship: DESCENDENTOF WBbt:0002416
+relationship: part_of WBbt:0004558
 
 [Term]
 id: WBbt:0005848
@@ -37187,7 +37187,7 @@ name: Z1.ppaaaaa (5L) nucleus
 def: "nucleus of pedigree Z1.ppaaaaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003412
 relationship: part_of WBbt:0007638
-relationship: part_of WBbt:0008214
+relationship: part_of WBbt:0008211
 relationship: part_of WBbt:0008216
 
 [Term]
@@ -37228,7 +37228,7 @@ name: Z1.ppaaaap (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaaaap (5L)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaaaap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003414
@@ -37245,7 +37245,7 @@ name: Z1.ppaaaap (5R)
 def: "Ventral uterus; cell of pedigree Z1.ppaaaap (5R)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaaaap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005679
@@ -37305,7 +37305,7 @@ def: "nucleus of pedigree Z1.ppaaapa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003415
 relationship: part_of WBbt:0004129
 relationship: part_of WBbt:0007641
-relationship: part_of WBbt:0008214
+relationship: part_of WBbt:0008211
 
 [Term]
 id: WBbt:0008213
@@ -37337,7 +37337,7 @@ name: Z1.ppaaapp (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaaapp (5L)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaaapp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003417
@@ -37354,7 +37354,7 @@ name: Z1.ppaaapp (5R)
 def: "Ventral uterus; cell of pedigree Z1.ppaaapp (5R)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaaapp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005682
@@ -37465,7 +37465,7 @@ name: Z1.ppaapaa (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaapaa (5L)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaapaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003420
@@ -37482,7 +37482,7 @@ name: Z1.ppaapaa (5R)
 def: "Ventral uterus; cell of pedigree Z1.ppaapaa (5R)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaapaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005686
@@ -37506,7 +37506,7 @@ name: Z1.ppaapap (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaapap (5L)\, a precursor of posterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaapap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003421
@@ -37523,7 +37523,7 @@ name: Z1.ppaapap (5R)
 def: "Ventral uterus; cell of pedigree Z1.ppaapap (5R)\, a precursor of anterior ut3 syncytium." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaapap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005687
@@ -37567,7 +37567,7 @@ name: Z1.ppaappa (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaappa (5L)\, a precursor of posterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaappa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003423
@@ -37585,8 +37585,8 @@ alt_id: WBbt:0005092
 def: "post-embryonic cell of pedigree Z1.ppaapp\[a/v\] (5R)\, a precursor of anterior ut2 syncytium." [WB:rynl]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaappa" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005688
@@ -37604,8 +37604,8 @@ alt_id: WBbt:0007653
 def: "Ventral uterus; cell of pedigree Z1.ppaappp (5L)\, a precursor of posterior ut1 syncytium." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaappp" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003424
@@ -37624,8 +37624,8 @@ def: "post-embryonic cell of pedigree Z1.ppaapp\[p/d\]\, 5R configuration\, a pr
 synonym: "Z1.ppaappd (5R)" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppaappp" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005689
@@ -37724,7 +37724,7 @@ name: Z1.ppapaaa (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppapaaa (5L)\,  a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapaaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003428
@@ -37747,7 +37747,7 @@ name: Z1.ppapaap (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppapaap (5L)\, a precursor of posterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapaap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003429
@@ -37776,7 +37776,7 @@ def: "Ventral uterus; cell of pedigree Z1.ppapad (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapad" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005692
@@ -37807,8 +37807,8 @@ alt_id: WBbt:0007661
 def: "Ventral uterus; cell of pedigree Z1.ppapapa (5L)\, a precursor of posterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapapa" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003432
@@ -37825,8 +37825,8 @@ alt_id: WBbt:0007662
 def: "Ventral uterus; cell of pedigree Z1.ppapapp (5L)\, a precursor of posterior syncytium ut1." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapapp" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003433
@@ -37854,8 +37854,8 @@ def: "Ventral uterus; cell of pedigree Z1.ppapav (5R)." [ISBN:0-87969-307-X]
 synonym: "VT4l" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppapav" []
-is_a: WBbt:0005154
 is_a: WBbt:0008222
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005693
@@ -37911,8 +37911,8 @@ name: Z1.ppappd (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppappd (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppappd" []
-is_a: WBbt:0005154
 is_a: WBbt:0008221
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003436
@@ -37929,7 +37929,7 @@ def: "Ventral uterus; cell of pedigree Z1.ppappd (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppappd" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005695
@@ -37947,7 +37947,7 @@ def: "Ventral uterus; cell of pedigree Z1.ppappv (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppappv" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003437
@@ -37963,7 +37963,7 @@ name: Z1.ppappv (5R)
 def: "post-embryonic cell of pedigree Z1.ppappv(5R)." [WB:rynl]
 synonym: "gon_herm_vut" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0005696
@@ -38133,8 +38133,8 @@ name: Z1.pppaad (5L)
 def: "Ventral uterus; cell of pedigree Z1.pppaad (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppaad" []
-is_a: WBbt:0005154
 is_a: WBbt:0008221
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003443
@@ -38167,7 +38167,7 @@ name: Z1.pppaav (5L)
 def: "Ventral uterus; cell of pedigree Z1.pppaav (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppaav" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003445
@@ -38225,7 +38225,7 @@ name: Z1.pppapd (5L)
 def: "Ventral uterus; cell of pedigree Z1.pppapd (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppapd" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003447
@@ -38248,7 +38248,7 @@ name: Z1.pppapv (5L)
 def: "Ventral uterus; cell of pedigree Z1.pppapv (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppapv" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003448
@@ -38305,8 +38305,8 @@ name: Z1.ppppad (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppppad (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppppad" []
-is_a: WBbt:0005154
 is_a: WBbt:0008221
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003451
@@ -38328,7 +38328,7 @@ name: Z1.ppppav (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppppav (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppppav" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003452
@@ -38373,8 +38373,8 @@ alt_id: WBbt:0003776
 def: "post-embryonic cell of pedigree Z1.pppppaa; a precursor of ut1 syncytium." [WB:rynl]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppppaa" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003455
@@ -38391,8 +38391,8 @@ alt_id: WBbt:0007682
 def: "Ventral uterus; cell of pedigree Z1.pppppap (5L)\, a precursor of anterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.pppppap" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003456
@@ -38427,7 +38427,7 @@ name: Z1.ppppppa (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppppppa (5L)\, a precursor of anterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppppppa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003458
@@ -38450,7 +38450,7 @@ name: Z1.ppppppp (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppppppp (5L)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z1.ppppppp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0003459
@@ -38719,7 +38719,7 @@ name: Z4.aaaaaaa (5R)
 def: "Ventral uterus; cell of pedigree Z4.aaaaaaa (5R)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaaaaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003469
@@ -38742,7 +38742,7 @@ name: Z4.aaaaaap (5R)
 def: "Ventral uterus; cell of pedigree Z4.aaaaaap (5R)\, a precursor of anterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaaaap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003470
@@ -38795,7 +38795,7 @@ name: Z4.aaaaapa (5R)
 def: "Ventral uterus; cell of pedigree Z4.aaaaapa (5R)\, a precursor of anterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaaapa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003472
@@ -38828,7 +38828,7 @@ name: Z4.aaaaapp (5R)
 def: "Ventral uterus; cell of pedigree Z4.aaaaapp (5R)\, a precursor of anterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaaapp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003473
@@ -38918,7 +38918,7 @@ def: "Ventral uterus; cell of pedigree Z4.aaaapd (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaapd" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003475
@@ -38948,8 +38948,8 @@ def: "Ventral uterus; cell of pedigree Z4.aaaapv (5R)." [ISBN:0-87969-307-X]
 synonym: "VT4r" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaaapv" []
-is_a: WBbt:0005154
 is_a: WBbt:0008222
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003476
@@ -39022,7 +39022,7 @@ def: "Ventral uterus; cell of pedigree Z4.aaapad (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaapad" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003479
@@ -39046,7 +39046,7 @@ def: "Ventral uterus; cell of pedigree Z4.aaapav (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaapav" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003480
@@ -39106,7 +39106,7 @@ def: "Ventral uterus; cell of pedigree Z4.aaappd (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaappd" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003482
@@ -39130,8 +39130,8 @@ def: "Ventral uterus; cell of pedigree Z4.aaappv (5R)." [ISBN:0-87969-307-X]
 synonym: "VT8r" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aaappv" []
-is_a: WBbt:0005154
 is_a: WBbt:0008222
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003483
@@ -39467,7 +39467,7 @@ name: Z4.aapaad (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapaad (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapaad" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005708
@@ -39485,7 +39485,7 @@ def: "Ventral uterus; cell of pedigree Z4.aapaad (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapaad" []
 synonym: "utse precursor" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003487
@@ -39558,7 +39558,7 @@ name: Z4.aapaav (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapaav (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapaav" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005709
@@ -39576,8 +39576,8 @@ def: "Ventral uterus; cell of pedigree Z4.aapaav (5R)." [ISBN:0-87969-307-X]
 synonym: "VT8l" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapaav" []
-is_a: WBbt:0005154
 is_a: WBbt:0008222
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003488
@@ -39653,7 +39653,7 @@ name: Z4.aapapaa (5R)
 def: "Ventral uterus; cell of pedigree Z4.aapapaa (5R)\, a precursor of posterior ut1." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapapaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003491
@@ -39669,7 +39669,7 @@ name: Z4.aapapap (5R)
 def: "Ventral uterus; cell of pedigree Z4.aapapap (5R)\, a precursor of posterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapapap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003492
@@ -39696,8 +39696,8 @@ name: Z4.aapapd (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapapd (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapapd" []
-is_a: WBbt:0005154
 is_a: WBbt:0008221
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005710
@@ -39725,7 +39725,7 @@ name: Z4.aapappa (5R)
 def: "Ventral uterus; cell of pedigree Z4.aapappa (5R)\, a precursor of posterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapappa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003495
@@ -39741,7 +39741,7 @@ name: Z4.aapappp (5R)
 def: "Ventral uterus\, cell of pedigree Z4.aapappp (5R)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapappp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003496
@@ -39768,7 +39768,7 @@ name: Z4.aapapv (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapapv (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapapv" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005711
@@ -39897,7 +39897,7 @@ name: Z4.aappaaa (5L)
 def: "Ventral uterus; cell of pedigree Z4.aappaaa (5L)\, a precursor of ut1 syncytium." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappaaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005716
@@ -39914,7 +39914,7 @@ name: Z4.aappaaa (5R)
 def: "Ventral uterus; cell of pedigree Z4.aappaaa (5R)\, a precursor of posterior ut1 syncytium." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappaaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003501
@@ -39930,7 +39930,7 @@ name: Z4.aappaap (5L)
 def: "Ventral uterus\, cell of pedigree Z4.aappaap (5L)\, a precursor of anterior ut2." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappaap" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005717
@@ -39946,8 +39946,8 @@ id: WBbt:0007723
 name: Z4.aappaap (5R)
 def: "post-embryonic cell of pedigree Z4.aap\[p/r\]aa\[p/v\] (5R)\, a precursor of posterior ut2." [WB:rynl]
 synonym: "gon_herm_vut" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003502
@@ -39983,7 +39983,7 @@ name: Z4.aappapa (5L)
 def: "Ventral uterus\, cell of pedigree Z4.aappapa (5L)\, a precursor of anterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappapa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005719
@@ -40000,8 +40000,8 @@ name: Z4.aappapa (5R)
 def: "Ventral uterus; post-embryonic cell of pedigree Z4.aappap\[a/d\] (5R)\, a precursor of posterior ut3." [WB:rynl]
 synonym: "Z4.aappapd (5R)" []
 synonym: "gon_herm_vut" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003504
@@ -40016,8 +40016,8 @@ id: WBbt:0007748
 name: Z4.aappapp (5L)
 def: "Ventral uterus; post-embryonic cell of pedigree Z4.aappap\[p/v\] (5L)\, a precursor of anterior ut4." [WB:rynl]
 synonym: "gon_herm_vut" []
-is_a: WBbt:0005154
 is_a: WBbt:0007030
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005718
@@ -40034,7 +40034,7 @@ name: Z4.aappapp (5R)
 def: "Ventral uterus; cell of pedigree Z4.aappapp (5R)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappapp" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003505
@@ -40152,7 +40152,7 @@ name: Z4.aapppaa (5L)
 def: "Ventral uterus\, cell of pedigree Z4.aapppaa (5L)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapppaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005723
@@ -40169,7 +40169,7 @@ name: Z4.aapppaa (5R)
 def: "Ventral uterus\, cell of pedigree Z4.aapppaa (5R)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapppaa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003508
@@ -40186,7 +40186,6 @@ def: "Ventral uterus; cell of pedigree Z4.aapppap (5L)." [ISBN:0-87969-307-X, WB
 synonym: "VT1r" []
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aapppap" []
-is_a: WBbt:0005154
 is_a: WBbt:0008210
 
 [Term]
@@ -40196,7 +40195,7 @@ def: "nucleus of pedigree Z4.aapppap(5L)" [WB:rynl]
 synonym: "Z4.aappplp(5L) nucleus" []
 relationship: DESCINHERM WBbt:0005721
 relationship: part_of WBbt:0005065
-relationship: part_of WBbt:0008211
+relationship: part_of WBbt:0008214
 
 [Term]
 id: WBbt:0004122
@@ -40233,7 +40232,7 @@ name: Z4.aappppa (5L)
 def: "Ventral uterus; cell of pedigree Z4.aappppa (5L)\, a precursor of anterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappppa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008436
 
 [Term]
 id: WBbt:0005725
@@ -40250,7 +40249,7 @@ name: Z4.aappppa (5R)
 def: "Ventral uterus\, cell of pedigree Z4.aappppa (5R)\, a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappppa" []
-is_a: WBbt:0005154
+is_a: WBbt:0008437
 
 [Term]
 id: WBbt:0003511
@@ -40267,7 +40266,6 @@ def: "Ventral uterus; cell of pedigree Z4.aappppp (5L)." [ISBN:0-87969-307-X, WB
 synonym: "gon_herm_vut" []
 synonym: "lineage name\: Z4.aappppp" []
 synonym: "sujn" []
-is_a: WBbt:0005154
 is_a: WBbt:0008210
 
 [Term]
@@ -40278,7 +40276,7 @@ synonym: "VT1l" []
 synonym: "Z4.aappprp(5L) nucleus" []
 relationship: DESCINHERM WBbt:0005720
 relationship: part_of WBbt:0005067
-relationship: part_of WBbt:0008211
+relationship: part_of WBbt:0008214
 
 [Term]
 id: WBbt:0004121
@@ -42272,7 +42270,6 @@ name: arc ant DL
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_ant_DL" []
 synonym: "lineage name\: ABalpaappaa" []
-synonym: "lineage name\: ABalpaappaa" []
 is_a: WBbt:0005794
 
 [Term]
@@ -42280,7 +42277,6 @@ id: WBbt:0004571
 name: arc ant DR
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_ant_DR" []
-synonym: "lineage name\: ABaraaapppa" []
 synonym: "lineage name\: ABaraaapppa" []
 is_a: WBbt:0005794
 
@@ -42290,7 +42286,6 @@ name: arc ant V
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_ant_V" []
 synonym: "lineage name\: ABalpapaapa" []
-synonym: "lineage name\: ABalpapaapa" []
 is_a: WBbt:0005794
 
 [Term]
@@ -42299,7 +42294,6 @@ name: arc post D
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_post_D" []
 synonym: "lineage name\: ABaraaappaa" []
-synonym: "lineage name\: ABaraaappaa" []
 is_a: WBbt:0005795
 
 [Term]
@@ -42307,7 +42301,6 @@ id: WBbt:0004570
 name: arc post DL
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_post_DL" []
-synonym: "lineage name\: ABalpaapaaa" []
 synonym: "lineage name\: ABalpaapaaa" []
 is_a: WBbt:0005795
 
@@ -42326,7 +42319,6 @@ name: arc post V
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_post_V" []
 synonym: "lineage name\: ABarapapapa" []
-synonym: "lineage name\: ABarapapapa" []
 is_a: WBbt:0005795
 
 [Term]
@@ -42335,7 +42327,6 @@ name: arc post VL
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_post_VL" []
 synonym: "lineage name\: ABalpaappap" []
-synonym: "lineage name\: ABalpaappap" []
 is_a: WBbt:0005795
 
 [Term]
@@ -42343,7 +42334,6 @@ id: WBbt:0004566
 name: arc post VR
 def: "Interface between pharynx and hypodermis\, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
 synonym: "arc_post_VR" []
-synonym: "lineage name\: ABaraaappap" []
 synonym: "lineage name\: ABaraaappap" []
 is_a: WBbt:0005795
 
@@ -43085,9 +43075,9 @@ id: WBbt:0006782
 name: dorsal uterine cell
 def: "cell forming dorsal epithelium in central region of the uterus; formed by fusion of four cells." [WB:Paper00002608 ""]
 synonym: "du cell" [WB:Paper00002608 ""]
-is_a: WBbt:0003672
 is_a: WBbt:0007815
 is_a: WBbt:0008074
+is_a: WBbt:0008435
 relationship: part_of WBbt:0006760
 
 [Term]
@@ -43616,6 +43606,18 @@ def: "ventral uterine syncytia precursor cell of hermaphrodite" [WB:Paper0000405
 synonym: "gon_herm_vut" []
 is_a: WBbt:0007815
 relationship: part_of WBbt:0006903
+
+[Term]
+id: WBbt:0008436
+name: gon herm vut (5L)
+def: "ventral uterine precursor cell derived from the 5L developmental configuration." [WB:rynl ""]
+is_a: WBbt:0005154
+
+[Term]
+id: WBbt:0008437
+name: gon herm vut (5R)
+def: "ventral uterine precursor cell derived from the 5R developmental configuration." [WB:rynl ""]
+is_a: WBbt:0005154
 
 [Term]
 id: WBbt:0008189
@@ -44726,8 +44728,6 @@ id: WBbt:0004378
 name: hyp10
 alt_id: WBbt:0004379
 def: "Tail ventral hypodermis" [ISBN:0-87969-307-X]
-synonym: "lineage name\: ABplppppppp" []
-synonym: "lineage name\: ABprppppppp" []
 synonym: "lineage name\: ABplppppppp" []
 synonym: "lineage name\: ABprppppppp" []
 is_a: WBbt:0007846
@@ -49384,7 +49384,6 @@ id: WBbt:0004513
 name: spike precursor left
 def: "Used during embryogenesis to make tail spike\, then die" [ISBN:0-87969-307-X]
 synonym: "lineage name\: ABplppppppa" []
-synonym: "lineage name\: ABplppppppa" []
 is_a: WBbt:0008073
 relationship: part_of WBbt:0006979
 
@@ -49392,7 +49391,6 @@ relationship: part_of WBbt:0006979
 id: WBbt:0004512
 name: spike precursor right
 def: "Used during embryogenesis to make tail spike\, then die" [ISBN:0-87969-307-X]
-synonym: "lineage name\: ABprppppppa" []
 synonym: "lineage name\: ABprppppppa" []
 is_a: WBbt:0008073
 relationship: part_of WBbt:0006979
@@ -49639,7 +49637,7 @@ is_a: WBbt:0006784
 [Term]
 id: WBbt:0008158
 name: ut1 anterior
-def: "ut1 of anterior gonad." [WB:rynl ""]
+def: "ut1 of anterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006785
 
 [Term]
@@ -49657,7 +49655,7 @@ is_a: WBbt:0008158
 [Term]
 id: WBbt:0008159
 name: ut1 posterior
-def: "ut1 of posterior gonad." [WB:rynl ""]
+def: "ut1 of posterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006785
 
 [Term]
@@ -49681,7 +49679,7 @@ is_a: WBbt:0006784
 [Term]
 id: WBbt:0008161
 name: ut2 anterior
-def: "ut2 of anterior gonad." [WB:rynl ""]
+def: "ut2 of anterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006786
 
 [Term]
@@ -49728,6 +49726,7 @@ is_a: WBbt:0006784
 [Term]
 id: WBbt:0008162
 name: ut3 anterior
+def: "ut3 of anterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006787
 
 [Term]
@@ -49745,6 +49744,7 @@ is_a: WBbt:0008162
 [Term]
 id: WBbt:0008163
 name: ut3 posterior
+def: "ut3 of posterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006787
 
 [Term]
@@ -49768,6 +49768,7 @@ is_a: WBbt:0006784
 [Term]
 id: WBbt:0008164
 name: ut4 anterior
+def: "ut4 of anterior gonad arm." [WB:rynl ""]
 is_a: WBbt:0006788
 
 [Term]
@@ -49804,6 +49805,12 @@ is_a: WBbt:0008165
 id: WBbt:0005343
 name: uterine
 is_obsolete: true
+
+[Term]
+id: WBbt:0008435
+name: uterine epithelial cell
+def: "cell of the epithelia of uterus." [WB:rynl ""]
+is_a: WBbt:0003672
 
 [Term]
 id: WBbt:0005342
@@ -49870,6 +49877,7 @@ def: "membranous cell attaches the uterus to the lateral epidermis (seam) and fo
 synonym: "utse" []
 is_a: WBbt:0007815
 is_a: WBbt:0008074
+is_a: WBbt:0008435
 relationship: part_of WBbt:0006760
 
 [Term]
@@ -49892,9 +49900,9 @@ name: uterine toroidal epithelial cell
 def: "toroidal epithelial cell that make up the bulk of the uterus\, four cells anterior and four cells posterior to the vulva." [WB:Paper00002608 ""]
 synonym: "ut cell" []
 synonym: "uterine toroid" []
-is_a: WBbt:0003672
 is_a: WBbt:0007815
 is_a: WBbt:0008074
+is_a: WBbt:0008435
 relationship: part_of WBbt:0006760
 
 [Term]
@@ -49903,6 +49911,7 @@ name: uterine-vulval cell
 def: "monoucleate interfacial cell between the uterus and vulva (uv1-uv3)\, four sets total (L/R\, A/P)" [WB:Paper00002608 "", WB:rynl ""]
 synonym: "uv cell" []
 is_a: WBbt:0007815
+is_a: WBbt:0008435
 relationship: part_of WBbt:0006760
 
 [Term]
