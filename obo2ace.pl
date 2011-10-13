@@ -5,6 +5,8 @@
 
 use strict;
 use Text::Balanced qw(extract_quotelike extract_bracketed);
+use Data::Dumper;
+use diagnostics;
 
 my $stanza;
 my $id = "";
@@ -47,6 +49,7 @@ while(<>) {
         my ($tag, $val) = ($1, $2);
         my $val2 = $val;
         $val2 =~ s/\\,/,/g;
+	$val2 =~ s/ \!(.*)$//;    # remove dangling term name after term id
         if ($tag eq 'id') {
 	    if ($val =~ /WBbt:(.*)/) {
 		$id = $val;
@@ -156,19 +159,13 @@ foreach $id (sort keys %parent_ids) {
 	    my $a = shift @ancestors;
 	    print "Ancestor\t WBbt:$a\n";
 	    if (@{$parent_ids{$a}}) {
-		push @ancestors,@{$parent_ids{$a}};
+	     	push @ancestors,@{$parent_ids{$a}};
 	    }
 	}
 	print "\n";
     }
 }
-#    while ($parent_ids{$id}) {
-#	my $a =	shift ($parent_ids{$id});
-#	if ($parent_ids{$a}) {
-#	    push ($parent_ids{$id}, $a);
-#	}
-#    }
-#}
+
 
 
 
@@ -179,157 +176,161 @@ sub printace {
 	if ($id) {
 	    print "Anatomy_term :\tWBbt:$id\n";
 	    $id = "";
-	}
-	if ($definition) {
-	    while (@parts) {
-		print "Definition\t\"$definition\"\t";
-		$def_ref = shift(@parts);
-	    if ($def_ref =~ /[ISBN|WB]:0-87969-307-X/) { #KLUGE
-		    print "Paper_evidence WBPaper00004052";
-		}
-		elsif ($def_ref =~ /ISBN:(\d*) \"\"/i) {
+#	}
+	    if ($definition) {
+		while (@parts) {
+		    print "Definition\t\"$definition\"\t";
+		    $def_ref = shift(@parts);
+		    if ($def_ref =~ /[ISBN|WB]:0-87969-307-X/) { #KLUGE
+			print "Paper_evidence WBPaper00004052";
+		    }
+		    elsif ($def_ref =~ /ISBN:(\d*) \"\"/i) {
 #		    print "Paper_evidence \[isbn$1\]";
-		}
-		elsif ($def_ref =~ /ISBN:(.*)/i) {
+		    }
+		    elsif ($def_ref =~ /ISBN:(.*)/i) {
 #		    print "Paper_evidence \[isbn$1\]";
+		    }
+		    elsif ($def_ref =~ /wb:rynl/i) {
+			print "Person_evidence WBPerson363";
+		    }
+		    elsif ($def_ref =~ /wb:pws/i) {
+			print "Person_evidence WBPerson625";
+		    }
+		    elsif ($def_ref =~ /wa:dh/i) {
+			print "Person_evidence WBPerson233";
+		    }
+		    elsif ($def_ref =~ /wb:s[bd]m/i) { #KLUGE
+			print "Person_evidence WBPerson1250";
+		    }
+		    elsif ($def_ref =~ /wb:wjc/i) {
+			print "Person_evidence WBPerson101";
+		    }
+		    elsif ($def_ref =~ /wb:([?)cgc938(\\?)(]?)/i) {
+			print "Paper_evidence WBPaper00000938";
+		    } elsif ($def_ref =~ /wb:cgc938 \"\"/i) {
+			print "Paper_evidence WBPaper00000938";
+		    }
+		    elsif ($def_ref =~ /wb:\\\[cgc3760\\\]/i) {
+			print "Paper_evidence WBPaper00003760";
+			
+		    } elsif ($def_ref =~ /wb:Paper(.*) \"\"/i) {
+			print "Paper_evidence WBPaper$1";
+		    }
+		    elsif ($def_ref =~ /wb:(.*) \"\"/i) {
+			print "Paper_evidence [$1]";
+		    } 
+		    elsif ($def_ref =~ /wbpaper:(\d{8})(| \"\")/i) {   # WBPaper:00000653
+			print "Paper_evidence WBPaper$1";
+		    }
+		    elsif ($def_ref =~ /caro:(.*)(|\"\")/i) { #KLUGE
+		    }
+		    elsif ($def_ref =~ /wb(:?)paper(:?)(\d{8})/i) {
+			print "Paper_evidence WBPaper$3";
+		    }
+		    else {
+			print "UNKNOWN DEF_REF: \"$def_ref\"\n";
+			
+			exit;
+		    }
+		    print "\n";
 		}
-		elsif ($def_ref =~ /wb:rynl/i) {
-		    print "Person_evidence WBPerson363";
-		}
-		elsif ($def_ref =~ /wb:pws/i) {
-		    print "Person_evidence WBPerson625";
-		}
-		elsif ($def_ref =~ /wa:dh/i) {
-		    print "Person_evidence WBPerson233";
-		}
-		elsif ($def_ref =~ /wb:s[bd]m/i) { #KLUGE
-		    print "Person_evidence WBPerson1250";
-		}
-		elsif ($def_ref =~ /wb:wjc/i) {
-		    print "Person_evidence WBPerson101";
-		}
-		elsif ($def_ref =~ /wb:\\\[cgc938\\\]/i) {
-		    print "Paper_evidence WBPaper00000938";
-		} elsif ($def_ref =~ /wb:cgc938 \"\"/i) {
-		    print "Paper_evidence WBPaper00000938";
-		}
-		elsif ($def_ref =~ /wb:\\\[cgc3760\\\]/i) {
-		    print "Paper_evidence WBPaper00003760";
-
-		} elsif ($def_ref =~ /wb:Paper(.*) \"\"/i) {
-		    print "Paper_evidence WBPaper$1";
-		}
-		elsif ($def_ref =~ /wb:(.*) \"\"/i) {
-		    print "Paper_evidence [$1]";
-		} 
-		elsif ($def_ref =~ /wbpaper:(\d{8})(| \"\")/i) {   # WBPaper:00000653
-		    print "Paper_evidence WBPaper$1";
-		}
-		elsif ($def_ref =~ /caro:(.*) \"\"/i) { #KLUGE
-		}
-		else {
-		    print "UNKNOWN REF: \"$def_ref\"\n";
-		    exit;
+		$definition = "";
+		$def_ref = "";
+	    }
+	    if ($name) {
+		print "Term\t\"$name\"\n";
+		$name = "";
+	    }
+	    while (@synonyms) {
+		$synonym = pop (@synonyms);
+		$syn_ref = pop (@syn_refs);
+		print "Synonym\t\"$synonym\"\t";
+		if ($syn_ref) {
+		    if ($syn_ref =~ /[ISBN]:0-87969-307-X/) {
+			print "Paper_evidence WBPaper00004052";
+		    }
+		    elsif ($syn_ref =~ /ISBN:(.*) \"\"/i) {
+#		    print "Paper_evidence \[isbn$1\]";
+		    }
+		    elsif ($syn_ref =~ /ISBN:(.*)/i) {
+#		    print "Paper_evidence \[isbn$1\]";
+		    }
+		    elsif ($syn_ref =~ /wb:rynl/i) {
+			print "Person_evidence WBPerson363";
+		    }
+		    elsif ($syn_ref =~ /wb:pws/i) {
+			print "Person_evidence WBPerson625";
+		    }
+		    elsif ($syn_ref =~ /wa:dh/i) {
+			print "Person_evidence WBPerson233";
+		    }
+		    elsif ($syn_ref =~ /wb:sdm/i) {
+			print "Person_evidence WBPerson1250";
+		    }
+		    elsif ($syn_ref =~ /wb:wjc/i) {
+			print "Person_evidence WBPerson101";
+		    }
+		    elsif ($syn_ref =~ /wb:\\\[cgc938\\\]/i) {
+			print "Paper_evidence WBPaper00000938";
+		    } elsif ($syn_ref =~ /wb:\\\[cgc3760\\\]/i) {
+			print "Paper_evidence WBPaper00003760";
+		    } elsif ($syn_ref =~ /wb:Paper(.*) \"\"/i) {
+			print "Paper_evidence WBPaper$1";
+		    } else {
+			print "UNKNOWN SYN_REF: $def_ref\n";
+			exit;
+		    }
 		}
 		print "\n";
+		$synonym = "";
+		$syn_ref = "";
 	    }
-	    $definition = "";
- 	    $def_ref = "";
-	}
-	if ($name) {
-	    print "Term\t\"$name\"\n";
-	    $name = "";
-	}
-	while (@synonyms) {
-	    $synonym = pop (@synonyms);
-	    $syn_ref = pop (@syn_refs);
-	    print "Synonym\t\"$synonym\"\t";
-	    if ($syn_ref) {
-		if ($syn_ref =~ /[ISBN]:0-87969-307-X/) {
-		    print "Paper_evidence WBPaper00004052";
+	    
+	    
+	    
+	    while (@relationships) {
+		$relationship=pop(@relationships);
+		$related_id=pop(@related_ids);
+		if ($relationship eq 'is_a') {
+		    print "IS_A_p WBbt:$related_id\n";
 		}
-		elsif ($syn_ref =~ /ISBN:(.*) \"\"/i) {
-#		    print "Paper_evidence \[isbn$1\]";
+		elsif ($relationship eq 'part_of') {
+		    print "PART_OF_p WBbt:$related_id\n";
 		}
-		elsif ($syn_ref =~ /ISBN:(.*)/i) {
-#		    print "Paper_evidence \[isbn$1\]";
+		elsif ($relationship eq 'develops_from') {
+		    print "DEVELOPS_FROM_p WBbt:$related_id\n";
 		}
-		elsif ($syn_ref =~ /wb:rynl/i) {
-		    print "Person_evidence WBPerson363";
+		elsif ($relationship eq 'DESCENDENTOF') {
+		    print "DESCENDENT_OF_p WBbt:$related_id\n";
 		}
-		elsif ($syn_ref =~ /wb:pws/i) {
-		    print "Person_evidence WBPerson625";
+		elsif ($relationship eq 'DESCINHERM') {
+		    print "DESC_IN_HERM_p WBbt:$related_id\n";
 		}
-		elsif ($syn_ref =~ /wa:dh/i) {
-		    print "Person_evidence WBPerson233";
-		}
-		elsif ($syn_ref =~ /wb:sdm/i) {
-		    print "Person_evidence WBPerson1250";
-		}
-		elsif ($syn_ref =~ /wb:wjc/i) {
-		    print "Person_evidence WBPerson101";
-		}
-		elsif ($syn_ref =~ /wb:\\\[cgc938\\\]/i) {
-		    print "Paper_evidence WBPaper00000938";
-		} elsif ($syn_ref =~ /wb:\\\[cgc3760\\\]/i) {
-		    print "Paper_evidence WBPaper00003760";
-		} elsif ($syn_ref =~ /wb:Paper(.*) \"\"/i) {
-		    print "Paper_evidence WBPaper$1";
+		elsif ($relationship eq 'DESCINMALE') {
+		    print "DESC_IN_MALE_p WBbt:$related_id\n";
 		} else {
-		    print "UNKNOWN REF: $def_ref\n";
+		    print "UNKNOWN RELATION: $def_ref\n";
 		    exit;
 		}
+		$relationship = "";
+		$related_id = "";
+	    }
+	    
+	    while (@alt_ids) {
+		$alt_id = pop (@alt_ids);
+		print "Remark\t\"Secondary ID WBbt:$alt_id\"\n";
+		$alt_id = "";
+	    }
+	    
+	    while (@comments) {
+		$comment = pop (@comments);
+		if ($comment =~ /<(http.*)>/) {    ## special treatment for Remark "*<http*>"
+		    next;   ## stop using URL tag, instead add links with link2wormweb.ace, 20100712
+		    # print "URL\t\"$1\"\n";
+		} else {
+		    print "Remark\t\"$comment\"\n";}
+		$comment = "";
 	    }
 	    print "\n";
-	    $synonym = "";
- 	    $syn_ref = "";
 	}
-
-
-
-	while (@relationships) {
-	    $relationship=pop(@relationships);
-	    $related_id=pop(@related_ids);
-	    if ($relationship eq 'is_a') {
-		print "IS_A_p WBbt:$related_id\n";
-	    }
-	    elsif ($relationship eq 'part_of') {
-		print "PART_OF_p WBbt:$related_id\n";
-	    }
-	    elsif ($relationship eq 'develops_from') {
-		print "DEVELOPS_FROM_p WBbt:$related_id\n";
-	    }
-	    elsif ($relationship eq 'DESCENDENTOF') {
-		print "DESCENDENT_OF_p WBbt:$related_id\n";
-	    }
-	    elsif ($relationship eq 'DESCINHERM') {
-		print "DESC_IN_HERM_p WBbt:$related_id\n";
-	    }
-	    elsif ($relationship eq 'DESCINMALE') {
-		print "DESC_IN_MALE_p WBbt:$related_id\n";
-	    } else {
-		print "UNKNOWN REF: $def_ref\n";
-		exit;
-	    }
-	    $relationship = "";
-	    $related_id = "";
-	}
-
-	while (@alt_ids) {
-	    $alt_id = pop (@alt_ids);
-	    print "Remark\t\"Secondary ID WBbt:$alt_id\"\n";
-	    $alt_id = "";
-	}
-
-	while (@comments) {
-	  $comment = pop (@comments);
-	  if ($comment =~ /<(http.*)>/) {    ## special treatment for Remark "*<http*>"
-	    next;   ## stop using URL tag, instead add links with link2wormweb.ace, 20100712
-            # print "URL\t\"$1\"\n";
-	  } else {
-	    print "Remark\t\"$comment\"\n";}
-	  $comment = "";
-	}
-	print "\n";
-      }
-
+}

@@ -5617,8 +5617,8 @@ Involved	"WBbt:0005784"	Necessary	"we restricted cye-1 RNAi to the germline usin
 Reference	"WBPaper00038281"
 
 Condition : WBPaper00038281_1
-Genotype: rrf-1(pk1417)
-Treatment: "cye-1 RNAi"
+Genotype rrf-1(pk1417)
+Treatment "cye-1 RNAi"
 Reference WBPaper00038281
 
 
@@ -5632,7 +5632,7 @@ Involved	"WBbt:0005784"	Necessary	"a genomic cye-1 transgene, qIs134, generated 
 Reference	"WBPaper00038281"
 
 Condition : WBPaper00038281_2
-Genotype: cye-1(eh10); qIs134[cye-1(+) Psur-5::GFGP]
+Genotype "cye-1(eh10); qIs134[cye-1(+) Psur-5::GFGP]"
 Reference WBPaper00038281
 
 
@@ -5650,7 +5650,7 @@ Involved	"WBbt:0006846"	Sufficient	"Expressing full-length tax-2 cDNA in the AFD
 Reference	"WBPaper00038260"
 
 Condition : WBPaper00038260_1
-Genotype: "tax-2(p694); Ex[pgcy-8::tax-2 pflp-17::tax-2 pflp-6ASE-specific::tax-2 pgcy-32::tax-2]"
+Genotype "tax-2(p694); Ex[pgcy-8::tax-2 pflp-17::tax-2 pflp-6ASE-specific::tax-2 pgcy-32::tax-2]"
 Reference WBPaper00038260
 
 
@@ -5662,7 +5662,7 @@ Involved	"WBbt:0005662"	Necessary	"Specification of the AFD neurons requires the
 Reference	"WBPaper00038260"
 
 Condition : WBPaper00038260_2
-Genotype: "ttx-1(p767)"
+Genotype "ttx-1(p767)"
 Reference WBPaper00038260
 
 
@@ -5674,7 +5674,7 @@ Involved	"WBbt:0006825"	Necessary	"To ablate BAG we expressed the egl-1 programm
 Reference	"WBPaper00038260"
 
 Condition : WBPaper00038260_3
-Genotype: "ttx-1(p767); Ex[pgcy-33::egl-1]"
+Genotype "ttx-1(p767); Ex[pgcy-33::egl-1]"
 Reference WBPaper00038260
 
 
@@ -5687,7 +5687,7 @@ Involved	"WBbt:0005662"	Necessary	"Coablation of AFD and BAG abolished the suppr
 Reference	"WBPaper00038260"
 
 Condition : WBPaper00038260_3
-Genotype: "ttx-1(p767); Ex[pgcy-33::egl-1]"
+Genotype "ttx-1(p767); Ex[pgcy-33::egl-1]"
 Reference WBPaper00038260
 
 

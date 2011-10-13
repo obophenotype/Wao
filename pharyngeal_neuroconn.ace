@@ -1,0 +1,2691 @@
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003645 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003645 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003645 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003630 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003630 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm3, I3." 
+
+//XREF
+Anatomy_term :  WBbt:0003630 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm3, I3." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm3, I3." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm3, I3." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003632 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003632 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003632 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003744 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003744 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003744 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003744 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003635 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003635 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003635 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003633 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003633 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003633 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003631 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003631 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003631 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003629 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003629 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003629 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0005051 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005051 Gap_junction Pharynx 1 Section 0 0 "possible, mentioned in main text" 
+
+//XREF
+Anatomy_term :  WBbt:0005051 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "possible, mentioned in main text" 
+
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0005049 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005049 Gap_junction Pharynx 1 Section 0 0 "possible, mentioned in main text" 
+
+//XREF
+Anatomy_term :  WBbt:0005049 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "possible, mentioned in main text" 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0003628 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003628 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003628 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003741 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003741 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003628 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003628 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003628 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 3 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 3 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003741 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003736 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003736 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003736 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003736 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003736 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+//XREF
+Anatomy_term :  WBbt:0003736 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0008350 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0008350 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+//XREF
+Anatomy_term :  WBbt:0008350 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004532 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004532 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004532 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004532 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004532 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+//XREF
+Anatomy_term :  WBbt:0004532 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1" 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 5 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004304 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004304 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004304 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004305 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004305 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004305 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004305 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004305 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004305 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004304 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004304 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004304 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004307 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004307 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0004307 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0005788 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005788 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0005788 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0003673 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003673 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0003673 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004308 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004308 Send Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004308 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004308 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004308 Send Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004308 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0003707 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003707 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003707 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004303 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004303 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004303 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004306 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004306 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0004306 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0005788 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005788 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0005788 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0003673 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003673 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+//XREF
+Anatomy_term :  WBbt:0003673 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm6, gland cell, marginal cell" 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004308 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004308 Send Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004308 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004308 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004308 Send Pharynx 4 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004308 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 4 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0003707 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003707 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003707 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0006838 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0006838 Gap_junction Pharynx 1 Section 0 0 "somatic neuron identity confirmed in White et. al. 1986" 
+
+//XREF
+Anatomy_term :  WBbt:0006838 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Gap_junction Pharynx 1 Section 0 0 "somatic neuron identity confirmed in White et. al. 1986" 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 2 Section 0 0 "connection type is Electrical OR Send" 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 2 Section 0 0 "connection type is Electrical OR Send" 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0006838 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0006838 Gap_junction Pharynx 1 Section 0 0 "somatic neuron identity confirmed in White et. al. 1986" 
+
+//XREF
+Anatomy_term :  WBbt:0006838 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Gap_junction Pharynx 1 Section 0 0 "somatic neuron identity confirmed in White et. al. 1986" 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 1 Section 0 0 "connection type is Electrical OR Send" 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells MC, I1" 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003638 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003638 Send_joint Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells MC, I1" 
+
+//XREF
+Anatomy_term :  WBbt:0003638 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive_joint Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells MC, I1" 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Send_joint Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells MC, I1" 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive_joint Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003634 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003634 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003634 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Gap_junction Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003634 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003634 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003634 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, NSM." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, NSM." 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, NSM." 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, NSM." 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 2 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 2 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004532 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004532 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004532 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004471 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004471 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+//XREF
+Anatomy_term :  WBbt:0004471 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Receive" 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 1 Section 0 0 "connection type is Electrical OR Receive" 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Receive Pharynx 1 Section 0 0 "connection type is Electrical OR Receive" 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 1 Section 0 0 "connection type is Electrical OR Receive" 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Send Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 2 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 7 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 7 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M3, M4." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1." 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0008350 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0008350 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1." 
+
+//XREF
+Anatomy_term :  WBbt:0008350 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, g1." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 2 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 2 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Gap_junction Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004465 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004465 Gap_junction Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004465 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Gap_junction Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0003666 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003666 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003666 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0003645 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003645 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003645 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004467 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004467 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004467 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0005756 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005756 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0005756 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0003738 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003738 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0003738 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004746 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004746 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004746 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004744 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004744 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004744 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0003645 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003645 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003645 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0005756 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005756 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0005756 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004457 
+Neurodata 	WBbt:0003736 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003736 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0003736 
+Neurodata 	WBbt:0004457 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004457 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0005756 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005756 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0005756 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0003735 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003735 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm5, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0003735 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells pm5, M3." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells pm5, M3." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004745 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004745 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004745 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004743 Receive Pharynx 2 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004743 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 2 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0003645 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003645 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003645 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0004739 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004739 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004739 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0005756 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005756 Send_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0005756 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 2 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0004446 
+Neurodata 	WBbt:0003736 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003736 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+//XREF
+Anatomy_term :  WBbt:0003736 
+Neurodata 	WBbt:0004446 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004446 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells basement membrane, pm5." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004742 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004742 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004742 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003634 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003634 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003634 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003634 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003634 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003634 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003634 Send_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003634 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0003634 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003754 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003754 Send_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M2, M3." 
+
+//XREF
+Anatomy_term :  WBbt:0003754 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003628 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003628 Send Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003628 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003741 Send Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003741 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Send_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Send_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive_joint Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004740 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004740 Gap_junction Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 2 Section 0 0 "polyadic, post-synaptic cells M1, I5." 
+
+//XREF
+Anatomy_term :  WBbt:0004740 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004469 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004469 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004469 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0004741 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004741 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0004741 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Gap_junction Pharynx 1 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0003664 
+Neurodata 	WBbt:0003743 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003743 Send Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+//XREF
+Anatomy_term :  WBbt:0003743 
+Neurodata 	WBbt:0003664 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003664 Receive Pharynx 2 Section 0 0 "MI is highly variable in the synapses it makes." 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0004297 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004297 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004297 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0003645 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003645 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0003645 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004463 
+Neurodata 	WBbt:0004296 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004296 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004296 
+Neurodata 	WBbt:0004463 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004463 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0005755 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0005755 Receive Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+//XREF
+Anatomy_term :  WBbt:0005755 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Send Pharynx 1 Section 0 0 "subcuticular ending, could be mechanoreceptive." 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0004473 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004473 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004473 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0004298 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004298 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004298 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Receive Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0004487 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004487 Gap_junction Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004487 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Gap_junction Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0003649 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0003649 Receive Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0003649 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Send Pharynx 1 Section 0 0 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0004488 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004488 Receive Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+//XREF
+Anatomy_term :  WBbt:0004488 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Send Pharynx 1 Section 0 0 "Variable, found on a single series only." 
+
+Anatomy_term :  WBbt:0004461 
+Neurodata 	WBbt:0004296 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004296 Send Pharynx 1 Section 0 0 
+
+//XREF
+Anatomy_term :  WBbt:0004296 
+Neurodata 	WBbt:0004461 Evidence Paper_evidence WBPaper00000009 
+Neurodata 	WBbt:0004461 Receive Pharynx 1 Section 0 0 
+

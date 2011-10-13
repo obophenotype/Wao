@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:07:2011 10:53
+date: 21:09:2011 10:25
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -25249,7 +25249,7 @@ relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 [Term]
 id: WBbt:0004530
 name: g1AR
-def: "Pharyngeal gland cells" [ISBN:0-87969-307-X]
+def: "Pharyngeal gland cell." [ISBN:0-87969-307-X]
 synonym: "lineage name: MSpapaapaa" RELATED []
 is_a: WBbt:0008073 ! syncytium precursor
 
@@ -31385,7 +31385,7 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0005413
 name: AIY
-def: "AIY is one of the main classes of integrating neuron for the receptors of the amphid sensilla." [WB:[cgc938\]]
+def: "AIY is one of the main classes of integrating neuron for the receptors of the amphid sensilla." [WB:cgc938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AIYframeset.html>
 is_a: WBbt:0005113 ! interneuron
 
@@ -32401,7 +32401,7 @@ relationship: part_of WBbt:0005427 ! phasmid right sensillum
 [Term]
 id: WBbt:0005660
 name: ADF
-def: "ADF is a set of two neurons that have dual ciliated endings in the amphid sensillum. The endings are in the amphid channel, which is open to the outside. Processes from lateral cell bodies enter the ventral cord via the amphidial commissures and turn anteriorly to enter the nerve ring. The processes of ADF run near the outside surface and posterior face of the ring, in close association with those of AIZ. They meet at the dorsal mid-line and terminate; there is a gap junction at the point or contact. The main synaptic output is to RIA and AIZ; there are also synapses to SMB, AUA and RIR, usually in dyadic combinations with RIA or AIZ. AWB synapses onto ADF in several places,  and there are gap junctions to RIH, ADA and AIA." [WB:[cgc938\]]
+def: "ADF is a set of two neurons that have dual ciliated endings in the amphid sensillum. The endings are in the amphid channel, which is open to the outside. Processes from lateral cell bodies enter the ventral cord via the amphidial commissures and turn anteriorly to enter the nerve ring. The processes of ADF run near the outside surface and posterior face of the ring, in close association with those of AIZ. They meet at the dorsal mid-line and terminate; there is a gap junction at the point or contact. The main synaptic output is to RIA and AIZ; there are also synapses to SMB, AUA and RIR, usually in dyadic combinations with RIA or AIZ. AWB synapses onto ADF in several places,  and there are gap junctions to RIH, ADA and AIA." [WB:cgc938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ADFframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -33590,12 +33590,12 @@ is_a: WBbt:0006910 ! oblique male muscle
 [Term]
 id: WBbt:0005824
 name: gubernacular erector muscle
-is_a: WBbt:0006908 ! gubernaculum muscle
+is_a: WBbt:0006908 ! gubernacular muscle
 
 [Term]
 id: WBbt:0005825
 name: gubernacular retractor muscle
-is_a: WBbt:0006908 ! gubernaculum muscle
+is_a: WBbt:0006908 ! gubernacular muscle
 
 [Term]
 id: WBbt:0005826
@@ -33645,15 +33645,15 @@ relationship: part_of WBbt:0005312 ! copulatory spicule
 [Term]
 id: WBbt:0005832
 name: AWC-ON
-def: "one of the two AWC neurons, stochastically determined, in which the str-2 promoter is active" [WB:[cgc3760\], WB:rynl]
-xref: WB:[cgc3760\]
+def: "one of the two AWC neurons, stochastically determined, in which the str-2 promoter is active" [WB:cgc3760, WB:rynl]
+xref: WB:cgc3760
 xref: WB:rynl
 is_a: WBbt:0005672 ! AWC
 
 [Term]
 id: WBbt:0005833
 name: AWC-OFF
-def: "one of the two AWC neurons, stochastically determined, in which the str-2 promoter is inactive" [WB:[cgc3760\], WB:rynl]
+def: "one of the two AWC neurons, stochastically determined, in which the str-2 promoter is inactive" [WB:cgc3760, WB:rynl]
 is_a: WBbt:0005672 ! AWC
 
 [Term]
@@ -40881,7 +40881,7 @@ is_a: WBbt:0005757 ! male-specific
 
 [Term]
 id: WBbt:0006908
-name: gubernaculum muscle
+name: gubernacular muscle
 def: "specialized muscle type in male sex organ." [WB:rynl]
 synonym: "mu_male_gub" RELATED []
 is_a: WBbt:0005757 ! male-specific
@@ -49975,7 +49975,7 @@ is_a: WBbt:0008073 ! syncytium precursor
 [Term]
 id: WBbt:0008350
 name: g1ARP
-def: "syncytial g1 gland cell, formed by fusion between g1AR and g1P cells." [WB:rynl, WBPaper:00000653]
+def: "Syncytial g1 gland cell, formed by fusion between g1AR and g1P cells." [WB:rynl, WBPaper:00000653]
 synonym: "g1AR" RELATED []
 synonym: "g1P" RELATED []
 is_a: WBbt:0003712 ! g1
