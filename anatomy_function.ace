@@ -608,6 +608,8 @@ Anatomy_function : "WBbtf0050"
 Assay	"Genetic_mosaic"	"WBPaper00006226_3"
 Phenotype	"WBPhenotype:0000013"	Nonautonomous	"Both AB- and P1-mosaics were able to become dauers."
 Gene	"WBGene00000912"
+Involved	"WBbt:0004015"	Sufficient	"AB-mosaics were able to become dauers."
+Involved	"WBbt:0006874"	Sufficient	"P1-mosaics were able to become dauers."
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_3
@@ -623,6 +625,8 @@ Anatomy_function : "WBbtf0051"
 Assay	"Genetic_mosaic"	"WBPaper00006226_4"
 Phenotype	"WBPhenotype:0000039"	Nonautonomous	"both AB-mosaics and P1-mosaics had extended lifespans."
 Gene	"WBGene00000912"
+Involved	"WBbt:0006874"	Sufficient	"P1-mosaics had extended lifespans."
+Involved	"WBbt:0004015"	Sufficient	"AB-mosaics had extended lifespans."
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_4
@@ -5769,5 +5773,253 @@ Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0001983"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0060756(foraging behavior)|GO:0035641(locomotory exploration behavior) QUALITY:PATO:0001997(reduced) NOT"
 Involved	"WBbt:0006825"	Necessary	"Killing the BAG neurons increased leaving rates in the strain with the N2 tyra-3 allele, demonstrating that BAG neurons prevent leaving. However, killing BAG had no effect in the strain with the Hawaiin tyra-3 allele, suggesting that BAG activity is already low in this strain under the assay conditions."
 Reference	"WBPaper00038234"
+
+
+Anatomy_function : "WBbtf0442"
+Assay	"Genetic_mosaic"	"WBPaper00038447_1"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00003930"	Published_as	"pat-3"
+Involved	"WBbt:0004522"	Necessary	"Blocking invasion in animals expressing a dominant negative form of the C. elegans integrin specifically in the anchor cell (zmp-1>HA-beta-tail; HA, haemagglutinin) also resulted in a failure to generate a basement membrane gap."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_1
+Genotype "qyIs15[zmp-1>HA-beta-tail]"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0443"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0004522"	Necessary	"When the anchor cell was ablated just before invasion, the basement membrane remained completely intact through the L4 stage."
+Reference	"WBPaper00038447"
+
+
+Anatomy_function : "WBbtf0444"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Not_involved	"WBbt:0006781"	Unnecessary	"Removal of the dorsal uterine cells and their descendants did not alter the expansion or positioning of the basement membrane gap."
+Reference	"WBPaper00038447"
+
+
+Anatomy_function : "WBbtf0445"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000600(increased width)"
+Involved	"WBbt:0006780"	Necessary	"laser ablation of the ventral uterine cells (at L2/L3 molt) perturbed gap formation. Surprisingly, this alteration resulted in basement membrane gap boundaries overexpanding in nearly 20% of operated animals. Thus, the ventral uterine cell descendants restrict basement membrane gap expansion."
+Reference	"WBPaper00038447"
+
+
+Anatomy_function : "WBbtf0446"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0008112"	Necessary	"To further examine the role of the vulval cells in promoting basement membrane gap expansion, we reduced the number of VPCs by laser ablating all VPCs except the innermost P6.p descendants P6.pa and P6.pp, a treatment that does not interfere with anchor cell invasion and results in the isolated development of primary-fated vulF cells. This reduction of the number and invagination of VPCs decreased the expansion of the basement membrane gap."
+Involved	"WBbt:0008117"	Necessary	"To further examine the role of the vulval cells in promoting basement membrane gap expansion, we reduced the number of VPCs by laser ablating all VPCs except the innermost P6.p descendants P6.pa and P6.pp, a treatment that does not interfere with anchor cell invasion and results in the isolated development of primary-fated vulF cells. This reduction of the number and invagination of VPCs decreased the expansion of the basement membrane gap."
+Involved	"WBbt:0008121"	Necessary	"To further examine the role of the vulval cells in promoting basement membrane gap expansion, we reduced the number of VPCs by laser ablating all VPCs except the innermost P6.p descendants P6.pa and P6.pp, a treatment that does not interfere with anchor cell invasion and results in the isolated development of primary-fated vulF cells. This reduction of the number and invagination of VPCs decreased the expansion of the basement membrane gap."
+Involved	"WBbt:0008129"	Necessary	"To further examine the role of the vulval cells in promoting basement membrane gap expansion, we reduced the number of VPCs by laser ablating all VPCs except the innermost P6.p descendants P6.pa and P6.pp, a treatment that does not interfere with anchor cell invasion and results in the isolated development of primary-fated vulF cells. This reduction of the number and invagination of VPCs decreased the expansion of the basement membrane gap."
+Involved	"WBbt:0008133"	Necessary	"To further examine the role of the vulval cells in promoting basement membrane gap expansion, we reduced the number of VPCs by laser ablating all VPCs except the innermost P6.p descendants P6.pa and P6.pp, a treatment that does not interfere with anchor cell invasion and results in the isolated development of primary-fated vulF cells. This reduction of the number and invagination of VPCs decreased the expansion of the basement membrane gap."
+Reference	"WBPaper00038447"
+
+
+Anatomy_function : "WBbtf0447"
+Assay	"Expression_mosaic"	"WBPaper00038447_2"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00002081"	Published_as	"ina-1"
+Not_involved	"WBbt:0004522"	Unnecessary	"RNAi-targeted depletion of ina-1 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006781"	Unnecessary	"RNAi-targeted depletion of ina-1 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006780"	Unnecessary	"RNAi-targeted depletion of ina-1 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_2
+Genotype "qyIs103[fos-1a>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "ina-1 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0448"
+Assay	"Expression_mosaic"	"WBPaper00038447_3"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00003929"	Published_as	"pat-2"
+Not_involved	"WBbt:0004522"	Unnecessary	"RNAi-targeted depletion of pat-2 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006781"	Unnecessary	"RNAi-targeted depletion of pat-2 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006780"	Unnecessary	"RNAi-targeted depletion of pat-2 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_3
+Genotype "qyIs103[fos-1a>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "pat-2 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0449"
+Assay	"Expression_mosaic"	"WBPaper00038447_4"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00003930"	Published_as	"pat-3"
+Not_involved	"WBbt:0004522"	Unnecessary	"RNAi-targeted depletion of pat-3 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006781"	Unnecessary	"RNAi-targeted depletion of pat-3 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Not_involved	"WBbt:0006780"	Unnecessary	"RNAi-targeted depletion of pat-3 in the uterine tissue (fos-1a>rde-1 strain) did not significantly alter basement membrane gap positioning."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_4
+Genotype "qyIs103[fos-1a>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "pat-3 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0450"
+Assay	"Expression_mosaic"	"WBPaper00038447_5"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000600(increased width)"
+Gene	"WBGene00002081"	Published_as	"ina-1"
+Involved	"WBbt:0007809"	Necessary	"RNAi-targeted knockdown of ina-1 in the vulval tissue (unc-62>rde-1 strain), however, caused an basement membrane gap over expansion defect, similar to ina-1(gm39) mutants."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_5
+Genotype "qyIs138[unc-62>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "ina-1 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0451"
+Assay	"Expression_mosaic"	"WBPaper00038447_6"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000600(increased width)"
+Gene	"WBGene00003930"	Published_as	"pat-3"
+Involved	"WBbt:0007809"	Necessary	"RNAi-targeted knockdown of pat-3 in the vulval tissue (unc-62>rde-1 strain), however, caused an basement membrane gap over expansion defect, similar to ina-1(gm39) mutants."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_6
+Genotype "qyIs138[unc-62>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "pat-3 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0452"
+Assay	"Expression_mosaic"	"WBPaper00038447_7"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00003929"	Published_as	"pat-2"
+Not_involved	"WBbt:0007809"	Unnecessary	"No defects in basement membrane gap formation were observed after RNAi depletion of pat-2 in the vulval tissue."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_7
+Genotype "qyIs138[unc-62>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "pat-2 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0453"
+Assay	"Expression_mosaic"	"WBPaper00038447_8"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000600(increased width)"
+Gene	"WBGene00006882"	Published_as	"vab-19"
+Involved	"WBbt:0007809"	Necessary	"Similar to integrin function, vulval- and uterine-specific RNAi-mediated knockdown of vab-19 suggested that vab-19 functions within the vulval cells."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_8
+Genotype "qyIs138[unc-62>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "vab-19 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0454"
+Assay	"Expression_mosaic"	"WBPaper00038447_9"
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|WBbt:0007831(vulval cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00006882"	Published_as	"vab-19"
+Not_involved	"WBbt:0004522"	Unnecessary	"Similar to integrin function, vulval- and uterine-specific RNAi-mediated knockdown of vab-19 suggested that vab-19 functions within the vulval cells."
+Not_involved	"WBbt:0006780"	Unnecessary	"Similar to integrin function, vulval- and uterine-specific RNAi-mediated knockdown of vab-19 suggested that vab-19 functions within the vulval cells."
+Not_involved	"WBbt:0006781"	Unnecessary	"Similar to integrin function, vulval- and uterine-specific RNAi-mediated knockdown of vab-19 suggested that vab-19 functions within the vulval cells."
+Reference	"WBPaper00038447"
+
+Condition : WBPaper00038447_9
+Genotype "qyIs103[fos-1a>RDE-1];rde-1(ne219);rrf-3(pk1426)"
+Treatment "vab-19 RNAi"
+Reference WBPaper00038447
+
+
+
+Anatomy_function : "WBbtf0455"
+Assay	"Expression_mosaic"	"WBPaper00039901_1"
+Phenotype	"WBPhenotype:0001661"	Autonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005672(AWC)|GO:0007368(left-right asymmetry)|GO:0001708(cell fate specification) QUALITY:PATO:0000461(normal)"
+Gene	"WBGene00006831"	Published_as	"unc-104"
+Involved	"WBbt:0005672"	Sufficient	"Expression of unc-104 in AWC from the ord-3 promoter significatly rescued the enhancement of 2AWC-ON frequency from 91% to 39% in tir-1(ky388ts); unc-104(e1265) double mutants."
+Reference	"WBPaper00039901"
+
+Condition : WBPaper00039901_1
+Genotype "tir-1(ky388ts); unc-104(e1265); odr-3p::unc-104"
+Reference WBPaper00039901
+
+
+
+Anatomy_function : "WBbtf0456"
+Assay	"Genetic_mosaic"	"WBPaper00039901_2"
+Phenotype	"WBPhenotype:0001661"	Autonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005832(AWC-ON)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
+Gene	"WBGene00006831"	Published_as	"unc-104"
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
+Reference	"WBPaper00039901"
+
+Condition : WBPaper00039901_2
+Genotype "unc-104(e1265); Ex[unc-104p::unc-104 odr-1p::DsRed]"
+Reference WBPaper00039901
+
+
+
+Anatomy_function : "WBbtf0457"
+Assay	"Genetic_mosaic"	"WBPaper00039901_2"
+Phenotype	"WBPhenotype:0001661"	Nonautonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005833(AWC-OFF)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
+Gene	"WBGene00006831"	Published_as	"unc-104"
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
+Reference	"WBPaper00039901"
+
+Condition : WBPaper00039901_2
+Genotype "unc-104(e1265); Ex[unc-104p::unc-104 odr-1p::DsRed]"
+Reference WBPaper00039901
+
+
+
+
+Anatomy_function : "WBbtf0458"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006873(Psub2)|WP:CE24910(GPR-1)|GO:0008104(protein localization) QUALITY:PATO:0000628(ectopic)"
+Involved	"WBbt:0006876"	Sufficient	"We combined two pairs of P2-EMS cells expressing mCherry::GPR-1 in an antiparallel orientation and found that ectopic P2-EMS contacts (contacts between non-sister P2-EMS cells) and endogenous P2-EMS contacts (contacts between sister P2-EMS cells) recruited indistinguishable levels of protein."
+Reference	"WBPaper00040172"
+
+
+Anatomy_function : "WBbtf0459"
+Assay	"Blastomere_isolation"	"WBPaper00040172_1"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006873(Psub2)|WP:CE24910(GPR-1)|GO:0008104(protein localization) QUALITY:PATO:0000628(ectopic) NOT"
+Gene	"WBGene00003219"	Published_as	"mes-1"
+Involved	"WBbt:0006876"	Necessary	"the ectopic P2-EMS contacts can recruit GPR-1 as endogenous P2-EMS contacts do, and hence that cell-cell contact can enrich GPR-1 at a cortical site. This appears to depend on MES-1 signaling specifically at the P2-EMS contact, as control recombinations between P2-EMS pairs and the other two cells of the four-cell stage – ABa and ABp – referred to as ABx here, and contacts with P2-EMS pairs that lack MES-1 failed to accumulate similar levels of mCherry::GPR-1."
+Reference	"WBPaper00040172"
+
+Condition : WBPaper00040172_1
+Genotype "mes-1(bn7)"
+Reference WBPaper00040172
+
+
+
+Anatomy_function : "WBbtf0460"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000760"	Remark	"ENTITY:WBbt:0006873(Psub2)|GO:0000132(mitotic spindle orientation) QUALITY:PATO:0000628(ectopic)"
+Involved	"WBbt:0006876"	Sufficient	"We combined two pairs of P2-EMS cells in an antiparallel orientation and noticed that spindle orientation in P2 depended on specific cell contacts."
+Reference	"WBPaper00040172"
+
+
+Anatomy_function : "WBbtf0461"
+Assay	"Blastomere_isolation"	"WBPaper00040172_1"
+Phenotype	"WBPhenotype:0000760"	Remark	"ENTITY:WBbt:0006873(Psub2)|GO:0000132(mitotic spindle orientation) QUALITY:PATO:0000628(ectopic) NOT"
+Gene	"WBGene00003219"	Published_as	"mes-1"
+Involved	"WBbt:0006876"	Necessary	"We combined two pairs of P2-EMS cells in an antiparallel orientation and noticed that spindle orientation in P2 depended on specific cell contacts and MES-1."
+Reference	"WBPaper00040172"
+
+Condition : WBPaper00040172_1
+Genotype "mes-1(bn7)"
+Reference WBPaper00040172
+
 
 

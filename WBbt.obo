@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 21:09:2011 10:25
+date: 18:10:2011 10:30
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -25265,7 +25265,7 @@ relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 [Term]
 id: WBbt:0004532
 name: g1AL
-def: "Pharyngeal gland cells" [ISBN:0-87969-307-X]
+def: "Pharyngeal gland cell." [ISBN:0-87969-307-X]
 synonym: "lineage name: MSaapaapaa" RELATED []
 is_a: WBbt:0003712 ! g1
 
@@ -50195,11 +50195,13 @@ is_a: WBbt:0006909 ! longitudinal male muscle
 [Term]
 id: WBbt:0008385
 name: anal depressor muscle male
+def: "Anal depressor muscle of a male animal." [WB:<new dbxref>rynl]
 is_a: WBbt:0004292 ! anal depressor muscle
 
 [Term]
 id: WBbt:0008386
 name: anal depressor muscle hermaphrodite
+def: "Anal depressor muscle of a hermaphrodite animal." [WB:<new dbxref>rynl]
 is_a: WBbt:0004292 ! anal depressor muscle
 is_a: WBbt:0005803 ! rectal muscle
 
