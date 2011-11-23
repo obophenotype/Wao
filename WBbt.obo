@@ -21834,7 +21834,7 @@ is_a: WBbt:0006832 ! PVP
 [Term]
 id: WBbt:0004083
 name: PVNR
-def: "Interneuron/motor neuron, post. vent. cord, few synapses" [ISBN:0-87969-307-X]
+def: "Interneuron/motor neuron, posterior ventral cord, few synapses" [ISBN:0-87969-307-X]
 synonym: "lineage name: TR.appp" RELATED []
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
 is_a: WBbt:0008275 ! PVN
@@ -21842,7 +21842,7 @@ is_a: WBbt:0008275 ! PVN
 [Term]
 id: WBbt:0004084
 name: PVNL
-def: "Interneuron/motor neuron, post. vent. cord, few synapses" [ISBN:0-87969-307-X]
+def: "Interneuron/motor neuron, posterior ventral cord, few synapses" [ISBN:0-87969-307-X]
 synonym: "lineage name: TL.appp" RELATED []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
 is_a: WBbt:0008275 ! PVN
@@ -24965,7 +24965,7 @@ is_a: WBbt:0006904 ! gon herm prsh A
 [Term]
 id: WBbt:0004491
 name: LUAR
-def: "Interneuron, short process in post ventral cord" [ISBN:0-87969-307-X]
+def: "Interneuron, short process in posterior ventral cord" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpppaapap" RELATED []
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
 is_a: WBbt:0008031 ! LUA
@@ -24980,7 +24980,7 @@ is_a: WBbt:0006904 ! gon herm prsh A
 [Term]
 id: WBbt:0004493
 name: LUAL
-def: "Interneuron, short process in post ventral cord" [ISBN:0-87969-307-X]
+def: "Interneuron, short process in posterior ventral cord" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpppaapap" RELATED []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
 is_a: WBbt:0008031 ! LUA
@@ -25696,7 +25696,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004585
 name: VD13
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P12.app" RELATED []
 is_a: WBbt:0005303 ! VD neuron
 is_a: WBbt:0005447 ! preanal ganglion neuron
@@ -25711,7 +25711,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004587
 name: VD12
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P11.app" RELATED []
 is_a: WBbt:0005303 ! VD neuron
 is_a: WBbt:0005447 ! preanal ganglion neuron
@@ -25726,7 +25726,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004589
 name: VD11
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P10.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25741,7 +25741,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004591
 name: VD10
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P9.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25756,7 +25756,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004593
 name: VD9
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P8.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25785,7 +25785,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004597
 name: VD8
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P7.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25793,7 +25793,7 @@ is_a: WBbt:0005303 ! VD neuron
 [Term]
 id: WBbt:0004598
 name: VD7
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P6.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25801,7 +25801,7 @@ is_a: WBbt:0005303 ! VD neuron
 [Term]
 id: WBbt:0004599
 name: VD6
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P5.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25816,7 +25816,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004601
 name: VD5
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P4.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25831,7 +25831,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004603
 name: VD4
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P3.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25846,7 +25846,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004605
 name: VD3
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P2.app" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005303 ! VD neuron
@@ -25861,7 +25861,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004607
 name: VD2
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: P1.app" RELATED []
 is_a: WBbt:0005303 ! VD neuron
 is_a: WBbt:0005403 ! retrovesicular ganglion neuron
@@ -25876,7 +25876,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004609
 name: VD1
-def: "Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, probably reciprocal inhibitor" [ISBN:0-87969-307-X]
 synonym: "lineage name: W.pp" RELATED []
 is_a: WBbt:0005303 ! VD neuron
 is_a: WBbt:0005403 ! retrovesicular ganglion neuron
@@ -25891,7 +25891,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004611
 name: VC6
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P8.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 
@@ -25905,7 +25905,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004613
 name: VC5
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P7.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 is_a: WBbt:0006837 ! serotonergic neuron
@@ -25934,7 +25934,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004617
 name: VC4
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P6.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 is_a: WBbt:0006837 ! serotonergic neuron
@@ -25942,14 +25942,14 @@ is_a: WBbt:0006837 ! serotonergic neuron
 [Term]
 id: WBbt:0004618
 name: VC3
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P5.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 
 [Term]
 id: WBbt:0004619
 name: VC2
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P4.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 
@@ -25963,7 +25963,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004621
 name: VC1
-def: "Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles" [ISBN:0-87969-307-X]
+def: "Hermaphrodite specific ventral cord motor neuron innervates vulval muscles and ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P3.aap" RELATED []
 is_a: WBbt:0005304 ! VC neuron
 
@@ -25977,7 +25977,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004623
 name: VB11
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P10.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -25992,7 +25992,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004625
 name: VB10
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P9.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26007,7 +26007,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004627
 name: VB9
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P8.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26022,7 +26022,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004629
 name: VB8
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P7.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26037,7 +26037,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004631
 name: VB7
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P6.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26052,7 +26052,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004633
 name: VB6
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P5.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26081,7 +26081,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004637
 name: VB5
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P4.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26089,7 +26089,7 @@ is_a: WBbt:0005336 ! VB neuron
 [Term]
 id: WBbt:0004638
 name: VB4
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P3.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26097,7 +26097,7 @@ is_a: WBbt:0005336 ! VB neuron
 [Term]
 id: WBbt:0004639
 name: VB3
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P2.aaap" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005336 ! VB neuron
@@ -26112,7 +26112,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004641
 name: VB2
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: W.aap" RELATED []
 is_a: WBbt:0005336 ! VB neuron
 is_a: WBbt:0005403 ! retrovesicular ganglion neuron
@@ -26127,7 +26127,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004643
 name: VB1
-def: "Vent. cord motor neuron, innervates vent. body muscles, also interneuron in ring" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, also interneuron in ring" [ISBN:0-87969-307-X]
 synonym: "lineage name: P1.aaap" RELATED []
 is_a: WBbt:0005336 ! VB neuron
 is_a: WBbt:0005403 ! retrovesicular ganglion neuron
@@ -26143,7 +26143,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004645
 name: VA12
-def: "Vent. cord motor neuron, innervates vent. body muscles, but also interneuron in preanal ganglion" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles, but also interneuron in preanal ganglion" [ISBN:0-87969-307-X]
 synonym: "lineage name: P12.aaaa" RELATED []
 is_a: WBbt:0005339 ! VA neuron
 is_a: WBbt:0005447 ! preanal ganglion neuron
@@ -26158,7 +26158,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004647
 name: VA11
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P11.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -26173,7 +26173,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004649
 name: VA10
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P10.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -26188,7 +26188,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004651
 name: VA9
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P9.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -26203,7 +26203,7 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004653
 name: VA8
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P8.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -26760,7 +26760,7 @@ relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 id: WBbt:0004739
 name: I6
 alt_id: WBbt:0003640
-def: "Pharyngeal interneuron, post sensory." [ISBN:0-87969-307-X]
+def: "Pharyngeal interneuron, posterior sensory." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I6frameset.html>
 synonym: "I6" RELATED []
 synonym: "lineage name: MSpaaapaa" RELATED []
@@ -26772,7 +26772,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 id: WBbt:0004740
 name: I5
 alt_id: WBbt:0003642
-def: "Pharyngeal interneuron, post sensory." [ISBN:0-87969-307-X]
+def: "Pharyngeal interneuron, posterior sensory." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I5frameset.html>
 synonym: "I5" RELATED []
 synonym: "lineage name: ABarapapapp" RELATED []
@@ -27697,7 +27697,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004860
 name: VA7
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P7.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27713,7 +27713,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004862
 name: VA6
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P6.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27729,7 +27729,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004864
 name: VA5
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P5.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27745,7 +27745,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004866
 name: VA4
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P4.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27761,7 +27761,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004868
 name: VA3
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P3.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27777,7 +27777,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 [Term]
 id: WBbt:0004870
 name: VA2
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: P2.aaaa" RELATED []
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005339 ! VA neuron
@@ -27793,7 +27793,7 @@ is_a: WBbt:0005403 ! retrovesicular ganglion neuron
 [Term]
 id: WBbt:0004872
 name: VA1
-def: "Vent. cord motor neuron, innervates vent. body muscles" [ISBN:0-87969-307-X]
+def: "Ventral cord motor neuron, innervates ventral body muscles" [ISBN:0-87969-307-X]
 synonym: "lineage name: W.pa" RELATED []
 is_a: WBbt:0005339 ! VA neuron
 is_a: WBbt:0005403 ! retrovesicular ganglion neuron
@@ -28801,7 +28801,7 @@ relationship: part_of WBbt:0005337 ! vas deferens
 [Term]
 id: WBbt:0004993
 name: SDQL
-def: "Post. lateral interneuron, process projects into ring" [ISBN:0-87969-307-X]
+def: "Posterior lateral interneuron, process projects into ring" [ISBN:0-87969-307-X]
 synonym: "lineage name: QL.pap" RELATED []
 is_a: WBbt:0005464 ! posterior lateral left ganglion
 is_a: WBbt:0006844 ! SDQ
@@ -31645,7 +31645,7 @@ is_a: WBbt:0005465 ! posterior lateral ganglion
 [Term]
 id: WBbt:0005465
 name: posterior lateral ganglion
-def: "ganglion on the lateral side, in postior portion of the body, associated with post deirid." [WB:rynl]
+def: "ganglion on the lateral side, in postior portion of the body, associated with posterior deirid." [WB:rynl]
 synonym: "posterior lateral ganglia" RELATED []
 xref: WB:rynl
 is_a: WBbt:0005332 ! body ganglion
@@ -49518,7 +49518,7 @@ relationship: part_of WBbt:0006795 ! proctodeum
 [Term]
 id: WBbt:0008275
 name: PVN
-def: "Interneuron/motor neuron, post. vent. cord, few synapses." [ISBN:0-87969-307-X]
+def: "Interneuron/motor neuron, posterior ventral cord, few synapses." [ISBN:0-87969-307-X]
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005409 ! motor neuron
 
