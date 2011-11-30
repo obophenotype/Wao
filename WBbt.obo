@@ -19184,7 +19184,7 @@ is_a: WBbt:0003742 ! pm2
 [Term]
 id: WBbt:0003634
 name: M2 neuron
-def: "neuron type, a set of two pharyngeal motor neuron." [WB:rynl]
+def: "Neuron class of two pharyngeal motor neurons." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/M2frameset.html>
 synonym: "M2" RELATED []
 is_a: WBbt:0003677 ! pharyngeal motor neuron
@@ -19208,7 +19208,7 @@ is_obsolete: true
 id: WBbt:0003638
 name: MC
 alt_id: WBbt:0003651
-def: "neuron type, marginal cell neuron of the pharynx." [WB:Paper00000009]
+def: "Neuron class, marginal cell neuron of the pharynx." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/MCframeset.html>
 synonym: "marginal cell neuron" RELATED []
 is_a: WBbt:0005439 ! pharyngeal neuron
@@ -19228,7 +19228,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0003645
 name: I2
-def: "neuron type, pharyngeal interneuron." [WB:Paper00000009]
+def: "Neuron class, pharyngeal interneuron." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I2frameset.html>
 is_a: WBbt:0003668 ! pharyngeal interneuron
 is_a: WBbt:0005113 ! interneuron
@@ -19237,7 +19237,7 @@ relationship: part_of WBbt:0003711 ! metacorpus
 [Term]
 id: WBbt:0003649
 name: I1
-def: "neuron type, pharyngeal interneuron." [WB:Paper00000009]
+def: "Neuron class, pharyngeal interneuron." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I1frameset.html>
 is_a: WBbt:0003668 ! pharyngeal interneuron
 is_a: WBbt:0005113 ! interneuron
@@ -19296,7 +19296,7 @@ is_obsolete: true
 id: WBbt:0003666
 name: NSM
 alt_id: WBbt:0003746
-def: "neuron type, a set of two pharyngeal neurosecretory-motor neurons." [WB:Paper00000009]
+def: "Neuron class of two pharyngeal neurosecretory-motor neurons." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/NSMframeset.html>
 synonym: "neurosecretory-motor neuron" RELATED []
 is_a: WBbt:0005439 ! pharyngeal neuron
@@ -19607,7 +19607,7 @@ relationship: part_of WBbt:0003711 ! metacorpus
 id: WBbt:0003754
 name: M3 neuron
 alt_id: WBbt:0005594
-def: "neuron type, a set of two pharyngeal motoneurons." [WB:rynl]
+def: "Neuron class of two pharyngeal motoneurons." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/M3frameset.html>
 synonym: "M3" RELATED []
 is_a: WBbt:0003677 ! pharyngeal motor neuron
@@ -29803,7 +29803,7 @@ is_a: WBbt:0005107 ! labial sensillum
 [Term]
 id: WBbt:0005117
 name: inner labial neuron
-def: "neuron type, a set of 12 neurons of the inner labial sensilla." [WB:rynl]
+def: "neuron type, member of a set of 12 neurons of the inner labial sensilla." [WB:rynl]
 synonym: "IL neuron" RELATED []
 is_a: WBbt:0006816 ! ciliated neuron
 relationship: part_of WBbt:0005116 ! inner labial sensillum
@@ -29811,7 +29811,7 @@ relationship: part_of WBbt:0005116 ! inner labial sensillum
 [Term]
 id: WBbt:0005118
 name: IL2 neuron
-def: "neuron type, a set of six ciliated neurons, each of which is one of the two component neurons of the six inner labial sensilla." [WB:Paper00000938]
+def: "Neuron class of six ciliated neurons, each of which is one of the two component neurons of the six inner labial sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/IL2frameset.html>
 is_a: WBbt:0005117 ! inner labial neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -29819,7 +29819,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005119
 name: IL1 neuron
-def: "neuron type, a set of six ciliated neurons with striated rootlets, each of which is one of two component neurons of the inner labial sensilla." [WB:Paper00000938]
+def: "Neuron class of six ciliated neurons with striated rootlets, each of which is one of two component neurons of the inner labial sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/IL1frameset.html>
 is_a: WBbt:0005117 ! inner labial neuron
 is_a: WBbt:0008431 ! mechanosensory neuron
@@ -30454,7 +30454,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005244
 name: CEP
-def: "cephalic neuron" [WB:sdm]
+def: "Neuron class of four neurons associated with cephalic sensilla." [WB:sdm]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/CEPframeset.html>
 is_a: WBbt:0006746 ! dopaminergic neuron
 is_a: WBbt:0006816 ! ciliated neuron
@@ -30467,7 +30467,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005246
 name: CEM
-def: "male-specific cephalic neuron." [WB:rynl]
+def: "Neuron class of four male-specific neurons associated with cephalic sensilla." [WB:rynl]
 is_a: WBbt:0003679 ! neuron
 is_a: WBbt:0005757 ! male-specific
 is_a: WBbt:0005759 ! sensory neuron
@@ -30597,7 +30597,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005270
 name: DD neuron
-def: "neuron type, a set of six motoneurons, with cell bodies in the ventral cord, which innervate dorsal muscles. Each cell has a short, posteriorly directed and a longer, anteriorly directed process emanating from its cell body. The anterior process has a branch, which leaves the ventral cord as a commissure and runs round to the dorsal cord." [WB:Paper00000938]
+def: "Neuron class of six motoneurons, with cell bodies in the ventral cord, which innervate dorsal muscles. Each cell has a short, posteriorly directed and a longer, anteriorly directed process emanating from its cell body. The anterior process has a branch, which leaves the ventral cord as a commissure and runs round to the dorsal cord." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/DDframeset.html>
 is_a: WBbt:0005190 ! GABAergic neuron
 is_a: WBbt:0005409 ! motor neuron
@@ -30620,7 +30620,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005274
 name: DB neuron
-def: "neuron type, a set of seven motoneurons that innervate dorsal muscles and have cell bodies in the ventral cord." [WB:Paper00000938]
+def: "Neuron class of seven motoneurons that innervate dorsal muscles and have cell bodies in the ventral cord." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/DBframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -30643,7 +30643,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005278
 name: DA neuron
-def: "Ventral cord motor neuron, innervates dorsal muscle." [WB:rynl]
+def: "Neuron class of nine ventral cord motor neuron, innervates dorsal muscle." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/DAframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -30776,7 +30776,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005303
 name: VD neuron
-def: "neuron type, a set of thirteen motoneurons, with cell bodies in the ventral cord, which innervate ventral muscles. Each cell has an anteriorly directed process emanating from its cell body." [WB:Paper00000938]
+def: "Neuron class of thirteen motoneurons, with cell bodies in the ventral cord, which innervate ventral muscles. Each cell has an anteriorly directed process emanating from its cell body." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/VDframeset.html>
 is_a: WBbt:0005190 ! GABAergic neuron
 is_a: WBbt:0005409 ! motor neuron
@@ -30784,7 +30784,7 @@ is_a: WBbt:0005409 ! motor neuron
 [Term]
 id: WBbt:0005304
 name: VC neuron
-def: "neuron type, a set of six motoneurons in the ventral cord, which innervate ventral body muscles and the vm2 muscles of the vulva." [WB:Paper00000938]
+def: "Neuron class of six motoneurons in the ventral cord, which innervate ventral body muscles and the vm2 muscles of the vulva." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/VCframeset.html>
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005409 ! motor neuron
@@ -30822,7 +30822,7 @@ relationship: part_of WBbt:0005312 ! copulatory spicule
 [Term]
 id: WBbt:0005310
 name: CP neuron
-def: "neuron type, male-specific, cell body in ventral cord and preanal ganglion" [WB:rynl, WB:sdm]
+def: "Neuron class of nine male-specific neurons with cell body in ventral cord and preanal ganglion" [WB:rynl, WB:sdm]
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005757 ! male-specific
@@ -30941,7 +30941,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005334
 name: AS neuron
-def: "ASn is a set of eleven motoneurons, with cell bodies in the ventral cord, which innervate dorsal muscles." [WB:cgc938]
+def: "Neuron class of eleven motoneurons, with cell bodies in the ventral cord, which innervate dorsal muscles." [WB:cgc938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/asframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -30949,7 +30949,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0005336
 name: VB neuron
-def: "neuron type, a set of 11 motoneurons, distributed along the ventral cord, which innervate ventral body muscles." [WB:Paper00000938]
+def: "Neuron class of 11 motoneurons, distributed along the ventral cord, which innervate ventral body muscles." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/VBframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -30971,7 +30971,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005339
 name: VA neuron
-def: "neuron type, a set of twelve motoneurons, distributed along the ventral cord, which innervate ventral body muscles." [WB:Paper00000938]
+def: "Neuron class of twelve motoneurons, distributed along the ventral cord, which innervate ventral body muscles." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/VAframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31012,7 +31012,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005346
 name: URY
-def: "neuron type, a set of four neurons with cell bodies situated anterior to the nerve ring. presynaptic in ring, non-ciliated endings in head, associated with OLQ in embryo" [WB:Paper00000938, WB:rynl]
+def: "Neuron class of four neurons with cell bodies situated anterior to the nerve ring. presynaptic in ring, non-ciliated endings in head, associated with OLQ in embryo" [WB:Paper00000938, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/URYframeset.html>
 is_a: WBbt:0005759 ! sensory neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -31051,7 +31051,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005353
 name: SMD
-def: "neuron type, a set of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
+def: "Neuron class of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SMDframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31065,7 +31065,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005355
 name: SMB
-def: "neuron type, a set of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
+def: "Neuron class of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SMBframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31089,7 +31089,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005359
 name: SIB
-def: "neuron type, a set of four interneurons, which send processes posteriorly down the sub-lateral cords. SIBV has cell bodies, in the ventral ganglion, which send processes that run right round the nerve ring and return to the neuropile of the ventral ganglion." [WB:Paper00000938]
+def: "Neuron class of four interneurons, which send processes posteriorly down the sub-lateral cords. SIBV has cell bodies, in the ventral ganglion, which send processes that run right round the nerve ring and return to the neuropile of the ventral ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SIBframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31103,7 +31103,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005361
 name: SIA
-def: "neuron type, a set of four interneurons, which send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
+def: "Neuron class of four interneurons, which send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SIAframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31305,7 +31305,7 @@ is_a: WBbt:0005391 ! amphid sensillum
 [Term]
 id: WBbt:0005396
 name: SAB
-def: "neuron type, a set of three interneurons, which send processes anteriorly up the sub-lateral cords in the head." [WB:Paper00000938]
+def: "Neuron class of three interneurons, which send processes anteriorly up the sub-lateral cords in the head." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SABframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31314,7 +31314,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0005397
 name: SAA
-def: "neuron type, a set of four interneurons that send processes anteriorly up the sub-lateral cords in the head." [WB:Paper00000938]
+def: "Neuron class of four interneurons that send processes anteriorly up the sub-lateral cords in the head." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SAAframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -31323,7 +31323,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0005399
 name: RME
-def: "neuron type, a set of four motoneurons, with NMJs in the nerve ring, which innervate head muscles." [WB:Paper00000938]
+def: "Neuron class of four motoneurons, with NMJs in the nerve ring, which innervate head muscles." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMEframeset.html>
 is_a: WBbt:0005190 ! GABAergic neuron
 is_a: WBbt:0005409 ! motor neuron
@@ -31332,7 +31332,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0005400
 name: RMD
-def: "neuron type, a set of six major motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
+def: "Neuron class of six major motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMDframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -31366,7 +31366,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005406
 name: ALM
-def: "neuron type, a pair of anterior sensory neurons that transduce touch stimuli." [WB:Paper00000938]
+def: "Neuron class of two anterior sensory neurons that transduce touch stimuli." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ALMframeset.html>
 is_a: WBbt:0005237 ! touch receptor neuron
 
@@ -31691,7 +31691,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005473
 name: PC neuron
-def: "neuron type, of post-cloacal sensillum." [WB:rynl]
+def: "Male-specific neuron of the post-cloacal sensillum." [WB:rynl]
 is_a: WBbt:0005759 ! sensory neuron
 relationship: part_of WBbt:0005487 ! postcloacal sensillum
 
@@ -31781,7 +31781,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005490
 name: PLM
-def: "neuron type, a pair of posterior sensory neurons that transduce touch stimuli." [WB:Paper00000938]
+def: "Neuron class of two posterior sensory neurons that transduce touch stimuli." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PLMframeset.html>
 is_a: WBbt:0005237 ! touch receptor neuron
 
@@ -32401,7 +32401,7 @@ relationship: part_of WBbt:0005427 ! phasmid right sensillum
 [Term]
 id: WBbt:0005660
 name: ADF
-def: "ADF is a set of two neurons that have dual ciliated endings in the amphid sensillum. The endings are in the amphid channel, which is open to the outside. Processes from lateral cell bodies enter the ventral cord via the amphidial commissures and turn anteriorly to enter the nerve ring. The processes of ADF run near the outside surface and posterior face of the ring, in close association with those of AIZ. They meet at the dorsal mid-line and terminate; there is a gap junction at the point or contact. The main synaptic output is to RIA and AIZ; there are also synapses to SMB, AUA and RIR, usually in dyadic combinations with RIA or AIZ. AWB synapses onto ADF in several places,  and there are gap junctions to RIH, ADA and AIA." [WB:cgc938]
+def: "Neuron class of two neurons that have dual ciliated endings in the amphid sensillum. The endings are in the amphid channel, which is open to the outside. Processes from lateral cell bodies enter the ventral cord via the amphidial commissures and turn anteriorly to enter the nerve ring. The processes of ADF run near the outside surface and posterior face of the ring, in close association with those of AIZ. They meet at the dorsal mid-line and terminate; there is a gap junction at the point or contact. The main synaptic output is to RIA and AIZ; there are also synapses to SMB, AUA and RIR, usually in dyadic combinations with RIA or AIZ. AWB synapses onto ADF in several places,  and there are gap junctions to RIH, ADA and AIA." [WB:cgc938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ADFframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32410,7 +32410,7 @@ is_a: WBbt:0006837 ! serotonergic neuron
 [Term]
 id: WBbt:0005661
 name: ADL
-def: "neuron type, a set of two neurons that have dual ciliated endings in the amphid sensillum; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two neurons that have dual ciliated endings in the amphid sensillum; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ADLframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32418,7 +32418,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005662
 name: AFD
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensillum; the endings of AFD have numerous villi, which poke into the amphid sheath cells." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensillum; the endings of AFD have numerous villi, which poke into the amphid sheath cells." [WB:Paper00000938]
 comment: AFD neuron sense CO2 [WBpaper00038260]
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005838 ! thermosensory neuron
@@ -32427,7 +32427,7 @@ is_a: WBbt:0008430 ! carbon dioxide sensory neuron
 [Term]
 id: WBbt:0005663
 name: ASE
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside" [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside" [WB:Paper00000938]
 comment: ASE neuron sense CO2 [WBpaper00038260]
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32436,7 +32436,7 @@ is_a: WBbt:0008430 ! carbon dioxide sensory neuron
 [Term]
 id: WBbt:0005664
 name: ASG
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ASGframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32444,7 +32444,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005665
 name: ASH
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ASHframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32456,7 +32456,7 @@ is_a: WBbt:0008434 ! nociceptor neuron
 [Term]
 id: WBbt:0005666
 name: ASI
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla; the endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ASIframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32464,7 +32464,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005667
 name: ASJ
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla. The endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla. The endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ASJframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32472,7 +32472,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005668
 name: ASK
-def: "neuron type, a set of two ciliated neurons that are part of the amphid sensilla. The endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are part of the amphid sensilla. The endings are in the amphid channel, which is open to the outside." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ASKframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005837 ! chemosensory neuron
@@ -32480,7 +32480,7 @@ is_a: WBbt:0005837 ! chemosensory neuron
 [Term]
 id: WBbt:0005670
 name: AWA
-def: "neuron type, a set of two ciliated neurons that are associated with the sheath cells of the amphid sensilla." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons that are associated with the sheath cells of the amphid sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AWAframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005839 ! odorsensory neuron
@@ -32488,7 +32488,7 @@ is_a: WBbt:0005839 ! odorsensory neuron
 [Term]
 id: WBbt:0005671
 name: AWB
-def: "neuron type, a set of two ciliated neurons with flattened, sheet-like endings that are associated with the sheath cells of the amphid sensilla" [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons with flattened, sheet-like endings that are associated with the sheath cells of the amphid sensilla" [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AWBframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005839 ! odorsensory neuron
@@ -32496,7 +32496,7 @@ is_a: WBbt:0005839 ! odorsensory neuron
 [Term]
 id: WBbt:0005672
 name: AWC
-def: "neuron type, a set of two ciliated neurons with large, flattened, sheet-like endings that are associated with the sheath cells of the amphid sensilla." [WB:Paper00000938]
+def: "Neuron class of two ciliated neurons with large, flattened, sheet-like endings that are associated with the sheath cells of the amphid sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AWCframeset.html>
 is_a: WBbt:0005394 ! amphid neuron
 is_a: WBbt:0005839 ! odorsensory neuron
@@ -33659,7 +33659,7 @@ is_a: WBbt:0005672 ! AWC
 [Term]
 id: WBbt:0005834
 name: RIB
-def: "neuron type, a set of two interneurons with cell bodies in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIBframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -33667,7 +33667,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0005835
 name: RIM
-def: "neuron type, a set of two interneuron motoneurons that innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two interneuron motoneurons that innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIMframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -33675,7 +33675,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0005836
 name: AIZ
-def: "neuron type, a set of two interneurons with cell bodies situated in the lateral ganglia, one of the main classes of integrating neuron for the receptors of the amphid sensilla." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia, one of the main classes of integrating neuron for the receptors of the amphid sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AIZframeset.html>
 is_a: WBbt:0005113 ! interneuron
 
@@ -33700,21 +33700,21 @@ is_a: WBbt:0005759 ! sensory neuron
 [Term]
 id: WBbt:0005840
 name: PVC
-def: "neuron type, a pair of interneurons with cell bodies situated in the lumbar ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lumbar ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PVCframeset.html>
 is_a: WBbt:0007804 ! command interneuron
 
 [Term]
 id: WBbt:0005841
 name: AVB
-def: "neuron type, a pair or interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVBframeset.html>
 is_a: WBbt:0007804 ! command interneuron
 
 [Term]
 id: WBbt:0005842
 name: AVA
-def: "neuorn type, a pair of interneurons with cell bodies situated in the lateral ganglia adjacent to the neuropile of the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia adjacent to the neuropile of the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVAframeset.html>
 is_a: WBbt:0007804 ! command interneuron
 
@@ -39739,7 +39739,7 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0006747
 name: PDE
-def: "neuron type, a pair of neurons with ciliated endings in the posterior deirid sensilla." [WB:Paper00000938]
+def: "Neuron class of two neurons with ciliated endings in the posterior deirid sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PDEframeset.html>
 synonym: "postdeirid neuron" RELATED [WB:rynl]
 is_a: WBbt:0006746 ! dopaminergic neuron
@@ -40198,7 +40198,7 @@ is_a: WBbt:0008074 ! syncytium
 [Term]
 id: WBbt:0006811
 name: ADA
-def: "neuron type, a set of two interneurons with cell bodies situated laterally at the level of the second bulb of the pharynx." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated laterally at the level of the second bulb of the pharynx." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ADAframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40206,21 +40206,21 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006812
 name: AIA
-def: "neuron type, a set of two interneurons with cell bodies situated in the ventral ganglion." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the ventral ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AIAframeset.html>
 is_a: WBbt:0005113 ! interneuron
 
 [Term]
 id: WBbt:0006813
 name: AIB
-def: "neuron type, a set of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AIBframeset.html>
 is_a: WBbt:0005113 ! interneuron
 
 [Term]
 id: WBbt:0006814
 name: AIM
-def: "neuron type, a set of two interneurons with cell bodies in the ventral ganglion behind the excretory duct." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies in the ventral ganglion behind the excretory duct." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AIMframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006837 ! serotonergic neuron
@@ -40229,7 +40229,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006815
 name: AIN
-def: "neuron type, a set of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/aiframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40243,28 +40243,28 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0006817
 name: AUA
-def: "neuron type, a pair of neurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two neurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AUAframeset.html>
 is_a: WBbt:0003679 ! neuron
 
 [Term]
 id: WBbt:0006818
 name: AVD
-def: "neuron type, a pair of interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVDframeset.html>
 is_a: WBbt:0007804 ! command interneuron
 
 [Term]
 id: WBbt:0006819
 name: AVE
-def: "neuron type, a pair of interneurons with cell bodies situated in the lateral ganglion close to the ring neuropile." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lateral ganglion close to the ring neuropile." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVEframeset.html>
 is_a: WBbt:0007804 ! command interneuron
 
 [Term]
 id: WBbt:0006821
 name: AVH
-def: "neuron type, a pair of interneurons with cell bodies in the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies in the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVHframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40272,7 +40272,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006822
 name: AVJ
-def: "neuron type, a pair of interneurons with cell bodies in the lateral ganglion." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies in the lateral ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVJframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40280,7 +40280,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006823
 name: AVK
-def: "neuron type, a pair of interneurons with cell bodies situated in the ventral ganglion behind the excretory duct." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the ventral ganglion behind the excretory duct." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/AVKframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40295,7 +40295,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0006825
 name: BAG
-def: "neuron type, a set of two neurons with ciliated endings, in the head, with elliptical, closed, sheet-like processes near the cilium, which envelop a piece of hypodermis." [WB:Paper00000938]
+def: "Neuron class of two neurons with ciliated endings, in the head, with elliptical, closed, sheet-like processes near the cilium, which envelop a piece of hypodermis." [WB:Paper00000938]
 comment: BAG neuron sense CO2 [WBpaper00038260]
 is_a: WBbt:0006816 ! ciliated neuron
 is_a: WBbt:0008430 ! carbon dioxide sensory neuron
@@ -40304,7 +40304,7 @@ is_a: WBbt:0008432 ! oxygene sensory neuron
 [Term]
 id: WBbt:0006826
 name: BDU
-def: "neuron type, a set of two interneurons with cell bodies situated laterally in the anterior body." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated laterally in the anterior body." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/BDUframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40312,14 +40312,14 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006827
 name: CAN
-def: "neuron type, a set of two cells that are closely associated with the excretory canal." [WB:Paper00000938]
+def: "Neuron class of two cells that are closely associated with the excretory canal." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/caframeset.html>
 is_a: WBbt:0003679 ! neuron
 
 [Term]
 id: WBbt:0006828
 name: FLP
-def: "neuron type, a set of two neurons, which have ciliated endings situated immediately dorsal to the lateral inner labial sensilla in the head but have no associated sheath or socket cells; they have flattened processes in this region of the cilium." [WB:Paper00000938]
+def: "Neuron class of two neurons, which have ciliated endings situated immediately dorsal to the lateral inner labial sensilla in the head but have no associated sheath or socket cells; they have flattened processes in this region of the cilium." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/FLPframeset.html>
 is_a: WBbt:0006816 ! ciliated neuron
 is_a: WBbt:0008431 ! mechanosensory neuron
@@ -40333,7 +40333,7 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0006830
 name: HSN
-def: "neuron type, a set of two motoneurons that innervate vulval muscles in the hermaphrodite." [WB:Paper00000938]
+def: "Neuron class of two motoneurons that innervate vulval muscles in the hermaphrodite." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/hsframeset.html>
 synonym: "hermaphrodite specific neuron" RELATED []
 is_a: WBbt:0005409 ! motor neuron
@@ -40343,7 +40343,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0006831
 name: PVD
-def: "neuron type, a set of two interneurons with cell bodies situated laterally in the posterior body." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated laterally in the posterior body." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PVDframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0008431 ! mechanosensory neuron
@@ -40351,7 +40351,7 @@ is_a: WBbt:0008431 ! mechanosensory neuron
 [Term]
 id: WBbt:0006832
 name: PVP
-def: "neuron type, a pair of neurons with cell bodies situated in the pre-anal ganglion." [WB:Paper00000938]
+def: "Neuron class of two neurons with cell bodies situated in the pre-anal ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PVPframeset.html>
 is_a: WBbt:0005447 ! preanal ganglion neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40359,7 +40359,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006833
 name: RIA
-def: "neuron type, a set of two prominent interneurons with cell bodies situated in the lateral ganglia, adjacent to the neuropile of the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two prominent interneurons with cell bodies situated in the lateral ganglia, adjacent to the neuropile of the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIAframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40367,7 +40367,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006834
 name: RIC
-def: "neuron type, a pair of interneurons with cell bodies situated in the posterior regions of the lateral ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the posterior regions of the lateral ganglia." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RICframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40375,7 +40375,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006835
 name: RIF
-def: "neuron type, a set of two interneurons with cell bodies situated in the retro-vesicular ganglion." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the retro-vesicular ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIFframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40383,7 +40383,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006836
 name: RIG
-def: "neuron type, a set of two interneurons with cell bodies situated in the retro-vesicular ganglion." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the retro-vesicular ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIGframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40398,7 +40398,7 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0006838
 name: RIP
-def: "neuron type, a set of two interneurons mediate the only direct interconnections between the pharyngeal and the central nervous systems." [WB:Paper00000938]
+def: "Neuron class of two interneurons mediate the only direct interconnections between the pharyngeal and the central nervous systems." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIPframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40406,7 +40406,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006839
 name: RIV
-def: "neuron type, a pair of interneurons/motoneurons with cell bodies situated sub-dorsally in the lateral ganglion." [WB:Paper00000938]
+def: "Neuron class of two interneurons/motoneurons with cell bodies situated sub-dorsally in the lateral ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIVframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005409 ! motor neuron
@@ -40422,7 +40422,7 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0006841
 name: RMF
-def: "neuron type, a set of two motoneurons, which innervate head muscles via NMJs in the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two motoneurons, which innervate head muscles via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMFframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40430,7 +40430,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006842
 name: RMG
-def: "neuron type, a set of two motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMGframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40438,7 +40438,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006843
 name: RMH
-def: "neuron type, a set of two motoneurons which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two motoneurons which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMHframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40446,7 +40446,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006844
 name: SDQ
-def: "neuron type, a set of two interneurons with laterally located cell bodies." [WB:Paper00000938]
+def: "Neuron class of two interneurons with laterally located cell bodies." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SDQframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -40455,7 +40455,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006845
 name: URB
-def: "neuron type, a set of two interneurons with cell bodies situated laterally, anteriorly to the nerve ring." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated laterally, anteriorly to the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/URBframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40463,7 +40463,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0006846
 name: URX
-def: "neuron type, a set of two neurons with cell bodies that are situated sub-dorsally in the pseudocoelomic cavity just posterior to the ring neuropile." [WB:Paper00000938]
+def: "Neuron class of two neurons with cell bodies that are situated sub-dorsally in the pseudocoelomic cavity just posterior to the ring neuropile." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/URXframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -40472,21 +40472,21 @@ is_a: WBbt:0008432 ! oxygene sensory neuron
 [Term]
 id: WBbt:0006847
 name: OLL
-def: "neuron type, a set of two neurons with ciliated endings in the lateral outer labial sensilla." [WB:Paper00000938]
+def: "Neuron class of two neurons with ciliated endings in the lateral outer labial sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/OLLframeset.html>
 is_a: WBbt:0006801 ! outer labial neuron
 
 [Term]
 id: WBbt:0006848
 name: OLQ
-def: "neuron type, a set of four neurons with ciliated endings and striated rootlets in the dorsal and ventral outer labial sensilla." [WB:Paper00000938]
+def: "Neuron class of four neurons with ciliated endings and striated rootlets in the dorsal and ventral outer labial sensilla." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/OLQframeset.html>
 is_a: WBbt:0006801 ! outer labial neuron
 
 [Term]
 id: WBbt:0006849
 name: germline precursor cell
-def: "a set of two cells that generate exclusively sperm and ovum." [WB:rynl]
+def: "member of a set of two cells that generate exclusively sperm and ovum." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem2.htm#germlinedevelopment>
 synonym: "PGC" RELATED []
 synonym: "primordial germ cell" RELATED []
@@ -40501,14 +40501,14 @@ is_a: WBbt:0005746 ! Organ system
 [Term]
 id: WBbt:0006851
 name: ALN
-def: "neuron type, a set of neurons with cell bodies situated in the lumbar ganglion, send processes anteriorly, which eventually enter the nerve ring; they also have posteriorly directed processes that run into the tailspike." [WB:Paper00000938]
+def: "Neuron class of two neurons with cell bodies situated in the lumbar ganglion, send processes anteriorly, which eventually enter the nerve ring; they also have posteriorly directed processes that run into the tailspike." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/ALNframeset.html>
 is_a: WBbt:0006840 ! cholinergic neuron
 
 [Term]
 id: WBbt:0006852
 name: CA neuron
-def: "neuron type, male-specific, innervate dorsal muscles." [ISBN:0-87969-307-X]
+def: "Neuron class of nine male-specific neurons, innervate dorsal muscles." [ISBN:0-87969-307-X]
 is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005757 ! male-specific
@@ -40530,35 +40530,35 @@ is_a: WBbt:0006852 ! CA neuron
 [Term]
 id: WBbt:0006855
 name: PLN
-def: "neuron type, a set of two neurons with cell bodies situated in the lumbar ganglion." [WB:Paper00000938]
+def: "Neuron class of two neurons with cell bodies situated in the lumbar ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/plframeset.html>
 is_a: WBbt:0006840 ! cholinergic neuron
 
 [Term]
 id: WBbt:0006856
 name: R5A
-def: "neuron type, fifth male sensory ray, A neuron type." [WB:rynl]
+def: "Neuron class of two male-specific neurons that are associated with fifth male sensory ray, A neuron type." [WB:rynl]
 is_a: WBbt:0006746 ! dopaminergic neuron
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0006857
 name: R7A
-def: "neuron type, seventh male sensory ray, A neuron type." [WB:rynl]
+def: "Neuron class of two male-specific neurons that are associated with seventh male sensory ray, A neuron type." [WB:rynl]
 is_a: WBbt:0006746 ! dopaminergic neuron
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0006858
 name: R9A
-def: "neuron type, nineth male sensory ray, A neuron type." [WB:rynl]
+def: "Neuron class of two male-specific neurons that are associated with nineth male sensory ray, A neuron type." [WB:rynl]
 is_a: WBbt:0006746 ! dopaminergic neuron
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0006859
 name: PCB
-def: "neuron type, post cloacal sensilla neuron type B." [WB:Paper00005027, WB:rynl]
+def: "Neuron class of two male-specific post cloacal sensilla neuron type B." [WB:Paper00005027, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PCBframeset.html>
 is_a: WBbt:0005473 ! PC neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -40566,7 +40566,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0006860
 name: PCC
-def: "neuron type, post cloacal sensilla neuron type C." [WB:Paper00005027, WB:rynl]
+def: "Neuron class of two male-specific post cloacal sensilla neuron type C." [WB:Paper00005027, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PCCframeset.html>
 is_a: WBbt:0005473 ! PC neuron
 is_a: WBbt:0006840 ! cholinergic neuron
@@ -40574,7 +40574,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0006861
 name: SPC
-def: "neuron type, spicule neuron type C." [WB:Paper00005027, WB:rynl]
+def: "Neuron class of two male spicule neuron type C." [WB:Paper00005027, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SPCframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005831 ! spicule neuron
@@ -40583,7 +40583,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0006862
 name: SPV
-def: "neuron type, innervates male spicule." [WB:rynl]
+def: "Neuron class of two male-specific neurons that innervate male spicule." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SPVframeset.html>
 is_a: WBbt:0005831 ! spicule neuron
 
@@ -41328,7 +41328,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0006976
 name: PVQ
-def: "neuron type, a pair of two interneurons." [WB:rynl]
+def: "Neuron class, a pair of two interneurons." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/PVQframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
@@ -46428,27 +46428,27 @@ is_a: WBbt:0005113 ! interneuron
 [Term]
 id: WBbt:0007805
 name: SPD
-def: "Sensory neuron of copulatory spicle in male, cilliated, open to outside at tip of spicule." [ISBN:0-87969-307-X]
+def: "Neuron class of two male-specific sensory neuron associated with copulatory spicules, cilliated, open to outside at tip of spicule." [ISBN:0-87969-307-X]
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005831 ! spicule neuron
 
 [Term]
 id: WBbt:0007806
 name: PCA
-def: "a type of sensory neuron of postcloacal sensilla in male." [ISBN:0-87969-307-X]
+def: "Neuron class of two male-specific sensory neuron of postcloacal sensilla." [ISBN:0-87969-307-X]
 is_a: WBbt:0005473 ! PC neuron
 
 [Term]
 id: WBbt:0007807
 name: PHA
-def: "neuron type, phasmid." [WB:rynl]
+def: "Neuron class of two phasmid neurons, type A." [WB:rynl]
 is_a: WBbt:0005837 ! chemosensory neuron
 is_a: WBbt:0006753 ! phasmid neuron
 
 [Term]
 id: WBbt:0007808
 name: PHB
-def: "neuron type, phasmid." [WB:rynl]
+def: "Neuron class of two phasmid neurons, type B." [WB:rynl]
 is_a: WBbt:0005837 ! chemosensory neuron
 is_a: WBbt:0006753 ! phasmid neuron
 
@@ -47886,7 +47886,7 @@ relationship: develops_from WBbt:0007859 ! B.arpp nucleus
 [Term]
 id: WBbt:0008031
 name: LUA
-def: "neuron type, a set of two interneurons with cell bodies situated in the lumbar ganglia." [WB:Paper00000938]
+def: "Neuron class of two interneurons with cell bodies situated in the lumbar ganglia." [WB:Paper00000938]
 is_a: WBbt:0005113 ! interneuron
 
 [Term]
@@ -50231,91 +50231,91 @@ is_a: WBbt:0006804 ! body wall muscle cell
 [Term]
 id: WBbt:0008391
 name: R1A
-def: "male sensory ray neuron type A of ray one." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray one." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008392
 name: R2A
-def: "male sensory ray neuron type A of ray two." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray two." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008393
 name: R3A
-def: "male sensory ray neuron type A of ray three." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray three." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008394
 name: R4A
-def: "male sensory ray neuron type A of ray four." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray four." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008395
 name: R6A
-def: "male sensory ray neuron type A of ray six." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray six." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008396
 name: R8A
-def: "male sensory ray neuron type A of ray eight." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type A of ray eight." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008397
 name: R1B
-def: "male sensory ray neuron type B of ray one." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray one." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008398
 name: R2B
-def: "male sensory ray neuron type B of ray two." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray two." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008399
 name: R3B
-def: "male sensory ray neuron type B of ray three." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray three." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008400
 name: R4B
-def: "male sensory ray neuron type B of ray four." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray four." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008401
 name: R5B
-def: "male sensory ray neuron type B of ray five." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray five." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008402
 name: R6B
-def: "male sensory ray neuron type B of ray six." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray six." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008403
 name: R7B
-def: "male sensory ray neuron type B of ray seven." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray seven." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008404
 name: R8B
-def: "male sensory ray neuron type B of ray eight." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray eight." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008405
 name: R9B
-def: "male sensory ray neuron type B of ray nine." [WB:rynl]
+def: "Neuron class of two male sensory ray neurons type B of ray nine." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
