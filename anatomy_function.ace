@@ -6023,3 +6023,156 @@ Reference WBPaper00040172
 
 
 
+Anatomy_function : "WBbtf0462"
+Assay	"Expression_mosaic"	"WBPaper00040276_1"
+Phenotype	"WBPhenotype:0000743"	Autonomous
+Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00004323"	Published_as	"rde-1"
+Involved	"WBbt:0006804"	Sufficient	"in rde-1(-) mutant animals, expression of dsRNA in the pharynx that targets gfp, silenced gfp gene expression in anterior body-wall muscle cells only when gfp and rde-1(+) were coexpressed in body-wall muscle cells."
+Reference	"WBPaper00040276"
+
+Condition : WBPaper00040276_1
+Genotype "pmyo-2::hp-gfp; rde-1(-); pmyo-3::rde-1(+)"
+Reference WBPaper00040276
+
+
+
+Anatomy_function : "WBbtf0463"
+Assay	"Expression_mosaic"	"WBPaper00040276_2"
+Phenotype	"WBPhenotype:0000743"	Nonautonomous
+Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00004326"	Published_as	"rde-4"
+Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in rde-4(−) animals that expressed rde-4(+) in neurons. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing."
+Reference	"WBPaper00040276"
+
+Condition : WBPaper00040276_2
+Genotype "Prgef-1::unc-22ds; rde-4(-); Prgef-1::rde-1(+)"
+Reference WBPaper00040276
+
+
+
+Anatomy_function : "WBbtf0464"
+Assay	"Expression_mosaic"	"WBPaper00040276_3"
+Phenotype	"WBPhenotype:0000743"	Nonautonomous
+Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003499"	Published_as	"mut-2"
+Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in mut-2(−) animals that expressed mut-2(+) in neurons, and this silencing was due to mobile RNA because it required SID-1."
+Reference	"WBPaper00040276"
+
+Condition : WBPaper00040276_3
+Genotype "Prgef-1::unc-22ds; mut-2(-); Prgef-1::mut-2(+)"
+Reference WBPaper00040276
+
+
+
+Anatomy_function : "WBbtf0465"
+Assay	"Expression_mosaic"	"WBPaper00040276_4"
+Phenotype	"WBPhenotype:0000743"	Nonautonomous
+Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00004326"	Published_as	"rde-4"
+Involved	"WBbt:0006804"	Sufficient	"We generated rde-4(−); sur-5::gfp animals and moved a representative transgene that expresses rde-4 in bwm cells (bwm::rde-4(+)) into these animals. Significant silencing (P < 0.05) was detected in tissues other than muscle in the resultant mosaic animals and was most easily observed in the prominent gut nuclei. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing of gut nuclei."
+Reference	"WBPaper00040276"
+
+Condition : WBPaper00040276_4
+Genotype "sur-5::gfp; rde-4(-); Pmyo-3::rde-4(+)"
+Reference WBPaper00040276
+
+
+
+Anatomy_function : "WBbtf0466"
+Assay	"Expression_mosaic"	"WBPaper00040276_5"
+Phenotype	"WBPhenotype:0000743"	Nonautonomous
+Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003499"	Published_as	"mut-2"
+Involved	"WBbt:0006804"	Sufficient	"Moving a representative transgene that expressed mut-2(+) in bwm cells (bwm::mut-2(+)) into mut-2(−); sur-5::gfp animals resulted in the silencing of GFP expression in the gut. The observed silencing was dependent on SID-1, showing that mobile RNA triggered the silencing in mut-2(−) gut cells."
+Reference	"WBPaper00040276"
+
+Condition : WBPaper00040276_5
+Genotype "sur-5::gfp; mut-2(-); Pmyo-3::mut-2(+)"
+Reference WBPaper00040276
+
+
+
+Anatomy_function : "WBbtf0467"
+Assay	"Expression_mosaic"	"WBPaper00040335_1"
+Phenotype	"WBPhenotype:0000540"	Nonautonomous	"We used the ceh-23 promoter to express MADD-4 from the CAN neurons, which are a bilaterally symmetrical pair of neurons that extend an anterior and posterior axon along the lateral line. We observed a dramatic redirection of muscle arm extension laterally in these transgenic animals. Muscle arm extension to the CAN is enhanced in response to CAN-expressed MADD-4 in madd-4(tr185) mutants."
+Phenotype	"WBPhenotype:0000540"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0042995(cell projection)|GO:0006935(chemotaxis) QUALITY:PATO:0000628(ectopic)"
+Gene	"WBGene00009958"	Published_as	"madd-4"
+Reference	"WBPaper00040335"
+
+Condition : WBPaper00040335_1
+Genotype "madd-4(tr185); Ex[ceh-23::MADD-4]"
+Reference WBPaper00040335
+
+
+
+Anatomy_function : "WBbtf0468"
+Assay	"Genetic_mosaic"	"WBPaper00040402_1"
+Phenotype	"WBPhenotype:0000572"	Autonomous
+Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000913"	Published_as	"daf-18"
+Involved	"WBbt:0005413"	Sufficient	"We analyzed daf-18(mg198) mosaic animals retaining the rescuing array in a subset of cells. We observed that mosaic animals retaining the array in AIY were rescued, whereas animals that did not retain the array in AIY, but retained it in other cells, such as postsynaptic partner RIA, were not rescued for the neurite length phenotype in AIY (P<0.001). These mosaic data suggest that DAF-18 acts cell-autonomously in AIY."
+Reference	"WBPaper00040402"
+
+Condition : WBPaper00040402_1
+Genotype "daf-18(mg198); Ex[pdaf-18:: daf-18 cDNA]"
+Reference WBPaper00040402
+
+
+
+Anatomy_function : "WBbtf0469"
+Assay	"Genetic_mosaic"	"WBPaper00040402_1"
+Phenotype	"WBPhenotype:0000572"	Autonomous
+Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000913"	Published_as	"daf-18"
+Involved	"WBbt:0005413"	Necessary	"We analyzed daf-18(mg198) mosaic animals retaining the rescuing array in a subset of cells. We observed that mosaic animals retaining the array in AIY were rescued, whereas animals that did not retain the array in AIY, but retained it in other cells, such as postsynaptic partner RIA, were not rescued for the neurite length phenotype in AIY (P<0.001). These mosaic data suggest that DAF-18 acts cell-autonomously in AIY."
+Reference	"WBPaper00040402"
+
+Condition : WBPaper00040402_1
+Genotype "daf-18(mg198); Ex[pdaf-18:: daf-18 cDNA]"
+Reference WBPaper00040402
+
+
+
+Anatomy_function : "WBbtf0470"
+Assay	"Expression_mosaic"	"WBPaper00040402_2"
+Phenotype	"WBPhenotype:0000572"	Autonomous
+Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000913"	Published_as	"daf-18"
+Involved	"WBbt:0005413"	Sufficient	"To examine further the role of DAF-18 in AIY, we generated transgenic animals that expressed a daf-18 cDNA from the AIY-specific promoter ttx-3g. When we examined daf-18(mg198) animals expressing this construct, we observed that they were rescued for the neurite length defect in AIY. These results indicate that expression of DAF-18 specifically in AIY is sufficient to rescue the neurite length defects seen in daf18(mg198) mutants."
+Reference	"WBPaper00040402"
+
+Condition : WBPaper00040402_2
+Genotype "daf-18(mg198); Ex[pttx-3g:: daf-18]"
+Reference WBPaper00040402
+
+
+
+Anatomy_function : "WBbtf0471"
+Assay	"Genetic_mosaic"	"WBPaper00040402_3"
+Phenotype	"WBPhenotype:0000572"	Autonomous
+Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005413"	Sufficient	"We then examined whether DAF-16B acted cell-autonomously to rescue AIY neurite outgrowth. To achieve this, we conducted mosaic analysis using cosmid R13H8 (which contains the complete A and B DAF-16 isoforms, but not D or F isoforms) in daf16(mgDF47) mutant animals. Examination of mosaic animals revealed that animals retaining the array in AIY were rescued for the neurite outgrowth phenotype. Conversely, animals that did not retain the array in AIY, but retained it in other cells, were not rescued for the neurite outgrowth phenotype in AIY."
+Reference	"WBPaper00040402"
+
+Condition : WBPaper00040402_3
+Genotype "daf-16(mgDf47); Ex[R13H8 daf-16AB(+)]"
+Reference WBPaper00040402
+
+
+
+Anatomy_function : "WBbtf0472"
+Assay	"Genetic_mosaic"	"WBPaper00040402_3"
+Phenotype	"WBPhenotype:0000572"	Autonomous
+Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005413"	Necessary	"We then examined whether DAF-16B acted cell-autonomously to rescue AIY neurite outgrowth. To achieve this, we conducted mosaic analysis using cosmid R13H8 (which contains the complete A and B DAF-16 isoforms, but not D or F isoforms) in daf16(mgDF47) mutant animals. Examination of mosaic animals revealed that animals retaining the array in AIY were rescued for the neurite outgrowth phenotype. Conversely, animals that did not retain the array in AIY, but retained it in other cells, were not rescued for the neurite outgrowth phenotype in AIY."
+Reference	"WBPaper00040402"
+
+Condition : WBPaper00040402_3
+Genotype "daf-16(mgDf47); Ex[R13H8 daf-16AB(+)]"
+Reference WBPaper00040402
+
+
+
