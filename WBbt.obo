@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 30:11:2011 16:32
+date: 09:01:2012 15:16
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -39734,7 +39734,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006746
 name: dopaminergic neuron
-def: "neuron that uses dopamine as a neurotransmitter." [WB:rynl]
+def: "Neuron that uses dopamine (DA) as a neurotransmitter." [WB:rynl]
 is_a: WBbt:0003679 ! neuron
 
 [Term]
