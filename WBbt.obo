@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 09:01:2012 15:16
+date: 27:01:2012 10:17
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -30290,7 +30290,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005208
 name: E lineage cell
-def: "A cell that is the E blast cell or is derived from E." [WB:rynl]
+def: "A cell that is the E blast cell or is a lineal descendant of E." [WB:rynl]
 is_a: WBbt:0004017 ! Cell
 
 [Term]
@@ -50528,6 +50528,14 @@ def: "Neuron class of two interneuron in posterior ventral cord." [WB:rynl]
 is_a: WBbt:0005113 ! interneuron
 created_by: raymond
 creation_date: 2011-11-30T02:09:53Z
+
+[Term]
+id: WBbt:0008439
+name: M lineage cell
+def: "A cell that is the M blast cell or is a lineal descendant of M." [WB:<new dbxref>rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2012-01-26T02:48:40Z
 
 [Typedef]
 id: DESCENDENTOF
