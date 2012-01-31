@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 27:01:2012 10:17
+date: 31:01:2012 14:52
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -26477,7 +26477,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paapa" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004699
@@ -26485,7 +26484,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaapp" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004700
@@ -26493,7 +26491,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaapa" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004701
@@ -26501,7 +26498,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaappp" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004702
@@ -26509,7 +26505,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaappap" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004703
@@ -26517,7 +26512,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaappaa" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004704
@@ -26525,7 +26519,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaapap" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004705
@@ -26533,7 +26526,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaapaa" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004706
@@ -26541,7 +26533,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaaap" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004707
@@ -26549,7 +26540,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.paaaaaa" RELATED []
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004708
@@ -26560,7 +26550,6 @@ synonym: "lineage name: Z4.aappa" RELATED []
 is_a: WBbt:0007742 ! Z4.aappa
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004709
@@ -26569,7 +26558,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapapp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004710
@@ -26578,7 +26566,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapapa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004711
@@ -26587,7 +26574,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaappp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004712
@@ -26596,7 +26582,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaappap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004713
@@ -26605,7 +26590,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaappaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004714
@@ -26614,7 +26598,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaapap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004715
@@ -26623,7 +26606,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaapaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004716
@@ -26632,7 +26614,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaaap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004724
@@ -28692,7 +28673,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aapaaaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004981
@@ -28709,7 +28689,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaapa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004983
@@ -28727,7 +28706,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaapp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004985
@@ -28745,7 +28723,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaapa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004987
@@ -28763,7 +28740,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaappp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004989
@@ -28781,7 +28757,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaappap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004991
@@ -28796,7 +28771,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaappaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004993
@@ -28812,7 +28786,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaapap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004995
@@ -28820,7 +28793,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaapaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004996
@@ -28828,7 +28800,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaaap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0004997
@@ -28860,7 +28831,6 @@ name: gon_male_vdef
 def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.aaaaaaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005001
@@ -28878,7 +28848,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.pappa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005003
@@ -28896,7 +28865,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papapp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005005
@@ -28915,7 +28883,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papapa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005007
@@ -28934,7 +28901,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaappp" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005009
@@ -28952,7 +28918,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaappap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005011
@@ -28970,7 +28935,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaappaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005013
@@ -28987,7 +28951,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaapap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005015
@@ -28996,7 +28959,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaapaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005016
@@ -29005,7 +28967,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaaap" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005017
@@ -29040,7 +29001,6 @@ def: "Vas deferens" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.papaaaa" RELATED []
 is_a: WBbt:0008253 ! gon male vdef 1L
 is_a: WBbt:0008254 ! gon male vdef 4L
-relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0005021
@@ -49057,6 +49017,7 @@ def: "cell of vas deferens of male gonad." [WB:rynl]
 comment: a total of 40 cells in each animal.
 is_a: WBbt:0005781 ! smooth muscle
 is_a: WBbt:0008209 ! male gonadal cell
+relationship: part_of WBbt:0005337 ! vas deferens
 
 [Term]
 id: WBbt:0008203
@@ -50536,6 +50497,23 @@ def: "A cell that is the M blast cell or is a lineal descendant of M." [WB:<new 
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2012-01-26T02:48:40Z
+
+[Term]
+id: WBbt:0008440
+name: vas deferens valve region
+def: "An anatomical region of the male vas deferens that is adjacent to the seminal vesicle." [WB:rynl, WBPaper:00038216]
+relationship: part_of WBbt:0005337 ! vas deferens
+created_by: raymond
+creation_date: 2012-01-31T02:30:37Z
+
+[Term]
+id: WBbt:0008441
+name: vas deferens valve cell
+def: "Cell of the vas deferens valve region." [WB:rynl]
+is_a: WBbt:0008202 ! gon male vdef
+is_a: WBbt:0008440 ! vas deferens valve region
+created_by: raymond
+creation_date: 2012-01-31T02:41:39Z
 
 [Typedef]
 id: DESCENDENTOF
