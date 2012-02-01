@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 31:01:2012 14:52
+date: 01:02:2012 09:57
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -50514,6 +50514,38 @@ is_a: WBbt:0008202 ! gon male vdef
 is_a: WBbt:0008440 ! vas deferens valve region
 created_by: raymond
 creation_date: 2012-01-31T02:41:39Z
+
+[Term]
+id: WBbt:0008442
+name: vas deferens cuboidal cell region
+def: "a region of vas deferens, positioned posterior to the valve and anterior to the elongated cell region, formed by cells of cuboidal morphology." [WB:rynl, WBPaper:00038216]
+is_a: WBbt:0008440 ! vas deferens valve region
+created_by: raymond
+creation_date: 2012-02-01T09:46:37Z
+
+[Term]
+id: WBbt:0008443
+name: vas deferens elongated cell region
+def: "a region of vas deferens, positioned posterior to the cuboidal cell region, formed by cells of elongated morphology." [WB:rynl, WBPaper:00038216]
+is_a: WBbt:0008440 ! vas deferens valve region
+created_by: raymond
+creation_date: 2012-02-01T09:51:24Z
+
+[Term]
+id: WBbt:0008444
+name: vas deferens cuboidal cell
+def: "cell of cuboidal morphology in male vas deferens." [WB:rynl, WBPaper:00038216]
+is_a: WBbt:0008202 ! gon male vdef
+created_by: raymond
+creation_date: 2012-02-01T09:54:51Z
+
+[Term]
+id: WBbt:0008445
+name: vas deferens elongated cell
+def: "cell of elongated morphology in male vas deferens." [wB:rynl, WBPaper:00038216]
+is_a: WBbt:0008202 ! gon male vdef
+created_by: raymond
+creation_date: 2012-02-01T09:54:51Z
 
 [Typedef]
 id: DESCENDENTOF
