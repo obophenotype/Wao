@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 01:02:2012 09:57
+date: 10:02:2012 14:21
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -7885,28 +7885,28 @@ id: WBbt:0002101
 name: MSaaaaapaa nucleus
 def: "nucleus of pedigree MSaaaaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002308 ! MSaaaaapa nucleus
-relationship: part_of WBbt:0004742 ! I3
+relationship: part_of WBbt:0004742 ! I3 neuron
 
 [Term]
 id: WBbt:0002102
 name: MSaaaapaa nucleus
 def: "nucleus of pedigree MSaaaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002310 ! MSaaaapa nucleus
-relationship: part_of WBbt:0004741 ! I4
+relationship: part_of WBbt:0004741 ! I4 neuron
 
 [Term]
 id: WBbt:0002103
 name: ABarapapapp nucleus
 def: "nucleus of pedigree ABarapapapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001236 ! ABarapapap nucleus
-relationship: part_of WBbt:0004740 ! I5
+relationship: part_of WBbt:0004740 ! I5 neuron
 
 [Term]
 id: WBbt:0002104
 name: MSpaaapaa nucleus
 def: "nucleus of pedigree MSpaaapaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002376 ! MSpaaapa nucleus
-relationship: part_of WBbt:0004739 ! I6
+relationship: part_of WBbt:0004739 ! I6 neuron
 
 [Term]
 id: WBbt:0002105
@@ -8962,7 +8962,7 @@ id: WBbt:0002244
 name: MSpaapaaa nucleus
 def: "nucleus of pedigree MSpaapaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002380 ! MSpaapaa nucleus
-relationship: part_of WBbt:0004488 ! M1
+relationship: part_of WBbt:0004488 ! M1 neuron
 
 [Term]
 id: WBbt:0002245
@@ -9140,7 +9140,7 @@ id: WBbt:0002267
 name: MSpaaaaaa nucleus
 def: "nucleus of pedigree MSpaaaaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002372 ! MSpaaaaa nucleus
-relationship: part_of WBbt:0004467 ! M4
+relationship: part_of WBbt:0004467 ! M4 neuron
 
 [Term]
 id: WBbt:0002268
@@ -9196,7 +9196,7 @@ id: WBbt:0002274
 name: MSpaaapap nucleus
 def: "nucleus of pedigree MSpaaapap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002376 ! MSpaaapa nucleus
-relationship: part_of WBbt:0004465 ! M5
+relationship: part_of WBbt:0004465 ! M5 neuron
 
 [Term]
 id: WBbt:0002275
@@ -9380,7 +9380,7 @@ id: WBbt:0002299
 name: ABaraappaaa nucleus
 def: "nucleus of pedigree ABaraappaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001212 ! ABaraappaa nucleus
-relationship: part_of WBbt:0003664 ! MI
+relationship: part_of WBbt:0003664 ! MI neuron
 relationship: part_of WBbt:0008407 ! ABaraappaaa
 
 [Term]
@@ -19206,7 +19206,7 @@ is_obsolete: true
 
 [Term]
 id: WBbt:0003638
-name: MC
+name: MC neuron
 alt_id: WBbt:0003651
 def: "Neuron class of two marginal cell neuron of the pharynx." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/MCframeset.html>
@@ -19227,7 +19227,7 @@ is_obsolete: true
 
 [Term]
 id: WBbt:0003645
-name: I2
+name: I2 neuron
 def: "Neuron class of two pharyngeal interneuron." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I2frameset.html>
 is_a: WBbt:0003668 ! pharyngeal interneuron
@@ -19236,7 +19236,7 @@ relationship: part_of WBbt:0003711 ! metacorpus
 
 [Term]
 id: WBbt:0003649
-name: I1
+name: I1 neuron
 def: "Neuron class of two pharyngeal interneuron." [WB:Paper00000009]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I1frameset.html>
 is_a: WBbt:0003668 ! pharyngeal interneuron
@@ -19275,7 +19275,7 @@ is_obsolete: true
 
 [Term]
 id: WBbt:0003664
-name: MI
+name: MI neuron
 alt_id: WBbt:0003747
 alt_id: WBbt:0004459
 def: "Neuron class of one pharyngeal motor neuron/interneuron." [ISBN:0-87969-307-X]
@@ -22141,6 +22141,7 @@ name: PHCR
 def: "Neuron, striated rootlet in male, possibly sensory in tail spike" [ISBN:0-87969-307-X]
 synonym: "lineage name: TR.pppaa" RELATED []
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
+is_a: WBbt:0008446 ! PHC
 
 [Term]
 id: WBbt:0004119
@@ -24014,6 +24015,7 @@ name: PHCL
 def: "Neuron, striated rootlet in male, possibly sensory in tail spike" [ISBN:0-87969-307-X]
 synonym: "lineage name: TL.pppaa" RELATED []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
+is_a: WBbt:0008446 ! PHC
 
 [Term]
 id: WBbt:0004364
@@ -24738,7 +24740,7 @@ id: WBbt:0004461
 name: MCR
 def: "Pharyngeal neurons that synapse onto marginal cells" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarapaappp" RELATED []
-is_a: WBbt:0003638 ! MC
+is_a: WBbt:0003638 ! MC neuron
 
 [Term]
 id: WBbt:0004462
@@ -24752,7 +24754,7 @@ id: WBbt:0004463
 name: MCL
 def: "Pharyngeal neurons that synapse onto marginal cells" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalpaaappp" RELATED []
-is_a: WBbt:0003638 ! MC
+is_a: WBbt:0003638 ! MC neuron
 
 [Term]
 id: WBbt:0004464
@@ -24763,7 +24765,7 @@ is_a: WBbt:0006905 ! gon herm prsh P
 
 [Term]
 id: WBbt:0004465
-name: M5
+name: M5 neuron
 alt_id: WBbt:0003749
 def: "Neuron class of one pharyngeal motorneuron." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/M5frameset.html>
@@ -24783,7 +24785,7 @@ is_a: WBbt:0006905 ! gon herm prsh P
 
 [Term]
 id: WBbt:0004467
-name: M4
+name: M4 neuron
 alt_id: WBbt:0003751
 def: "Neuron class of one pharyngeal motorneuron." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/M4frameset.html>
@@ -24937,7 +24939,7 @@ is_a: WBbt:0003634 ! M2 neuron
 
 [Term]
 id: WBbt:0004488
-name: M1
+name: M1 neuron
 alt_id: WBbt:0003636
 def: "Neuron class of one pharyngeal motorneuron." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/M1frameset.html>
@@ -26739,7 +26741,7 @@ relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 
 [Term]
 id: WBbt:0004739
-name: I6
+name: I6 neuron
 alt_id: WBbt:0003640
 def: "Neuron class of one pharyngeal interneuron, posterior sensory." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I6frameset.html>
@@ -26751,7 +26753,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 
 [Term]
 id: WBbt:0004740
-name: I5
+name: I5 neuron
 alt_id: WBbt:0003642
 def: "Neuron class of one pharyngeal interneuron, posterior sensory." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I5frameset.html>
@@ -26763,7 +26765,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 
 [Term]
 id: WBbt:0004741
-name: I4
+name: I4 neuron
 alt_id: WBbt:0003643
 def: "Neuron class of one pharyngeal interneuron." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I4frameset.html>
@@ -26775,7 +26777,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 
 [Term]
 id: WBbt:0004742
-name: I3
+name: I3 neuron
 alt_id: WBbt:0003647
 def: "Neuron class of one pharyngeal interneuron, anterior sensory." [ISBN:0-87969-307-X]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/I3frameset.html>
@@ -26790,28 +26792,28 @@ id: WBbt:0004743
 name: I2R
 def: "Pharyngeal interneurons, ant sensory." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarapapaapa" RELATED []
-is_a: WBbt:0003645 ! I2
+is_a: WBbt:0003645 ! I2 neuron
 
 [Term]
 id: WBbt:0004744
 name: I2L
 def: "Pharyngeal interneurons, ant sensory." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalpappaapa" RELATED []
-is_a: WBbt:0003645 ! I2
+is_a: WBbt:0003645 ! I2 neuron
 
 [Term]
 id: WBbt:0004745
 name: I1R
 def: "Pharyngeal interneurons: ant sensory, input from RIP" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarapappaa" RELATED []
-is_a: WBbt:0003649 ! I1
+is_a: WBbt:0003649 ! I1 neuron
 
 [Term]
 id: WBbt:0004746
 name: I1L
 def: "Pharyngeal interneurons: ant sensory, input from RIP" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalpapppaa" RELATED []
-is_a: WBbt:0003649 ! I1
+is_a: WBbt:0003649 ! I1 neuron
 
 [Term]
 id: WBbt:0004747
@@ -33599,7 +33601,6 @@ name: spicule neuron
 alt_id: WBbt:0005323
 def: "Sensory neuron of copulatory spicule in male, cilliated, open to outside at tip of spicule." [ISBN:0-87969-307-X]
 synonym: "SP neuron" RELATED []
-is_a: WBbt:0003679 ! neuron
 is_a: WBbt:0005759 ! sensory neuron
 relationship: part_of WBbt:0005312 ! copulatory spicule
 
@@ -40513,7 +40514,7 @@ is_a: WBbt:0006972 ! ray neuron type A
 [Term]
 id: WBbt:0006858
 name: R9A
-def: "Neuron class of two male-specific neurons that are associated with nineth male sensory ray, A neuron type." [WB:rynl]
+def: "Neuron class of two male-specific neurons that are associated with ninth male sensory ray, A neuron type." [WB:rynl]
 is_a: WBbt:0006746 ! dopaminergic neuron
 is_a: WBbt:0006972 ! ray neuron type A
 
@@ -40536,7 +40537,7 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0006861
 name: SPC
-def: "Neuron class of two male spicule neuron type C." [WB:Paper00005027, WB:rynl]
+def: "Neuron class of two male-specific spicule neuron type C." [WB:Paper00005027, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SPCframeset.html>
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005831 ! spicule neuron
@@ -46600,7 +46601,7 @@ is_a: WBbt:0005757 ! male-specific
 [Term]
 id: WBbt:0007836
 name: PVU
-def: "Neuron class of one male interneuron, called PVPL in hermaphrodite." [WB:rynl]
+def: "Neuron class of one male-specific interneuron, called PVPL in hermaphrodite." [WB:rynl]
 synonym: "PVPL" RELATED []
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005757 ! male-specific
@@ -46608,7 +46609,7 @@ is_a: WBbt:0005757 ! male-specific
 [Term]
 id: WBbt:0007837
 name: PVS
-def: "Neuron class of one male interneuron, called PVPR in hermaphrodite." [WB:rynl]
+def: "Neuron class of one male-specific interneuron, called PVPR in hermaphrodite." [WB:rynl]
 synonym: "PVPR" RELATED []
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005757 ! male-specific
@@ -50194,91 +50195,91 @@ is_a: WBbt:0006804 ! body wall muscle cell
 [Term]
 id: WBbt:0008391
 name: R1A
-def: "Neuron class of two male sensory ray neurons type A of ray one." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray one." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008392
 name: R2A
-def: "Neuron class of two male sensory ray neurons type A of ray two." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray two." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008393
 name: R3A
-def: "Neuron class of two male sensory ray neurons type A of ray three." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray three." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008394
 name: R4A
-def: "Neuron class of two male sensory ray neurons type A of ray four." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray four." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008395
 name: R6A
-def: "Neuron class of two male sensory ray neurons type A of ray six." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray six." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008396
 name: R8A
-def: "Neuron class of two male sensory ray neurons type A of ray eight." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type A of ray eight." [WB:rynl]
 is_a: WBbt:0006972 ! ray neuron type A
 
 [Term]
 id: WBbt:0008397
 name: R1B
-def: "Neuron class of two male sensory ray neurons type B of ray one." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray one." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008398
 name: R2B
-def: "Neuron class of two male sensory ray neurons type B of ray two." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray two." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008399
 name: R3B
-def: "Neuron class of two male sensory ray neurons type B of ray three." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray three." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008400
 name: R4B
-def: "Neuron class of two male sensory ray neurons type B of ray four." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray four." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008401
 name: R5B
-def: "Neuron class of two male sensory ray neurons type B of ray five." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray five." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008402
 name: R6B
-def: "Neuron class of two male sensory ray neurons type B of ray six." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray six." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008403
 name: R7B
-def: "Neuron class of two male sensory ray neurons type B of ray seven." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray seven." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008404
 name: R8B
-def: "Neuron class of two male sensory ray neurons type B of ray eight." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray eight." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
 id: WBbt:0008405
 name: R9B
-def: "Neuron class of two male sensory ray neurons type B of ray nine." [WB:rynl]
+def: "Neuron class of two male-specific sensory ray neurons type B of ray nine." [WB:rynl]
 is_a: WBbt:0006973 ! ray neuron type B
 
 [Term]
@@ -50546,6 +50547,14 @@ def: "cell of elongated morphology in male vas deferens." [wB:rynl, WBPaper:0003
 is_a: WBbt:0008202 ! gon male vdef
 created_by: raymond
 creation_date: 2012-02-01T09:54:51Z
+
+[Term]
+id: WBbt:0008446
+name: PHC
+def: "Neuron class of two neurons with cell bodies situated in the lumbar ganglia. Posteriorly directed processes run from the cell bodies into the tails pike running alongside the processes of PLM and PLN. The disposition of these processes suggests that they may be sensory dendrites." [WB:Paper00000938]
+is_a: WBbt:0005759 ! sensory neuron
+created_by: raymond
+creation_date: 2012-02-10T11:26:54Z
 
 [Typedef]
 id: DESCENDENTOF
