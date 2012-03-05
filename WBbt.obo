@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 10:02:2012 14:21
+date: 05:03:2012 11:34
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -20006,7 +20006,7 @@ id: WBbt:0003810
 name: C
 def: "Embryonic founder cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: P0.ppa" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008447 ! somatic blastomere
 
 [Term]
 id: WBbt:0003811
@@ -21258,7 +21258,7 @@ name: AB
 def: "Embryonic founder cell" [ISBN:0-87969-307-X]
 synonym: "AB blastomere" RELATED []
 synonym: "lineage name: P0.a" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008447 ! somatic blastomere
 
 [Term]
 id: WBbt:0004016
@@ -24425,14 +24425,14 @@ def: "Embryonic founder cell of germ line" [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: P0.pppp" RELATED []
 synonym: "P4" RELATED []
 synonym: "P4'" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008448 ! germline blastomere
 
 [Term]
 id: WBbt:0004422
 name: P0
 def: "Single cell zygote" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008448 ! germline blastomere
 
 [Term]
 id: WBbt:0004423
@@ -27255,6 +27255,7 @@ id: WBbt:0004804
 name: E
 def: "Embryonic founder cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: P0.pap" RELATED []
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -27786,7 +27787,7 @@ id: WBbt:0004873
 name: D
 def: "Embryonic founder cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: P0.pppa" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008447 ! somatic blastomere
 
 [Term]
 id: WBbt:0004874
@@ -33756,6 +33757,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0005854
 name: Eplpp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -34078,6 +34080,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0005901
 name: Ealaa
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -34450,6 +34453,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0005959
 name: Earaa
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -34727,6 +34731,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006000
 name: Epl
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -35396,6 +35401,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006104
 name: Eala
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -35775,6 +35781,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006161
 name: Eara
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36538,6 +36545,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006277
 name: Eprpp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36838,6 +36846,7 @@ is_a: WBbt:0008268 ! DLM muscle
 id: WBbt:0006321
 name: Epra
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -37181,6 +37190,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006370
 name: Ear
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -37662,6 +37672,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006441
 name: Eal
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -38035,6 +38046,7 @@ is_a: WBbt:0008268 ! DLM muscle
 id: WBbt:0006496
 name: Eplp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -38109,6 +38121,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006507
 name: Eprp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -38373,12 +38386,14 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006546
 name: Ealp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0006547
 name: Epr
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -38800,6 +38815,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006612
 name: Ep
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -39020,6 +39036,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006646
 name: Earp
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -39123,6 +39140,7 @@ is_a: WBbt:0008263 ! DRL muscle
 id: WBbt:0006661
 name: Epla
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -39602,6 +39620,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006733
 name: Ea
 def: "embryonic cell" [WB:rynl]
+is_a: WBbt:0005208 ! E lineage cell
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -40631,7 +40650,7 @@ def: "embryonic founder cell" [WB:rynl]
 synonym: "lineage name: P0.pp" RELATED []
 synonym: "P2" RELATED []
 synonym: "P2'" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008448 ! germline blastomere
 
 [Term]
 id: WBbt:0006874
@@ -40640,7 +40659,7 @@ def: "embryonic founder cell" [WB:rynl]
 synonym: "lineage name: P0.p" RELATED []
 synonym: "P1" RELATED []
 synonym: "P1'" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008448 ! germline blastomere
 
 [Term]
 id: WBbt:0006875
@@ -40649,13 +40668,13 @@ def: "embryonic founder cell" [WB:rynl]
 synonym: "lineage name: P0.ppp" RELATED []
 synonym: "P3" RELATED []
 synonym: "P3'" RELATED []
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008448 ! germline blastomere
 
 [Term]
 id: WBbt:0006876
 name: EMS
 def: "embryonic cell" [WB:rynl]
-is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008447 ! somatic blastomere
 
 [Term]
 id: WBbt:0006877
@@ -50555,6 +50574,22 @@ def: "Neuron class of two neurons with cell bodies situated in the lumbar gangli
 is_a: WBbt:0005759 ! sensory neuron
 created_by: raymond
 creation_date: 2012-02-10T11:26:54Z
+
+[Term]
+id: WBbt:0008447
+name: somatic blastomere
+def: "Embryonic cell which descend from the same parent cell as a germline blastomere." [WB:Paper00003633, WB:rynl]
+is_a: WBbt:0007028 ! embryonic cell
+created_by: raymond
+creation_date: 2012-03-05T10:59:36Z
+
+[Term]
+id: WBbt:0008448
+name: germline blastomere
+def: "Blastomere cell that has the developmental potential to generate a germ cell." [WB:Paper00003633, WB:rynl]
+is_a: WBbt:0007028 ! embryonic cell
+created_by: raymond
+creation_date: 2012-03-05T11:05:10Z
 
 [Typedef]
 id: DESCENDENTOF
