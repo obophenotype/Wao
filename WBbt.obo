@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 05:03:2012 11:34
+date: 05:03:2012 11:38
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -50578,7 +50578,7 @@ creation_date: 2012-02-10T11:26:54Z
 [Term]
 id: WBbt:0008447
 name: somatic blastomere
-def: "Embryonic cell which descend from the same parent cell as a germline blastomere." [WB:Paper00003633, WB:rynl]
+def: "Embryonic cell which descends from the same parent cell as a germline blastomere." [WB:Paper00003633, WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 created_by: raymond
 creation_date: 2012-03-05T10:59:36Z
@@ -50586,7 +50586,7 @@ creation_date: 2012-03-05T10:59:36Z
 [Term]
 id: WBbt:0008448
 name: germline blastomere
-def: "Blastomere cell that has the developmental potential to generate a germ cell." [WB:Paper00003633, WB:rynl]
+def: "Embryonic cell that has the developmental potential to generate a germ cell." [WB:Paper00003633, WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 created_by: raymond
 creation_date: 2012-03-05T11:05:10Z
