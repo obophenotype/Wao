@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 05:03:2012 11:38
+date: 17:04:2012 16:12
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -5456,16 +5456,14 @@ id: WBbt:0001765
 name: B_alpha.lv nucleus
 def: "nucleus of pedigree B_alpha.lv" [WB:rynl]
 relationship: DESCINMALE WBbt:0007865 ! B_alpha.l nucleus
-relationship: part_of WBbt:0004847 ! proct
-relationship: part_of WBbt:0007080 ! B_alpha.lv
+relationship: part_of WBbt:0004847 ! B_alpha.lv
 
 [Term]
 id: WBbt:0001766
 name: B_alpha.rv nucleus
 def: "nucleus of pedigree B_alpha.rv" [WB:rynl]
 relationship: DESCINMALE WBbt:0007866 ! B_alpha.r nucleus
-relationship: part_of WBbt:0004836 ! proct
-relationship: part_of WBbt:0007082 ! B_alpha.rv
+relationship: part_of WBbt:0004836 ! B_alpha.rv
 
 [Term]
 id: WBbt:0001767
@@ -5500,16 +5498,14 @@ id: WBbt:0001771
 name: B_delta.l nucleus
 def: "nucleus of pedigree B_delta.l" [WB:rynl]
 relationship: DESCINMALE WBbt:0007867 ! B_delta nucleus
-relationship: part_of WBbt:0004828 ! proct
-relationship: part_of WBbt:0007093 ! B_delta.l
+relationship: part_of WBbt:0004828 ! B_delta.l
 
 [Term]
 id: WBbt:0001772
 name: B_delta.r nucleus
 def: "nucleus of pedigree B_delta.r" [WB:rynl]
 relationship: DESCINMALE WBbt:0007867 ! B_delta nucleus
-relationship: part_of WBbt:0004827 ! proct
-relationship: part_of WBbt:0007094 ! B_delta.r
+relationship: part_of WBbt:0004827 ! B_delta.r
 
 [Term]
 id: WBbt:0001773
@@ -5530,16 +5526,14 @@ id: WBbt:0001775
 name: B_gamma.ald nucleus
 def: "nucleus of pedigree B_gamma.ald" [WB:rynl]
 relationship: DESCINMALE WBbt:0001774 ! B_gamma.al nucleus
-relationship: part_of WBbt:0004830 ! proct
-relationship: part_of WBbt:0007097 ! B_gamma.ald
+relationship: part_of WBbt:0004830 ! B_gamma.ald
 
 [Term]
 id: WBbt:0001776
 name: B_gamma.alv nucleus
 def: "nucleus of pedigree B_gamma.alv" [WB:rynl]
 relationship: DESCINMALE WBbt:0001774 ! B_gamma.al nucleus
-relationship: part_of WBbt:0004831 ! proct
-relationship: part_of WBbt:0007098 ! B_gamma.alv
+relationship: part_of WBbt:0004831 ! B_gamma.alv
 
 [Term]
 id: WBbt:0001777
@@ -5560,8 +5554,7 @@ id: WBbt:0001779
 name: B_gamma.arv nucleus
 def: "nucleus of pedigree B_gamma.arv" [WB:rynl]
 relationship: DESCINMALE WBbt:0001777 ! B_gamma.ar nucleus
-relationship: part_of WBbt:0004829 ! proct
-relationship: part_of WBbt:0007101 ! B_gamma.arv
+relationship: part_of WBbt:0004829 ! B_gamma.arv
 
 [Term]
 id: WBbt:0001780
@@ -13429,7 +13422,6 @@ name: B_gamma.pl nucleus
 def: "nucleus of pedigree B_gamma.pl" [WB:rynl]
 relationship: DESCINMALE WBbt:0001780 ! B_gamma.p nucleus
 relationship: part_of WBbt:0004958 ! SPso1L
-relationship: part_of WBbt:0007103 ! B_gamma.pl
 
 [Term]
 id: WBbt:0002848
@@ -13437,7 +13429,6 @@ name: B_gamma.pr nucleus
 def: "nucleus of pedigree B_gamma.pr" [WB:rynl]
 relationship: DESCINMALE WBbt:0001780 ! B_gamma.p nucleus
 relationship: part_of WBbt:0004957 ! SPso1R
-relationship: part_of WBbt:0007104 ! B_gamma.pr
 
 [Term]
 id: WBbt:0002849
@@ -27429,42 +27420,57 @@ is_a: WBbt:0005300 ! ventral cord neuron
 
 [Term]
 id: WBbt:0004827
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_delta.r
+alt_id: WBbt:0007094
+def: "Cell of male proctodeum, post-embryonic pedigree B_delta.r." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_delta.r" EXACT []
 synonym: "lineage name: B.alppr/B.arppr" RELATED []
 synonym: "lineage name: B_delta.r" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
 id: WBbt:0004828
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_delta.l
+alt_id: WBbt:0007093
+def: "Cell of male proctodeum, post-embryonic pedigree B_delta.l." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_delta.l" EXACT []
 synonym: "lineage name: B.alppl/B.arppl" RELATED []
 synonym: "lineage name: B_delta.l" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
 id: WBbt:0004829
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_gamma.arv
+alt_id: WBbt:0007101
+def: "Cell of male proctodeum, post-embryonic pedigree B_gamma.arv." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_gamma.arv" EXACT []
 synonym: "lineage name: B.alpparv/B.arpparv" RELATED []
 synonym: "lineage name: B_gamma.arv" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
 id: WBbt:0004830
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_gamma.ald
+alt_id: WBbt:0007097
+def: "Cell of male proctodeum, post-embryonic of pedigree B_gamma.ald." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_gamma.ald" EXACT []
 synonym: "lineage name: B.alppald/B.arppald" RELATED []
 synonym: "lineage name: B_gamma.ald" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
 id: WBbt:0004831
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_gamma.alv
+alt_id: WBbt:0007098
+def: "Cell of male proctodeum, post-embryonic pedigree B_gamma.alv." [ISBN:0-87969-307-X, WB:<new dbxref>rynl]
+synonym: "B_gamma.alv" EXACT []
 synonym: "lineage name: B.alppalv/B.arppalv" RELATED []
 synonym: "lineage name: B_gamma.alv" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
@@ -27497,10 +27503,13 @@ is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
 id: WBbt:0004836
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_alpha.rv
+alt_id: WBbt:0007082
+def: "Cell of male proctodeum, post-embryonic cell of pedigree B_alpha.rv." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_alpha.rv" EXACT []
 synonym: "lineage name: B.alaarv/B.araarv" RELATED []
 synonym: "lineage name: B_alpha.rv" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
@@ -27585,10 +27594,13 @@ is_a: WBbt:0005403 ! retrovesicular ganglion neuron
 
 [Term]
 id: WBbt:0004847
-name: proct
-def: "Male proctodeum, union of intestine and vas deferens, contains copulatory spicules" [ISBN:0-87969-307-X]
+name: B_alpha.lv
+alt_id: WBbt:0007080
+def: "Cell of male proctodeum, post-embryonic pedigree B_alpha.lv." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_alpha.lv" EXACT []
 synonym: "lineage name: B.alaalv/B.araalv" RELATED []
 synonym: "lineage name: B_alpha.lv" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
@@ -28476,15 +28488,21 @@ is_a: WBbt:0007851 ! SPsoL
 [Term]
 id: WBbt:0004957
 name: SPso1R
-def: "Socket of male copulatory spicule" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007104
+def: "Cell of socket of male copulatory spicule, post-embryonic cell of pedigree B_gamma.pr." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_gamma.pr" EXACT []
 synonym: "lineage name: B.al/rpppr" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0007852 ! SPsoR
 
 [Term]
 id: WBbt:0004958
 name: SPso1L
-def: "Socket of male copulatory spicule" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007103
+def: "Cell of socket of male copulatory spicule, post-embryonic pedigree B_gamma.pl." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_gamma.pl" EXACT []
 synonym: "lineage name: B.al/rpppl" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0007851 ! SPsoL
 
 [Term]
@@ -41947,21 +41965,9 @@ def: "post-embryonic cell of pedigree B_alpha.ld" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007080
-name: B_alpha.lv
-def: "post-embryonic cell of pedigree B_alpha.lv" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007081
 name: B_alpha.rd
 def: "post-embryonic cell of pedigree B_alpha.rd" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007082
-name: B_alpha.rv
-def: "post-embryonic cell of pedigree B_alpha.rv" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -42025,18 +42031,6 @@ def: "post-embryonic cell of pedigree B_beta.rv" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007093
-name: B_delta.l
-def: "post-embryonic cell of pedigree B_delta.l" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007094
-name: B_delta.r
-def: "post-embryonic cell of pedigree B_delta.r" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007095
 name: B_gamma.a
 def: "post-embryonic cell of pedigree B_gamma.a" [WB:rynl]
@@ -42046,18 +42040,6 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007096
 name: B_gamma.al
 def: "post-embryonic cell of pedigree B_gamma.al" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007097
-name: B_gamma.ald
-def: "post-embryonic cell of pedigree B_gamma.ald" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007098
-name: B_gamma.alv
-def: "post-embryonic cell of pedigree B_gamma.alv" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -42074,27 +42056,9 @@ is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008274 ! proctodeal cell
 
 [Term]
-id: WBbt:0007101
-name: B_gamma.arv
-def: "post-embryonic cell of pedigree B_gamma.arv" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007102
 name: B_gamma.p
 def: "post-embryonic cell of pedigree B_gamma.p" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007103
-name: B_gamma.pl
-def: "post-embryonic cell of pedigree B_gamma.pl" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007104
-name: B_gamma.pr
-def: "post-embryonic cell of pedigree B_gamma.pr" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
