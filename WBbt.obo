@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:04:2012 16:03
+date: 23:04:2012 10:15
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -3231,6 +3231,7 @@ relationship: part_of WBbt:0006488 ! ABplpppapa
 id: WBbt:0001451
 name: ABplpppapap nucleus
 def: "nucleus of pedigree ABplpppapap" [WB:rynl]
+is_a: WBbt:0008461 ! AB.plpppapap or AB.prpppapap nucleus
 relationship: DESCENDENTOF WBbt:0001450 ! ABplpppapa nucleus
 relationship: part_of WBbt:0006197 ! ABplpppapap
 
@@ -4372,6 +4373,7 @@ relationship: part_of WBbt:0006044 ! ABprpppapa
 id: WBbt:0001610
 name: ABprpppapap nucleus
 def: "nucleus of pedigree ABprpppapap" [WB:rynl]
+is_a: WBbt:0008461 ! AB.plpppapap or AB.prpppapap nucleus
 relationship: DESCENDENTOF WBbt:0001609 ! ABprpppapa nucleus
 relationship: part_of WBbt:0006686 ! ABprpppapap
 
@@ -47851,8 +47853,7 @@ id: WBbt:0008032
 name: hyp8 or hyp9 nucleus
 def: "nucleus of hyp8 or hyp9 cell." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: develops_from WBbt:0001451 ! ABplpppapap nucleus
-relationship: develops_from WBbt:0001610 ! ABprpppapap nucleus
+relationship: develops_from WBbt:0008461 ! AB.plpppapap or AB.prpppapap nucleus
 
 [Term]
 id: WBbt:0008033
@@ -50663,6 +50664,14 @@ def: "Nucleus of pedigree B.alpp or B.arpp." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:59:00Z
+
+[Term]
+id: WBbt:0008461
+name: AB.plpppapap or AB.prpppapap nucleus
+def: "Nucleus of pedigree AB.plpppapap or AB.prpppapap." [WB:<new dbxref>rynl]
+is_a: WBbt:0006803 ! Nucleus
+created_by: raymond
+creation_date: 2012-04-23T10:04:27Z
 
 [Typedef]
 id: DESCENDENTOF
