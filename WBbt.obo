@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 23:04:2012 15:37
+date: 24:04:2012 09:59
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -50602,6 +50602,7 @@ creation_date: 2012-04-19T02:57:46Z
 id: WBbt:0008452
 name: W.aaa or P1.aaaa nucleus
 def: "Nucleus of pedigree W.aaa or P1.aaaa, to become either AVFL or AVFR nucleus." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T10:36:21Z
@@ -50610,6 +50611,7 @@ creation_date: 2012-04-20T10:36:21Z
 id: WBbt:0008453
 name: ABplapaapp or ABprapaapp nucleus
 def: "Nucleus of pedigree ABplapaapp or ABprapaapp." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T02:12:46Z
@@ -50626,6 +50628,7 @@ creation_date: 2012-04-20T03:03:15Z
 id: WBbt:0008455
 name: ABprappaaa or ABplappaaa nucleus
 def: "Nucleus of pedigree ABprappaaa or ABplappaaa." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:09:38Z
@@ -50634,6 +50637,7 @@ creation_date: 2012-04-20T03:09:38Z
 id: WBbt:0008456
 name: ABprappaap or ABplappaap nucleus
 def: "Nucleus of pedigree ABprappaap or ABplappaap." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:23:43Z
@@ -50642,6 +50646,7 @@ creation_date: 2012-04-20T03:23:43Z
 id: WBbt:0008457
 name: ABprappapp or ABplappapp nucleus
 def: "Nucleus of pedigree ABprappapp or ABplappapp." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:28:03Z
@@ -50650,6 +50655,7 @@ creation_date: 2012-04-20T03:28:03Z
 id: WBbt:0008458
 name: ABprapapap or ABplapapap nucleus
 def: "Nucleus of pedigree ABprapapap or ABplapapap." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:31:58Z
@@ -50658,6 +50664,7 @@ creation_date: 2012-04-20T03:31:58Z
 id: WBbt:0008459
 name: B.alaa or B.araa nucleus
 def: "Nucleus of pedigree B.alaa or B.araa." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:38:36Z
@@ -50666,6 +50673,7 @@ creation_date: 2012-04-20T03:38:36Z
 id: WBbt:0008460
 name: B.alpp or B.arpp nucleus
 def: "Nucleus of pedigree B.alpp or B.arpp." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:59:00Z
@@ -50674,6 +50682,7 @@ creation_date: 2012-04-20T03:59:00Z
 id: WBbt:0008461
 name: ABplpppapap or ABprpppapap nucleus
 def: "Nucleus of pedigree ABplpppapap or ABprpppapap." [WB:<new dbxref>rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-23T10:04:27Z
@@ -50682,6 +50691,7 @@ creation_date: 2012-04-23T10:04:27Z
 id: WBbt:0008462
 name: ABplapappa or ABprapappa nucleus
 def: "Nucleus of pedigree ABplapappa or ABprapappa." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-23T11:18:02Z
@@ -50690,6 +50700,7 @@ creation_date: 2012-04-23T11:18:02Z
 id: WBbt:0008463
 name: Z1.ppp (5R) or Z4.aaa (5L) nucleus
 def: "Nucleus of pedigree Z1.ppp (5R) or Z4.aaa (5L)." [WB:rynl]
+is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
 created_by: raymond
 creation_date: 2012-04-23T02:44:36Z
