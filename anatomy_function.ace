@@ -784,7 +784,7 @@ Reference "WBPaper00004978"
 Anatomy_function : "WBbtf0064"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0000643"	Remark	"specific defect: execution of the egg-laying motor program correlates with two changes in locomotive behavior: an increased propensity for forward locomotion before egg-laying, and an increased propensity for directional changes, in particular reversals, during and after an egg-laying event."
-Involved	"WBbt:0006820"	Necessary	"in AVF-ablated animals, the velocity burst prior to egg-laying was reduced if not eliminated, and the average velocity overall was significantly reduced; in addition, the peak in directional change probability after egg-laying was eliminated."
+Involved	"WBbt:0003851"	Necessary	"in AVF-ablated animals, the velocity burst prior to egg-laying was reduced if not eliminated, and the average velocity overall was significantly reduced; in addition, the peak in directional change probability after egg-laying was eliminated."
 Not_involved	"WBbt:0005665"	Unnecessary
 Reference	"WBPaper00004978"
 
@@ -6173,6 +6173,313 @@ Reference	"WBPaper00040402"
 Condition : WBPaper00040402_3
 Genotype "daf-16(mgDf47); Ex[R13H8 daf-16AB(+)]"
 Reference WBPaper00040402
+
+
+
+Anatomy_function : "WBbtf0473"
+Assay	"Genetic_mosaic"	"WBPaper00040574_1"
+Phenotype	"WBPhenotype:0001512"	Autonomous
+Phenotype	"WBPhenotype:0001512"	Remark	"ENTITY:WBbt:0008407(ABaraappaaa)|GO:0001708(cell fate specification)|GO:0009855(determination of bilateral asymmetry)|WBbt:0003664(MI)|WBbt:0003701(e1D)"
+Phenotype	"WBPhenotype:0001512"	Remark	"QUALITY:PATO:0001507(interrupted)"
+Gene	"WBGene00001883"	Published_as	"his-9"
+Involved	"WBbt:0006636"	Sufficient	"We generated animals carrying an extrachromosomal array containing the his-9(H113D) transgene marked with cell-autonomous gfp reporters sur-5::gfp and unc-119::gfp. We observed that none of the 45 animals in which the array loss had occurred at or prior to the division of ABaraapp showed MI transformation. By contrast, of 686 animals in which the his-9(H113D) array was present in the postmitotic ABaraappaaa cell, 293 animals (43%) displayed MI transformation, suggesting that his-9 gain-of-function activity acts cell-autonomously to cause MI transformation. In addition, we identified 38 animals in which the array had been lost at the cell division of either ABaraappa or ABaraappaa. Three of these thirty-eight animals (3%) showed MI transformation. This low fraction of MI transformation compared to that of the animals in which the array was present in the postmitotic ABaraappaaa cell (43%) likely reflects two groups among the 38 animals, one in which the array had been lost at the ABaraappa division and another in which the array loss had occurred at the ABaraappaa division. Together these observations suggest that the presence of the his-9(H113D) transgene in ABaraappaa, the MI mother cell, is sufficient to cause MI transformation. We concluded that his-9 gain-of-function activity cell-autonomously acts in the MI mother cell to cause MI transformation."
+Involved	"WBbt:0006636"	Necessary
+Reference	"WBPaper00040574"
+
+Condition : WBPaper00040574_1
+Genotype "Ex[his-9(H113D) sur-5::gfp unc-119::gfp]"
+Reference WBPaper00040574
+
+
+
+Anatomy_function : "WBbtf0474"
+Assay	"Expression_mosaic"	"WBPaper00040560_1"
+Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
+Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00001996"	Published_as	"hpl-2"
+Involved	"WBbt:0003679"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the pan neuronal rab-3 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Reference	"WBPaper00040560"
+
+Condition : WBPaper00040560_1
+Genotype "hpl-2(tm1489); daf-2(e1370); Ex[Prab-3::hpl-2]"
+Reference WBPaper00040560
+
+
+
+Anatomy_function : "WBbtf0475"
+Assay	"Expression_mosaic"	"WBPaper00040560_2"
+Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
+Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00001996"	Published_as	"hpl-2"
+Involved	"WBbt:0005792"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the intestinal ges-1 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Reference	"WBPaper00040560"
+
+Condition : WBPaper00040560_2
+Genotype "hpl-2(tm1489); daf-2(e1370); Ex[Pges-1::hpl-2]"
+Reference WBPaper00040560
+
+
+
+Anatomy_function : "WBbtf0476"
+Assay	"Expression_mosaic"	"WBPaper00040560_3"
+Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
+Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00001996"	Published_as	"hpl-2"
+Not_involved	"WBbt:0007809"	Insufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the lin-31 promoter, which is expressed in vulval precursor cells, failed to promote rescue."
+Reference	"WBPaper00040560"
+
+Condition : WBPaper00040560_3
+Genotype "hpl-2(tm1489); daf-2(e1370); Ex[Plin-31::hpl-2]"
+Reference WBPaper00040560
+
+
+
+Anatomy_function : "WBbtf0477"
+Assay	"Expression_mosaic"	"WBPaper00040543_1"
+Phenotype	"WBPhenotype:0000724"	Autonomous
+Phenotype	"WBPhenotype:0000724"	Remark	"ENTITY:WBbt:0005661(ADL)|GO:0046903(secretion)|WP:CE25720(DAF-28)|GO:0005159(insulin-like growth factor)"
+Phenotype	"WBPhenotype:0000724"	Remark	"QUALITY:PATO:0001589(enhanced) NOT"
+Gene	"WBGene00000241"	Published_as	"bbs-1"
+Involved	"WBbt:0005661"	Sufficient	"Expression of bbs-1 under the promoter of ocr-2, which drives expression in ADL in addition to a few other sensory neurons, abrogated the enhanced secretion of bbs-1 mutant animals (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Involved	"WBbt:0005665"	Sufficient	"Expression of bbs-1 under the promoter of ocr-2, which drives expression in ADL in addition to a few other sensory neurons, abrogated the enhanced secretion of bbs-1 mutant animals (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Involved	"WBbt:0005670"	Sufficient	"Expression of bbs-1 under the promoter of ocr-2, which drives expression in ADL in addition to a few other sensory neurons, abrogated the enhanced secretion of bbs-1 mutant animals (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Involved	"WBbt:0005660"	Sufficient	"Expression of bbs-1 under the promoter of ocr-2, which drives expression in ADL in addition to a few other sensory neurons, abrogated the enhanced secretion of bbs-1 mutant animals (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Involved	"WBbt:0006753"	Sufficient	"Expression of bbs-1 under the promoter of ocr-2, which drives expression in ADL in addition to a few other sensory neurons, abrogated the enhanced secretion of bbs-1 mutant animals (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Reference	"WBPaper00040543"
+
+Condition : WBPaper00040543_1
+Genotype "bbs-1(ok1111); Ex[Psrh-220::DAF-28::mCherry]; Ex[Pocr-2::bbs-1]"
+Reference WBPaper00040543
+
+
+
+Anatomy_function : "WBbtf0478"
+Assay	"Expression_mosaic"	"WBPaper00040543_2"
+Phenotype	"WBPhenotype:0000724"	Autonomous
+Phenotype	"WBPhenotype:0000724"	Remark	"ENTITY:WBbt:0005661(ADL)|GO:0046903(secretion)|WP:CE25720(DAF-28)|GO:0005159(insulin-like growth factor)"
+Phenotype	"WBPhenotype:0000724"	Remark	"QUALITY:PATO:0001589(enhanced)"
+Gene	"WBGene00000241"	Published_as	"bbs-1"
+Not_involved	"WBbt:0005672"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005666"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005662"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005664"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005667"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005668"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0006825"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0006846"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Not_involved	"WBbt:0005663"	Insufficient	"By contrast, use of the tax-4 promoter to drive expression in numerous sensory neurons excluding ADL had no effect on the secretion phenotype of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes)."
+Reference	"WBPaper00040543"
+
+Condition : WBPaper00040543_2
+Genotype "bbs-1(ok1111); Ex[Psrh-220::DAF-28::mCherry]; Ex[Ptax-4::bbs-1]"
+Reference WBPaper00040543
+
+
+
+Anatomy_function : "WBbtf0479"
+Assay	"Expression_mosaic"	"WBPaper00040543_3"
+Phenotype	"WBPhenotype:0000724"	Autonomous
+Phenotype	"WBPhenotype:0000724"	Remark	"ENTITY:WBbt:0005661(ADL)|GO:0046903(secretion)|WP:CE25720(DAF-28)|GO:0005159(insulin-like growth factor)"
+Phenotype	"WBPhenotype:0000724"	Remark	"QUALITY:PATO:0001589(enhanced) NOT"
+Gene	"WBGene00000241"	Published_as	"bbs-1"
+Involved	"WBbt:0005661"	Sufficient	"Expression exclusively in ADL neurons (with srh-220 promoter) showed partial but highly significant reduction in the enhanced insulin secretion of bbs-1 mutants (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes), suggesting that the BBSome regulates secretion at least partially cell autonomously."
+Reference	"WBPaper00040543"
+
+Condition : WBPaper00040543_3
+Genotype "bbs-1(ok1111); [Psrh-220::DAF-28::mCherry]; Ex[Psrh-220::bbs-1]"
+Reference WBPaper00040543
+
+
+
+Anatomy_function : "WBbtf0480"
+Assay	"Expression_mosaic"	"WBPaper00040543_4"
+Phenotype	"WBPhenotype:0000724"	Autonomous
+Phenotype	"WBPhenotype:0000724"	Remark	"ENTITY:WBbt:0005661(ADL)|GO:0046903(secretion)|WP:CE25720(DAF-28)|GO:0005159(insulin-like growth factor)"
+Phenotype	"WBPhenotype:0000724"	Remark	"QUALITY:PATO:0001589(enhanced) NOT"
+Gene	"WBGene00003892"	Published_as	"bbs-7"
+Involved	"WBbt:0005661"	Sufficient	"When a functional bbs-7 cDNA was expressed in a bbs-7 mutant: two independently generated transgenic lines showed partial but highly significant reductions of the enhanced insulin secretion (assayed by ADL-expressed, tagged insulin accumulation in coelomocytes) of bbs-7 mutants when expressed exclusively in ADL."
+Reference	"WBPaper00040543"
+
+Condition : WBPaper00040543_4
+Genotype "bbs-7(n1606); [Psrh-220::DAF-28::mCherry]; Ex[Psrh-220::bbs-7]"
+Reference WBPaper00040543
+
+
+
+Anatomy_function : "WBbtf0481"
+Assay	"Expression_mosaic"	"WBPaper00040426_1"
+Phenotype	"WBPhenotype:0001996"	Autonomous
+Phenotype	"WBPhenotype:0001996"	Remark	"ENTITY:WBls:0000024(L1 larva)|WBbt:0005792(intestinal cell)|GO:0070314(cell cycle quiescence)"
+Phenotype	"WBPhenotype:0001996"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000870"	Published_as	"cyd-1"
+Involved	"WBbt:0005792"	Sufficient	"Expression of cyd-1/cdk-4 combination from the intestine-specific elt-2 promoter prevented the normal cell cycle arrest in the intestine of late embryonic and starved L1 animals. Expression of CYD-1 alone was sufficient to trigger nuclear division and DNA replication, whereas CDK expression alone did not induce an apparent cell cycle response."
+Reference	"WBPaper00040426"
+
+Condition : WBPaper00040426_1
+Genotype "heEx346[Pelt-2::CYD-1; Pelt-2::CDK-4::Venus; Pmyo-2::TdTomato]"
+Reference WBPaper00040426
+
+
+
+Anatomy_function : "WBbtf0482"
+Assay	"Expression_mosaic"	"WBPaper00040426_2"
+Phenotype	"WBPhenotype:0001996"	Autonomous
+Phenotype	"WBPhenotype:0001996"	Remark	"ENTITY:WBls:0000024(L1 larva)|WBbt:0005792(intestinal cell)|GO:0070314(cell cycle quiescence)"
+Phenotype	"WBPhenotype:0001996"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000871"	Published_as	"cye-1"
+Involved	"WBbt:0005792"	Sufficient	"Expression of cye-1/cdk-2 combination from the intestine-specific elt-2 promoter prevented the normal cell cycle arrest in the intestine of late embryonic and starved L1 animals. Expression of CYE-1 alone was sufficient to trigger nuclear division and DNA replication, whereas CDK expression alone did not induce an apparent cell cycle response."
+Reference	"WBPaper00040426"
+
+Condition : WBPaper00040426_2
+Genotype "heEx288[Pelt-2::CYE-1; Pelt-2::CDK-2AF::Venus;Pmyo-2::GFP]"
+Reference WBPaper00040426
+
+
+
+Anatomy_function : "WBbtf0483"
+Assay	"Expression_mosaic"	"WBPaper00040830_1"
+Phenotype	"WBPhenotype:0000806"	Autonomous
+Phenotype	"WBPhenotype:0000806"	Remark	"ENTITY:WBls:0000057(adult hermaphrodite)|WBbt:0005784(germline)|GO:0007281(germ cell development)"
+Phenotype	"WBPhenotype:0000806"	Remark	"QUALITY:PATO:0000460(defective)"
+Gene	"WBGene00003915"	Published_as	"pan-1"
+Involved	"WBbt:0005784"	Necessary	"germline-specific RNAi (using rrf-1 mutant worms) of pan-1 resulted in sterile F1 progeny that have empty gonads or gonads with abnormal oocytes."
+Reference	"WBPaper00040830"
+
+Condition : WBPaper00040830_1
+Genotype "rrf-1(pk1417)"
+Reference WBPaper00040830
+
+
+
+Anatomy_function : "WBbtf0484"
+Assay	"Expression_mosaic"	"WBPaper00040830_1"
+Phenotype	"WBPhenotype:0000638"	Remark	"ENTITY:WBls:0000023(larva)|WBbt:0005755(cuticle)|GO:0042303(molting cycle)"
+Phenotype	"WBPhenotype:0000638"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00003915"	Published_as	"pan-1"
+Not_involved	"WBbt:0005784"	Unnecessary	"germline-specific RNAi (using rrf-1 mutant worms) of pan-1 resulted in sterile F1 progeny that bypassed larval arrest (molting defects)."
+Reference	"WBPaper00040830"
+
+Condition : WBPaper00040830_1
+Genotype "rrf-1(pk1417)"
+Reference WBPaper00040830
+
+
+
+Anatomy_function : "WBbtf0485"
+Assay	"Expression_mosaic"	"WBPaper00040749_1"
+Phenotype	"WBPhenotype:0000625"	Autonomous
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004857(DA9)|GO:0048786(presynaptic active zone)|GO:0007528(neuromuscular junction development)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00019347"	Published_as	"mbl-1"
+Involved	"WBbt:0005278"	Sufficient	"We expressed a genomic fragment including most of the mbl-1 ORF under the control of promoters that express in neurons including DA9, and scored rescue of the DA9 synaptic phenotype in mbl-1(tm1563) mutant animals. Punc-4c, a truncated version of the unc-4 promoter, drives expression in only the DA-type motorneurons. Expression of the mbl-1 genomic fragment under the control of the unc-4c promoter rescues the DA9 synaptic defect,"
+Reference	"WBPaper00040749"
+
+Condition : WBPaper00040749_1
+Genotype "mbl-1(tm1563); Ex[Punc-4c::mbl-1]"
+Reference WBPaper00040749
+
+
+
+Anatomy_function : "WBbtf0486"
+Assay	"Expression_mosaic"	"WBPaper00040749_2"
+Phenotype	"WBPhenotype:0000625"	Autonomous
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004857(DA9)|GO:0048786(presynaptic active zone)|GO:0007528(neuromuscular junction development)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00019347"	Published_as	"mbl-1"
+Involved	"WBbt:0004857"	Sufficient	"We expressed a genomic fragment including most of the mbl-1 ORF under the control of promoters that express in neurons including DA9, and scored rescue of the DA9 synaptic phenotype in mbl-1(tm1563) mutant animals. The mig-13 promoter is expressed in DA9, VA12 and other anterior DA neurons and is expressed beginning at embryonic stages. When we used Pmig-13 to drive expression of the mbl-1 genomic fragment, we found that it also significantly restores the correct number of synapses to the dorsal axon in DA9."
+Involved	"WBbt:0004645"	Sufficient	"We expressed a genomic fragment including most of the mbl-1 ORF under the control of promoters that express in neurons including DA9, and scored rescue of the DA9 synaptic phenotype in mbl-1(tm1563) mutant animals. The mig-13 promoter is expressed in DA9, VA12 and other anterior DA neurons and is expressed beginning at embryonic stages. When we used Pmig-13 to drive expression of the mbl-1 genomic fragment, we found that it also significantly restores the correct number of synapses to the dorsal axon in DA9."
+Reference	"WBPaper00040749"
+
+Condition : WBPaper00040749_2
+Genotype "mbl-1(tm1563); Ex[Pmig-13::mbl-1]"
+Reference WBPaper00040749
+
+
+
+Anatomy_function : "WBbtf0487"
+Assay	"Expression_mosaic"	"WBPaper00040749_3"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004857(DA9)|GO:0048786(presynaptic active zone)|GO:0007528(neuromuscular junction development)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00019347"	Published_as	"mbl-1"
+Not_involved	"WBbt:0006804"	Insufficient	"We expressed a genomic fragment including most of the mbl-1 ORF under the control of promoters that express in body wall muscles (Phlh-1) and scored rescue of the DA9 synaptic phenotype in mbl-1(tm1563) mutant animals. Expression of mbl-1 in muscle failed to rescue the DA9 synaptic defect."
+Reference	"WBPaper00040749"
+
+Condition : WBPaper00040749_3
+Genotype "mbl-1(tm1563); Ex[Phlh-1::mbl-1]"
+Reference WBPaper00040749
+
+
+
+Anatomy_function : "WBbtf0488"
+Assay	"Expression_mosaic"	"WBPaper00040749_2"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004857(DA9)|GO:0048786(presynaptic active zone)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALITY:PATO:0000628(ectopic) NOT"
+Gene	"WBGene00019347"	Published_as	"mbl-1"
+Involved	"WBbt:0004857"	Sufficient	"Expression of the mbl-1 genomic fragment under the control of the Pmig-13 promoters can rescue or partially rescue the appearance of ectopic dendritic puncta in mbl-1(tm1563)."
+Involved	"WBbt:0004645"	Sufficient	"Expression of the mbl-1 genomic fragment under the control of the Pmig-13 promoters can rescue or partially rescue the appearance of ectopic dendritic puncta in mbl-1(tm1563)."
+Reference	"WBPaper00040749"
+
+Condition : WBPaper00040749_2
+Genotype "mbl-1(tm1563); Ex[Pmig-13::mbl-1]"
+Reference WBPaper00040749
+
+
+
+Anatomy_function : "WBbtf0489"
+Assay	"Expression_mosaic"	"WBPaper00040749_1"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004857(DA9)|GO:0048786(presynaptic active zone)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALITY:PATO:0000628(ectopic) NOT"
+Gene	"WBGene00019347"	Published_as	"mbl-1"
+Involved	"WBbt:0005278"	Sufficient	"Expression of the mbl-1 genomic fragment under the control of the Pmig-13 promoters can rescue or partially rescue the appearance of ectopic dendritic puncta in mbl-1(tm1563)."
+Reference	"WBPaper00040749"
+
+Condition : WBPaper00040749_1
+Genotype "mbl-1(tm1563); Ex[Punc-4c::mbl-1]"
+Reference WBPaper00040749
+
+
+
+Anatomy_function : "WBbtf0490"
+Assay	"Expression_mosaic"	"WBPaper00040829_1"
+Phenotype	"WBPhenotype:0000615"	Remark	"ENTITY:WBbt:0005671(AWB)|GO:0060170(cilium membrane)"
+Phenotype	"WBPhenotype:0000615"	Remark	"QUALITY:PATO:0001602(expanded)"
+Gene	"WBGene00001130"	Published_as	"dyn-1"
+Involved	"WBbt:0005671"	Necessary	"Knock-down of dyn-1 function using cell-specific RNAi (sru-38p::dyn-1RNAi) caused abnormal cilium morphology in AWB."
+Involved	"WBbt:0005665"	Necessary	"Knock-down of dyn-1 function using cell-specific RNAi (sru-38p::dyn-1RNAi) caused abnormal cilium morphology in AWB."
+Reference	"WBPaper00040829"
+
+Condition : WBPaper00040829_1
+Genotype "sru-38p::dyn-1(RNAi)"
+Reference WBPaper00040829
+
+
+
+Anatomy_function : "WBbtf0491"
+Assay	"Expression_mosaic"	"WBPaper00040829_2"
+Phenotype	"WBPhenotype:0000615"	Remark	"ENTITY:WBbt:0005671(AWB)|GO:0060170(cilium membrane)"
+Phenotype	"WBPhenotype:0000615"	Remark	"QUALITY:PATO:0001602(expanded)"
+Gene	"WBGene00004268"	Published_as	"rab-5"
+Involved	"WBbt:0005671"	Necessary	"Knock-down of rab-5 function using cell-specific RNAi (sru-38p::rab-5 RNAi) caused abnormal cilium morphology in AWB."
+Involved	"WBbt:0005665"	Necessary	"Knock-down of rab-5 function using cell-specific RNAi (sru-38p::rab-5 RNAi) caused abnormal cilium morphology in AWB."
+Reference	"WBPaper00040829"
+
+Condition : WBPaper00040829_2
+Genotype "sru-38p::rab-5(RNAi)"
+Reference WBPaper00040829
+
+
+
+Anatomy_function : "WBbtf0492"
+Assay	"Expression_mosaic"	"WBPaper00040859_1"
+Phenotype	"WBPhenotype:0000059"	Remark	"ENTITY:NCBITaxon:6238(C. briggsae)|WBls:0000023(larva)|GO:0040007(growth)"
+Phenotype	"WBPhenotype:0000059"	Remark	"QUALITY:PATO:0000297(arrested) NOT"
+Gene	"WBGene00025707"	Published_as	"Cbr-puf-2"
+Not_involved	"WBbt:0005784"	Unnecessary	"C. briggsae Cbr-puf-2(nm66) mutant animals arrest at an early larval stage. But nm66 homozygote animals that carry a wild-type Cbr-puf-2 transgene (CP113) develop into fertile adults. Since germline transgene silencing is a known phenomenon in C. elegans, CP113 was probably a somatic-rescued but germline-null Cbr-puf-2 mutant."
+Reference	"WBPaper00040859"
+
+Condition : WBPaper00040859_1
+Genotype "Cbr-unc-119(nm67); Cbr-puf-2(nm66); Is[Cbr-unc119(+) Cbr-puf-2(+)]"
+Reference WBPaper00040859
 
 
 
