@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:04:2012 09:59
+date: 03:05:2012 13:21
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -8138,7 +8138,7 @@ relationship: part_of WBbt:0004354 ! int3D
 id: WBbt:0002136
 name: E.arapa nucleus
 def: "nucleus of pedigree E.arapa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002135 ! Earap nucleus
 relationship: part_of WBbt:0007111 ! E.arapa
 relationship: part_of WBbt:0008225 ! int3D
@@ -8147,7 +8147,7 @@ relationship: part_of WBbt:0008225 ! int3D
 id: WBbt:0002137
 name: E.arapp nucleus
 def: "nucleus of pedigree E.arapp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002135 ! Earap nucleus
 relationship: part_of WBbt:0007112 ! E.arapp
 relationship: part_of WBbt:0008225 ! int3D
@@ -8164,7 +8164,7 @@ relationship: part_of WBbt:0004359 ! int3V
 id: WBbt:0002139
 name: E.alapa nucleus
 def: "nucleus of pedigree E.alapa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002138 ! Ealap nucleus
 relationship: part_of WBbt:0007107 ! E.alapa
 relationship: part_of WBbt:0008226 ! int3V
@@ -8173,7 +8173,7 @@ relationship: part_of WBbt:0008226 ! int3V
 id: WBbt:0002140
 name: E.alapp nucleus
 def: "nucleus of pedigree E.alapp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002138 ! Ealap nucleus
 relationship: part_of WBbt:0007108 ! E.alapp
 relationship: part_of WBbt:0008226 ! int3V
@@ -8190,7 +8190,7 @@ relationship: part_of WBbt:0004346 ! int4D
 id: WBbt:0002142
 name: E.praaa nucleus
 def: "nucleus of pedigree E.praaa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002141 ! Epraa nucleus
 relationship: part_of WBbt:0007125 ! E.praaa
 relationship: part_of WBbt:0008227 ! int4D
@@ -8199,7 +8199,7 @@ relationship: part_of WBbt:0008227 ! int4D
 id: WBbt:0002143
 name: E.praap nucleus
 def: "nucleus of pedigree E.praap" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002141 ! Epraa nucleus
 relationship: part_of WBbt:0007126 ! E.praap
 relationship: part_of WBbt:0008227 ! int4D
@@ -8216,7 +8216,7 @@ relationship: part_of WBbt:0004351 ! int4V
 id: WBbt:0002145
 name: E.plaaa nucleus
 def: "nucleus of pedigree E.plaaa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002144 ! Eplaa nucleus
 relationship: part_of WBbt:0007115 ! E.plaaa
 relationship: part_of WBbt:0008228 ! int4V
@@ -8225,7 +8225,7 @@ relationship: part_of WBbt:0008228 ! int4V
 id: WBbt:0002146
 name: E.plaap nucleus
 def: "nucleus of pedigree E.plaap" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002144 ! Eplaa nucleus
 relationship: part_of WBbt:0007116 ! E.plaap
 relationship: part_of WBbt:0008228 ! int4V
@@ -8242,7 +8242,7 @@ relationship: part_of WBbt:0004357 ! int5L
 id: WBbt:0002148
 name: E.alppa nucleus
 def: "nucleus of pedigree E.alppa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002147 ! Ealpp nucleus
 relationship: part_of WBbt:0007109 ! E.alppa
 relationship: part_of WBbt:0008229 ! int5L
@@ -8251,7 +8251,7 @@ relationship: part_of WBbt:0008229 ! int5L
 id: WBbt:0002149
 name: E.alppp nucleus
 def: "nucleus of pedigree E.alppp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002147 ! Ealpp nucleus
 relationship: part_of WBbt:0007110 ! E.alppp
 relationship: part_of WBbt:0008229 ! int5L
@@ -8268,7 +8268,7 @@ relationship: part_of WBbt:0004352 ! int5R
 id: WBbt:0002151
 name: E.arppa nucleus
 def: "nucleus of pedigree E.arppa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002150 ! Earpp nucleus
 relationship: part_of WBbt:0007113 ! E.arppa
 relationship: part_of WBbt:0008230 ! int5R
@@ -8277,7 +8277,7 @@ relationship: part_of WBbt:0008230 ! int5R
 id: WBbt:0002152
 name: E.arppp nucleus
 def: "nucleus of pedigree E.arppp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002150 ! Earpp nucleus
 relationship: part_of WBbt:0007114 ! E.arppp
 relationship: part_of WBbt:0008230 ! int5R
@@ -8294,7 +8294,7 @@ relationship: part_of WBbt:0004350 ! int6L
 id: WBbt:0002154
 name: E.plapa nucleus
 def: "nucleus of pedigree E.plapa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002153 ! Eplap nucleus
 relationship: part_of WBbt:0007117 ! E.plapa
 relationship: part_of WBbt:0008231 ! int6L
@@ -8303,7 +8303,7 @@ relationship: part_of WBbt:0008231 ! int6L
 id: WBbt:0002155
 name: E.plapp nucleus
 def: "nucleus of pedigree E.plapp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002153 ! Eplap nucleus
 relationship: part_of WBbt:0007118 ! E.plapp
 relationship: part_of WBbt:0008231 ! int6L
@@ -8320,7 +8320,7 @@ relationship: part_of WBbt:0004345 ! int6R
 id: WBbt:0002157
 name: E.prapa nucleus
 def: "nucleus of pedigree E.prapa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002156 ! Eprap nucleus
 relationship: part_of WBbt:0007127 ! E.prapa
 relationship: part_of WBbt:0008232 ! int6R
@@ -8329,7 +8329,7 @@ relationship: part_of WBbt:0008232 ! int6R
 id: WBbt:0002158
 name: E.prapp nucleus
 def: "nucleus of pedigree E.prapp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002156 ! Eprap nucleus
 relationship: part_of WBbt:0007128 ! E.prapp
 relationship: part_of WBbt:0008232 ! int6R
@@ -8346,7 +8346,7 @@ relationship: part_of WBbt:0004349 ! int7L
 id: WBbt:0002160
 name: E.plpaa nucleus
 def: "nucleus of pedigree E.plpaa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002159 ! Eplpa nucleus
 relationship: part_of WBbt:0007119 ! E.plpaa
 relationship: part_of WBbt:0008233 ! int7L
@@ -8355,7 +8355,7 @@ relationship: part_of WBbt:0008233 ! int7L
 id: WBbt:0002161
 name: E.plpap nucleus
 def: "nucleus of pedigree E.plpap" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002159 ! Eplpa nucleus
 relationship: part_of WBbt:0007120 ! E.plpap
 relationship: part_of WBbt:0008233 ! int7L
@@ -8372,7 +8372,7 @@ relationship: part_of WBbt:0004344 ! int7R
 id: WBbt:0002163
 name: E.prpaa nucleus
 def: "nucleus of pedigree E.prpaa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002162 ! Eprpa nucleus
 relationship: part_of WBbt:0007129 ! E.prpaa
 relationship: part_of WBbt:0008234 ! int7R
@@ -8381,7 +8381,7 @@ relationship: part_of WBbt:0008234 ! int7R
 id: WBbt:0002164
 name: E.prpap nucleus
 def: "nucleus of pedigree E.prpap" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002162 ! Eprpa nucleus
 relationship: part_of WBbt:0007130 ! E.prpap
 relationship: part_of WBbt:0008234 ! int7R
@@ -8398,7 +8398,7 @@ relationship: part_of WBbt:0004348 ! int8L
 id: WBbt:0002166
 name: E.plppaa nucleus
 def: "nucleus of pedigree E.plppaa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002165 ! Eplppa nucleus
 relationship: part_of WBbt:0007121 ! E.plppaa
 relationship: part_of WBbt:0008235 ! int8L
@@ -8407,7 +8407,7 @@ relationship: part_of WBbt:0008235 ! int8L
 id: WBbt:0002167
 name: E.plppap nucleus
 def: "nucleus of pedigree E.plppap" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002165 ! Eplppa nucleus
 relationship: part_of WBbt:0007122 ! E.plppap
 relationship: part_of WBbt:0008235 ! int8L
@@ -8425,7 +8425,7 @@ id: WBbt:0002169
 name: E.prppaa nucleus
 def: "nucleus of pedigree E.prppaa" [WB:rynl]
 synonym: "int8R.a nucleus" RELATED []
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002168 ! Eprppa nucleus
 relationship: part_of WBbt:0007131 ! E.prppaa
 relationship: part_of WBbt:0008236 ! int8R
@@ -8435,7 +8435,7 @@ id: WBbt:0002170
 name: E.prppap nucleus
 def: "nucleus of pedigree E.prppap" [WB:rynl]
 synonym: "int8R.p nucleus" RELATED []
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002168 ! Eprppa nucleus
 relationship: part_of WBbt:0007132 ! E.prppap
 relationship: part_of WBbt:0008236 ! int8R
@@ -8452,7 +8452,7 @@ relationship: part_of WBbt:0004347 ! int9L
 id: WBbt:0002172
 name: E.plpppa nucleus
 def: "nucleus of pedigree E.plpppa" [WB:rynl]
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002171 ! Eplppp nucleus
 relationship: part_of WBbt:0007123 ! E.plpppa
 relationship: part_of WBbt:0008237 ! int9L
@@ -8461,7 +8461,7 @@ relationship: part_of WBbt:0008237 ! int9L
 id: WBbt:0002173
 name: E.plpppp nucleus
 def: "nucleus of pedigree E.plpppp" [WB:rynl]
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002171 ! Eplppp nucleus
 relationship: part_of WBbt:0007124 ! E.plpppp
 relationship: part_of WBbt:0008237 ! int9L
@@ -8479,7 +8479,7 @@ id: WBbt:0002175
 name: E.prpppa nucleus
 def: "nucleus of pedigree E.prpppa" [WB:rynl]
 synonym: "int9R.a nucleus" RELATED []
-is_a: WBbt:0004341 ! In.a
+is_a: WBbt:0004341 ! In.a nucleus
 relationship: DESCENDENTOF WBbt:0002174 ! Eprppp nucleus
 relationship: part_of WBbt:0007133 ! E.prpppa
 relationship: part_of WBbt:0008238 ! int9R
@@ -8489,7 +8489,7 @@ id: WBbt:0002176
 name: E.prpppp nucleus
 def: "nucleus of pedigree E.prpppp" [WB:rynl]
 synonym: "int9R.p nucleus" RELATED []
-is_a: WBbt:0004340 ! In.p
+is_a: WBbt:0004340 ! In.p nucleus
 relationship: DESCENDENTOF WBbt:0002174 ! Eprppp nucleus
 relationship: part_of WBbt:0007134 ! E.prpppp
 relationship: part_of WBbt:0008238 ! int9R
@@ -23871,15 +23871,15 @@ is_a: WBbt:0004017 ! Cell
 
 [Term]
 id: WBbt:0004340
-name: In.p
-def: "Postembryonic intestinal cell nucleus, the posterior one from nuclear division of any of 10-14 cells in mid-section of intestine. " [ISBN:0-87969-307-X, WB:rynl]
+name: In.p nucleus
+def: "Postembryonic intestinal cell nucleus, the posterior one from nuclear division of any of 10-14 cells in mid-section of intestine." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: In.p" RELATED []
 is_a: WBbt:0006803 ! Nucleus
 
 [Term]
 id: WBbt:0004341
-name: In.a
-def: "Postembryonic intestinal cell nucleus, the anterior one from nuclear division of any of 10-14 cells in mid-section of intestine. " [ISBN:0-87969-307-X, WB:rynl]
+name: In.a nucleus
+def: "Postembryonic intestinal cell nucleus, the anterior one from nuclear division of any of 10-14 cells in mid-section of intestine." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: In.a" RELATED []
 is_a: WBbt:0006803 ! Nucleus
 
@@ -32960,6 +32960,7 @@ relationship: part_of WBbt:0008294 ! Z4.aaa hermaphrodite
 [Term]
 id: WBbt:0005728
 name: AC nucleus
+def: "Nucleus of the anchor cell." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
 relationship: develops_from WBbt:0008463 ! Z1.ppp (5R) or Z4.aaa (5L) nucleus
 relationship: part_of WBbt:0004522 ! anchor cell
@@ -48082,6 +48083,7 @@ is_a: WBbt:0004789 ! R9_hyp
 id: WBbt:0008061
 name: ABprppppapa nucleus
 def: "nucleus of pedigree ABprppppapa." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCENDENTOF WBbt:0001615 ! ABprppppap nucleus
 
 [Term]
