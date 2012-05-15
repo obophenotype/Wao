@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 03:05:2012 15:55
+date: 15:05:2012 11:59
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -32527,7 +32527,6 @@ name: Z1.ppp (5R) nucleus
 def: "nucleus of pedigree Z1.ppp(5R)" [WB:rynl]
 is_a: WBbt:0005700 ! Z1.ppx/Z4.aax (5R) nucleus
 is_a: WBbt:0007968 ! Z1.ppp nucleus hermaphrodite
-is_a: WBbt:0008463 ! Z1.ppp (5R) or Z4.aaa (5L) nucleus
 relationship: part_of WBbt:0008220 ! uterine seam cell 5R
 relationship: part_of WBbt:0008307 ! Z1.ppp (5R)
 
@@ -32753,7 +32752,6 @@ name: Z4.aaa (5L) nucleus
 def: "nucleus of pedigree Z4.aaa(5L)" [WB:rynl]
 is_a: WBbt:0005701 ! Z1.ppx/Z4.aax (5L) nucleus
 is_a: WBbt:0005727 ! Z4.aaa nucleus hermaphrodite
-is_a: WBbt:0008463 ! Z1.ppp (5R) or Z4.aaa (5L) nucleus
 relationship: part_of WBbt:0008219 ! uterine seam cell 5L
 relationship: part_of WBbt:0008300 ! Z4.aaa (5L)
 
@@ -46576,8 +46574,8 @@ relationship: part_of WBbt:0006748 ! vulva
 
 [Term]
 id: WBbt:0007832
-name: ala
-def: "Small linear ridges running along the lateral lines of the cuticle, lengthwise along the body; these thickenings lie in register with the seam cells which likely produce them and are present in the cuticle of the L1, dauer and adult stages, but not in other larval stages. The alae are suspected to provide better traction when the animal generates a bodywave. Since the animal usually lies on its side, the alae are in perfect position to catch against the substrate." [WBPaper:00038216]
+name: cuticular ala
+def: "Small linear ridges running along the lateral lines of the cuticle, lengthwise along the body; these thickenings lie in register with the seam cells which likely produce them and are present in the cuticle of the L1, dauer and adult stages, but not in other larval stages. The alae are suspected to provide better traction when the animal generates a bodywave. Since the animal usually lies on its side, the alae are in perfect position to catch against the substrate." [WB:rynl, WBPaper:00038216]
 synonym: "alae" RELATED []
 is_a: WBbt:0005732 ! extracellular component
 relationship: part_of WBbt:0005755 ! cuticle
@@ -50704,6 +50702,8 @@ name: Z1.ppp (5R) or Z4.aaa (5L) nucleus
 def: "Nucleus of pedigree Z1.ppp (5R) or Z4.aaa (5L)." [WB:rynl]
 is_a: WBbt:0000101 ! Lineage
 is_a: WBbt:0006803 ! Nucleus
+relationship: xunion_of WBbt:0005674 ! Z1.ppp (5R) nucleus
+relationship: xunion_of WBbt:0005702 ! Z4.aaa (5L) nucleus
 created_by: raymond
 creation_date: 2012-04-23T02:44:36Z
 
