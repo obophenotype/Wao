@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 15:05:2012 11:59
+date: 23:05:2012 16:24
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -17000,6 +17000,7 @@ id: WBbt:0003328
 name: Z1.paapa nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paapa in hermaphrodite." [WB:rynl]
 relationship: DESCINHERM WBbt:0003327 ! Z1.paap nucleus hermaphrodite
+relationship: part_of WBbt:0008467 ! Z1.paapa hermaphrodite
 
 [Term]
 id: WBbt:0003329
@@ -17048,6 +17049,7 @@ id: WBbt:0003335
 name: Z1.paapp nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paapp in hermaphrodite." [WB:rynl]
 relationship: DESCINHERM WBbt:0003327 ! Z1.paap nucleus hermaphrodite
+relationship: part_of WBbt:0008473 ! Z1.paapp hermaphrodite
 
 [Term]
 id: WBbt:0003336
@@ -17166,8 +17168,7 @@ id: WBbt:0003352
 name: Z1.pap nucleus
 def: "nucleus of pedigree Z1.pap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0003309 ! Z1.pa nucleus
-relationship: part_of WBbt:0007607 ! Z1.pap hermaphrodite
-relationship: part_of WBbt:0008360 ! Z1.pap male
+relationship: part_of WBbt:0008361 ! Z1.pap
 
 [Term]
 id: WBbt:0003353
@@ -47259,6 +47260,7 @@ relationship: part_of WBbt:0008363 ! Z1.paa hermaphrodite
 id: WBbt:0007932
 name: Z1.paaa nucleus male
 relationship: DESCINMALE WBbt:0007983 ! Z1.paa nucleus male non-terminal
+relationship: part_of WBbt:0008476 ! Z1.paaa male
 
 [Term]
 id: WBbt:0007933
@@ -47270,16 +47272,19 @@ relationship: part_of WBbt:0007597 ! Z1.paap
 id: WBbt:0007934
 name: Z1.paaaa nucleus
 relationship: DESCINMALE WBbt:0007932 ! Z1.paaa nucleus male
+relationship: part_of WBbt:0008479 ! Z1.paaaa
 
 [Term]
 id: WBbt:0007935
 name: Z1.paaaaa nucleus
 relationship: DESCINMALE WBbt:0007934 ! Z1.paaaa nucleus
+relationship: part_of WBbt:0008468 ! Z1.paaaaa
 
 [Term]
 id: WBbt:0007936
 name: Z1.paaaap nucleus
 relationship: DESCINMALE WBbt:0007934 ! Z1.paaaa nucleus
+relationship: part_of WBbt:0008478 ! Z1.paaaap
 
 [Term]
 id: WBbt:0007937
@@ -47297,11 +47302,13 @@ relationship: part_of WBbt:0004706 ! gon_male_vdef
 id: WBbt:0007939
 name: Z1.paaaapa nucleus
 relationship: DESCINMALE WBbt:0007936 ! Z1.paaaap nucleus
+relationship: part_of WBbt:0008464 ! Z1.paaaapa
 
 [Term]
 id: WBbt:0007940
 name: Z1.paaaapp nucleus
 relationship: DESCINMALE WBbt:0007936 ! Z1.paaaap nucleus
+relationship: part_of WBbt:0008470 ! Z1.paaaapp
 
 [Term]
 id: WBbt:0007941
@@ -47325,6 +47332,7 @@ relationship: part_of WBbt:0004701 ! gon_male_vdef
 id: WBbt:0007944
 name: Z1.paaaappa nucleus
 relationship: DESCINMALE WBbt:0007940 ! Z1.paaaapp nucleus
+relationship: part_of WBbt:0008477 ! Z1.paaaappa
 
 [Term]
 id: WBbt:0007945
@@ -47366,6 +47374,7 @@ relationship: part_of WBbt:0007610 ! Z1.papaaa
 id: WBbt:0007951
 name: Z1.papaapp nucleus
 relationship: DESCINMALE WBbt:0007952 ! Z1.papaap nucleus male
+relationship: part_of WBbt:0008472 ! Z1.papaapp
 
 [Term]
 id: WBbt:0007952
@@ -47389,6 +47398,7 @@ relationship: part_of WBbt:0005008 ! gon_male_vdef
 id: WBbt:0007955
 name: Z1.papaappa nucleus
 relationship: DESCINMALE WBbt:0007951 ! Z1.papaapp nucleus
+relationship: part_of WBbt:0008475 ! Z1.papaappa
 
 [Term]
 id: WBbt:0007956
@@ -47507,6 +47517,7 @@ relationship: part_of WBbt:0005052 ! Z1.pppap male
 id: WBbt:0007974
 name: Z1.pppaaa nucleus male
 relationship: DESCINMALE WBbt:0007972 ! Z1.pppaa nucleus male
+relationship: part_of WBbt:0008465 ! Z1.pppaaa male
 
 [Term]
 id: WBbt:0007975
@@ -49007,6 +49018,7 @@ relationship: part_of WBbt:0005048 ! gon_male_sves
 id: WBbt:0008201
 name: Z1.pappp nucleus hermaphrodite
 is_a: WBbt:0003401 ! Z1.pappp nucleus
+relationship: part_of WBbt:0008469 ! Z1.pappp hermaphrodite
 
 [Term]
 id: WBbt:0008202
@@ -49027,6 +49039,7 @@ relationship: part_of WBbt:0005004 ! gon_male_vdef
 id: WBbt:0008204
 name: Z1.papapp nucleus hermaphrodite
 is_a: WBbt:0003378 ! Z1.papapp nucleus
+relationship: part_of WBbt:0008474 ! Z1.papapp hermaphrodite
 
 [Term]
 id: WBbt:0008205
@@ -49038,6 +49051,7 @@ relationship: part_of WBbt:0005006 ! gon_male_vdef
 id: WBbt:0008206
 name: Z1.papapa nucleus hermaphrodite
 is_a: WBbt:0003371 ! Z1.papapa nucleus
+relationship: part_of WBbt:0008466 ! Z1.papapa hermaphrodite
 
 [Term]
 id: WBbt:0008207
@@ -49048,7 +49062,9 @@ relationship: part_of WBbt:0005002 ! gon_male_vdef
 [Term]
 id: WBbt:0008208
 name: Z1.pappa nucleus hermaphrodite
+def: "Nucleus of pedigree Z1.pappa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003386 ! Z1.pappa nucleus
+relationship: part_of WBbt:0008471 ! Z1.pappa hermaphrodite
 
 [Term]
 id: WBbt:0008209
@@ -50706,6 +50722,134 @@ relationship: xunion_of WBbt:0005674 ! Z1.ppp (5R) nucleus
 relationship: xunion_of WBbt:0005702 ! Z4.aaa (5L) nucleus
 created_by: raymond
 creation_date: 2012-04-23T02:44:36Z
+
+[Term]
+id: WBbt:0008464
+name: Z1.paaaapa
+def: "Post-embryonic male cell of pedigree Z1.paaaapa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:24:43Z
+
+[Term]
+id: WBbt:0008465
+name: Z1.pppaaa male
+def: "Postembryonic male cell of pedigree Z1.pppaaa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:30:04Z
+
+[Term]
+id: WBbt:0008466
+name: Z1.papapa hermaphrodite
+def: "Post-embryonic hermaphrodite cell of pedigree Z1.papapa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:36:02Z
+
+[Term]
+id: WBbt:0008467
+name: Z1.paapa hermaphrodite
+def: "Post-embryonic hermaphrodite cell of pedigree Z1.paapa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:39:05Z
+
+[Term]
+id: WBbt:0008468
+name: Z1.paaaaa
+def: "Post-embryonic cell of pedigree Z1.paaaaa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:43:03Z
+
+[Term]
+id: WBbt:0008469
+name: Z1.pappp hermaphrodite
+def: "Embryonic hermaphrodite cell of pedigree Z1.pappp." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:46:45Z
+
+[Term]
+id: WBbt:0008470
+name: Z1.paaaapp
+def: "Post-embryonic cell of pedigree Z1.paaaapp." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T03:51:12Z
+
+[Term]
+id: WBbt:0008471
+name: Z1.pappa hermaphrodite
+def: "Post-embryonic hermaphrodite cell of pedigree Z1.pappa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:00:50Z
+
+[Term]
+id: WBbt:0008472
+name: Z1.papaapp
+def: "Post-embryonic cell of pedigree Z1.papaapp." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:04:04Z
+
+[Term]
+id: WBbt:0008473
+name: Z1.paapp hermaphrodite
+def: "Post-embryonic hermaphrodite cell of pedigree Z1.paapp." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:06:55Z
+
+[Term]
+id: WBbt:0008474
+name: Z1.papapp hermaphrodite
+def: "Post-embryonic hermaphrodite cell of pedigree Z1.papapp." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:09:51Z
+
+[Term]
+id: WBbt:0008475
+name: Z1.papaappa
+def: "Post-embryonic cell of pedigree Z1.papaappa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:12:32Z
+
+[Term]
+id: WBbt:0008476
+name: Z1.paaa male
+def: "Post-embryonic male cell of pedigree Z1.paaa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:16:05Z
+
+[Term]
+id: WBbt:0008477
+name: Z1.paaaappa
+def: "Post-embryonic cell of pedigree Z1.paaaappa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:18:11Z
+
+[Term]
+id: WBbt:0008478
+name: Z1.paaaap
+def: "Post-embryonic cell of pedigree Z1.paaaap." [WB:<new dbxref>rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:20:20Z
+
+[Term]
+id: WBbt:0008479
+name: Z1.paaaa
+def: "Post-embryonic cell of pedigree Z1.paaaa." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-23T04:22:29Z
 
 [Typedef]
 id: DESCENDENTOF
