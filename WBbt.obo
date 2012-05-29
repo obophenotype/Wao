@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:05:2012 17:13
+date: 29:05:2012 12:56
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -8518,7 +8518,6 @@ def: "nucleus of pedigree MSapaapp" [WB:rynl]
 synonym: "M nucleus" RELATED []
 relationship: DESCENDENTOF WBbt:0002345 ! MSapaap nucleus
 relationship: part_of WBbt:0004489 ! M cell
-relationship: part_of WBbt:0007204 ! MSapaapp
 
 [Term]
 id: WBbt:0002182
@@ -13116,7 +13115,6 @@ name: SM3L.a nucleus
 def: "nucleus of pedigree SM3L.a" [WB:rynl]
 synonym: "M.vlpaaa nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0007874 ! M.vlpaa nucleus male
-relationship: part_of WBbt:0007185 ! M.vlpaaa
 relationship: part_of WBbt:0007336 ! SM3L.a
 
 [Term]
@@ -13125,7 +13123,6 @@ name: SM3L.aa nucleus
 def: "nucleus of pedigree SM3L.aa" [WB:rynl]
 synonym: "M.vlpaaaa nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0002809 ! SM3L.a nucleus
-relationship: part_of WBbt:0007186 ! M.vlpaaaa
 relationship: part_of WBbt:0007337 ! SM3L.aa
 
 [Term]
@@ -13152,7 +13149,6 @@ name: SM3L.ap nucleus
 def: "nucleus of pedigree SM3L.ap" [WB:rynl]
 synonym: "M.vlpaaap nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0002809 ! SM3L.a nucleus
-relationship: part_of WBbt:0007187 ! M.vlpaaap
 relationship: part_of WBbt:0007340 ! SM3L.ap
 
 [Term]
@@ -13179,7 +13175,6 @@ name: SM3L.p nucleus
 def: "nucleus of pedigree SM3L.p" [WB:rynl]
 synonym: "M.vlpaap nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0007874 ! M.vlpaa nucleus male
-relationship: part_of WBbt:0007188 ! M.vlpaap
 relationship: part_of WBbt:0007343 ! SM3L.p
 
 [Term]
@@ -13206,7 +13201,6 @@ name: SM3R.a nucleus
 def: "nucleus of pedigree SM3R.a" [WB:rynl]
 synonym: "M.vrpaaa nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0007876 ! M.vrpaa nucleus male
-relationship: part_of WBbt:0007198 ! M.vrpaaa
 relationship: part_of WBbt:0007346 ! SM3R.a
 
 [Term]
@@ -13215,7 +13209,6 @@ name: SM3R.aa nucleus
 def: "nucleus of pedigree SM3R.aa" [WB:rynl]
 synonym: "M.vrpaaaa nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0002819 ! SM3R.a nucleus
-relationship: part_of WBbt:0007199 ! M.vrpaaaa
 relationship: part_of WBbt:0007347 ! SM3R.aa
 
 [Term]
@@ -13242,7 +13235,6 @@ name: SM3R.ap nucleus
 def: "nucleus of pedigree SM3R.ap" [WB:rynl]
 synonym: "M.vrpaaap nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0002819 ! SM3R.a nucleus
-relationship: part_of WBbt:0007200 ! M.vrpaaap
 relationship: part_of WBbt:0007350 ! SM3R.ap
 
 [Term]
@@ -13269,7 +13261,6 @@ name: SM3R.p nucleus
 def: "nucleus of pedigree SM3R.p" [WB:rynl]
 synonym: "M.vrpaap nucleus male" RELATED []
 relationship: DESCINMALE WBbt:0007876 ! M.vrpaa nucleus male
-relationship: part_of WBbt:0007201 ! M.vrpaap
 relationship: part_of WBbt:0007353 ! SM3R.p
 
 [Term]
@@ -24958,8 +24949,10 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 [Term]
 id: WBbt:0004489
 name: M cell
-def: "Postembryonic mesoblast" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007204
+def: "Postembryonic mesoblast of pedigree MSapaapp." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: MSapaapp" RELATED []
+synonym: "MSapaapp" EXACT []
 is_a: WBbt:0006783 ! blast cell
 
 [Term]
@@ -42727,12 +42720,6 @@ is_a: WBbt:0008258 ! body wall muscle cell from M lineage
 is_a: WBbt:0008266 ! VRM
 
 [Term]
-id: WBbt:0007204
-name: MSapaapp
-def: "post-embryonic cell of pedigree MSapaapp" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007205
 name: MSpapaaaa
 def: "post-embryonic cell of pedigree MSpapaaaa" [WB:rynl]
@@ -46841,7 +46828,6 @@ name: M.vlpaa nucleus male
 def: "nucleus of pedigree M.vlpaa in male" [WB:rynl]
 synonym: "SM3L nucleus" RELATED []
 is_a: WBbt:0002204 ! M.vlpaa nucleus
-relationship: part_of WBbt:0007184 ! M.vlpaa
 relationship: part_of WBbt:0007817 ! SM3L
 
 [Term]
@@ -46849,7 +46835,6 @@ id: WBbt:0007875
 name: M.vlpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vlpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002204 ! M.vlpaa nucleus
-relationship: part_of WBbt:0007184 ! M.vlpaa
 
 [Term]
 id: WBbt:0007876
@@ -46857,7 +46842,6 @@ name: M.vrpaa nucleus male
 def: "nucleus of pedigree M.vrpaa in male" [WB:rynl]
 synonym: "SM3R nucleus" RELATED []
 is_a: WBbt:0002227 ! M.vrpaa nucleus
-relationship: part_of WBbt:0007197 ! M.vrpaa
 relationship: part_of WBbt:0007818 ! SM3R
 
 [Term]
@@ -46865,7 +46849,6 @@ id: WBbt:0007877
 name: M.vrpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vrpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002227 ! M.vrpaa nucleus
-relationship: part_of WBbt:0007197 ! M.vrpaa
 
 [Term]
 id: WBbt:0007878
