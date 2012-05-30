@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:05:2012 12:56
+date: 30:05:2012 13:56
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -8739,6 +8739,7 @@ id: WBbt:0002213
 name: M.vlpaapa nucleus
 def: "nucleus of pedigree M.vlpaapa" [WB:rynl]
 relationship: DESCINHERM WBbt:0002212 ! M.vlpaap nucleus
+relationship: part_of WBbt:0008485 ! M.vlpaapa
 
 [Term]
 id: WBbt:0002214
@@ -8759,6 +8760,7 @@ id: WBbt:0002216
 name: M.vlpaapp nucleus
 def: "nucleus of pedigree M.vlpaapp" [WB:rynl]
 relationship: DESCINHERM WBbt:0002212 ! M.vlpaap nucleus
+relationship: part_of WBbt:0008503 ! M.vlpaapp
 
 [Term]
 id: WBbt:0002217
@@ -8898,6 +8900,7 @@ id: WBbt:0002236
 name: M.vrpaapa nucleus
 def: "nucleus of pedigree M.vrpaapa" [WB:rynl]
 relationship: DESCINHERM WBbt:0002235 ! M.vrpaap nucleus
+relationship: part_of WBbt:0008532 ! M.vrpaapa
 
 [Term]
 id: WBbt:0002237
@@ -8918,6 +8921,7 @@ id: WBbt:0002239
 name: M.vrpaapp nucleus
 def: "nucleus of pedigree M.vrpaapp" [WB:rynl]
 relationship: DESCINHERM WBbt:0002235 ! M.vrpaap nucleus
+relationship: part_of WBbt:0008517 ! M.vrpaapp
 
 [Term]
 id: WBbt:0002240
@@ -10514,6 +10518,7 @@ id: WBbt:0002462
 name: P1.aaa nucleus
 def: "nucleus of pedigree P1.aaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002461 ! P1.aa nucleus
+relationship: part_of WBbt:0008511 ! P1.aaa
 
 [Term]
 id: WBbt:0002463
@@ -18180,6 +18185,7 @@ id: WBbt:0003490
 name: Z4.aapapa(5R) nucleus
 def: "nucleus of pedigree Z4.aap[a/l]pa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003489 ! Z4.aapap (5R) nucleus
+relationship: part_of WBbt:0008500 ! Z4.aapapa(5R)
 
 [Term]
 id: WBbt:0003491
@@ -18207,6 +18213,7 @@ id: WBbt:0003494
 name: Z4.aapapp(5R) nucleus
 def: "nucleus of pedigree Z4.aap[a/l]pp(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003489 ! Z4.aapap (5R) nucleus
+relationship: part_of WBbt:0008501 ! Z4.aapapp(5R)
 
 [Term]
 id: WBbt:0003495
@@ -18301,6 +18308,7 @@ id: WBbt:0003507
 name: Z4.aapppa(5R) nucleus
 def: "nucleus of pedigree Z4.aap[p/r]p[a/l](5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003506 ! Z4.aappp (5R) nucleus
+relationship: part_of WBbt:0008484 ! Z4.aapppa(5R)
 
 [Term]
 id: WBbt:0003508
@@ -18323,6 +18331,7 @@ id: WBbt:0003510
 name: Z4.aapppp(5R) nucleus
 def: "nucleus of pedigree Z4.aap[p/r]p[p/r](5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003506 ! Z4.aappp (5R) nucleus
+relationship: part_of WBbt:0008481 ! Z4.aapppp(5R)
 
 [Term]
 id: WBbt:0003511
@@ -32873,6 +32882,7 @@ name: Z4.aapppp(5L) nucleus
 def: "nucleus of pedigree Z4.aapppp(5L)" [WB:rynl]
 synonym: "Z4.aapppr(5L) nucleus" RELATED []
 relationship: DESCINHERM WBbt:0005713 ! Z4.aappp (5L) nucleus
+relationship: part_of WBbt:0008482 ! Z4.aapppp(5L)
 
 [Term]
 id: WBbt:0005721
@@ -32880,6 +32890,7 @@ name: Z4.aapppa(5L) nucleus
 def: "nucleus of pedigree Z4.aapppa(5L)" [WB:rynl]
 synonym: "Z4.aapppl(5L) nucleus" RELATED []
 relationship: DESCINHERM WBbt:0005713 ! Z4.aappp (5L) nucleus
+relationship: part_of WBbt:0008483 ! Z4.aapppa(5L)
 
 [Term]
 id: WBbt:0005722
@@ -39905,7 +39916,9 @@ relationship: part_of WBbt:0005760 ! somatic nervous system
 [Term]
 id: WBbt:0006770
 name: P1
+alt_id: WBbt:0007206
 def: "The first (count from anterior-most) of twelve postembryonic blast cells for ventral cord motorneurons, ventral hypodermis, vulva, male preanal ganglion; ventral hypodermis in L1." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "P1 post-embryonic blast cell" EXACT []
 is_a: WBbt:0008115 ! ventral cord blast cell
 
 [Term]
@@ -42723,12 +42736,6 @@ is_a: WBbt:0008266 ! VRM
 id: WBbt:0007205
 name: MSpapaaaa
 def: "post-embryonic cell of pedigree MSpapaaaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007206
-name: P1 post-embryonic blast cell
-def: "post-embryonic cell of pedigree P1." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -46754,24 +46761,28 @@ id: WBbt:0007863
 name: B_alpha nucleus
 def: "nucleus of pedigree B_alpha" [WB:rynl]
 relationship: develops_from WBbt:0008459 ! B.alaa or B.araa nucleus
+relationship: part_of WBbt:0008506 ! B_alpha
 
 [Term]
 id: WBbt:0007864
 name: B_beta nucleus
 def: "nucleus of pedigree B_beta" [WB:rynl]
 relationship: develops_from WBbt:0008459 ! B.alaa or B.araa nucleus
+relationship: part_of WBbt:0008507 ! B_beta
 
 [Term]
 id: WBbt:0007865
 name: B_alpha.l nucleus
 def: "nucleus of lineage B_alpha.l" [WB:rynl]
 relationship: DESCINMALE WBbt:0007863 ! B_alpha nucleus
+relationship: part_of WBbt:0008497 ! B_alpha.l
 
 [Term]
 id: WBbt:0007866
 name: B_alpha.r nucleus
 def: "nucleus of lineage B_alpha.r" [WB:rynl]
 relationship: DESCINMALE WBbt:0007863 ! B_alpha nucleus
+relationship: part_of WBbt:0008498 ! B_alpha.r
 
 [Term]
 id: WBbt:0007867
@@ -46835,6 +46846,7 @@ id: WBbt:0007875
 name: M.vlpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vlpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002204 ! M.vlpaa nucleus
+relationship: part_of WBbt:0008496 ! M.vlpaa hermaphrodite
 
 [Term]
 id: WBbt:0007876
@@ -46849,6 +46861,7 @@ id: WBbt:0007877
 name: M.vrpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vrpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002227 ! M.vrpaa nucleus
+relationship: part_of WBbt:0008495 ! M.vrpaa hermaphrodite
 
 [Term]
 id: WBbt:0007878
@@ -47054,12 +47067,14 @@ id: WBbt:0007907
 name: TR.apapp nucleus
 def: "nucleus of pedigree TR.apapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0008082 ! TR.apap nucleus male
+relationship: part_of WBbt:0008490 ! TR.apapp male
 
 [Term]
 id: WBbt:0007908
 name: TR.apappa nucleus
 def: "nucleus of pedigree TR.apappa" [WB:rynl]
 relationship: DESCINMALE WBbt:0007907 ! TR.apapp nucleus
+relationship: part_of WBbt:0008491 ! TR.apappa
 
 [Term]
 id: WBbt:0007909
@@ -47074,12 +47089,14 @@ id: WBbt:0007910
 name: TR.apappaa nucleus
 def: "nucleus of pedigree TR.apappaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0007908 ! TR.apappa nucleus
+relationship: part_of WBbt:0008492 ! TR.apappaa
 
 [Term]
 id: WBbt:0007911
 name: TR.apappap nucleus
 def: "nucleus of pedigree TR.apappap" [WB:rynl]
 relationship: DESCINMALE WBbt:0007908 ! TR.apappa nucleus
+relationship: part_of WBbt:0008493 ! TR.apappap
 
 [Term]
 id: WBbt:0007912
@@ -47107,18 +47124,21 @@ id: WBbt:0007915
 name: TR.appaa nucleus
 def: "nucleus of pedigree TR.appaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0008150 ! TR.appa nucleus male
+relationship: part_of WBbt:0008539 ! TR.appaa
 
 [Term]
 id: WBbt:0007916
 name: TR.appap nucleus
 def: "nucleus of pedigree TR.appap" [WB:rynl]
 relationship: DESCINMALE WBbt:0008150 ! TR.appa nucleus male
+relationship: part_of WBbt:0008524 ! TR.appap
 
 [Term]
 id: WBbt:0007917
 name: TR.appaaap nucleus
 def: "nucleus of pedigree TR.appaaap" [WB:rynl]
 relationship: DESCINMALE WBbt:0002899 ! TR.appaaa nucleus
+relationship: part_of WBbt:0008540 ! TR.appaaap
 
 [Term]
 id: WBbt:0007918
@@ -47132,6 +47152,7 @@ id: WBbt:0007919
 name: TR.appaaaap nucleus
 def: "nucleus of pedigree TR.appaaaap" [WB:rynl]
 relationship: DESCINMALE WBbt:0002900 ! TR.appaaaa nucleus
+relationship: part_of WBbt:0008546 ! TR.appaaaap
 
 [Term]
 id: WBbt:0007920
@@ -47152,6 +47173,7 @@ id: WBbt:0007922
 name: TR.appapa nucleus
 def: "nucleus of pedigree TR.appapa" [WB:rynl]
 relationship: DESCINMALE WBbt:0007916 ! TR.appap nucleus
+relationship: part_of WBbt:0008538 ! TR.appapa
 
 [Term]
 id: WBbt:0007923
@@ -47166,12 +47188,14 @@ id: WBbt:0007924
 name: TR.appapaa nucleus
 def: "nucleus of pedigree TR.appapaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0007922 ! TR.appapa nucleus
+relationship: part_of WBbt:0008508 ! TR.appapaa
 
 [Term]
 id: WBbt:0007925
 name: TR.appapap nucleus
 def: "nucleus of pedigree TR.appapap" [WB:rynl]
 relationship: DESCINMALE WBbt:0007922 ! TR.appapa nucleus
+relationship: part_of WBbt:0008509 ! TR.appapap
 
 [Term]
 id: WBbt:0007926
@@ -47192,6 +47216,7 @@ id: WBbt:0007928
 name: TR.appapaap nucleus
 def: "nucleus of pedigree TR.appapaap" [WB:rynl]
 relationship: DESCINMALE WBbt:0007924 ! TR.appapaa nucleus
+relationship: part_of WBbt:0008545 ! TR.appapaap
 
 [Term]
 id: WBbt:0007929
@@ -47626,11 +47651,13 @@ relationship: part_of WBbt:0004996 ! gon_male_vdef
 id: WBbt:0007998
 name: Z4.aaaaapa nucleus male
 relationship: DESCINMALE WBbt:0007995 ! Z4.aaaaap nucleus male
+relationship: part_of WBbt:0008544 ! Z4.aaaaapa male
 
 [Term]
 id: WBbt:0007999
 name: Z4.aaaaapp nucleus male
 relationship: DESCINMALE WBbt:0007995 ! Z4.aaaaap nucleus male
+relationship: part_of WBbt:0008520 ! Z4.aaaaapp male
 
 [Term]
 id: WBbt:0008000
@@ -47648,6 +47675,7 @@ relationship: part_of WBbt:0004994 ! gon_male_vdef
 id: WBbt:0008002
 name: Z4.aaaaappa nucleus male
 relationship: DESCINMALE WBbt:0007999 ! Z4.aaaaapp nucleus male
+relationship: part_of WBbt:0008536 ! Z4.aaaaappa male
 
 [Term]
 id: WBbt:0008003
@@ -47718,12 +47746,16 @@ relationship: part_of WBbt:0004709 ! gon_male_vdef
 [Term]
 id: WBbt:0008014
 name: Z4.aapaaa nucleus male
+def: "Nucleus of pedigree Z4.aapaaa in male." [WB:rynl]
 relationship: DESCINMALE WBbt:0008010 ! Z4.aapaa nucleus male
+relationship: part_of WBbt:0008488 ! Z4.aapaaa male
 
 [Term]
 id: WBbt:0008015
 name: Z4.aapaap nucleus male
+def: "Nucleus of pedigree Z4.aapaap in male." [WB:rynl]
 relationship: DESCINMALE WBbt:0008010 ! Z4.aapaa nucleus male
+relationship: part_of WBbt:0008487 ! Z4.aapaap male
 
 [Term]
 id: WBbt:0008016
@@ -47741,11 +47773,13 @@ relationship: part_of WBbt:0004716 ! gon_male_vdef
 id: WBbt:0008018
 name: Z4.aapaapa nucleus male
 relationship: DESCINMALE WBbt:0008015 ! Z4.aapaap nucleus male
+relationship: part_of WBbt:0008523 ! Z4.aapaapa male
 
 [Term]
 id: WBbt:0008019
 name: Z4.aapaapp nucleus male
 relationship: DESCINMALE WBbt:0008015 ! Z4.aapaap nucleus male
+relationship: part_of WBbt:0008529 ! Z4.aapaapp male
 
 [Term]
 id: WBbt:0008020
@@ -47763,6 +47797,7 @@ relationship: part_of WBbt:0004714 ! gon_male_vdef
 id: WBbt:0008022
 name: Z4.aapaappa nucleus male
 relationship: DESCINMALE WBbt:0008019 ! Z4.aapaapp nucleus male
+relationship: part_of WBbt:0008527 ! Z4.aapaappa male
 
 [Term]
 id: WBbt:0008023
@@ -48163,6 +48198,7 @@ id: WBbt:0008077
 name: P11.p nucleus male
 def: "nucleus of pedigree P11.p in male." [WB:rynl]
 is_a: WBbt:0002585 ! P11.p nucleus
+relationship: part_of WBbt:0008486 ! P11.p male
 
 [Term]
 id: WBbt:0008078
@@ -48177,6 +48213,7 @@ id: WBbt:0008079
 name: TL.apap nucleus male
 def: "nucleus of pedigree TL.apap in male." [WB:rynl]
 is_a: WBbt:0002862 ! TL.apap nucleus
+relationship: part_of WBbt:0008510 ! TL.apap male
 
 [Term]
 id: WBbt:0008080
@@ -48199,6 +48236,7 @@ id: WBbt:0008082
 name: TR.apap nucleus male
 def: "nucleus of pedigree TR.apap in male." [WB:rynl]
 is_a: WBbt:0002895 ! TR.apap nucleus
+relationship: part_of WBbt:0008489 ! TR.apap male
 
 [Term]
 id: WBbt:0008083
@@ -48213,6 +48251,7 @@ id: WBbt:0008084
 name: V5L.pppa nucleus male
 def: "nucleus of pedigree V5L.pppa in male." [WB:rynl]
 is_a: WBbt:0003077 ! V5L.pppa nucleus
+relationship: part_of WBbt:0008528 ! V5L.pppa male
 
 [Term]
 id: WBbt:0008085
@@ -48227,6 +48266,7 @@ id: WBbt:0008086
 name: V5R.pppa nucleus male
 def: "nuelceus of pedigree V5R.pppa in male." [WB:rynl]
 is_a: WBbt:0003101 ! V5R.pppa nucleus
+relationship: part_of WBbt:0008530 ! V5R.pppa male
 
 [Term]
 id: WBbt:0008087
@@ -48241,6 +48281,7 @@ id: WBbt:0008088
 name: V6L.papa nucleus male
 def: "nucleus of pedigree V6L.papa in male." [WB:rynl]
 is_a: WBbt:0003120 ! V6L.papa nucleus
+relationship: part_of WBbt:0008521 ! V6L.papa male
 
 [Term]
 id: WBbt:0008089
@@ -48255,6 +48296,7 @@ id: WBbt:0008090
 name: V6L.pppa nucleus male
 def: "nucleus of pedigree V6L.pppa in male." [WB:rynl]
 is_a: WBbt:0003139 ! V6L.pppa nucleus
+relationship: part_of WBbt:0008525 ! V6L.pppa male
 
 [Term]
 id: WBbt:0008091
@@ -48269,12 +48311,14 @@ id: WBbt:0008092
 name: V6L.ppppa nucleus male
 def: "nucleus of pedigree V6L.ppppa in male." [WB:rynl]
 is_a: WBbt:0003148 ! V6L.ppppa nucleus
+relationship: part_of WBbt:0008516 ! V6L.ppppa male
 
 [Term]
 id: WBbt:0008093
 name: V6R.papa nucleus male
 def: "nucleus of pedigree V6R.papa in male." [WB:rynl]
 is_a: WBbt:0003166 ! V6R.papa nucleus
+relationship: part_of WBbt:0008494 ! V6R.papa male
 
 [Term]
 id: WBbt:0008094
@@ -48289,6 +48333,7 @@ id: WBbt:0008095
 name: V6R.pppa nucleus male
 def: "nucleus of pedigree V6R.pppa in male." [WB:rynl]
 is_a: WBbt:0003185 ! V6R.pppa nucleus
+relationship: part_of WBbt:0008504 ! V6R.pppa male
 
 [Term]
 id: WBbt:0008096
@@ -48303,6 +48348,7 @@ id: WBbt:0008097
 name: V6R.ppppa nucleus male
 def: "nucleus of pedigree V6R.ppppa in male." [WB:rynl]
 is_a: WBbt:0003194 ! V6R.ppppa nucleus
+relationship: part_of WBbt:0008502 ! V6R.ppppa male
 
 [Term]
 id: WBbt:0008098
@@ -48608,6 +48654,7 @@ is_a: WBbt:0006810 ! adult seam cell right
 id: WBbt:0008140
 name: V5R.ppppp nucleus male
 is_a: WBbt:0003108 ! V5R.ppppp nucleus
+relationship: part_of WBbt:0008480 ! V5R.ppppp male
 
 [Term]
 id: WBbt:0008141
@@ -48620,6 +48667,7 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 id: WBbt:0008142
 name: V6L.pappp nucleus male
 is_a: WBbt:0003130 ! V6L.pappp nucleus
+relationship: part_of WBbt:0008543 ! V6L.pappp male
 
 [Term]
 id: WBbt:0008143
@@ -48632,6 +48680,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008144
 name: V5L.ppppp nucleus male
 is_a: WBbt:0003084 ! V5L.ppppp nucleus
+relationship: part_of WBbt:0008537 ! V5L.ppppp male
 
 [Term]
 id: WBbt:0008145
@@ -48645,6 +48694,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008146
 name: TL.appa nucleus male
 is_a: WBbt:0002870 ! TL.appa nucleus
+relationship: part_of WBbt:0008531 ! TL.appa male
 
 [Term]
 id: WBbt:0008147
@@ -48657,6 +48707,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008148
 name: V6R.ppppp nucleus male
 is_a: WBbt:0003200 ! V6R.ppppp nucleus
+relationship: part_of WBbt:0008518 ! V6R.ppppp male
 
 [Term]
 id: WBbt:0008149
@@ -48669,6 +48720,7 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 id: WBbt:0008150
 name: TR.appa nucleus male
 is_a: WBbt:0002898 ! TR.appa nucleus
+relationship: part_of WBbt:0008526 ! TR.appa male
 
 [Term]
 id: WBbt:0008151
@@ -48681,6 +48733,7 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 id: WBbt:0008152
 name: V6L.ppppp nucleus male
 is_a: WBbt:0003154 ! V6L.ppppp nucleus
+relationship: part_of WBbt:0008534 ! V6L.ppppp male
 
 [Term]
 id: WBbt:0008153
@@ -48693,6 +48746,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008154
 name: V6R.pappp nucleus male
 is_a: WBbt:0003176 ! V6R.pappp nucleus
+relationship: part_of WBbt:0008541 ! V6R.pappp male
 
 [Term]
 id: WBbt:0008155
@@ -48916,6 +48970,7 @@ relationship: part_of WBbt:0005036 ! gon_male_sves
 id: WBbt:0008191
 name: Z4.apaaap nucleus hermaphrodite
 is_a: WBbt:0003520 ! Z4.apaaap nucleus
+relationship: part_of WBbt:0008533 ! Z4.apaaap hermaphrodite
 
 [Term]
 id: WBbt:0008192
@@ -48927,6 +48982,7 @@ relationship: part_of WBbt:0005034 ! gon_male_sves
 id: WBbt:0008193
 name: Z4.apap nucleus hermaphrodite
 is_a: WBbt:0003538 ! Z4.apap nucleus
+relationship: part_of WBbt:0008519 ! Z4.apap hermaphrodite
 
 [Term]
 id: WBbt:0008194
@@ -48938,6 +48994,7 @@ relationship: part_of WBbt:0005035 ! gon_male_sves
 id: WBbt:0008195
 name: Z4.apaap nucleus hermaphrodite
 is_a: WBbt:0003523 ! Z4.apaap nucleus
+relationship: part_of WBbt:0008522 ! Z4.apaap hermaphrodite
 
 [Term]
 id: WBbt:0008196
@@ -48949,6 +49006,7 @@ relationship: part_of WBbt:0005026 ! gon_male_sves
 id: WBbt:0008197
 name: Z4.appap nucleus hermaphrodite
 is_a: WBbt:0003580 ! Z4.appap nucleus
+relationship: part_of WBbt:0008514 ! Z4.appap hermaphrodite
 
 [Term]
 id: WBbt:0008198
@@ -48960,6 +49018,7 @@ relationship: part_of WBbt:0005028 ! gon_male_sves
 id: WBbt:0008199
 name: Z4.appaap nucleus hermaphrodite
 is_a: WBbt:0003567 ! Z4.appaap nucleus
+relationship: part_of WBbt:0008512 ! Z4.appaap hermaphrodite
 
 [Term]
 id: WBbt:0008200
@@ -49472,6 +49531,7 @@ relationship: part_of WBbt:0004621 ! VC1
 id: WBbt:0008278
 name: P3.aap nucleus male
 is_a: WBbt:0002478 ! P3.aap nucleus
+relationship: part_of WBbt:0008515 ! P3.aap male
 
 [Term]
 id: WBbt:0008279
@@ -49483,6 +49543,7 @@ relationship: part_of WBbt:0004619 ! VC2
 id: WBbt:0008280
 name: P4.aap nucleus male
 is_a: WBbt:0003229 ! P4.aap nucleus
+relationship: part_of WBbt:0008535 ! P4.aap male
 
 [Term]
 id: WBbt:0008281
@@ -49494,6 +49555,7 @@ relationship: part_of WBbt:0004618 ! VC3
 id: WBbt:0008282
 name: P5.aap nucleus male
 is_a: WBbt:0002494 ! P5.aap nucleus
+relationship: part_of WBbt:0008542 ! P5.aap male
 
 [Term]
 id: WBbt:0008283
@@ -49505,6 +49567,7 @@ relationship: part_of WBbt:0004617 ! VC4
 id: WBbt:0008284
 name: P6.aap nucleus male
 is_a: WBbt:0002512 ! P6.aap nucleus
+relationship: part_of WBbt:0008499 ! P6.aap male
 
 [Term]
 id: WBbt:0008285
@@ -49516,6 +49579,7 @@ relationship: part_of WBbt:0004613 ! VC5
 id: WBbt:0008286
 name: P7.aap nucleus male
 is_a: WBbt:0002532 ! P7.aap nucleus
+relationship: part_of WBbt:0008505 ! P7.aap male
 
 [Term]
 id: WBbt:0008287
@@ -49527,6 +49591,7 @@ relationship: part_of WBbt:0004611 ! VC6
 id: WBbt:0008288
 name: P8.aap nucleus male
 is_a: WBbt:0002550 ! P8.aap nucleus
+relationship: part_of WBbt:0008513 ! P8.aap male
 
 [Term]
 id: WBbt:0008289
@@ -50812,6 +50877,503 @@ def: "Post-embryonic cell of pedigree Z1.paaaa." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-23T04:22:29Z
+
+[Term]
+id: WBbt:0008480
+name: V5R.ppppp male
+def: "Post-embryonic cell of pedigree V5R.ppppp in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T01:06:38Z
+
+[Term]
+id: WBbt:0008481
+name: Z4.aapppp(5R)
+def: "Post-embryonic cell of pedigree Z4.aapppp, 5R configuration." [WB:rynl]
+is_a: WBbt:0007753 ! Z4.aappp[p/r]
+created_by: raymond
+creation_date: 2012-05-29T01:16:30Z
+
+[Term]
+id: WBbt:0008482
+name: Z4.aapppp(5L)
+def: "Post-embryonic cell of pedigree Z4.aapppp, 5L configuration." [WB:rynl]
+is_a: WBbt:0007753 ! Z4.aappp[p/r]
+created_by: raymond
+creation_date: 2012-05-29T01:17:42Z
+
+[Term]
+id: WBbt:0008483
+name: Z4.aapppa(5L)
+def: "Post-embryonic cell of pedigree Z4.aapppa, 5L configuration." [WB:rynl]
+is_a: WBbt:0007750 ! Z4.aappp[a/l]
+created_by: raymond
+creation_date: 2012-05-29T01:26:31Z
+
+[Term]
+id: WBbt:0008484
+name: Z4.aapppa(5R)
+def: "Post-embryonic cell of pedigree Z4.aapppa, 5R configuration." [WB:rynl]
+is_a: WBbt:0007750 ! Z4.aappp[a/l]
+created_by: raymond
+creation_date: 2012-05-29T01:27:35Z
+
+[Term]
+id: WBbt:0008485
+name: M.vlpaapa
+def: "Post-embryonic cell of pedigree M.vlpaapa, in hermaphrodite." []
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T01:35:44Z
+
+[Term]
+id: WBbt:0008486
+name: P11.p male
+def: "Post-embryonic cell of pedigree P11.p in male." [WB:rynl]
+is_a: WBbt:0006899 ! P11.p
+created_by: raymond
+creation_date: 2012-05-29T01:45:01Z
+
+[Term]
+id: WBbt:0008487
+name: Z4.aapaap male
+def: "Post-embryonic cell of pedigree Z4.aapaap in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T01:50:44Z
+
+[Term]
+id: WBbt:0008488
+name: Z4.aapaaa male
+def: "Post-embryonic cell of pedigree Z4.aapaaa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T01:59:14Z
+
+[Term]
+id: WBbt:0008489
+name: TR.apap male
+def: "Post-embryonic cell of pedigree TR.apap in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:06:20Z
+
+[Term]
+id: WBbt:0008490
+name: TR.apapp male
+def: "Post-embryonic cell of pedigree TR.apapp in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:09:33Z
+
+[Term]
+id: WBbt:0008491
+name: TR.apappa
+def: "Post-embryonic cell of pedigree TR.apappa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:12:55Z
+
+[Term]
+id: WBbt:0008492
+name: TR.apappaa
+def: "Post-embryonic cell of pedigree TR.apappaa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:16:27Z
+
+[Term]
+id: WBbt:0008493
+name: TR.apappap
+def: "Post-embryonic cell of pedigree TR.apappap in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:16:27Z
+
+[Term]
+id: WBbt:0008494
+name: V6R.papa male
+def: "Post-embryonic cell of pedigree V6R.papa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:22:01Z
+
+[Term]
+id: WBbt:0008495
+name: M.vrpaa hermaphrodite
+def: "Post-embryonic cell of pedigree M.vrpaa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007197 ! M.vrpaa
+created_by: raymond
+creation_date: 2012-05-29T02:44:35Z
+
+[Term]
+id: WBbt:0008496
+name: M.vlpaa hermaphrodite
+def: "Post-embryonic cell of pedigree M.vlpaa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007184 ! M.vlpaa
+created_by: raymond
+creation_date: 2012-05-29T02:50:14Z
+
+[Term]
+id: WBbt:0008497
+name: B_alpha.l
+def: "Post-embryonic cell of pedigree B_alpha.l in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:59:33Z
+
+[Term]
+id: WBbt:0008498
+name: B_alpha.r
+def: "Post-embryonic cell of pedigree B_alpha.r in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T02:59:33Z
+
+[Term]
+id: WBbt:0008499
+name: P6.aap male
+def: "Post-embryonic cell of pedigree P6.aap in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:04:20Z
+
+[Term]
+id: WBbt:0008500
+name: Z4.aapapa(5R)
+def: "Post-embryonic cell of pedigree Z4.aapapa, 5R configuration." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:09:45Z
+
+[Term]
+id: WBbt:0008501
+name: Z4.aapapp(5R)
+def: "Post-embryonic cell of pedigree Z4.aapapp, 5R configuration." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:09:45Z
+
+[Term]
+id: WBbt:0008502
+name: V6R.ppppa male
+def: "Post-embryonic cell of pedigree V6R.ppppa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:16:55Z
+
+[Term]
+id: WBbt:0008503
+name: M.vlpaapp
+def: "Post-embryonic cell of pedigree M.vlpaapp in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:41:37Z
+
+[Term]
+id: WBbt:0008504
+name: V6R.pppa male
+def: "Post-embryonic cell of pedigree V6R.pppa in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:43:59Z
+
+[Term]
+id: WBbt:0008505
+name: P7.aap male
+def: "Post-embryonic cell of pedigree P7.aap in male." [WB:rynl]
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T03:46:38Z
+
+[Term]
+id: WBbt:0008506
+name: B_alpha
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:11:46Z
+
+[Term]
+id: WBbt:0008507
+name: B_beta
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:11:46Z
+
+[Term]
+id: WBbt:0008508
+name: TR.appapaa
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:16:13Z
+
+[Term]
+id: WBbt:0008509
+name: TR.appapap
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:16:13Z
+
+[Term]
+id: WBbt:0008510
+name: TL.apap male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:18:57Z
+
+[Term]
+id: WBbt:0008511
+name: P1.aaa
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:22:02Z
+
+[Term]
+id: WBbt:0008512
+name: Z4.appaap hermaphrodite
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-29T04:24:18Z
+
+[Term]
+id: WBbt:0008513
+name: P8.aap male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:10:15Z
+
+[Term]
+id: WBbt:0008514
+name: Z4.appap hermaphrodite
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:12:19Z
+
+[Term]
+id: WBbt:0008515
+name: P3.aap male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:14:39Z
+
+[Term]
+id: WBbt:0008516
+name: V6L.ppppa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008517
+name: M.vrpaapp
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008518
+name: V6R.ppppp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008519
+name: Z4.apap hermaphrodite
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008520
+name: Z4.aaaaapp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008521
+name: V6L.papa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008522
+name: Z4.apaap hermaphrodite
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008523
+name: Z4.aapaapa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008524
+name: TR.appap
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008525
+name: V6L.pppa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008526
+name: TR.appa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008527
+name: Z4.aapaappa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008528
+name: V5L.pppa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008529
+name: Z4.aapaapp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008530
+name: V5R.pppa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008531
+name: TL.appa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008532
+name: M.vrpaapa
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008533
+name: Z4.apaaap hermaphrodite
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008534
+name: V6L.ppppp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008535
+name: P4.aap male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008536
+name: Z4.aaaaappa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008537
+name: V5L.ppppp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008538
+name: TR.appapa
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008539
+name: TR.appaa
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008540
+name: TR.appaaap
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008541
+name: V6R.pappp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008542
+name: P5.aap male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008543
+name: V6L.pappp male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008544
+name: Z4.aaaaapa male
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T09:39:45Z
+
+[Term]
+id: WBbt:0008545
+name: TR.appapaap
+is_a: WBbt:0006925 ! apoptotic cell
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T01:47:53Z
+
+[Term]
+id: WBbt:0008546
+name: TR.appaaaap
+is_a: WBbt:0006925 ! apoptotic cell
+is_a: WBbt:0007030 ! post-embryonic cell
+created_by: raymond
+creation_date: 2012-05-30T01:50:49Z
 
 [Typedef]
 id: DESCENDENTOF
