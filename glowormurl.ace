@@ -3045,7 +3045,10 @@ Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABplapapaa_sce
 Anatomy_term : WBbt:0001364
 Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABplapapap_scene.scn"
 
-Anatomy_term : WBbt:0006284
+Anatomy_term : WBbt:0006778
+Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABplapapap_scene.scn"
+
+Anatomy_term : WBbt:0006779
 Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABplapapap_scene.scn"
 
 Anatomy_term : WBbt:0006630
@@ -3408,7 +3411,10 @@ Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABprapapaa_sce
 Anatomy_term : WBbt:0001522
 Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABprapapap_scene.scn"
 
-Anatomy_term : WBbt:0006080
+Anatomy_term : WBbt:0006778
+Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABprapapap_scene.scn"
+
+Anatomy_term : WBbt:0006779
 Database GLOWorm_Scene Gloworm_Movie_Link "MOVIE=MQTVS_1305281558_ABprapapap_scene.scn"
 
 Anatomy_term : WBbt:0001524
