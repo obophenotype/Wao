@@ -365,7 +365,7 @@ Database Neuralnet C&M "c=MCL&m=0"
 Anatomy_term : WBbt:0004461
 Database Neuralnet C&M "c=MCR&m=0"
 
-Anatomy_term : WBbt:0004459
+Anatomy_term : WBbt:0003664
 Database Neuralnet C&M "c=MI&m=0"
 
 Anatomy_term : WBbt:0004366
@@ -1082,7 +1082,7 @@ Database Neuralnet C&M "c=PHA&m=1"
 Anatomy_term : WBbt:0007808
 Database Neuralnet C&M "c=PHB&m=1"
 
-Anatomy_term : WBbt:0008032
+Anatomy_term : WBbt:0008446
 Database Neuralnet C&M "c=PHC&m=1"
 
 Anatomy_term : WBbt:0005490
@@ -1217,10 +1217,10 @@ Database Neuralnet C&M "c=M5&m=1"
 Anatomy_term : WBbt:0003638
 Database Neuralnet C&M "c=MC&m=1"
 
-Anatomy_term : WBbt:0004459
+Anatomy_term : WBbt:0003664
 Database Neuralnet C&M "c=MI&m=1"
 
-Anatomy_term : WBbt:0003746
+Anatomy_term : WBbt:0003666
 Database Neuralnet C&M "c=NSM&m=1"
 
 Anatomy_term : WBbt:0005361
