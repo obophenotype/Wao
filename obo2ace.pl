@@ -308,6 +308,8 @@ sub printace {
 		}
 		elsif ($relationship eq 'DESCINMALE') {
 		    print "DESC_IN_MALE_p WBbt:$related_id\n";
+		} elsif ($relationship eq 'xunion_of') {
+ 		    print "XUNION_OF_p WBbt:$related_id\n";
 		} else {
 		    print "UNKNOWN RELATION: $def_ref\n";
 		    exit;
