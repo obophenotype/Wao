@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 30:05:2012 13:56
+date: 08:06:2012 13:30
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -13483,7 +13483,6 @@ name: B_beta.rda nucleus
 def: "nucleus of pedigree B_beta.rda" [WB:rynl]
 relationship: DESCINMALE WBbt:0001770 ! B_beta.rd nucleus
 relationship: part_of WBbt:0004963 ! SPVR
-relationship: part_of WBbt:0007090 ! B_beta.rda
 
 [Term]
 id: WBbt:0002856
@@ -28552,10 +28551,13 @@ is_a: WBbt:0005311 ! spicule sheath cell
 [Term]
 id: WBbt:0004963
 name: SPVR
-def: "Sensory neuron of copulatory spicle in male, cilliated, open to outside at tip of spicule" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007090
+def: "Sensory neuron of copulatory spicle in male, cilliated, open to outside at tip of spicule, of pedigree B_beta.rda." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "B_beta.rda" EXACT []
 synonym: "lineage name: B.al/raarda" RELATED []
 synonym: "lineage name: B_beta.rda" RELATED []
 is_a: WBbt:0006862 ! SPV
+is_a: WBbt:0007030 ! post-embryonic cell
 relationship: part_of WBbt:0005314 ! copulatory spicule right
 
 [Term]
@@ -42020,12 +42022,6 @@ def: "post-embryonic cell of pedigree B_beta.rd" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007090
-name: B_beta.rda
-def: "post-embryonic cell of pedigree B_beta.rda" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007091
 name: B_beta.rdp
 def: "post-embryonic cell of pedigree B_beta.rdp" [WB:rynl]
@@ -50921,7 +50917,7 @@ creation_date: 2012-05-29T01:27:35Z
 [Term]
 id: WBbt:0008485
 name: M.vlpaapa
-def: "Post-embryonic cell of pedigree M.vlpaapa, in hermaphrodite." []
+def: "Post-embryonic cell of pedigree M.vlpaapa, in hermaphrodite." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-29T01:35:44Z

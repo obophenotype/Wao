@@ -1306,7 +1306,7 @@ Reference "WBPaper00005341"
 Anatomy_function : "WBbtf0107"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0001140"	Remark	"specific phenotype: AVM and SDQR neuron migration defect."
-Involved	"WBbt:0003746"	Necessary	"ablation of all four NSM and ADF neurons resulted in a migration defect that was essentially identical in penetrance to the tph-1 deletion mutant."
+Involved	"WBbt:0003666"	Necessary	"ablation of all four NSM and ADF neurons resulted in a migration defect that was essentially identical in penetrance to the tph-1 deletion mutant."
 Involved	"WBbt:0005660"	Necessary	"ablation of all four NSM and ADF neurons resulted in a migration defect that was essentially identical in penetrance to the tph-1 deletion mutant."
 Reference	"WBPaper00005551"
 
@@ -1314,7 +1314,7 @@ Reference	"WBPaper00005551"
 Anatomy_function : "WBbtf0108"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0001140"	Remark	"specific phenotype: AVM and SDQR neuron migration defect."
-Involved	"WBbt:0003746"	Necessary	"ablation of the NSMs alone resulted in a significant (penetrance = 20%-25%) migration defect."
+Involved	"WBbt:0003666"	Necessary	"ablation of the NSMs alone resulted in a significant (penetrance = 20%-25%) migration defect."
 Reference	"WBPaper00005551"
 
 
