@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:06:2012 13:30
+date: 02:07:2012 15:44
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -4660,7 +4660,6 @@ name: ABplaapaapp nucleus
 def: "nucleus of pedigree ABplaapaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001337 ! ABplaapaap nucleus
 relationship: part_of WBbt:0003935 ! AMshL
-relationship: part_of WBbt:0007042 ! ABplaapaapp
 
 [Term]
 id: WBbt:0001653
@@ -4668,7 +4667,6 @@ name: ABpraapaapp nucleus
 def: "nucleus of pedigree ABpraapaapp" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001495 ! ABpraapaap nucleus
 relationship: part_of WBbt:0003933 ! AMshR
-relationship: part_of WBbt:0007043 ! ABpraapaapp
 
 [Term]
 id: WBbt:0001654
@@ -4697,7 +4695,6 @@ name: ABalpaappaa nucleus
 def: "nucleus of pedigree ABalpaappaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001111 ! ABalpaappa nucleus
 relationship: part_of WBbt:0004572 ! arc ant DL
-relationship: part_of WBbt:0007032 ! ABalpaappaa
 
 [Term]
 id: WBbt:0001658
@@ -4705,7 +4702,6 @@ name: ABaraaapppa nucleus
 def: "nucleus of pedigree ABaraaapppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001199 ! ABaraaappp nucleus
 relationship: part_of WBbt:0004571 ! arc ant DR
-relationship: part_of WBbt:0007038 ! ABaraaapppa
 
 [Term]
 id: WBbt:0001659
@@ -4713,7 +4709,6 @@ name: ABalpapaapa nucleus
 def: "nucleus of pedigree ABalpapaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001117 ! ABalpapaap nucleus
 relationship: part_of WBbt:0004573 ! arc ant V
-relationship: part_of WBbt:0007034 ! ABalpapaapa
 
 [Term]
 id: WBbt:0001660
@@ -4721,7 +4716,6 @@ name: ABaraaappaa nucleus
 def: "nucleus of pedigree ABaraaappaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001198 ! ABaraaappa nucleus
 relationship: part_of WBbt:0004565 ! arc post D
-relationship: part_of WBbt:0007036 ! ABaraaappaa
 
 [Term]
 id: WBbt:0001661
@@ -4729,7 +4723,6 @@ name: ABalpaapaaa nucleus
 def: "nucleus of pedigree ABalpaapaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001108 ! ABalpaapaa nucleus
 relationship: part_of WBbt:0004570 ! arc post DL
-relationship: part_of WBbt:0007031 ! ABalpaapaaa
 
 [Term]
 id: WBbt:0001662
@@ -4737,7 +4730,6 @@ name: ABaraaapaaa nucleus
 def: "nucleus of pedigree ABaraaapaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001195 ! ABaraaapaa nucleus
 relationship: part_of WBbt:0004569 ! arc post DR
-relationship: part_of WBbt:0007035 ! ABaraaapaaa
 
 [Term]
 id: WBbt:0001663
@@ -4745,7 +4737,6 @@ name: ABarapapapa nucleus
 def: "nucleus of pedigree ABarapapapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001236 ! ABarapapap nucleus
 relationship: part_of WBbt:0004567 ! arc post V
-relationship: part_of WBbt:0007040 ! ABarapapapa
 
 [Term]
 id: WBbt:0001664
@@ -4753,7 +4744,6 @@ name: ABalpaappap nucleus
 def: "nucleus of pedigree ABalpaappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001111 ! ABalpaappa nucleus
 relationship: part_of WBbt:0004568 ! arc post VL
-relationship: part_of WBbt:0007033 ! ABalpaappap
 
 [Term]
 id: WBbt:0001665
@@ -4761,7 +4751,6 @@ name: ABaraaappap nucleus
 def: "nucleus of pedigree ABaraaappap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001198 ! ABaraaappa nucleus
 relationship: part_of WBbt:0004566 ! arc post VR
-relationship: part_of WBbt:0007037 ! ABaraaappap
 
 [Term]
 id: WBbt:0001666
@@ -7111,8 +7100,6 @@ id: WBbt:0001996
 name: ABaraaaaapa nucleus
 def: "nucleus of pedigree ABaraaaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001188 ! ABaraaaaap nucleus
-relationship: part_of WBbt:0003744 ! pm1
-relationship: part_of WBbt:0004333 ! pm1VR
 relationship: part_of WBbt:0004555 ! e1VR
 
 [Term]
@@ -9003,7 +8990,8 @@ id: WBbt:0002250
 name: ABarapaaapa nucleus
 def: "nucleus of pedigree ABarapaaapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001224 ! ABarapaaap nucleus
-relationship: part_of WBbt:0007039 ! ABarapaaapa
+relationship: part_of WBbt:0003744 ! pm1
+relationship: part_of WBbt:0004333 ! pm1VR
 
 [Term]
 id: WBbt:0002251
@@ -12384,7 +12372,6 @@ name: ABarappaaaa nucleus
 def: "nucleus of pedigree ABarappaaaa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001244 ! ABarappaaa nucleus
 relationship: part_of WBbt:0005049 ! RIPR
-relationship: part_of WBbt:0007041 ! ABarappaaaa
 
 [Term]
 id: WBbt:0002717
@@ -20676,9 +20663,12 @@ is_a: WBbt:0006836 ! RIG
 [Term]
 id: WBbt:0003933
 name: AMshR
-def: "Amphid sheath cell, right" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007043
+def: "Embryonic cell of pedigree ABpraapaapp, amphid sheath cell, right." [ISBN:0-87969-307-X]
+synonym: "ABpraapaapp" EXACT []
 synonym: "lineage name: ABpraapaapp" RELATED []
 is_a: WBbt:0006754 ! amphid sheath cell
+is_a: WBbt:0007028 ! embryonic cell
 relationship: part_of WBbt:0005392 ! amphid right sensillum
 
 [Term]
@@ -20692,9 +20682,12 @@ is_a: WBbt:0006835 ! RIF
 [Term]
 id: WBbt:0003935
 name: AMshL
-def: "Amphid sheath cell, left" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007042
+def: "Embryonic cell of pedigree ABplaapaapp, amphid sheath cell, left." [ISBN:0-87969-307-X]
+synonym: "ABplaapaapp" EXACT []
 synonym: "lineage name: ABplaapaapp" RELATED []
 is_a: WBbt:0006754 ! amphid sheath cell
+is_a: WBbt:0007028 ! embryonic cell
 relationship: part_of WBbt:0005395 ! amphid left sensillum
 
 [Term]
@@ -23795,9 +23788,12 @@ is_a: WBbt:0008270 ! pm2 precursor
 id: WBbt:0004333
 name: pm1VR
 alt_id: WBbt:0003657
-def: "Pharyngeal muscle cell" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007039
+def: "Embryonic cell of pedigree ABarapaaapa, pharyngeal muscle cell." [ISBN:0-87969-307-X]
+synonym: "ABarapaaapa" EXACT []
 synonym: "lineage name: ABarapaaaapa" RELATED []
 synonym: "m1VR" RELATED []
+is_a: WBbt:0007028 ! embryonic cell
 is_a: WBbt:0008269 ! pm1 precursor
 
 [Term]
@@ -25544,75 +25540,102 @@ is_a: WBbt:0005758 ! hermaphrodite-specific
 [Term]
 id: WBbt:0004565
 name: arc post D
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007036
+def: "Embryonic cell of pedigree ABaraaappaa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABaraaappaa" EXACT []
 synonym: "arc_post_D" RELATED []
 synonym: "lineage name: ABaraaappaa" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004566
 name: arc post VR
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007037
+def: "Embryonic cell of pedigree ABaraaappap, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABaraaappap" EXACT []
 synonym: "arc_post_VR" RELATED []
 synonym: "lineage name: ABaraaappap" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004567
 name: arc post V
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007040
+def: "Embryonic cell of pedigree ABarapapapa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABarapapapa" EXACT []
 synonym: "arc_post_V" RELATED []
 synonym: "lineage name: ABarapapapa" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004568
 name: arc post VL
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007033
+def: "Embryonic cell of pedigree ABalpaappap, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABalpaappap" EXACT []
 synonym: "arc_post_VL" RELATED []
 synonym: "lineage name: ABalpaappap" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004569
 name: arc post DR
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007035
+def: "Embryonic cell of pedigree ABaraaapaaa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABaraaapaaa" EXACT []
 synonym: "arc_post_DR" RELATED []
 synonym: "lineage name: ABaraaapaaa" RELATED []
 synonym: "lineage name; ABaraaapaaa" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004570
 name: arc post DL
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007031
+def: "Embryonic cell of pedigree ABalpaapaaa,  interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABalpaapaaa" RELATED []
 synonym: "arc_post_DL" RELATED []
 synonym: "lineage name: ABalpaapaaa" RELATED []
 is_a: WBbt:0005795 ! posterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004571
 name: arc ant DR
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007038
+def: "Embryonic cell of pedigree ABaraaapppa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABaraaapppa" EXACT []
 synonym: "arc_ant_DR" RELATED []
 synonym: "lineage name: ABaraaapppa" RELATED []
 is_a: WBbt:0005794 ! anterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004572
 name: arc ant DL
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007032
+def: "Embryonic cell of pedigree ABalpaappaa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABalpaappaa" EXACT []
 synonym: "arc_ant_DL" RELATED []
 synonym: "lineage name: ABalpaappaa" RELATED []
 is_a: WBbt:0005794 ! anterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004573
 name: arc ant V
-def: "Interface between pharynx and hypodermis, form anterior part of the buccal cavity" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007034
+def: "Embryonic cell of pedigree ABalpapaapa, interface between pharynx and hypodermis, form anterior part of the buccal cavity." [ISBN:0-87969-307-X]
+synonym: "ABalpapaapa" EXACT []
 synonym: "arc_ant_V" RELATED []
 synonym: "lineage name: ABalpapaapa" RELATED []
 is_a: WBbt:0005794 ! anterior arcade cell
+is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0004574
@@ -28404,6 +28427,7 @@ name: CEMDR
 def: "Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpapaaap" RELATED []
 is_a: WBbt:0005246 ! CEM
+is_a: WBbt:0005992 ! ABarpapaaap
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -29301,10 +29325,13 @@ relationship: part_of WBbt:0006870 ! seminal vesicle
 [Term]
 id: WBbt:0005049
 name: RIPR
-def: "Ring/pharynx interneuron, only direct connection between pharynx and ring" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007041
+def: "Embryonic cell of pedigree ABarappaaaa, ring/pharynx interneuron, only direct connection between pharynx and ring." [ISBN:0-87969-307-X]
+synonym: "ABarappaaaa" EXACT []
 synonym: "lineage name: ABarappaaaa" RELATED []
 is_a: WBbt:0006751 ! head neuron
 is_a: WBbt:0006838 ! RIP
+is_a: WBbt:0007028 ! embryonic cell
 relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 
 [Term]
@@ -29322,6 +29349,7 @@ def: "Ring/pharynx interneuron, only direct connection between pharynx and ring"
 synonym: "lineage name: ABalpapaaaa" RELATED []
 is_a: WBbt:0006751 ! head neuron
 is_a: WBbt:0006838 ! RIP
+is_a: WBbt:0007028 ! embryonic cell
 relationship: part_of WBbt:0005371 ! anterior ganglion (post)
 
 [Term]
@@ -41673,84 +41701,6 @@ def: "a cell that is born in a worm after hatching." [WB:rynl]
 is_a: WBbt:0004017 ! Cell
 
 [Term]
-id: WBbt:0007031
-name: ABalpaapaaa
-def: "embryonic cell of pedigree ABalpaapaaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007032
-name: ABalpaappaa
-def: "embryonic cell of pedigree ABalpaappaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007033
-name: ABalpaappap
-def: "embryonic cell of pedigree ABalpaappap" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007034
-name: ABalpapaapa
-def: "embryonic cell of pedigree ABalpapaapa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007035
-name: ABaraaapaaa
-def: "embryonic cell of pedigree ABaraaapaaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007036
-name: ABaraaappaa
-def: "embryonic cell of pedigree ABaraaappaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007037
-name: ABaraaappap
-def: "embryonic cell of pedigree ABaraaappap" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007038
-name: ABaraaapppa
-def: "embryonic cell of pedigree ABaraaapppa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007039
-name: ABarapaaapa
-def: "embryonic cell of pedigree ABarapaaapa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007040
-name: ABarapapapa
-def: "embryonic cell of pedigree ABarapapapa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007041
-name: ABarappaaaa
-def: "embryonic cell of pedigree ABarappaaaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007042
-name: ABplaapaapp
-def: "embryonic cell of pedigree ABplaapaapp" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007043
-name: ABpraapaapp
-def: "embryonic cell of pedigree ABpraapaapp" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007044
 name: B.al
 def: "post-embryonic cell of pedigree B.al" [WB:rynl]
@@ -50095,6 +50045,7 @@ is_a: WBbt:0008366 ! gonadal primordium
 id: WBbt:0008369
 name: ABarpapaaap hermaphrodite
 def: "cell born in embryo that dies in hermaphrodite but counterpart becomes CEMDR in male." [WB:rynl]
+is_a: WBbt:0005992 ! ABarpapaaap
 is_a: WBbt:0006925 ! apoptotic cell
 
 [Term]
