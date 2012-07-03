@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 03:07:2012 14:49
+date: 03:07:2012 16:36
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -28492,6 +28492,7 @@ def: "Male specific cephalic neurons (programmed cell death in hermaphrodite emb
 synonym: "lineage name: ABprpaapapp" RELATED []
 is_a: WBbt:0005246 ! CEM
 is_a: WBbt:0007028 ! embryonic cell
+relationship: develops_from WBbt:0006292 ! ABprpaapapp
 
 [Term]
 id: WBbt:0004940
@@ -28509,6 +28510,7 @@ def: "Male specific cephalic neurons (programmed cell death in hermaphrodite emb
 synonym: "lineage name: ABplpaapapp" RELATED []
 is_a: WBbt:0005246 ! CEM
 is_a: WBbt:0007028 ! embryonic cell
+relationship: develops_from WBbt:0006294 ! ABplpaapapp
 
 [Term]
 id: WBbt:0004942
@@ -28525,8 +28527,8 @@ name: CEMDR
 def: "Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpapaaap" RELATED []
 is_a: WBbt:0005246 ! CEM
-is_a: WBbt:0005992 ! ABarpapaaap
 is_a: WBbt:0007028 ! embryonic cell
+relationship: develops_from WBbt:0005992 ! ABarpapaaap
 
 [Term]
 id: WBbt:0004944
@@ -28543,6 +28545,7 @@ def: "Male specific cephalic neurons (programmed cell death in hermaphrodite emb
 synonym: "lineage name: ABplaaaaaap" RELATED []
 is_a: WBbt:0005246 ! CEM
 is_a: WBbt:0007028 ! embryonic cell
+relationship: develops_from WBbt:0006541 ! ABplaaaaaap
 
 [Term]
 id: WBbt:0004946
@@ -30594,7 +30597,6 @@ is_obsolete: true
 id: WBbt:0005246
 name: CEM
 def: "Neuron class of four male-specific neurons associated with cephalic sensilla." [WB:rynl]
-is_a: WBbt:0003679 ! neuron
 is_a: WBbt:0005757 ! male-specific
 is_a: WBbt:0005759 ! sensory neuron
 is_a: WBbt:0006751 ! head neuron
@@ -49879,26 +49881,29 @@ is_a: WBbt:0008366 ! gonadal primordium
 id: WBbt:0008369
 name: ABarpapaaap hermaphrodite
 def: "cell born in embryo that dies in hermaphrodite but counterpart becomes CEMDR in male." [WB:rynl]
-is_a: WBbt:0005992 ! ABarpapaaap
 is_a: WBbt:0006925 ! apoptotic cell
+relationship: develops_from WBbt:0005992 ! ABarpapaaap
 
 [Term]
 id: WBbt:0008370
 name: ABplaaaaaap hermaphrodite
 def: "cell that is born in embryo, dies in hermaphrodite but counter part becomes CDMDL in male." [WB:rynl]
 is_a: WBbt:0006925 ! apoptotic cell
+relationship: develops_from WBbt:0006541 ! ABplaaaaaap
 
 [Term]
 id: WBbt:0008371
 name: ABplpaapapp hermaphrodite
 def: "cell that is born in embryo, dies in hermaphrodite, but counterpart becomes CEMVL in male." [WB:rynl]
 is_a: WBbt:0006925 ! apoptotic cell
+relationship: develops_from WBbt:0006294 ! ABplpaapapp
 
 [Term]
 id: WBbt:0008372
 name: ABprpaapapp hermaphrodite
 def: "cell that is born in embryo, dies in hermaphrodite, but counterpart becomes CEMVR in male." [WB:rynl]
 is_a: WBbt:0006925 ! apoptotic cell
+relationship: develops_from WBbt:0006292 ! ABprpaapapp
 
 [Term]
 id: WBbt:0008373
