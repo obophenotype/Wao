@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 03:07:2012 16:36
+date: 09:07:2012 15:20
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -17653,7 +17653,6 @@ name: Z1.ppapaaa (5L) nucleus
 def: "nucleus of pedigree Z1.ppapaaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003427 ! Z1.ppapaa(5L) nucleus
 relationship: part_of WBbt:0004053 ! Z1.ppapaaa (5L)
-relationship: part_of WBbt:0007657 ! Z1.ppapaaa
 relationship: part_of WBbt:0008180 ! ut4 posterior 5L
 
 [Term]
@@ -17662,7 +17661,6 @@ name: Z1.ppapaap (5L) nucleus
 def: "nucleus of pedigree Z1.ppapaap(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003427 ! Z1.ppapaa(5L) nucleus
 relationship: part_of WBbt:0004051 ! Z1.ppapaap (5L)
-relationship: part_of WBbt:0007658 ! Z1.ppapaap
 relationship: part_of WBbt:0008178 ! ut3 posterior 5L
 
 [Term]
@@ -17711,7 +17709,6 @@ name: Z1.ppappd (5L) nucleus
 def: "nucleus of pedigree Z1.ppappd(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003435 ! Z1.ppapp (5L) nucleus
 relationship: part_of WBbt:0004045 ! Z1.ppappd (5L)
-relationship: part_of WBbt:0007665 ! Z1.ppappd
 
 [Term]
 id: WBbt:0003437
@@ -19341,10 +19338,10 @@ is_obsolete: true
 
 [Term]
 id: WBbt:0003704
-name: g1P nucleus
+name: MSaaaaapap nucleus
 alt_id: WBbt:0002029
-def: "nucleus in g1 gland cell" [WB:rynl]
-synonym: "MSaaaaapap nucleus" RELATED []
+def: "Nucleus of pedigree MSaaaaapap." [WB:rynl]
+synonym: "g1P nucleus" RELATED []
 relationship: DESCENDENTOF WBbt:0002308 ! MSaaaaapa nucleus
 relationship: part_of WBbt:0004528 ! g1P
 relationship: part_of WBbt:0008350 ! g1ARP
@@ -21603,6 +21600,7 @@ name: Z1.ppappd (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppappd (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppappd" RELATED []
+is_a: WBbt:0007665 ! Z1.ppappd
 is_a: WBbt:0008221 ! uv1 5L
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
@@ -21665,9 +21663,12 @@ relationship: part_of WBbt:0006943 ! ray 1 right
 [Term]
 id: WBbt:0004051
 name: Z1.ppapaap (5L)
-def: "Ventral uterus; cell of pedigree Z1.ppapaap (5L), a precursor of posterior ut3." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007658
+def: "Ventral uterus; post-embryonic cell of pedigree Z1.ppapaap (5L), a precursor of posterior ut3." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppapaap" RELATED []
+synonym: "Z1.ppapaap" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
@@ -21685,9 +21686,12 @@ relationship: part_of WBbt:0006944 ! ray 1 left
 [Term]
 id: WBbt:0004053
 name: Z1.ppapaaa (5L)
-def: "Ventral uterus; cell of pedigree Z1.ppapaaa (5L),  a precursor of posterior ut4." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007657
+def: "Ventral uterus; post-embryonic cell of pedigree Z1.ppapaaa (5L),  a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppapaaa" RELATED []
+synonym: "Z1.ppapaaa" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
@@ -29181,6 +29185,7 @@ def: "Seminal vesicle, outer; cell of pedigree Z1.paapp in male." [ISBN:0-87969-
 comment: alternative nucleus Z4.aaapp male nucleus
 synonym: "gon_male_sves" RELATED []
 synonym: "lineage name: Z1.paapp" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008249 ! gon_male_sves Z1 or Z4
 relationship: part_of WBbt:0006870 ! seminal vesicle
 
@@ -29755,25 +29760,32 @@ def: "Ventral uterus; cell of pedigree Z1.ppappd (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppappd" RELATED []
 synonym: "utse precursor" RELATED []
+is_a: WBbt:0007665 ! Z1.ppappd
 is_a: WBbt:0008437 ! gon herm vut (5R)
 
 [Term]
 id: WBbt:0005089
 name: Z1.ppapav (5R)
-def: "Ventral uterus; cell of pedigree Z1.ppapav (5R)." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007663
+def: "MERGED DEFINITION:\nTARGET DEFINITION: Ventral uterus; cell of pedigree Z1.ppapav (5R).\n--------------------\nSOURCE DEFINITION: post-embryonic cell of pedigree Z1.ppapav" [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppapav" RELATED []
 synonym: "VT4l" RELATED []
+synonym: "Z1.ppapav" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008222 ! uv1 5R
 is_a: WBbt:0008437 ! gon herm vut (5R)
 
 [Term]
 id: WBbt:0005090
 name: Z1.ppapad (5R)
-def: "Ventral uterus; cell of pedigree Z1.ppapad (5R)." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007659
+def: "Ventral uterus; post-embryonic cell of pedigree Z1.ppapad (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppapad" RELATED []
 synonym: "utse precursor" RELATED []
+synonym: "Z1.ppapad" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008437 ! gon herm vut (5R)
 
 [Term]
@@ -32795,7 +32807,6 @@ name: Z1.ppapad (5R) nucleus
 def: "nucleus of pedigree Z1.ppapad(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005691 ! Z1.ppapa (5R) nucleus
 relationship: part_of WBbt:0005090 ! Z1.ppapad (5R)
-relationship: part_of WBbt:0007659 ! Z1.ppapad
 relationship: part_of WBbt:0008220 ! uterine seam cell 5R
 
 [Term]
@@ -32804,7 +32815,6 @@ name: Z1.ppapav (5R) nucleus
 def: "nucleus of pedigree Z1.ppapav(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005691 ! Z1.ppapa (5R) nucleus
 relationship: part_of WBbt:0005089 ! Z1.ppapav (5R)
-relationship: part_of WBbt:0007663 ! Z1.ppapav
 
 [Term]
 id: WBbt:0005694
@@ -32819,7 +32829,6 @@ name: Z1.ppappd (5R) nucleus
 def: "nucleus of pedigree Z1.ppappd(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005694 ! Z1.ppapp (5R) nucleus
 relationship: part_of WBbt:0005088 ! Z1.ppappd (5R)
-relationship: part_of WBbt:0007665 ! Z1.ppappd
 relationship: part_of WBbt:0008220 ! uterine seam cell 5R
 
 [Term]
@@ -45260,33 +45269,9 @@ def: "post-embryonic cell of pedigree Z1.ppapaa" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007657
-name: Z1.ppapaaa
-def: "post-embryonic cell of pedigree Z1.ppapaaa" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007658
-name: Z1.ppapaap
-def: "post-embryonic cell of pedigree Z1.ppapaap" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007659
-name: Z1.ppapad
-def: "post-embryonic cell of pedigree Z1.ppapad" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007660
 name: Z1.ppapap
 def: "post-embryonic cell of pedigree Z1.ppapap" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007663
-name: Z1.ppapav
-def: "post-embryonic cell of pedigree Z1.ppapav" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -48939,7 +48924,7 @@ is_a: WBbt:0006789 ! uterine seam cell
 [Term]
 id: WBbt:0008220
 name: uterine seam cell 5R
-def: "utse whose nuclei followed lineage configuration 5L in development." [WB:Paper00002608, WB:rynl]
+def: "utse whose nuclei followed lineage configuration 5R in development." [WB:Paper00002608, WB:rynl]
 synonym: "utse 5R" RELATED []
 is_a: WBbt:0006789 ! uterine seam cell
 
@@ -49585,6 +49570,7 @@ is_a: WBbt:0007643 ! Z1.ppaap
 id: WBbt:0008321
 name: Z1.ppaap male
 alt_id: WBbt:0005058
+def: "Seminal vesicle, inner; cell of pedigree Z1.pppaap in male." [ISBN:0-87969-307-X, WB:Paper00000193, WB:rynl]
 synonym: "gon_male_sves" RELATED []
 synonym: "lineage name: Z1.ppaap" RELATED []
 is_a: WBbt:0007643 ! Z1.ppaap
