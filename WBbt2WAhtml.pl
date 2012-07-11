@@ -3,9 +3,9 @@
 use strict;
 
 my $excludedterms = "Cell|Time|Function|Anatomy|left-right|Lineage|Nucleus|axis|hermaphrodite-specific\
-|male-specific|organ|anterior-posterior";
+|male-specific|organ|anterior-posterior|neuron|neurone";
 
-my $excludedfiles = "Neuronframeset.html";
+my $excludedfiles = "Neuroframeset.html";
 
 my $base_dir = "./wormatlas/";
 #my $base_dir = "./wormatlastest/";
@@ -95,7 +95,12 @@ sub output_results {
     # my $outfile = "output_temp.html";
        my $outfile = "link2wormatlas.ace";
 	open (OUT, ">$outfile") or die $!;
-	for my $term (sort keys %{$result_ref}) {
+	# supplemental hard coded links <
+	print OUT "Anatomy_term : WBbt:0005811\n";
+	print OUT "Database WormAtlas html \"hermaphrodite\\/neuronalsupport\\/Neurosupportframeset.html\"\n\n";
+	# supplemental links >
+
+for my $term (sort keys %{$result_ref}) {
 		
         my @ids = keys %{$anatomy_ids_ref->{$term}};
 
