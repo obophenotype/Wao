@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 09:07:2012 15:20
+date: 16:07:2012 10:24
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -16914,7 +16914,7 @@ id: WBbt:0003327
 name: Z1.paap nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paap in hermaphrodite." [WB:rynl]
 relationship: DESCINHERM WBbt:0007931 ! Z1.paa nucleus hermaphrodite
-relationship: part_of WBbt:0007597 ! Z1.paap
+relationship: part_of WBbt:0008553 ! Z1.paap hermaphrodite
 
 [Term]
 id: WBbt:0003328
@@ -17510,7 +17510,7 @@ id: WBbt:0003410
 name: Z1.ppaa(5L) nucleus
 def: "nucleus of pedigree Z1.ppaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003409 ! Z1.ppa (5L) nucleus
-relationship: part_of WBbt:0007629 ! Z1.ppaa
+relationship: part_of WBbt:0008559 ! Z1.ppaa (5L)
 
 [Term]
 id: WBbt:0003411
@@ -17524,14 +17524,13 @@ id: WBbt:0003412
 name: Z1.ppaaaa(5L) nucleus
 def: "nucleus of pedigree Z1.ppaaaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003411 ! Z1.ppaaa (5L) nucleus
-relationship: part_of WBbt:0007637 ! Z1.ppaaaa
+relationship: part_of WBbt:0008548 ! Z1.ppaaaa (5L)
 
 [Term]
 id: WBbt:0003413
 name: Z1.ppaaaaa (5L) nucleus
 def: "nucleus of pedigree Z1.ppaaaaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003412 ! Z1.ppaaaa(5L) nucleus
-relationship: part_of WBbt:0007638 ! Z1.ppaaaaa
 relationship: part_of WBbt:0008211 ! anterior spermathecal-uterine valve cell 5L
 relationship: part_of WBbt:0008216 ! Z1.ppaaaaa (5L)
 
@@ -17541,7 +17540,6 @@ name: Z1.ppaaaap (5L) nucleus
 def: "nucleus of pedigree Z1.ppaaaap(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003412 ! Z1.ppaaaa(5L) nucleus
 relationship: part_of WBbt:0004065 ! Z1.ppaaaap (5L)
-relationship: part_of WBbt:0007639 ! Z1.ppaaaap
 relationship: part_of WBbt:0008180 ! ut4 posterior 5L
 
 [Term]
@@ -17549,7 +17547,7 @@ id: WBbt:0003415
 name: Z1.ppaaap(5L) nucleus
 def: "nucleus of pedigree Z1.ppaaap(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003411 ! Z1.ppaaa (5L) nucleus
-relationship: part_of WBbt:0007640 ! Z1.ppaaap
+relationship: part_of WBbt:0007640 ! Z1.ppaaap (5L)
 
 [Term]
 id: WBbt:0003416
@@ -17581,7 +17579,7 @@ id: WBbt:0003419
 name: Z1.ppaapa(5L) nucleus
 def: "nucleus of pedigree Z1.ppaapa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003418 ! Z1.ppaap (5L) nucleus
-relationship: part_of WBbt:0007644 ! Z1.ppaapa
+relationship: part_of WBbt:0008549 ! Z1.ppaapa (5L)
 
 [Term]
 id: WBbt:0003420
@@ -17606,7 +17604,7 @@ id: WBbt:0003422
 name: Z1.ppaapp(5L) nucleus
 def: "nucleus of pedigree Z1.ppaapp(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003418 ! Z1.ppaap (5L) nucleus
-relationship: part_of WBbt:0007649 ! Z1.ppaapp
+relationship: part_of WBbt:0008551 ! Z1.ppaapp (5L)
 
 [Term]
 id: WBbt:0003423
@@ -17631,7 +17629,7 @@ id: WBbt:0003425
 name: Z1.ppap(5L) nucleus
 def: "nucleus of pedigree Z1.ppap(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003409 ! Z1.ppa (5L) nucleus
-relationship: part_of WBbt:0007654 ! Z1.ppap
+relationship: part_of WBbt:0008562 ! Z1.ppap (5L)
 
 [Term]
 id: WBbt:0003426
@@ -17731,7 +17729,7 @@ id: WBbt:0003439
 name: Z1.pppa(5L) nucleus
 def: "nucleus of pedigree Z1.pppa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003438 ! Z1.ppp (5L) nucleus
-relationship: part_of WBbt:0007668 ! Z1.pppa
+relationship: part_of WBbt:0008564 ! Z1.pppa (5L)
 
 [Term]
 id: WBbt:0003440
@@ -17802,7 +17800,7 @@ id: WBbt:0003449
 name: Z1.pppp(5L) nucleus
 def: "nucleus of pedigree Z1.pppp(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003438 ! Z1.ppp (5L) nucleus
-relationship: part_of WBbt:0007675 ! Z1.pppp
+relationship: part_of WBbt:0008566 ! Z1.pppp (5L)
 
 [Term]
 id: WBbt:0003450
@@ -17934,7 +17932,7 @@ id: WBbt:0003466
 name: Z4.aaaa(5R) nucleus
 def: "nucleus of pedigree Z4.aaaa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003465 ! Z4.aaa (5R) nucleus
-relationship: part_of WBbt:0007689 ! Z4.aaaa
+relationship: part_of WBbt:0008567 ! Z4.aaaa (5R)
 
 [Term]
 id: WBbt:0003467
@@ -17948,7 +17946,7 @@ id: WBbt:0003468
 name: Z4.aaaaaa(5R) nucleus
 def: "nucleus of pedigree Z4.aaaaaa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003467 ! Z4.aaaaa (5R) nucleus
-relationship: part_of WBbt:0007691 ! Z4.aaaaaa
+relationship: part_of WBbt:0008569 ! Z4.aaaaaa (5R)
 
 [Term]
 id: WBbt:0003469
@@ -17972,7 +17970,7 @@ id: WBbt:0003471
 name: Z4.aaaaap(5R) nucleus
 def: "nucleus of pedigree Z4.aaaaap(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003467 ! Z4.aaaaa (5R) nucleus
-relationship: part_of WBbt:0007694 ! Z4.aaaaap
+relationship: part_of WBbt:0008571 ! Z4.aaaaap (5R)
 
 [Term]
 id: WBbt:0003472
@@ -18022,7 +18020,7 @@ id: WBbt:0003477
 name: Z4.aaap(5R) nucleus
 def: "nucleus of pedigree Z4.aaap(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003465 ! Z4.aaa (5R) nucleus
-relationship: part_of WBbt:0007700 ! Z4.aaap
+relationship: part_of WBbt:0008573 ! Z4.aaap (5R)
 
 [Term]
 id: WBbt:0003478
@@ -18086,7 +18084,7 @@ id: WBbt:0003485
 name: Z4.aapa(5R) nucleus
 def: "nucleus of pedigree Z4.aap[a/l](5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003484 ! Z4.aap (5R) nucleus
-relationship: part_of WBbt:0007734 ! Z4.aapa
+relationship: part_of WBbt:0008576 ! Z4.aapa (5R)
 
 [Term]
 id: WBbt:0003486
@@ -18101,7 +18099,6 @@ name: Z4.aapaad (5R) nucleus
 def: "nucleus of pedigree Z4.aap[a/l]ad(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003486 ! Z4.aapaa (5R) nucleus
 relationship: part_of WBbt:0005076 ! Z4.aapaad (5R)
-relationship: part_of WBbt:0007736 ! Z4.aapaad
 relationship: part_of WBbt:0008220 ! uterine seam cell 5R
 
 [Term]
@@ -18110,7 +18107,6 @@ name: Z4.aapaav (5R) nucleus
 def: "nucleus of pedigree Z4.aap[a/l]av(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003486 ! Z4.aapaa (5R) nucleus
 relationship: part_of WBbt:0005075 ! Z4.aapaav (5R)
-relationship: part_of WBbt:0007737 ! Z4.aapaav
 
 [Term]
 id: WBbt:0003489
@@ -18180,7 +18176,7 @@ id: WBbt:0003498
 name: Z4.aapp(5R) nucleus
 def: "nucleus of pedigree Z4.aap[p/r](5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003484 ! Z4.aap (5R) nucleus
-relationship: part_of WBbt:0007741 ! Z4.aapp
+relationship: part_of WBbt:0008580 ! Z4.aapp (5R)
 
 [Term]
 id: WBbt:0003499
@@ -18194,7 +18190,7 @@ id: WBbt:0003500
 name: Z4.aappaa(5R) nucleus
 def: "nucleus of pedigree Z4.aap[p/r]aa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003499 ! Z4.aappa (5R) nucleus
-relationship: part_of WBbt:0007743 ! Z4.aappaa
+relationship: part_of WBbt:0008582 ! Z4.aappaa (5R)
 
 [Term]
 id: WBbt:0003501
@@ -18217,7 +18213,7 @@ id: WBbt:0003503
 name: Z4.aappap(5R) nucleus
 def: "nucleus of pedigree Z4.aap[p/r]ap(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0003499 ! Z4.aappa (5R) nucleus
-relationship: part_of WBbt:0007746 ! Z4.aappap
+relationship: part_of WBbt:0008584 ! Z4.aappap (5R)
 
 [Term]
 id: WBbt:0003504
@@ -19632,6 +19628,7 @@ name: Z4.aapaav (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapaav (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaav" RELATED []
+is_a: WBbt:0007737 ! Z4.aapaav
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
@@ -19640,6 +19637,7 @@ name: Z4.aapaad (5L)
 def: "Ventral uterus; cell of pedigree Z4.aapaad (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaad" RELATED []
+is_a: WBbt:0007736 ! Z4.aapaad
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
@@ -21781,6 +21779,7 @@ name: Z1.ppaaaap (5L)
 def: "Ventral uterus; cell of pedigree Z1.ppaaaap (5L), a precursor of posterior ut4." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppaaaap" RELATED []
+is_a: WBbt:0007639 ! Z1.ppaaaap
 is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
@@ -29445,6 +29444,7 @@ id: WBbt:0005050
 name: gon_male_sves
 def: "Seminal vesicle, inner" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.pppp" RELATED []
+is_a: WBbt:0007675 ! Z1.pppp
 is_a: WBbt:0008189 ! gon male sves
 relationship: part_of WBbt:0006870 ! seminal vesicle
 
@@ -29506,6 +29506,7 @@ id: WBbt:0005057
 name: gon_male_sves
 def: "Seminal vesicle, inner" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.ppap" RELATED []
+is_a: WBbt:0007654 ! Z1.ppap
 is_a: WBbt:0008189 ! gon male sves
 relationship: part_of WBbt:0006870 ! seminal vesicle
 
@@ -29522,6 +29523,7 @@ id: WBbt:0005060
 name: gon_male_sves
 def: "Seminal vesicle, inner" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.ppaaaap" RELATED []
+is_a: WBbt:0007639 ! Z1.ppaaaap
 is_a: WBbt:0008189 ! gon male sves
 relationship: part_of WBbt:0006870 ! seminal vesicle
 
@@ -29530,6 +29532,7 @@ id: WBbt:0005061
 name: gon_male_sves
 def: "Seminal vesicle, inner" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z1.ppaaaaa" RELATED []
+is_a: WBbt:0007638 ! Z1.ppaaaaa
 is_a: WBbt:0008189 ! gon male sves
 relationship: part_of WBbt:0006870 ! seminal vesicle
 
@@ -29644,6 +29647,7 @@ def: "Ventral uterus; cell of pedigree Z4.aapaav (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaav" RELATED []
 synonym: "VT8l" RELATED []
+is_a: WBbt:0007737 ! Z4.aapaav
 is_a: WBbt:0008222 ! uv1 5R
 is_a: WBbt:0008437 ! gon herm vut (5R)
 
@@ -29654,6 +29658,7 @@ def: "Ventral uterus; cell of pedigree Z4.aapaad (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaad" RELATED []
 synonym: "utse precursor" RELATED []
+is_a: WBbt:0007736 ! Z4.aapaad
 is_a: WBbt:0008437 ! gon herm vut (5R)
 
 [Term]
@@ -32663,7 +32668,7 @@ id: WBbt:0005675
 name: Z1.ppaa(5R) nucleus
 def: "nucleus of pedigree Z1.ppaa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005673 ! Z1.ppa (5R) nucleus
-relationship: part_of WBbt:0007629 ! Z1.ppaa
+relationship: part_of WBbt:0008561 ! Z1.ppaa (5R)
 
 [Term]
 id: WBbt:0005676
@@ -32738,14 +32743,14 @@ id: WBbt:0005684
 name: Z1.ppaapa(5R) nucleus
 def: "nucleus of pedigree Z1.ppaapa(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005683 ! Z1.ppaap (5R) nucleus
-relationship: part_of WBbt:0007644 ! Z1.ppaapa
+relationship: part_of WBbt:0008550 ! Z1.ppaapa (5R)
 
 [Term]
 id: WBbt:0005685
 name: Z1.ppaapp(5R) nucleus
 def: "nucleus of pedigree Z1.ppaapp(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005683 ! Z1.ppaap (5R) nucleus
-relationship: part_of WBbt:0007649 ! Z1.ppaapp
+relationship: part_of WBbt:0008552 ! Z1.ppaapp (5R)
 
 [Term]
 id: WBbt:0005686
@@ -32792,7 +32797,7 @@ id: WBbt:0005690
 name: Z1.ppap(5R) nucleus
 def: "nucleus of pedigree Z1.ppap(5R)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005673 ! Z1.ppa (5R) nucleus
-relationship: part_of WBbt:0007654 ! Z1.ppap
+relationship: part_of WBbt:0008563 ! Z1.ppap (5R)
 
 [Term]
 id: WBbt:0005691
@@ -32893,14 +32898,14 @@ id: WBbt:0005704
 name: Z4.aapa(5L) nucleus
 def: "nucleus of pedigree Z4.aapa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005703 ! Z4.aap (5L) nucleus
-relationship: part_of WBbt:0007734 ! Z4.aapa
+relationship: part_of WBbt:0008575 ! Z4.aapa (5L)
 
 [Term]
 id: WBbt:0005705
 name: Z4.aapp(5L) nucleus
 def: "nucleus of pedigree Z4.aapp(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005703 ! Z4.aap (5L) nucleus
-relationship: part_of WBbt:0007741 ! Z4.aapp
+relationship: part_of WBbt:0008579 ! Z4.aapp (5L)
 
 [Term]
 id: WBbt:0005706
@@ -32922,7 +32927,6 @@ name: Z4.aapaad (5L) nucleus
 def: "nucleus of pedigree Z4.aapaad(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005706 ! Z4.aapaa (5L) nucleus
 relationship: part_of WBbt:0003772 ! Z4.aapaad (5L)
-relationship: part_of WBbt:0007736 ! Z4.aapaad
 relationship: part_of WBbt:0008219 ! uterine seam cell 5L
 
 [Term]
@@ -32931,7 +32935,6 @@ name: Z4.aapaav (5L) nucleus
 def: "nucleus of pedigree Z4.aapaav(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005706 ! Z4.aapaa (5L) nucleus
 relationship: part_of WBbt:0003771 ! Z4.aapaav (5L)
-relationship: part_of WBbt:0007737 ! Z4.aapaav
 relationship: part_of WBbt:0008219 ! uterine seam cell 5L
 
 [Term]
@@ -32970,14 +32973,14 @@ id: WBbt:0005714
 name: Z4.aappaa(5L) nucleus
 def: "nucleus of pedigree Z4.aappaa(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005712 ! Z4.aappa (5L) nucleus
-relationship: part_of WBbt:0007743 ! Z4.aappaa
+relationship: part_of WBbt:0008581 ! Z4.aappaa (5L)
 
 [Term]
 id: WBbt:0005715
 name: Z4.aappap(5L) nucleus
 def: "nucleus of pedigree Z4.aappap(5L)" [WB:rynl]
 relationship: DESCINHERM WBbt:0005712 ! Z4.aappa (5L) nucleus
-relationship: part_of WBbt:0007746 ! Z4.aappap
+relationship: part_of WBbt:0008583 ! Z4.aappap (5L)
 
 [Term]
 id: WBbt:0005716
@@ -44991,7 +44994,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007611
 name: Z1.papaap
-def: "post-embryonic cell of pedigree Z1.papaap" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z1.papaap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45100,7 +45103,7 @@ is_a: WBbt:0007686 ! Z1.ppx/Z4.aax
 [Term]
 id: WBbt:0007629
 name: Z1.ppaa
-def: "post-embryonic cell of pedigree Z1.ppaa" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z1.ppaa." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45165,8 +45168,8 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007640
-name: Z1.ppaaap
-def: "post-embryonic cell of pedigree Z1.ppaaap" [WB:rynl]
+name: Z1.ppaaap (5L)
+def: "Post-embryonic cell of pedigree Z1.ppaaap, 5L configuration in hermaphrodite." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45253,7 +45256,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007654
 name: Z1.ppap
-def: "post-embryonic cell of pedigree Z1.ppap" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z1.ppap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45443,7 +45446,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007691
 name: Z4.aaaaaa
-def: "post-embryonic cell of pedigree Z4.aaaaaa" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aaaaaa." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45461,7 +45464,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007694
 name: Z4.aaaaap
-def: "post-embryonic cell of pedigree Z4.aaaaap" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aaaaap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45497,7 +45500,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007700
 name: Z4.aaap
-def: "post-embryonic cell of pedigree Z4.aaap" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aaap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45705,7 +45708,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007734
 name: Z4.aapa
-def: "post-embryonic cell of pedigree Z4.aapa" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aapa." [WB:rynl, WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45717,7 +45720,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007736
 name: Z4.aapaad
-def: "post-embryonic cell of pedigree Z4.aapaad" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aapaad." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45747,7 +45750,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007741
 name: Z4.aapp
-def: "post-embryonic cell of pedigree Z4.aapp" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aapp." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45759,7 +45762,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007743
 name: Z4.aappaa
-def: "post-embryonic cell of pedigree Z4.aappaa" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aappaa." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45777,7 +45780,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007746
 name: Z4.aappap
-def: "post-embryonic cell of pedigree Z4.aappap" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.aappap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -45869,7 +45872,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007760
 name: Z4.apaaaa
-def: "post-embryonic cell of pedigree Z4.apaaaa" [WB:rynl]
+def: "Post-embryonic cell of pedigree Z4.apaaaa." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -47014,7 +47017,7 @@ relationship: part_of WBbt:0008476 ! Z1.paaa male
 id: WBbt:0007933
 name: Z1.paap nucleus male
 relationship: DESCINMALE WBbt:0007983 ! Z1.paa nucleus male non-terminal
-relationship: part_of WBbt:0007597 ! Z1.paap
+relationship: part_of WBbt:0008554 ! Z1.paap male
 
 [Term]
 id: WBbt:0007934
@@ -47110,13 +47113,13 @@ relationship: part_of WBbt:0005022 ! Z1.paapp male
 id: WBbt:0007949
 name: Z1.papaaa nucleus male
 is_a: WBbt:0003355 ! Z1.papaaa nucleus
-relationship: part_of WBbt:0007610 ! Z1.papaaa
+relationship: part_of WBbt:0008556 ! Z1.papaaa male 
 
 [Term]
 id: WBbt:0007950
 name: Z1.papaaa nucleus hermaphrodite
 is_a: WBbt:0003355 ! Z1.papaaa nucleus
-relationship: part_of WBbt:0007610 ! Z1.papaaa
+relationship: part_of WBbt:0008555 ! Z1.papaaa hermaphrodite
 
 [Term]
 id: WBbt:0007951
@@ -47128,13 +47131,13 @@ relationship: part_of WBbt:0008472 ! Z1.papaapp
 id: WBbt:0007952
 name: Z1.papaap nucleus male
 is_a: WBbt:0003360 ! Z1.papaap nucleus
-relationship: part_of WBbt:0007611 ! Z1.papaap
+relationship: part_of WBbt:0008558 ! Z1.papaap male
 
 [Term]
 id: WBbt:0007953
 name: Z1.papaap nucleus hermaphrodite
 is_a: WBbt:0003360 ! Z1.papaap nucleus
-relationship: part_of WBbt:0007611 ! Z1.papaap
+relationship: part_of WBbt:0008557 ! Z1.papaap hermaphrodite
 
 [Term]
 id: WBbt:0007954
@@ -47176,14 +47179,13 @@ relationship: part_of WBbt:0008293 ! Z1.ppa hermaphrodite
 id: WBbt:0007960
 name: Z1.ppaa nucleus male
 relationship: DESCINMALE WBbt:0007958 ! Z1.ppa nucleus male
-relationship: part_of WBbt:0007629 ! Z1.ppaa
+relationship: part_of WBbt:0008560 ! Z1.ppaa male
 
 [Term]
 id: WBbt:0007961
 name: Z1.ppap nucleus male
 relationship: DESCINMALE WBbt:0007958 ! Z1.ppa nucleus male
 relationship: part_of WBbt:0005057 ! gon_male_sves
-relationship: part_of WBbt:0007654 ! Z1.ppap
 
 [Term]
 id: WBbt:0007962
@@ -47201,28 +47203,25 @@ relationship: part_of WBbt:0008316 ! Z1.ppaaa male
 id: WBbt:0007964
 name: Z1.ppaaaa nucleus male
 relationship: DESCINMALE WBbt:0007963 ! Z1.ppaaa nucleus male
-relationship: part_of WBbt:0007637 ! Z1.ppaaaa
+relationship: part_of WBbt:0008547 ! Z1.ppaaaa male
 
 [Term]
 id: WBbt:0007965
 name: Z1.ppaaap nucleus male
 relationship: DESCINMALE WBbt:0007963 ! Z1.ppaaa nucleus male
 relationship: part_of WBbt:0005059 ! gon_male_sves
-relationship: part_of WBbt:0007640 ! Z1.ppaaap
 
 [Term]
 id: WBbt:0007966
 name: Z1.ppaaaap nucleus male
 relationship: DESCINMALE WBbt:0007964 ! Z1.ppaaaa nucleus male
 relationship: part_of WBbt:0005060 ! gon_male_sves
-relationship: part_of WBbt:0007639 ! Z1.ppaaaap
 
 [Term]
 id: WBbt:0007967
 name: Z1.ppaaaaa nucleus male
 relationship: DESCINMALE WBbt:0007964 ! Z1.ppaaaa nucleus male
 relationship: part_of WBbt:0005061 ! gon_male_sves
-relationship: part_of WBbt:0007638 ! Z1.ppaaaaa
 
 [Term]
 id: WBbt:0007968
@@ -47241,13 +47240,12 @@ id: WBbt:0007970
 name: Z1.pppp nucleus male
 relationship: DESCINMALE WBbt:0007969 ! Z1.ppp nucleus male
 relationship: part_of WBbt:0005050 ! gon_male_sves
-relationship: part_of WBbt:0007675 ! Z1.pppp
 
 [Term]
 id: WBbt:0007971
 name: Z1.pppa nucleus male
 relationship: DESCINMALE WBbt:0007969 ! Z1.ppp nucleus male
-relationship: part_of WBbt:0007668 ! Z1.pppa
+relationship: part_of WBbt:0008565 ! Z1.pppa male
 
 [Term]
 id: WBbt:0007972
@@ -47345,13 +47343,13 @@ relationship: part_of WBbt:0008362 ! Z4.aaa male 1L
 id: WBbt:0007986
 name: Z4.aaaa nucleus male
 relationship: DESCINMALE WBbt:0007985 ! Z4.aaa nucleus male non-terminal
-relationship: part_of WBbt:0007689 ! Z4.aaaa
+relationship: part_of WBbt:0008568 ! Z4.aaaa male
 
 [Term]
 id: WBbt:0007987
 name: Z4.aaap nucleus male
 relationship: DESCINMALE WBbt:0007985 ! Z4.aaa nucleus male non-terminal
-relationship: part_of WBbt:0007700 ! Z4.aaap
+relationship: part_of WBbt:0008574 ! Z4.aaap male
 
 [Term]
 id: WBbt:0007988
@@ -47394,13 +47392,13 @@ relationship: part_of WBbt:0004984 ! gon_male_vdef
 id: WBbt:0007994
 name: Z4.aaaaaa nucleus male
 relationship: DESCINMALE WBbt:0007990 ! Z4.aaaaa nucleus male
-relationship: part_of WBbt:0007691 ! Z4.aaaaaa
+relationship: part_of WBbt:0008570 ! Z4.aaaaaa male
 
 [Term]
 id: WBbt:0007995
 name: Z4.aaaaap nucleus male
 relationship: DESCINMALE WBbt:0007990 ! Z4.aaaaa nucleus male
-relationship: part_of WBbt:0007694 ! Z4.aaaaap
+relationship: part_of WBbt:0008572 ! Z4.aaaaap male
 
 [Term]
 id: WBbt:0007996
@@ -47466,13 +47464,13 @@ relationship: part_of WBbt:0004992 ! gon_male_vdef
 id: WBbt:0008006
 name: Z4.aapa nucleus male
 relationship: DESCINMALE WBbt:0007981 ! Z4.aap nucleus male
-relationship: part_of WBbt:0007734 ! Z4.aapa
+relationship: part_of WBbt:0008577 ! Z4.aapa male
 
 [Term]
 id: WBbt:0008007
 name: Z4.aapp nucleus male
 relationship: DESCINMALE WBbt:0007981 ! Z4.aap nucleus male
-relationship: part_of WBbt:0007741 ! Z4.aapp
+relationship: part_of WBbt:0008578 ! Z4.aapp male
 
 [Term]
 id: WBbt:0008008
@@ -47588,13 +47586,13 @@ relationship: part_of WBbt:0004712 ! gon_male_vdef
 id: WBbt:0008026
 name: Z4.apaaaa nucleus male
 is_a: WBbt:0003517 ! Z4.apaaaa nucleus
-relationship: part_of WBbt:0007760 ! Z4.apaaaa
+relationship: part_of WBbt:0008586 ! Z4.apaaaa male
 
 [Term]
 id: WBbt:0008027
 name: Z4.apaaaa nucleus hermaphrodite
 is_a: WBbt:0003517 ! Z4.apaaaa nucleus
-relationship: part_of WBbt:0007760 ! Z4.apaaaa
+relationship: part_of WBbt:0008585 ! Z4.apaaaa hermaphrodite
 
 [Term]
 id: WBbt:0008028
@@ -48896,6 +48894,7 @@ id: WBbt:0008216
 name: Z1.ppaaaaa (5L)
 def: "posterior spermathecal-uterine junction; cell of pedigree Z1.ppaaapa (5L)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_sujn" RELATED []
+is_a: WBbt:0007638 ! Z1.ppaaaaa
 is_a: WBbt:0008210 ! gon herm sujn
 
 [Term]
@@ -49564,6 +49563,7 @@ is_a: WBbt:0008317 ! Z1.ppaaa hermaphrodite
 [Term]
 id: WBbt:0008320
 name: Z1.ppaap hermaphrodite
+def: "Post-embryonic cell of pedigree Z1.ppaap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0007643 ! Z1.ppaap
 
 [Term]
@@ -51146,6 +51146,326 @@ is_a: WBbt:0006925 ! apoptotic cell
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T01:50:49Z
+
+[Term]
+id: WBbt:0008547
+name: Z1.ppaaaa male
+def: "Post-embryonic cell of pedigree Z1.ppaaaa in male." [WB:rynl]
+is_a: WBbt:0007637 ! Z1.ppaaaa
+created_by: raymond
+creation_date: 2012-07-11T01:09:20Z
+
+[Term]
+id: WBbt:0008548
+name: Z1.ppaaaa (5L)
+def: "Post-embryonic cell of pedigree Z1.ppaaaa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007637 ! Z1.ppaaaa
+created_by: raymond
+creation_date: 2012-07-11T01:11:58Z
+
+[Term]
+id: WBbt:0008549
+name: Z1.ppaapa (5L)
+def: "Post-embryonic cell of pedigree Z1.ppaapa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007644 ! Z1.ppaapa
+created_by: raymond
+creation_date: 2012-07-11T01:31:04Z
+
+[Term]
+id: WBbt:0008550
+name: Z1.ppaapa (5R)
+def: "Post-embryonic cell of pedigree Z1.ppaapa, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007644 ! Z1.ppaapa
+created_by: raymond
+creation_date: 2012-07-11T01:32:31Z
+
+[Term]
+id: WBbt:0008551
+name: Z1.ppaapp (5L)
+def: "Post-embryonic cell of pedigree Z1.ppaapp, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007649 ! Z1.ppaapp
+created_by: raymond
+creation_date: 2012-07-11T01:35:17Z
+
+[Term]
+id: WBbt:0008552
+name: Z1.ppaapp (5R)
+def: "Post-embryonic cell of pedigree Z1.ppaapp, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007649 ! Z1.ppaapp
+created_by: raymond
+creation_date: 2012-07-11T01:35:17Z
+
+[Term]
+id: WBbt:0008553
+name: Z1.paap hermaphrodite
+def: "Post-embryonic cell of pedigree Z1.paap in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007597 ! Z1.paap
+created_by: raymond
+creation_date: 2012-07-11T01:41:08Z
+
+[Term]
+id: WBbt:0008554
+name: Z1.paap male
+def: "Post-embryonic cell of pedigree Z1.paap in male." [WB:rynl]
+is_a: WBbt:0007597 ! Z1.paap
+created_by: raymond
+creation_date: 2012-07-11T01:42:21Z
+
+[Term]
+id: WBbt:0008555
+name: Z1.papaaa hermaphrodite
+def: "Post-embryonic cell of pedigree Z1.papaaa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007610 ! Z1.papaaa
+created_by: raymond
+creation_date: 2012-07-11T01:53:22Z
+
+[Term]
+id: WBbt:0008556
+name: Z1.papaaa male 
+def: "Post-embryonic cell of pedigree Z1.papaaa in male." [WB:rynl]
+is_a: WBbt:0007610 ! Z1.papaaa
+created_by: raymond
+creation_date: 2012-07-11T01:53:22Z
+
+[Term]
+id: WBbt:0008557
+name: Z1.papaap hermaphrodite
+def: "Post-embryonic cell of pedigree Z1.papaap in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007611 ! Z1.papaap
+created_by: raymond
+creation_date: 2012-07-11T01:56:54Z
+
+[Term]
+id: WBbt:0008558
+name: Z1.papaap male
+def: "Post-embryonic cell of pedigree Z1.papaap in male." [WB:rynl]
+is_a: WBbt:0007611 ! Z1.papaap
+created_by: raymond
+creation_date: 2012-07-11T01:56:54Z
+
+[Term]
+id: WBbt:0008559
+name: Z1.ppaa (5L)
+def: "Post-embryonic cell of pedigree Z1.ppaa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007629 ! Z1.ppaa
+created_by: raymond
+creation_date: 2012-07-11T02:01:49Z
+
+[Term]
+id: WBbt:0008560
+name: Z1.ppaa male
+def: "Post-embryonic cell of pedigree Z1.ppaa in male." [WB:rynl]
+is_a: WBbt:0007629 ! Z1.ppaa
+created_by: raymond
+creation_date: 2012-07-11T02:01:49Z
+
+[Term]
+id: WBbt:0008561
+name: Z1.ppaa (5R)
+def: "Post-embryonic cell of pedigree Z1.ppaa, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007629 ! Z1.ppaa
+created_by: raymond
+creation_date: 2012-07-13T03:59:45Z
+
+[Term]
+id: WBbt:0008562
+name: Z1.ppap (5L)
+def: "Post-embryonic cell of pedigree Z1.ppap, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007654 ! Z1.ppap
+created_by: raymond
+creation_date: 2012-07-13T04:11:44Z
+
+[Term]
+id: WBbt:0008563
+name: Z1.ppap (5R)
+def: "Post-embryonic cell of pedigree Z1.ppap, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007654 ! Z1.ppap
+created_by: raymond
+creation_date: 2012-07-13T04:11:44Z
+
+[Term]
+id: WBbt:0008564
+name: Z1.pppa (5L)
+def: "Post-embryonic cell of pedigree Z1.pppa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007668 ! Z1.pppa
+created_by: raymond
+creation_date: 2012-07-13T04:16:36Z
+
+[Term]
+id: WBbt:0008565
+name: Z1.pppa male
+def: "Post-embryonic cell of pedigree Z1.pppa in male." [WB:rynl]
+is_a: WBbt:0007668 ! Z1.pppa
+created_by: raymond
+creation_date: 2012-07-13T04:16:36Z
+
+[Term]
+id: WBbt:0008566
+name: Z1.pppp (5L)
+def: "Post-embryonic cell of pedigree Z1.pppp, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007675 ! Z1.pppp
+created_by: raymond
+creation_date: 2012-07-13T04:22:44Z
+
+[Term]
+id: WBbt:0008567
+name: Z4.aaaa (5R)
+def: "Post-embryonic cell of pedigree Z4.aaaa, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007689 ! Z4.aaaa
+created_by: raymond
+creation_date: 2012-07-13T04:25:43Z
+
+[Term]
+id: WBbt:0008568
+name: Z4.aaaa male
+def: "Post-embryonic cell of pedigree Z4.aaaa in male." [WB:rynl]
+is_a: WBbt:0007689 ! Z4.aaaa
+created_by: raymond
+creation_date: 2012-07-13T04:25:43Z
+
+[Term]
+id: WBbt:0008569
+name: Z4.aaaaaa (5R)
+def: "Post-embryonic cell of pedigree Z4.aaaaaa. 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007691 ! Z4.aaaaaa
+created_by: raymond
+creation_date: 2012-07-13T04:34:01Z
+
+[Term]
+id: WBbt:0008570
+name: Z4.aaaaaa male
+def: "Post-embryonic cell of pedigree Z4.aaaaaa in male." [WB:rynl]
+is_a: WBbt:0007691 ! Z4.aaaaaa
+created_by: raymond
+creation_date: 2012-07-13T04:34:01Z
+
+[Term]
+id: WBbt:0008571
+name: Z4.aaaaap (5R)
+def: "Post-embryonic cell of pedigree Z4.aaaaap, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007694 ! Z4.aaaaap
+created_by: raymond
+creation_date: 2012-07-13T04:37:36Z
+
+[Term]
+id: WBbt:0008572
+name: Z4.aaaaap male
+def: "Post-embryonic cell of pedigree Z4.aaaaap in male." [WB:rynl]
+is_a: WBbt:0007694 ! Z4.aaaaap
+created_by: raymond
+creation_date: 2012-07-13T04:37:36Z
+
+[Term]
+id: WBbt:0008573
+name: Z4.aaap (5R)
+def: "Post-embryonic cell of pedigree Z4.aaap, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007700 ! Z4.aaap
+created_by: raymond
+creation_date: 2012-07-16T09:52:10Z
+
+[Term]
+id: WBbt:0008574
+name: Z4.aaap male
+def: "Post-embryonic cell of pedigree Z4.aaap, in male." [WB:rynl]
+is_a: WBbt:0007700 ! Z4.aaap
+created_by: raymond
+creation_date: 2012-07-16T09:52:10Z
+
+[Term]
+id: WBbt:0008575
+name: Z4.aapa (5L)
+def: "Post-embryonic cell of pedigree Z4.aapa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007734 ! Z4.aapa
+created_by: raymond
+creation_date: 2012-07-16T09:55:33Z
+
+[Term]
+id: WBbt:0008576
+name: Z4.aapa (5R)
+def: "Post-embryonic cell of pedigree Z4.aapa, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007734 ! Z4.aapa
+created_by: raymond
+creation_date: 2012-07-16T09:55:33Z
+
+[Term]
+id: WBbt:0008577
+name: Z4.aapa male
+def: "Post-embryonic cell of pedigree Z4.aapa, in male." [WB:rynl]
+is_a: WBbt:0007734 ! Z4.aapa
+created_by: raymond
+creation_date: 2012-07-16T09:55:33Z
+
+[Term]
+id: WBbt:0008578
+name: Z4.aapp male
+def: "Post-embryonic cell of pedigree Z4.aapp, in male." [WB:rynl]
+is_a: WBbt:0007741 ! Z4.aapp
+created_by: raymond
+creation_date: 2012-07-16T10:07:25Z
+
+[Term]
+id: WBbt:0008579
+name: Z4.aapp (5L)
+def: "Post-embryonic cell of pedigree Z4.aapp, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007741 ! Z4.aapp
+created_by: raymond
+creation_date: 2012-07-16T10:07:25Z
+
+[Term]
+id: WBbt:0008580
+name: Z4.aapp (5R)
+def: "Post-embryonic cell of pedigree Z4.aapp, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007741 ! Z4.aapp
+created_by: raymond
+creation_date: 2012-07-16T10:07:25Z
+
+[Term]
+id: WBbt:0008581
+name: Z4.aappaa (5L)
+def: "Post-embryonic cell of pedigree Z4.aappaa, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007743 ! Z4.aappaa
+created_by: raymond
+creation_date: 2012-07-16T10:11:04Z
+
+[Term]
+id: WBbt:0008582
+name: Z4.aappaa (5R)
+def: "Post-embryonic cell of pedigree Z4.aappaa, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007743 ! Z4.aappaa
+created_by: raymond
+creation_date: 2012-07-16T10:11:04Z
+
+[Term]
+id: WBbt:0008583
+name: Z4.aappap (5L)
+def: "Post-embryonic cell of pedigree Z4.aappap, 5L configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007746 ! Z4.aappap
+created_by: raymond
+creation_date: 2012-07-16T10:14:28Z
+
+[Term]
+id: WBbt:0008584
+name: Z4.aappap (5R)
+def: "Post-embryonic cell of pedigree Z4.aappap, 5R configuration in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007746 ! Z4.aappap
+created_by: raymond
+creation_date: 2012-07-16T10:14:28Z
+
+[Term]
+id: WBbt:0008585
+name: Z4.apaaaa hermaphrodite
+def: "Post-embryonic cell of pedigree Z4.apaaaa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0007760 ! Z4.apaaaa
+created_by: raymond
+creation_date: 2012-07-16T10:21:45Z
+
+[Term]
+id: WBbt:0008586
+name: Z4.apaaaa male
+def: "Post-embryonic cell of pedigree Z4.apaaaa in male." [WB:rynl]
+is_a: WBbt:0007760 ! Z4.apaaaa
+created_by: raymond
+creation_date: 2012-07-16T10:21:45Z
 
 [Typedef]
 id: DESCENDENTOF
