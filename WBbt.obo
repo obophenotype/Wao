@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:07:2012 10:24
+date: 16:07:2012 13:55
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -2769,7 +2769,6 @@ name: ABplappppa nucleus
 def: "nucleus of pedigree ABplappppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001385 ! ABplapppp nucleus
 relationship: part_of WBbt:0004671 ! hyp7
-relationship: part_of WBbt:0006447 ! ABplappppa
 relationship: part_of WBbt:0007853 ! hyp13
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
@@ -11603,7 +11602,6 @@ name: TL.paa nucleus
 def: "nucleus of pedigree TL.paa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002884 ! TL.pa nucleus
 relationship: part_of WBbt:0004112 ! PHso1L
-relationship: part_of WBbt:0007001 ! TL.paa
 
 [Term]
 id: WBbt:0002615
@@ -11611,7 +11609,6 @@ name: TR.paa nucleus
 def: "nucleus of pedigree TR.paa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002903 ! TR.pa nucleus
 relationship: part_of WBbt:0004110 ! PHso1R
-relationship: part_of WBbt:0007008 ! TR.paa
 
 [Term]
 id: WBbt:0002616
@@ -11619,7 +11616,6 @@ name: TL.pap nucleus
 def: "nucleus of pedigree TL.pap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002884 ! TL.pa nucleus
 relationship: part_of WBbt:0004108 ! PHso2L
-relationship: part_of WBbt:0007020 ! TL.pap
 
 [Term]
 id: WBbt:0002617
@@ -11627,7 +11623,6 @@ name: TR.pap nucleus
 def: "nucleus of pedigree TR.pap" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002903 ! TR.pa nucleus
 relationship: part_of WBbt:0004106 ! PHso2R
-relationship: part_of WBbt:0007021 ! TR.pap
 
 [Term]
 id: WBbt:0002618
@@ -11771,7 +11766,6 @@ name: TL.ppa nucleus
 def: "nucleus of pedigree TL.ppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002885 ! TL.pp nucleus
 relationship: part_of WBbt:0004066 ! PVWL
-relationship: part_of WBbt:0007005 ! TL.ppa
 
 [Term]
 id: WBbt:0002638
@@ -11779,7 +11773,6 @@ name: TR.ppa nucleus
 def: "nucleus of pedigree TR.ppa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002904 ! TR.pp nucleus
 relationship: part_of WBbt:0004064 ! PVWR
-relationship: part_of WBbt:0007009 ! TR.ppa
 
 [Term]
 id: WBbt:0002639
@@ -13447,8 +13440,8 @@ id: WBbt:0002858
 name: TL.aa nucleus
 def: "nucleus of pedigree TL.aa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0002857 ! TL.a nucleus
-relationship: part_of WBbt:0004181 ! hyp7
-relationship: part_of WBbt:0004228 ! hyp7
+relationship: part_of WBbt:0004181 ! hyp7 precursor male
+relationship: part_of WBbt:0004228 ! hyp7 precursor hermaphrodite
 relationship: part_of WBbt:0006998 ! TL.aa
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
@@ -21768,9 +21761,12 @@ is_a: WBbt:0006974 ! nerve ring neuron
 [Term]
 id: WBbt:0004064
 name: PVWR
+alt_id: WBbt:0007009
 def: "Interneuron, posterior ventral cord, few synapses." [ISBN:0-87969-307-X]
 synonym: "lineage name: TR.ppa" RELATED []
+synonym: "TR.ppa" EXACT []
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008438 ! PVW
 
 [Term]
@@ -21785,9 +21781,12 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0004066
 name: PVWL
+alt_id: WBbt:0007005
 def: "Interneuron, posterior ventral cord, few synapses." [ISBN:0-87969-307-X]
 synonym: "lineage name: TL.ppa" RELATED []
+synonym: "TL.ppa" EXACT []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008438 ! PVW
 
 [Term]
@@ -22122,8 +22121,11 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004106
 name: PHso2R
-def: "Phasmid sockets" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007021
+def: "Post-embryonic cell of pedigree TR.pap, phasmid sockets." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: TR.pap" RELATED []
+synonym: "TR.pap" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008410 ! phasmid socket cell
 relationship: part_of WBbt:0005427 ! phasmid right sensillum
 relationship: part_of WBbt:0005601 ! lumbar ganglion right
@@ -22139,8 +22141,11 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004108
 name: PHso2L
-def: "Phasmid sockets" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007020
+def: "Post-embryonic cell of pedigree TL.pap, phasmid sockets." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: TL.pap" RELATED []
+synonym: "TL.pap" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008410 ! phasmid socket cell
 relationship: part_of WBbt:0005098 ! lumbar ganglion left
 relationship: part_of WBbt:0005431 ! phasmid left sensillum
@@ -22156,8 +22161,11 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004110
 name: PHso1R
-def: "Phasmid sockets" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007008
+def: "Post-embryonic cell of pedigree TR.paa. phasmid sockets." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: TR.paa" RELATED []
+synonym: "TR.paa" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008410 ! phasmid socket cell
 relationship: part_of WBbt:0005427 ! phasmid right sensillum
 relationship: part_of WBbt:0005601 ! lumbar ganglion right
@@ -22173,8 +22181,11 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004112
 name: PHso1L
-def: "Phasmid sockets" [ISBN:0-87969-307-X]
+alt_id: WBbt:0007001
+def: "Post-embryonic cell of pedigree TL.paa, phasmid sockets." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: TL.paa" RELATED []
+synonym: "TL.paa" EXACT []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008410 ! phasmid socket cell
 relationship: part_of WBbt:0005098 ! lumbar ganglion left
 relationship: part_of WBbt:0005431 ! phasmid left sensillum
@@ -22745,9 +22756,10 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
 id: WBbt:0004181
-name: hyp7
+name: hyp7 precursor male
 def: "Postembryonic large hypodermal syncytium, male" [ISBN:0-87969-307-X]
 synonym: "lineage name: TL.aa" RELATED []
+is_a: WBbt:0006998 ! TL.aa
 is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
@@ -23138,9 +23150,10 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
 id: WBbt:0004228
-name: hyp7
+name: hyp7 precursor hermaphrodite
 def: "Postembryonic large hypodermal syncytium, hermaphrodite" [ISBN:0-87969-307-X]
 synonym: "lineage name: TL.aa" RELATED []
+is_a: WBbt:0006998 ! TL.aa
 is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
@@ -26462,8 +26475,11 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0004671
 name: hyp7
-def: "Embryonic large hypodermal syncytium" [ISBN:0-87969-307-X]
+alt_id: WBbt:0006447
+def: "Embryonic cell of pedigree ABplappppa, precursor of embryonic large hypodermal syncytium." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "ABplappppa" EXACT []
 synonym: "lineage name: ABplappppa" RELATED []
+is_a: WBbt:0007028 ! embryonic cell
 is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
@@ -34317,7 +34333,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0005911
 name: ABplaaapap
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABplaaapap, precursor of hyp5 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -34692,7 +34708,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0005969
 name: ABplaaaapa
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABplaaaapa, precursor of hyp6 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -35455,7 +35471,7 @@ is_a: WBbt:0008268 ! DLM muscle
 [Term]
 id: WBbt:0006085
 name: ABarpappap
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABarpappap, precursor of hyp5 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -35670,7 +35686,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006119
 name: ABarpaapaa
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABarpaapaa, precursor of hyp6 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36146,7 +36162,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006190
 name: ABplaaaapp
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABplaaaapp, hyp6 syncytium precursor." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36488,7 +36504,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006243
 name: ABplaappap
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABplaappap, precursor of hyp6 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36759,7 +36775,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006285
 name: ABplaapaaaa
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABplaapaaaa, precursor of hyp3 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -36852,7 +36868,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006299
 name: ABarpapapp
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABarpapapp, precursor of hyp6 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -37872,12 +37888,6 @@ def: "embryonic cell" [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
-id: WBbt:0006447
-name: ABplappppa
-def: "embryonic cell" [WB:rynl]
-is_a: WBbt:0007028 ! embryonic cell
-
-[Term]
 id: WBbt:0006448
 name: ABaraaaapa
 def: "embryonic cell" [WB:rynl]
@@ -38418,7 +38428,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006527
 name: ABpraappap
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABpraappap, precursor of hyp6 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -38538,7 +38548,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0006544
 name: ABpraapaaaa
-def: "embryonic cell" [WB:rynl]
+def: "Embryonic cell of pedigree ABpraapaaaa, precursor of hyp3 syncytium." [WB:rynl]
 is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
@@ -41631,12 +41641,6 @@ def: "cell, which is the anterior descendent of TL.p." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007001
-name: TL.paa
-def: "cell, which is the anterior descendent of TL.pa." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007002
 name: TR.aa
 def: "cell, which is the anterior descendent of TR.a." [WB:rynl]
@@ -41655,12 +41659,6 @@ def: "cell, which is the anterior descendent of TL.ap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007005
-name: TL.ppa
-def: "cell, which is the anterior descendent of TL.pp." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007006
 name: TR.apa
 def: "cell, which is the anterior descendent of TR.ap." [WB:rynl]
@@ -41670,18 +41668,6 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007007
 name: TR.pa
 def: "cell, which is the anterior descendent of TR.p." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007008
-name: TR.paa
-def: "cell, which is the anterior descendent of TR.pa." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007009
-name: TR.ppa
-def: "cell, which is the anterior descendent of TR.pp." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -41743,18 +41729,6 @@ id: WBbt:0007019
 name: TR.aap
 def: "cell, which is the posterior descendent of TR.aa." [WB:rynl]
 is_obsolete: true
-
-[Term]
-id: WBbt:0007020
-name: TL.pap
-def: "cell, which is the posterior descendent of TL.pa." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007021
-name: TR.pap
-def: "cell, which is the posterior descendent of TR.pa." [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007022
