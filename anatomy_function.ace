@@ -6483,3 +6483,200 @@ Reference WBPaper00040859
 
 
 
+Anatomy_function : "WBbtf0493"
+Assay	"Genetic_mosaic"	"WBPaper00041162_1"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003243"	Published_as	"mig-10"
+Involved	"WBbt:0005413"	Sufficient	"Expression of this rescuing fosmid in mig-10(ct41) mutant animals resulted in robust rescue of the AIY synaptic vesicle clustering defect (Fig. 4 H). To examine where MIG-10 functions to direct AIY synaptic vesicle clustering, we took advantage of the mitotic instability of the transgene arrays and analyzed mig-10(ct41) mosaic animals retaining the rescuing fosmid array in subsets of cells (Fig. 4 H; Yochem and Herman, 2003). We observed that mosaic animals retaining the array in AIY were rescued for the AIY presynaptic defect, whereas animals that did not retain the array in AIY, but retained it in other cells, such as postsynaptic partner RIA, did not show any detectable rescue of the AIY presynaptic defect (Fig. 4 H)."
+Reference	"WBPaper00041162"
+
+Condition : WBPaper00041162_1
+Genotype "mig-10(ct41); Ex[mig-10(+) Pttx-3::rfp Pglr-3::rfp]"
+Reference WBPaper00041162
+
+
+
+Anatomy_function : "WBbtf0494"
+Assay	"Genetic_mosaic"	"WBPaper00041162_1"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00003243"	Published_as	"mig-10"
+Not_involved	"WBbt:0006833"	Insufficient	"Expression of this rescuing fosmid in mig-10(ct41) mutant animals resulted in robust rescue of the AIY synaptic vesicle clustering defect (Fig. 4 H). To examine where MIG-10 functions to direct AIY synaptic vesicle clustering, we took advantage of the mitotic instability of the transgene arrays and analyzed mig-10(ct41) mosaic animals retaining the rescuing fosmid array in subsets of cells (Fig. 4 H; Yochem and Herman, 2003). We observed that mosaic animals retaining the array in AIY were rescued for the AIY presynaptic defect, whereas animals that did not retain the array in AIY, but retained it in other cells, such as postsynaptic partner RIA, did not show any detectable rescue of the AIY presynaptic defect (Fig. 4 H)."
+Reference	"WBPaper00041162"
+
+Condition : WBPaper00041162_1
+Genotype "mig-10(ct41); Ex[mig-10(+) Pttx-3::rfp Pglr-3::rfp]"
+Reference WBPaper00041162
+
+
+
+Anatomy_function : "WBbtf0495"
+Assay	"Genetic_mosaic"	"WBPaper00031068_1"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Involved	"WBbt:0005413"	Sufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention in the RIA interneuron resulted in rescue of the RIA axon guidance defect but not of the AIY presynaptic phenotype (reduction of a synaptic vesicle marker mCherry::RAB-3, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_1
+Genotype "unc-40(e271); wyEx800 [Pttx-3::mCherry Pglr-3::mCherry Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0496"
+Assay	"Genetic_mosaic"	"WBPaper00031068_2"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Involved	"WBbt:0005413"	Sufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention of the array in the closely related interneuron RIB or RIM (RIB/RIM) did not result in rescue (reduction of a synaptic vesicle marker mCherry::RAB-3, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_2
+Genotype "unc-40(n324);wyEx1474[Pttx-3::mCherry, Pcex-1::mCherry, Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0497"
+Assay	"Genetic_mosaic"	"WBPaper00031068_1"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Not_involved	"WBbt:0006833"	Insufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention in the RIA interneuron resulted in rescue of the RIA axon guidance defect but not of the AIY presynaptic phenotype (reduction of a synaptic vesicle marker mCherry::RAB-3, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_1
+Genotype "unc-40(e271); wyEx800 [Pttx-3::mCherry Pglr-3::mCherry Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0498"
+Assay	"Genetic_mosaic"	"WBPaper00031068_2"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Not_involved	"WBbt:0005834"	Insufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention of the array in the closely related interneuron RIB or RIM (RIB/RIM) did not result in rescue (reduction of a synaptic vesicle marker mCherry::RAB-3, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_2
+Genotype "unc-40(n324);wyEx1474[Pttx-3::mCherry, Pcex-1::mCherry, Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0499"
+Assay	"Genetic_mosaic"	"WBPaper00031068_1"
+Phenotype	"WBPhenotype:0000847"	Autonomous
+Phenotype	"WBPhenotype:0000847"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0048786(presynaptic active zone)|GO:0097105(presynaptic membrane assembly)"
+Phenotype	"WBPhenotype:0000847"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Involved	"WBbt:0005413"	Sufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention in the RIA interneuron resulted in rescue of the RIA axon guidance defect but not of the AIY presynaptic phenotype (reduction of active zone markers ELKS-1::YP and SYD-2::GFP, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_1
+Genotype "unc-40(e271); wyEx800 [Pttx-3::mCherry Pglr-3::mCherry Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0500"
+Assay	"Genetic_mosaic"	"WBPaper00031068_1"
+Phenotype	"WBPhenotype:0000847"	Autonomous
+Phenotype	"WBPhenotype:0000847"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0048786(presynaptic active zone)|GO:0097105(presynaptic membrane assembly)"
+Phenotype	"WBPhenotype:0000847"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Not_involved	"WBbt:0006833"	Insufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention in the RIA interneuron resulted in rescue of the RIA axon guidance defect but not of the AIY presynaptic phenotype (reduction of active zone markers ELKS-1::YP and SYD-2::GFP, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_1
+Genotype "unc-40(e271); wyEx800 [Pttx-3::mCherry Pglr-3::mCherry Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0501"
+Assay	"Genetic_mosaic"	"WBPaper00031068_2"
+Phenotype	"WBPhenotype:0000847"	Autonomous
+Phenotype	"WBPhenotype:0000847"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0048786(presynaptic active zone)|GO:0097105(presynaptic membrane assembly)"
+Phenotype	"WBPhenotype:0000847"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Involved	"WBbt:0005413"	Sufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention of the array in the closely related interneuron RIB or RIM (RIB/RIM) did not result in rescue. (reduction of active zone markers ELKS-1::YP and SYD-2::GFP, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_2
+Genotype "unc-40(n324);wyEx1474[Pttx-3::mCherry, Pcex-1::mCherry, Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0502"
+Assay	"Genetic_mosaic"	"WBPaper00031068_2"
+Phenotype	"WBPhenotype:0000847"	Autonomous
+Phenotype	"WBPhenotype:0000847"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0048786(presynaptic active zone)|GO:0097105(presynaptic membrane assembly)"
+Phenotype	"WBPhenotype:0000847"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Not_involved	"WBbt:0005834"	Insufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Interestingly, only when the array was retained in the AIY interneuron did we observe significant rescue of the AIY presynaptic patterning defects. Retention of the array in the closely related interneuron RIB or RIM (RIB/RIM) did not result in rescue. (reduction of active zone markers ELKS-1::YP and SYD-2::GFP, in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_2
+Genotype "unc-40(n324);wyEx1474[Pttx-3::mCherry, Pcex-1::mCherry, Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0503"
+Assay	"Genetic_mosaic"	"WBPaper00031068_1"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0006833(RIA)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Not_involved	"WBbt:0005413"	Insufficient	"To identify the cell(s) in which unc-40 functions to direct AIY-RIA innervation, we analyzed unc-40 mosaic animals that retain an unstable rescuing array in subsets of cells (8). Retention in the AIY neuron did not result in rescue of the RIA axon guidance defect (RIA processes fail to extend ventrally to create the loop that is innervated by AIY in zone 2)."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_1
+Genotype "unc-40(e271); wyEx800 [Pttx-3::mCherry Pglr-3::mCherry Punc-40::unc-40]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0504"
+Assay	"Genetic_mosaic"	"WBPaper00031068_3"
+Phenotype	"WBPhenotype:0000616"	Nonautonomous
+Phenotype	"WBPhenotype:0000616"	Remark	"ENTITY:WBbt:0005413(AIY)|WBbt:0006833(RIA)|GO:0045202(synapse)|GO:0050808(synapse development)"
+Phenotype	"WBPhenotype:0000616"	Remark	"QUALITY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00006746"	Published_as	"unc-6"
+Involved	"WBbt:0004925"	Sufficient	"Mosaic analysis using an unc-6 rescuing construct showed that expression of UNC-6 (netrin) by VCSCs (ventral cephalic sheath cells), but not by DCSCs (dordal cephalic sheath cells), regulates the pattern of AIY presynapses."
+Involved	"WBbt:0004923"	Sufficient	"Mosaic analysis using an unc-6 rescuing construct showed that expression of UNC-6 (netrin) by VCSCs (ventral cephalic sheath cells), but not by DCSCs (dordal cephalic sheath cells), regulates the pattern of AIY presynapses."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_3
+Genotype "unc-6(ev400); wyEx1126[Punc-6::unc-6, Phlh-17::mCherry]"
+Reference WBPaper00031068
+
+
+
+Anatomy_function : "WBbtf0505"
+Assay	"Genetic_mosaic"	"WBPaper00031068_3"
+Phenotype	"WBPhenotype:0000616"	Nonautonomous
+Phenotype	"WBPhenotype:0000616"	Remark	"ENTITY:WBbt:0005413(AIY)|WBbt:0006833(RIA)|GO:0045202(synapse)|GO:0050808(synapse development)"
+Phenotype	"WBPhenotype:0000616"	Remark	"QUALITY:PATO:0001507(disrupted)"
+Gene	"WBGene00006746"	Published_as	"unc-6"
+Not_involved	"WBbt:0004929"	Insufficient	"Mosaic analysis using an unc-6 rescuing construct showed that expression of UNC-6 (netrin) by VCSCs (ventral cephalic sheath cells), but not by DCSCs (dordal cephalic sheath cells), regulates the pattern of AIY presynapses."
+Not_involved	"WBbt:0004927"	Insufficient	"Mosaic analysis using an unc-6 rescuing construct showed that expression of UNC-6 (netrin) by VCSCs (ventral cephalic sheath cells), but not by DCSCs (dordal cephalic sheath cells), regulates the pattern of AIY presynapses."
+Reference	"WBPaper00031068"
+
+Condition : WBPaper00031068_3
+Genotype "unc-6(ev400); wyEx1126[Punc-6::unc-6, Phlh-17::mCherry]"
+Reference WBPaper00031068
+
+
+
