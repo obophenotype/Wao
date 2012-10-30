@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2012-10-24
-date: 24:10:2012 10:55
+data-version: 2012-10-30
+date: 30:10:2012 12:55
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -30952,6 +30952,7 @@ is_a: WBbt:0005300 ! ventral cord neuron
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0005758 ! hermaphrodite-specific
 is_a: WBbt:0006840 ! cholinergic neuron
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0005305
@@ -31155,6 +31156,7 @@ def: "muscle lining of the uterine wall." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/mesodermal.htm/musclepartIII.htm#um>
 is_a: WBbt:0005758 ! hermaphrodite-specific
 is_a: WBbt:0005781 ! smooth muscle
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0005343
@@ -33731,6 +33733,7 @@ comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/mesodermal.
 is_a: WBbt:0005758 ! hermaphrodite-specific
 is_a: WBbt:0005780 ! non-striated muscle
 is_a: WBbt:0007810 ! body muscle cell
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0005822
@@ -39911,6 +39914,7 @@ comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/reproductiv
 is_a: WBbt:0005758 ! hermaphrodite-specific
 is_a: WBbt:0008422 ! sex organ
 relationship: part_of WBbt:0005740 ! midbody
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0006749
@@ -40004,6 +40008,7 @@ name: uterus
 def: "The organ in which the eggs are developed and protected until laid." [ISBN:0198611862, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem3a.htm#Theuterus>
 relationship: part_of WBbt:0005178 ! hermaphrodite gonad
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0006761
@@ -40498,6 +40503,7 @@ synonym: "hermaphrodite specific neuron" RELATED []
 is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006837 ! serotonergic neuron
 is_a: WBbt:0006840 ! cholinergic neuron
+relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0006831
@@ -51441,6 +51447,14 @@ def: "Post-embryonic cell of pedigree Z4.apaaaa in male." [WB:rynl]
 is_a: WBbt:0007760 ! Z4.apaaaa
 created_by: raymond
 creation_date: 2012-07-16T10:21:45Z
+
+[Term]
+id: WBbt:0008587
+name: egg-laying apparatus
+def: "An apparatus for laying eggs of the hermaphrodite reproductive system, consists of the uterus, the uterine muscles, the vulva, the vulval muscles, and a local neuropil formed by the egg-laying neurons." [WB:Paper00038216, WB:rynl]
+relationship: part_of WBbt:0005747 ! reproductive system
+created_by: raymond
+creation_date: 2012-10-30T12:29:21Z
 
 [Typedef]
 id: DESCENDENTOF
