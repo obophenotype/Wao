@@ -7649,3 +7649,18 @@ Reference WBPaper00041677
 
 
 
+Anatomy_function : "WBbtf0571"
+Assay	"Expression_mosaic"	"WBPaper00039901_3"
+Phenotype	"WBPhenotype:0001661"	Autonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005672(AWC)|GO:0007368(left-right asymmetry)|GO:0001708(cell fate specification)|GO:0042493(response to drug)|CHEBI:34892(Nocodazole)"
+Phenotype	"WBPhenotype:0001661"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000248"	Published_as	"ben-1"
+Involved	"WBbt:0005672"	Sufficient	"Loss-of-function mutations in ben-1, which encodes a beta-tubulin, confer resistance to benzimidazoles such as nocodazole and benomyl (Driscoll et al., 1989). To determine whether the 2AWCON phenotype is due to disruption of microtubules, we examined the effect of nocodazole on ben-1 mutants. ben-1(e1880) mutants showed wild-type expression of str-2, and treatment of ben-1(e1880) mutant embryos with nocodazole did not cause a 2AWCON phenotype (Table 1, rows d and e). However, expression of wild-type ben-1 gene primarily in AWC using an odr-3 promoter (Roayaie et al., 1998) restored the susceptibility of ben-1(e1880) mutants to nocodazole in the generation of 2AWCON phenotype."
+Reference	"WBPaper00039901"
+
+Condition : WBPaper00039901_3
+Genotype "ben-1(e1880); Ex[odr-3p::ben-1]"
+Reference WBPaper00039901
+
+
+
