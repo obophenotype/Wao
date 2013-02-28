@@ -101,6 +101,7 @@ while(<>) {
 	    $synonym =~ s/^\"//;
 	    $synonym =~ s/\"$//;
 	    push (@synonyms, $synonym);
+	    (my $syn_type, $rem3) = split(' ', $rem3);   # synonym type moved here in OBO 1.2 format
 	    my ($extr4, $rem4) = extract_bracketed($rem3, '[]');
 	    $syn_ref = $extr4;
 	    $syn_ref =~ s/^\[//;
@@ -274,10 +275,10 @@ sub printace {
 			print "Paper_evidence WBPaper00000938";
 		    } elsif ($syn_ref =~ /wb:\\\[cgc3760\\\]/i) {
 			print "Paper_evidence WBPaper00003760";
-		    } elsif ($syn_ref =~ /wb:Paper(.*) \"\"/i) {
-			print "Paper_evidence WBPaper$1";
+		    } elsif ($syn_ref =~ /wb(:?)paper(:?)(\d{8})/i) {
+			print "Paper_evidence WBPaper$3";
 		    } else {
-			print "UNKNOWN SYN_REF: $def_ref\n";
+			print "UNKNOWN SYN_REF: $syn_ref\n";
 			exit;
 		    }
 		}
