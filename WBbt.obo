@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-02-19
-date: 19:02:2013 13:43
+data-version: 2013-03-15
+date: 15:03:2013 09:12
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51447,6 +51447,30 @@ def: "An apparatus for laying eggs of the hermaphrodite reproductive system, con
 relationship: part_of WBbt:0005747 ! reproductive system
 created_by: raymond
 creation_date: 2012-10-30T12:29:21Z
+
+[Term]
+id: WBbt:0008588
+name: C lineage cell
+def: "A cell that is the C blast cell or is a lineal descendant of C." [WB:rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2013-03-15T08:44:18Z
+
+[Term]
+id: WBbt:0008589
+name: D lineage cell
+def: "A cell that is the D blast cell or is a lineal descendant of D." [WB:rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2013-03-15T08:44:18Z
+
+[Term]
+id: WBbt:0008590
+name: P lineage cell
+def: "A cell that is the P embryonic blast cell or is a lineal descendant of P." [WB:rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2013-03-15T08:44:18Z
 
 [Typedef]
 id: DESCENDENTOF
