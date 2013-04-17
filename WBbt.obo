@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-03-15
-date: 15:03:2013 09:12
+data-version: 2013-04-17
+date: 17:04:2013 10:22
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -40261,22 +40261,24 @@ is_a: WBbt:0006796 ! germ cell
 [Term]
 id: WBbt:0006798
 name: sperm
-def: "male haploid germ cell." [WB:rynl]
+def: "Male haploid germ cell." [WB:rynl]
+synonym: "spermatozoa" RELATED []
+synonym: "spermatozoon" RELATED []
 is_a: WBbt:0006796 ! germ cell
 relationship: develops_from WBbt:0006800 ! spermatid
 
 [Term]
 id: WBbt:0006799
 name: spermatocyte
-def: "a cell which gives rise to spermatids by meiosis." [ISBN:0198611862]
+def: "A cell which gives rise to spermatids by meiosis." [ISBN:0198611862]
 is_a: WBbt:0006796 ! germ cell
 
 [Term]
 id: WBbt:0006800
 name: spermatid
-def: "an immature sperm cell which undergoes morphogenesis to form mature, amoeboid sperm." [WB:wjc]
+def: "An immature sperm cell which undergoes morphogenesis to form mature, amoeboid sperm." [WB:wjc]
 is_a: WBbt:0006796 ! germ cell
-relationship: develops_from WBbt:0006799 ! spermatocyte
+relationship: develops_from WBbt:0008592 ! secondary spermatocyte
 
 [Term]
 id: WBbt:0006801
@@ -51471,6 +51473,23 @@ def: "A cell that is the P embryonic blast cell or is a lineal descendant of P."
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2013-03-15T08:44:18Z
+
+[Term]
+id: WBbt:0008591
+name: primary spermatocyte
+def: "A diploid immature germ cell which forms in the gonad when a spermatogonial stem cell buds off from the rachis to form a single cell that quickly enters metaphase I and divides to form secondary spermatocytes attached to a residual body." [WBPaper:00038216]
+is_a: WBbt:0006799 ! spermatocyte
+created_by: raymond
+creation_date: 2013-04-17T09:54:03Z
+
+[Term]
+id: WBbt:0008592
+name: secondary spermatocyte
+def: "A haploid immature germ cell which forms in the gonad by the division of a diploid primary spermatocyte. It undergoes a second meiotic division to complete meiosis, at which time the daughter cells detach from the residual body to become spermatids." [WBPaper:00038216]
+is_a: WBbt:0006799 ! spermatocyte
+relationship: develops_from WBbt:0008591 ! primary spermatocyte
+created_by: raymond
+creation_date: 2013-04-17T09:54:03Z
 
 [Typedef]
 id: DESCENDENTOF
