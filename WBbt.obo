@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-07-10
-date: 10:07:2013 15:54
+data-version: 2013-07-11
+date: 16:07:2013 11:40
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -36181,7 +36181,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0006195
 name: MSaapppaa
 alt_id: WBbt:0003881
-def: "Embryonic cell of pedigree MSaapppaa." [WB:rynl, WBPaper:0003821]
+def: "Embryonic cell of pedigree MSaapppaa." [WB:rynl, WBPaper:00038216]
 synonym: "lineage name: MSaapppaa" RELATED []
 synonym: "mu_bod" RELATED []
 synonym: "VL7" RELATED []
