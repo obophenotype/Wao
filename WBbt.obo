@@ -1,6 +1,6 @@
 format-version: 1.2
 data-version: 2013-07-11
-date: 10:09:2013 10:25
+date: 13:09:2013 09:27
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -23904,7 +23904,7 @@ alt_id: WBbt:0003657
 alt_id: WBbt:0007039
 def: "Embryonic cell of pedigree ABarapaaapa, pharyngeal muscle cell." [ISBN:0-87969-307-X]
 synonym: "ABarapaaapa" EXACT []
-synonym: "lineage name: ABarapaaaapa" RELATED []
+synonym: "lineage name: ABarapaaapa" RELATED []
 synonym: "m1VR" RELATED []
 is_a: WBbt:0007028 ! embryonic cell
 is_a: WBbt:0008269 ! pm1 precursor
