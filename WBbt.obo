@@ -1,6 +1,6 @@
 format-version: 1.2
 data-version: 2013-09-13
-date: 13:09:2013 09:27
+date: 17:10:2013 15:57
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51501,6 +51501,14 @@ def: "A cell that is QL or QR blast cell or is a lineal descendant of QL or QR."
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2013-09-10T10:21:50Z
+
+[Term]
+id: WBbt:0008594
+name: neuroblast
+def: "A blast cell from which a neuron develops." [WB:rynl]
+is_a: WBbt:0006783 ! blast cell
+created_by: raymond
+creation_date: 2013-10-17T15:51:19Z
 
 [Typedef]
 id: DESCENDENTOF
