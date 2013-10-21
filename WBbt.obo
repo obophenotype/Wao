@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-10-17
-date: 17:10:2013 15:57
+data-version: 2013-10-21
+date: 21:10:2013 10:20
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51529,6 +51529,7 @@ name: develops from
 [Typedef]
 id: part_of
 name: part of
+xref: BFO:0000050
 
 [Typedef]
 id: xunion_of
