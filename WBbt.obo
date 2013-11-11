@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-10-21
-date: 21:10:2013 10:20
+data-version: 2013-11-11
+date: 11:11:2013 12:08
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -46410,6 +46410,7 @@ id: WBbt:0007849
 name: hermaphrodite
 def: "Multi-cellular organism that can produce both male and female gametes." [CARO:0000029]
 synonym: "hermaphroditic organism" RELATED []
+xref: CARO:0000029
 is_a: WBbt:0007833 ! organism
 
 [Term]
@@ -46417,6 +46418,7 @@ id: WBbt:0007850
 name: male
 def: "Gonochoristic organism that can produce male gametes." [CARO:0000027]
 synonym: "male organism" RELATED []
+xref: CARO:0000027
 is_a: WBbt:0007833 ! organism
 
 [Term]
@@ -51509,6 +51511,15 @@ def: "A blast cell from which a neuron develops." [WB:rynl]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
 creation_date: 2013-10-17T15:51:19Z
+
+[Term]
+id: WBbt:0008595
+name: female
+def: "Gonochoristic organism that can produce female gametes." [CARO:0000028]
+xref: CARO:0000028
+is_a: WBbt:0007833 ! organism
+created_by: raymond
+creation_date: 2013-11-11T10:03:43Z
 
 [Typedef]
 id: DESCENDENTOF
