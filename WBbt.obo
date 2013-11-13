@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-11-11
-date: 11:11:2013 12:08
+data-version: 2013-11-13
+date: 11:13:2013 15:06
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51523,27 +51523,27 @@ creation_date: 2013-11-11T10:03:43Z
 
 [Typedef]
 id: DESCENDENTOF
-name: daughter of
+name: daughter_of
 
 [Typedef]
 id: DESCINHERM
-name: daughter of in hermaphrodite
+name: daughter_of_in_hermaphrodite
 
 [Typedef]
 id: DESCINMALE
-name: daughter of in male
+name: daughter_of_in_male
 
 [Typedef]
 id: develops_from
-name: develops from
+name: develops_from
 
 [Typedef]
 id: part_of
-name: part of
+name: part_of
 xref: BFO:0000050
 
 [Typedef]
 id: xunion_of
-name: exclusive union of
+name: exclusive_union_of
 def: "T1 xunion_of T2 means that T1 is the union of T2 and one (or more) other term, exclusively. Thus, given T1 xunion_of T2 and T1 xunion_T3, one can infer that any instance of T1 must be an instance of T2 or T3 but not T2 and T3." [WB:rynl]
 
