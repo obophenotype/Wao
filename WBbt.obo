@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-11-13
-date: 02:12:2013 09:58
+data-version: 2013-12-02
+date: 02:12:2013 15:40
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -16409,7 +16409,7 @@ name: ABprapaapa nucleus
 def: "nucleus of pedigree ABprapaapa" [WB:rynl]
 synonym: "W nucleus" RELATED []
 relationship: DESCENDENTOF WBbt:0001517 ! ABprapaap nucleus
-relationship: part_of WBbt:0004583 ! W
+relationship: part_of WBbt:0004583 ! W cell
 
 [Term]
 id: WBbt:0003252
@@ -20045,6 +20045,7 @@ id: WBbt:0003825
 name: B cell
 def: "Rectal cell, postembryonic blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprppppapa" RELATED []
+is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
 
 [Term]
@@ -21687,14 +21688,14 @@ id: WBbt:0004054
 name: QR
 def: "Postembryonic neuroblast, migrates anteriorly." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: ABprapapaaa" RELATED []
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008598 ! Q cell
 
 [Term]
 id: WBbt:0004056
 name: QL
 def: "Postembryonic neuroblast, migrates posteriorly." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "lineage name: ABplapapaaa" RELATED []
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008598 ! Q cell
 
 [Term]
 id: WBbt:0004057
@@ -25144,6 +25145,7 @@ id: WBbt:0004499
 name: K cell
 def: "Rectal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpapppaa" RELATED []
+is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
 
 [Term]
@@ -25787,6 +25789,7 @@ def: "Rectal cell at hatching, becomes PDA in hermaphrodite, postembryonic blast
 synonym: "lineage name: ABprpppaaaa" RELATED []
 synonym: "postembryonic C cell" RELATED []
 is_a: WBbt:0005800 ! rectal epithelium
+is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
 
 [Term]
@@ -25823,8 +25826,8 @@ is_a: WBbt:0008069 ! hyp7 precursor cell
 
 [Term]
 id: WBbt:0004583
-name: W
-def: "Postembryonic neuroblast, analogous to Pn.a cells" [ISBN:0-87969-307-X]
+name: W cell
+def: "Postembryonic neuroblast, analogous to Pn.a cells, also known as P0." [ISBN:0-87969-307-X, WBpaper:00038216]
 synonym: "lineage name: ABprapaapa" RELATED []
 is_a: WBbt:0006783 ! blast cell
 
@@ -27075,8 +27078,8 @@ name: H2R
 def: "Seam hyopdermal cell, postemb. blast cell, L1 deirid socket" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpppaap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008596 ! H cell
 
 [Term]
 id: WBbt:0004764
@@ -27084,8 +27087,8 @@ name: H2L
 def: "Seam hyopdermal cell, postemb. blast cell, L1 deirid socket" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppaaap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008596 ! H cell
 
 [Term]
 id: WBbt:0004765
@@ -27093,8 +27096,8 @@ name: H1R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpapppp" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008596 ! H cell
 
 [Term]
 id: WBbt:0004766
@@ -27102,8 +27105,8 @@ name: H1L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplaaappp" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008596 ! H cell
 
 [Term]
 id: WBbt:0004767
@@ -27205,15 +27208,15 @@ id: WBbt:0004779
 name: G2
 def: "Postembryonic blast cell, excretory socket in L1, G2.p becomes socket later" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplapaapa" RELATED []
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008599 ! G cell
 
 [Term]
 id: WBbt:0004780
 name: G1
 def: "Postembryonic blast cell, excretory socket in embryo" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpaaaapa" RELATED []
-is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0007028 ! embryonic cell
+is_a: WBbt:0008599 ! G cell
 
 [Term]
 id: WBbt:0004781
@@ -27349,6 +27352,7 @@ name: F cell
 def: "Rectal cell, blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplppppapp" RELATED []
 is_a: WBbt:0005800 ! rectal epithelium
+is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
 
 [Term]
@@ -27951,7 +27955,7 @@ name: V6R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpppppp" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004875
@@ -27959,7 +27963,7 @@ name: V6L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppappp" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004876
@@ -27967,7 +27971,7 @@ name: V5R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprapapaap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004877
@@ -28063,7 +28067,7 @@ name: V5L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplapapaap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004891
@@ -28079,7 +28083,7 @@ name: V4R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarpppppa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004893
@@ -28095,7 +28099,7 @@ name: V4L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppappa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004895
@@ -28111,7 +28115,7 @@ name: V3R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprappapa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004897
@@ -28127,7 +28131,7 @@ name: V3L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplappapa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004899
@@ -28143,7 +28147,7 @@ name: V2R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppppap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004901
@@ -28159,7 +28163,7 @@ name: V2L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppapap" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004903
@@ -28174,7 +28178,7 @@ name: V1R
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppppaa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004905
@@ -28182,7 +28186,7 @@ name: V1L
 def: "Seam hypodermal cell, postembryonic blast cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABarppapaa" RELATED []
 is_a: WBbt:0005753 ! seam cell
-is_a: WBbt:0006783 ! blast cell
+is_a: WBbt:0008597 ! V cell
 
 [Term]
 id: WBbt:0004906
@@ -28527,6 +28531,7 @@ def: "Rectal cell, postembryonic blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplppppapa" RELATED []
 synonym: "postembryonic E cell" RELATED []
 is_a: WBbt:0005800 ! rectal epithelium
+is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
 
 [Term]
@@ -48211,6 +48216,7 @@ relationship: part_of WBbt:0008112 ! P3.p hermaphrodite
 [Term]
 id: WBbt:0008115
 name: ventral cord blast cell
+def: "Blast cell lying ventrolaterally in the late embryo and L1 larval stage which divides during the late L1 larva in stereotypical reiterated fashion to give rise to many motor neurons which begin function in the ventral cord and preanal ganglion of the early L2 larva, as well as hypodermal cells (which fuse into hyp7) and a series of programmed cell deaths. In addition, the Pn.p daughters of P3 through P8 lineages persist without fusing into the hyp7 syncytium until mid L3 stage when they can be induced to divide further to produce vulval epithelial cells (vulA – vulF) or more hyp7 cells. P0 is also known as W." [WB:rynl, WBpaper:00038216]
 synonym: "P cell" RELATED []
 is_a: WBbt:0006783 ! blast cell
 
@@ -51512,6 +51518,38 @@ xref: CARO:0000028
 is_a: WBbt:0007833 ! organism
 created_by: raymond
 creation_date: 2013-11-11T10:03:43Z
+
+[Term]
+id: WBbt:0008596
+name: H cell
+def: "Head lateral ectoblast which gives rise to hypodermal cells in the head." [WB:rynl, WBpaper:00038216]
+is_a: WBbt:0006783 ! blast cell
+created_by: raymond
+creation_date: 2013-12-02T15:03:09Z
+
+[Term]
+id: WBbt:0008597
+name: V cell
+def: "Ventrolateral ectoblast of the body that gives rise to neurons, hypodermis and seam cells." [WB:rynl, WBpaper:00038216]
+is_a: WBbt:0006783 ! blast cell
+created_by: raymond
+creation_date: 2013-12-02T15:10:16Z
+
+[Term]
+id: WBbt:0008598
+name: Q cell
+def: "One of a pair of lateral neuroblasts that migrate separately within the body cavity during larval stages to produce a variety of cell types." [WB:rynl, WBpaper:00038216]
+is_a: WBbt:0006783 ! blast cell
+created_by: raymond
+creation_date: 2013-12-02T15:27:57Z
+
+[Term]
+id: WBbt:0008599
+name: G cell
+def: "Ventral ganglion neuroblasts present at hatching, located near the excretory pore." [WBpaper:00038216]
+is_a: WBbt:0006783 ! blast cell
+created_by: raymond
+creation_date: 2013-12-02T15:30:08Z
 
 [Typedef]
 id: DESCENDENTOF
