@@ -1,6 +1,6 @@
 format-version: 1.2
 data-version: 2013-11-13
-date: 11:13:2013 15:06
+date: 02:12:2013 09:58
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -7210,7 +7210,6 @@ id: WBbt:0002014
 name: F.lvda nucleus
 def: "nucleus of pedigree F.lvda" [WB:rynl]
 relationship: DESCINMALE WBbt:0002013 ! F.lvd nucleus
-relationship: part_of WBbt:0004803 ! EF1/2
 relationship: part_of WBbt:0004818 ! DX1/2
 
 [Term]
@@ -7218,7 +7217,7 @@ id: WBbt:0002015
 name: F.lvdp nucleus
 def: "nucleus of pedigree F.lvdp" [WB:rynl]
 relationship: DESCINMALE WBbt:0002013 ! F.lvd nucleus
-relationship: part_of WBbt:0007139 ! F.lvdp
+relationship: part_of WBbt:0004803 ! EF1/2
 
 [Term]
 id: WBbt:0002016
@@ -7260,7 +7259,6 @@ id: WBbt:0002021
 name: F.rvda nucleus
 def: "nucleus of pedigree F.rvda" [WB:rynl]
 relationship: DESCINMALE WBbt:0002020 ! F.rvd nucleus
-relationship: part_of WBbt:0004802 ! EF1/2
 relationship: part_of WBbt:0004817 ! DX1/2
 
 [Term]
@@ -7268,7 +7266,7 @@ id: WBbt:0002022
 name: F.rvdp nucleus
 def: "nucleus of pedigree F.rvdp" [WB:rynl]
 relationship: DESCINMALE WBbt:0002020 ! F.rvd nucleus
-relationship: part_of WBbt:0007144 ! F.rvdp
+relationship: part_of WBbt:0004802 ! EF1/2
 
 [Term]
 id: WBbt:0002023
@@ -27370,15 +27368,21 @@ is_a: WBbt:0007835 ! EF neuron
 [Term]
 id: WBbt:0004802
 name: EF1/2
-def: "Male specific neuron, large cell body in preanal ganglion, synaptic inputs from ray neurons." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007144
+def: "Male specific neuron, large cell body in preanal ganglion, synaptic inputs from ray neurons; post-embryonic cell of pedigree F.rvdp." [ISBN:0-87969-307-X, WB:rynl]
+synonym: "F.rvdp" EXACT []
 synonym: "lineage name: F.rvda" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0007835 ! EF neuron
 
 [Term]
 id: WBbt:0004803
 name: EF1/2
-def: "Male specific neuron, large cell body in preanal ganglion, synaptic inputs from ray neurons." [ISBN:0-87969-307-X]
+alt_id: WBbt:0007139
+def: "Male specific neuron, large cell body in preanal ganglion, synaptic inputs from ray neurons; post-embryonic cell of pedigree F.lvdp" [ISBN:0-87969-307-X, WB:rynl]
+synonym: "F.lvdp" EXACT []
 synonym: "lineage name: F.lvda" RELATED []
+is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0007835 ! EF neuron
 
 [Term]
@@ -42310,12 +42314,6 @@ def: "post-embryonic cell of pedigree F.lvd" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
-id: WBbt:0007139
-name: F.lvdp
-def: "post-embryonic cell of pedigree F.lvdp" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
 id: WBbt:0007140
 name: F.r
 def: "post-embryonic cell of pedigree F.r" [WB:rynl]
@@ -42338,12 +42336,6 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007143
 name: F.rvd
 def: "post-embryonic cell of pedigree F.rvd" [WB:rynl]
-is_a: WBbt:0007030 ! post-embryonic cell
-
-[Term]
-id: WBbt:0007144
-name: F.rvdp
-def: "post-embryonic cell of pedigree F.rvdp" [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
