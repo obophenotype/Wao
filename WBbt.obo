@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2013-12-02
-date: 02:12:2013 15:40
+data-version: 2014-01-23
+date: 23:01:2014 14:54
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -23542,7 +23542,7 @@ comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/mesodermal.
 synonym: "dilator muscle" RELATED []
 synonym: "lineage name: ABplpppppap" RELATED []
 synonym: "mu anal" RELATED []
-is_a: WBbt:0005820 ! alimentary muscle
+is_a: WBbt:0008600 ! enteric muscle
 
 [Term]
 id: WBbt:0004293
@@ -33561,8 +33561,8 @@ id: WBbt:0005796
 name: intestinal muscle
 def: "intestinal muscle cell, attach to intestine and body wall anterior to anus" [WB:Paper00000653]
 synonym: "stomato-intestinal muscle" RELATED []
-is_a: WBbt:0005820 ! alimentary muscle
 is_a: WBbt:0007810 ! body muscle cell
+is_a: WBbt:0008600 ! enteric muscle
 relationship: part_of WBbt:0005772 ! intestine
 
 [Term]
@@ -33583,7 +33583,7 @@ comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/mesodermal.
 synonym: "lineage name: ABprpppppap" RELATED []
 synonym: "mu sph" RELATED []
 is_a: WBbt:0005781 ! smooth muscle
-is_a: WBbt:0005820 ! alimentary muscle
+is_a: WBbt:0008600 ! enteric muscle
 
 [Term]
 id: WBbt:0005799
@@ -51550,6 +51550,14 @@ def: "Ventral ganglion neuroblasts present at hatching, located near the excreto
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
 creation_date: 2013-12-02T15:30:08Z
+
+[Term]
+id: WBbt:0008600
+name: enteric muscle
+def: "Muscle cell of the alimentary canal, excluding the pharynx." [WB:rynl]
+is_a: WBbt:0005820 ! alimentary muscle
+created_by: raymond
+creation_date: 2014-01-23T14:01:20Z
 
 [Typedef]
 id: DESCENDENTOF
