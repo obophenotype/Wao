@@ -2922,7 +2922,7 @@ Assay	"Genetic_mosaic"	"WBPaper00006002_1"
 Phenotype	"WBPhenotype:0000400"	Remark	"ENTITY:WBbt:0005175(gonad)|GO:0048513(organ development) QUALITY:PATO:0000460(abnormal) NOT"
 Phenotype	"WBPhenotype:0000400"	Remark	"ENTITY:WBbt:0007854(somatic gonad precursor cell)|GO:0045165(cell fate commitment) QUALITY:PATO:0001507(disrupted) NOT"
 Gene	"WBGene00001981"	Published_as	"hnd-1"
-Not_involved	"WBbt:0005784"	Unnecessary	"â€˜germline mosaicsâ€™, animals that retained the (hnd-1 genomic fragment transgene) array in somatic tissues but failed to transmit it to their progeny; such animals have lost the array in divisions generating the germline blastomere P4. All six germline mosaics had a wild-type gonadal primordium."
+Not_involved	"WBbt:0005784"	Unnecessary	"‘germline mosaics’, animals that retained the (hnd-1 genomic fragment transgene) array in somatic tissues but failed to transmit it to their progeny; such animals have lost the array in divisions generating the germline blastomere P4. All six germline mosaics had a wild-type gonadal primordium."
 Reference	"WBPaper00006002"
 
 Condition : WBPaper00006002_1
@@ -5964,7 +5964,7 @@ Assay	"Genetic_mosaic"	"WBPaper00039901_2"
 Phenotype	"WBPhenotype:0001661"	Autonomous
 Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005832(AWC-ON)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
 Gene	"WBGene00006831"	Published_as	"unc-104"
-Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(â€“) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
 Reference	"WBPaper00039901"
 
 Condition : WBPaper00039901_2
@@ -5978,7 +5978,7 @@ Assay	"Genetic_mosaic"	"WBPaper00039901_2"
 Phenotype	"WBPhenotype:0001661"	Nonautonomous
 Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005833(AWC-OFF)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
 Gene	"WBGene00006831"	Published_as	"unc-104"
-Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(â€“) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
 Reference	"WBPaper00039901"
 
 Condition : WBPaper00039901_2
@@ -5999,7 +5999,7 @@ Anatomy_function : "WBbtf0459"
 Assay	"Blastomere_isolation"	"WBPaper00040172_1"
 Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006873(Psub2)|WP:CE24910(GPR-1)|GO:0008104(protein localization) QUALITY:PATO:0000628(ectopic) NOT"
 Gene	"WBGene00003219"	Published_as	"mes-1"
-Involved	"WBbt:0006876"	Necessary	"the ectopic P2-EMS contacts can recruit GPR-1 as endogenous P2-EMS contacts do, and hence that cell-cell contact can enrich GPR-1 at a cortical site. This appears to depend on MES-1 signaling specifically at the P2-EMS contact, as control recombinations between P2-EMS pairs and the other two cells of the four-cell stage â€“ ABa and ABp â€“ referred to as ABx here, and contacts with P2-EMS pairs that lack MES-1 failed to accumulate similar levels of mCherry::GPR-1."
+Involved	"WBbt:0006876"	Necessary	"the ectopic P2-EMS contacts can recruit GPR-1 as endogenous P2-EMS contacts do, and hence that cell-cell contact can enrich GPR-1 at a cortical site. This appears to depend on MES-1 signaling specifically at the P2-EMS contact, as control recombinations between P2-EMS pairs and the other two cells of the four-cell stage – ABa and ABp – referred to as ABx here, and contacts with P2-EMS pairs that lack MES-1 failed to accumulate similar levels of mCherry::GPR-1."
 Reference	"WBPaper00040172"
 
 Condition : WBPaper00040172_1
@@ -6047,7 +6047,7 @@ Assay	"Expression_mosaic"	"WBPaper00040276_2"
 Phenotype	"WBPhenotype:0000743"	Nonautonomous
 Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00004326"	Published_as	"rde-4"
-Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in rde-4(âˆ’) animals that expressed rde-4(+) in neurons. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing."
+Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in rde-4(−) animals that expressed rde-4(+) in neurons. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing."
 Reference	"WBPaper00040276"
 
 Condition : WBPaper00040276_2
@@ -6061,7 +6061,7 @@ Assay	"Expression_mosaic"	"WBPaper00040276_3"
 Phenotype	"WBPhenotype:0000743"	Nonautonomous
 Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00003499"	Published_as	"mut-2"
-Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in mut-2(âˆ’) animals that expressed mut-2(+) in neurons, and this silencing was due to mobile RNA because it required SID-1."
+Involved	"WBbt:0003679"	Sufficient	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in mut-2(−) animals that expressed mut-2(+) in neurons, and this silencing was due to mobile RNA because it required SID-1."
 Reference	"WBPaper00040276"
 
 Condition : WBPaper00040276_3
@@ -6075,7 +6075,7 @@ Assay	"Expression_mosaic"	"WBPaper00040276_4"
 Phenotype	"WBPhenotype:0000743"	Nonautonomous
 Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00004326"	Published_as	"rde-4"
-Involved	"WBbt:0006804"	Sufficient	"We generated rde-4(âˆ’); sur-5::gfp animals and moved a representative transgene that expresses rde-4 in bwm cells (bwm::rde-4(+)) into these animals. Significant silencing (P < 0.05) was detected in tissues other than muscle in the resultant mosaic animals and was most easily observed in the prominent gut nuclei. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing of gut nuclei."
+Involved	"WBbt:0006804"	Sufficient	"We generated rde-4(−); sur-5::gfp animals and moved a representative transgene that expresses rde-4 in bwm cells (bwm::rde-4(+)) into these animals. Significant silencing (P < 0.05) was detected in tissues other than muscle in the resultant mosaic animals and was most easily observed in the prominent gut nuclei. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing of gut nuclei."
 Reference	"WBPaper00040276"
 
 Condition : WBPaper00040276_4
@@ -6089,7 +6089,7 @@ Assay	"Expression_mosaic"	"WBPaper00040276_5"
 Phenotype	"WBPhenotype:0000743"	Nonautonomous
 Phenotype	"WBPhenotype:0000743"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00003499"	Published_as	"mut-2"
-Involved	"WBbt:0006804"	Sufficient	"Moving a representative transgene that expressed mut-2(+) in bwm cells (bwm::mut-2(+)) into mut-2(âˆ’); sur-5::gfp animals resulted in the silencing of GFP expression in the gut. The observed silencing was dependent on SID-1, showing that mobile RNA triggered the silencing in mut-2(âˆ’) gut cells."
+Involved	"WBbt:0006804"	Sufficient	"Moving a representative transgene that expressed mut-2(+) in bwm cells (bwm::mut-2(+)) into mut-2(−); sur-5::gfp animals resulted in the silencing of GFP expression in the gut. The observed silencing was dependent on SID-1, showing that mobile RNA triggered the silencing in mut-2(−) gut cells."
 Reference	"WBPaper00040276"
 
 Condition : WBPaper00040276_5
@@ -6202,7 +6202,7 @@ Assay	"Expression_mosaic"	"WBPaper00040560_1"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00001996"	Published_as	"hpl-2"
-Involved	"WBbt:0003679"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22Â°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the pan neuronal rab-3 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Involved	"WBbt:0003679"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the pan neuronal rab-3 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
 Reference	"WBPaper00040560"
 
 Condition : WBPaper00040560_1
@@ -6216,7 +6216,7 @@ Assay	"Expression_mosaic"	"WBPaper00040560_2"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00001996"	Published_as	"hpl-2"
-Involved	"WBbt:0005792"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22Â°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the intestinal ges-1 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Involved	"WBbt:0005792"	Sufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the intestinal ges-1 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
 Reference	"WBPaper00040560"
 
 Condition : WBPaper00040560_2
@@ -6230,7 +6230,7 @@ Assay	"Expression_mosaic"	"WBPaper00040560_3"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Phenotype	"WBPhenotype:0000127"	Remark	"QUALITY:PATO:0001997(reduced)"
 Gene	"WBGene00001996"	Published_as	"hpl-2"
-Not_involved	"WBbt:0007809"	Insufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22Â°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the lin-31 promoter, which is expressed in vulval precursor cells, failed to promote rescue."
+Not_involved	"WBbt:0007809"	Insufficient	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the lin-31 promoter, which is expressed in vulval precursor cells, failed to promote rescue."
 Reference	"WBPaper00040560"
 
 Condition : WBPaper00040560_3
@@ -7821,10 +7821,10 @@ Assay	"Expression_mosaic"	"WBPaper00025173_1"
 Phenotype	"WBPhenotype:0000203"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0006935(chemotaxis)|CHEBI:15837(isoamyl alcohol)|GO:0023058(adaptation)"
 Phenotype	"WBPhenotype:0000203"	Remark	"QUALITY:PATO:0000460(defective)"
 Gene	"WBGene00000195"	Published_as	"arr-1"
-Involved	"WBbt:0005672"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1â€“368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
-Involved	"WBbt:0005670"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1â€“368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
-Involved	"WBbt:0005671"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1â€“368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
-Involved	"WBbt:0005665"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1â€“368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
+Involved	"WBbt:0005672"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1–368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
+Involved	"WBbt:0005670"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1–368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
+Involved	"WBbt:0005671"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1–368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
+Involved	"WBbt:0005665"	Sufficient	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1–368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
 Reference	"WBPaper00025173"
 
 Condition : WBPaper00025173_1
@@ -7880,6 +7880,125 @@ Condition : WBPaper000287391_1
 Genotype "ocr-2(vs29);Ex[OCR-2::gfp]"
 Reference WBPaper00028739
 
+
+
+Anatomy_function : "WBbtf0591"
+Assay	"Genetic_mosaic"	"WBPaper00042187_1"
+Phenotype	"WBPhenotype:0001314"	Autonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent)"
+Gene	"WBGene00003001"	Published_as	"lin-12"
+Involved	"WBbt:0006918"	Sufficient	"To further understand whether lin-12 is required in the vulval epithelial cells or vm2, we injected this [lin-12::SL2::mCherry fosmid] construct into the lin-12(wy750) mutant and analyzed mosaic animals in which expression of this transgene was lost in some of the tissues. Forty-five of 48 animals with lin-12 expressed in the vm2 cells (vm2+) showed a rescued, wild-type muscle arms."
+Involved	"WBbt:0006918"	Necessary	"To further understand whether lin-12 is required in the vulval epithelial cells or vm2, we injected this [lin-12::SL2::mCherry fosmid] construct into the lin-12(wy750) mutant and analyzed mosaic animals in which expression of this transgene was lost in some of the tissues. ... whereas the muscle arm defect was never rescued in any of the examined animals (>50) lacking lin-12 expression in the vm2 cell."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_1
+Genotype "lin-12(wy750); Ex[lin-12::SL2::mCherry]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0592"
+Assay	"Genetic_mosaic"	"WBPaper00042187_1"
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent)"
+Gene	"WBGene00003001"	Published_as	"lin-12"
+Not_involved	"WBbt:0007831"	Insufficient	"To further understand whether lin-12 is required in the vulval epithelial cells or vm2, we injected this [lin-12::SL2::mCherry fosmid] construct into the lin-12(wy750) mutant and analyzed mosaic animals in which expression of this transgene was lost in some of the tissues. [...] On the contrary, lin-12 expression in vulval epithelial cells was not correlated with the rescue of the muscle arm defects."
+Not_involved	"WBbt:0007831"	Unnecessary	"To further understand whether lin-12 is required in the vulval epithelial cells or vm2, we injected this [lin-12::SL2::mCherry fosmid] construct into the lin-12(wy750) mutant and analyzed mosaic animals in which expression of this transgene was lost in some of the tissues. [...] On the contrary, lin-12 expression in vulval epithelial cells was not correlated with the rescue of the muscle arm defects."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_1
+Genotype "lin-12(wy750); Ex[lin-12::SL2::mCherry]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0593"
+Assay	"Expression_mosaic"	"WBPaper00042187_2"
+Phenotype	"WBPhenotype:0001314"	Nonautonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent) NOT"
+Gene	"WBGene00000168"	Published_as	"apx-1"
+Involved	"WBbt:0006917"	Sufficient	"Cell-specific expression of apx-1 in vm1 muscle cells rescued the muscle arm defects of apx-1(wy755) mutants."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_2
+Genotype "apx-1(wy755); Ex[egl-15::apx-1 cDNA]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0594"
+Assay	"Expression_mosaic"	"WBPaper00042187_3"
+Phenotype	"WBPhenotype:0001314"	Nonautonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent) NOT"
+Gene	"WBGene00000168"	Published_as	"apx-1"
+Involved	"WBbt:0007831"	Sufficient	"Cell-specific expression of apx-1 in secondary vulval epithelial cells [with an egl-17 promoter] rescued the muscle arm defects of apx-1(wy755) mutants."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_3
+Genotype "apx-1(wy755); Ex[egl-17::apx-1 cDNA]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0595"
+Assay	"Expression_mosaic"	"WBPaper00042187_4"
+Phenotype	"WBPhenotype:0001314"	Autonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent) NOT"
+Gene	"WBGene00004769"	Published_as	"sel-12"
+Involved	"WBbt:0005821"	Sufficient	"To understand where sel-12 was required, we performed cell-specific rescue experiments. We found that expression of sel-12 in vulval muscle cells [with the unc-103e promoter] completely rescued the vm2 muscle arm phenotype of sel-12(wy760)."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_4
+Genotype "sel-12(wy760); Ex[unc-103e::sel-12 cDNA]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0596"
+Assay	"Expression_mosaic"	"WBPaper00042187_5"
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent)"
+Gene	"WBGene00002245"	Published_as	"lag-1"
+Involved	"WBbt:0005821"	Sufficient	"specific expression of a dominant-negative lag-1 construct in the vulval muscles phenocopied the muscle arm defects observed in lin-12(wy750), apx-1(wy750) and sel-12(wy760) mutants, suggesting that the canonical LIN-12/Notch pathway is likely involved by controlling the transcription of downstream genes."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_5
+Genotype "Ex[unc-103e::dnLag-1]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0597"
+Assay	"Expression_mosaic"	"WBPaper00042187_6"
+Phenotype	"WBPhenotype:0001314"	Autonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent) NOT"
+Gene	"WBGene00006776"	Published_as	"unc-40"
+Involved	"WBbt:0005821"	Sufficient	"unc-40(n324) null mutants showed specific vulval muscle arm defects with largely normal vulval muscle morphology. These defects were strongly rescued by expressing unc-40 specifically in vulval muscles [with the unc-103e promoter] in mutants."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_6
+Genotype "unc-40(e271); Ex[unc-103e::unc-40::GFP]"
+Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0598"
+Assay	"Expression_mosaic"	"WBPaper00042187_7"
+Phenotype	"WBPhenotype:0001314"	Autonomous
+Phenotype	"WBPhenotype:0001314"	Remark	"ENTITY:WBbt:0006918(vm2)|GO:0036194(muscle arm)|GO:0048858(cell projection morphagenesis)"
+Phenotype	"WBPhenotype:0001314"	Remark	"QUALITY:PATO:PATO:0000462(absent) NOT"
+Gene	"WBGene00016539"	Published_as	"madd-2"
+Involved	"WBbt:0005821"	Sufficient	"madd-2(ok2226) null mutants showed specific vulval muscle arm defects with largely normal vulval muscle morphology. These defects were strongly rescued by expressing madd-2 specifically in vulval muscles [with the unc-103e promoter] in mutants."
+Reference	"WBPaper00042187"
+
+Condition : WBPaper00042187_7
+Genotype "madd-2(ok2226); Ex[unc-103e::madd-2::GFP]"
+Reference WBPaper00042187
 
 
 
