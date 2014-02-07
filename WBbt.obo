@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-01-23
-date: 23:01:2014 14:54
+data-version: 2014-02-07
+date: 07:02:2014 12:12
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -20139,7 +20139,7 @@ relationship: part_of WBbt:0005266 ! ventral ganglion (ant)
 [Term]
 id: WBbt:0003844
 name: AVKR
-def: "Ring and ventral cord interneuron" [ISBN:0-87969-307-X]
+def: "Ring and ventral cord interneuron." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpapapap" RELATED []
 is_a: WBbt:0006751 ! head neuron
 is_a: WBbt:0006823 ! AVK
@@ -20149,7 +20149,7 @@ relationship: part_of WBbt:0005264 ! ventral ganglion (post)
 [Term]
 id: WBbt:0003845
 name: AVKL
-def: "Ring and ventral cord interneuron" [ISBN:0-87969-307-X]
+def: "Ring and ventral cord interneuron." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpapapap" RELATED []
 is_a: WBbt:0006751 ! head neuron
 is_a: WBbt:0006823 ! AVK
@@ -20219,7 +20219,7 @@ is_a: WBbt:0005113 ! interneuron
 [Term]
 id: WBbt:0003863
 name: AVER
-def: "Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, like AVD but outputs restricted to anterior cord." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABpraaaaaaa" RELATED []
 is_a: WBbt:0005100 ! lateral ganglion right neuron
 is_a: WBbt:0006751 ! head neuron
@@ -20229,7 +20229,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0003864
 name: AVEL
-def: "Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, like AVD but outputs restricted to anterior cord." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalpppaaaa" RELATED []
 is_a: WBbt:0005102 ! lateral ganglion left neuron
 is_a: WBbt:0006751 ! head neuron
@@ -20239,7 +20239,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0003865
 name: AVDR
-def: "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalaaapprl" RELATED []
 is_a: WBbt:0005100 ! lateral ganglion right neuron
 is_a: WBbt:0006751 ! head neuron
@@ -20249,7 +20249,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0003866
 name: AVDL
-def: "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABalaaapalr" RELATED []
 is_a: WBbt:0005102 ! lateral ganglion left neuron
 is_a: WBbt:0006751 ! head neuron
@@ -20259,7 +20259,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0003867
 name: AVBR
-def: "Ventral cord interneuron, synapsesonto VB and DB motor neurons; formerly called beta" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpaapaap" RELATED []
 is_a: WBbt:0005100 ! lateral ganglion right neuron
 is_a: WBbt:0005841 ! AVB
@@ -20269,7 +20269,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0003868
 name: AVBL
-def: "Ventral cord interneuron, synapsesonto VB and DB motor neurons; formerly called beta" [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpaapaap" RELATED []
 is_a: WBbt:0005102 ! lateral ganglion left neuron
 is_a: WBbt:0005841 ! AVB
@@ -21999,7 +21999,7 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004092
 name: PVCR
-def: "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta." [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpppaapaa" RELATED []
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
 is_a: WBbt:0005840 ! PVC
@@ -22015,7 +22015,7 @@ is_a: WBbt:0005171 ! gon herm dut
 [Term]
 id: WBbt:0004094
 name: PVCL
-def: "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta." [ISBN:0-87969-307-X]
+def: "Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta." [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpppaapaa" RELATED []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
 is_a: WBbt:0005840 ! PVC
