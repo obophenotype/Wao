@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-02-07
-date: 07:02:2014 12:12
+data-version: 2014-03-19
+date: 19:03:2014 15:17
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -19287,6 +19287,7 @@ def: "Major cell type of nervous tissue, specialized for transmission of informa
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/Neuronframeset.html>
 synonym: "neurone" RELATED []
 is_a: WBbt:0004017 ! Cell
+relationship: part_of WBbt:0005735 ! nervous system
 
 [Term]
 id: WBbt:0003681
@@ -33155,7 +33156,7 @@ relationship: develops_from WBbt:0008069 ! hyp7 precursor cell
 [Term]
 id: WBbt:0005735
 name: nervous system
-def: "complement of nervous tissue (neurones, nerves, receptors and support cells) serving to detect, relay and coordinate information about an animal's internal and external environments and to initiate and integrate its effector responses and activities." [ISBN:0-14-051288-8, WB:rynl]
+def: "Complement of nervous tissue (neurones, nerves, receptors and support cells) serving to detect, relay and coordinate information about an animal's internal and external environments and to initiate and integrate its effector responses and activities." [ISBN:0-14-051288-8, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/MoW_built0.92/nervous_system.html>
 xref: WB:rynl
 is_a: WBbt:0005746 ! Organ system
