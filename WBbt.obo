@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-03-19
-date: 19:03:2014 15:17
+data-version: 2014-03-20
+date: 20:03:2014 16:02
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -42485,7 +42485,7 @@ def: "post-embryonic cell of pedigree M.dlpaa, only present in male." [WB:rynl]
 synonym: "left SM1" RELATED []
 synonym: "SM1L" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007167
@@ -42494,7 +42494,7 @@ def: "post-embryonic cell of pedigree M.dlpap, only present in male." [WB:rynl]
 synonym: "left SM2" RELATED []
 synonym: "SM2L" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007168
@@ -42551,7 +42551,7 @@ def: "post-embryonic cell of pedigree M.drpaa, only present in male." [WB:rynl]
 synonym: "right SM1" RELATED []
 synonym: "SM1R" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007175
@@ -42560,7 +42560,7 @@ def: "post-embryonic cell of pedigree M.drpap, only present in male." [WB:rynl]
 synonym: "right SM2" RELATED []
 synonym: "SM2R" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007176
@@ -46201,14 +46201,14 @@ id: WBbt:0007817
 name: SM3L
 def: "male-specific sex myoblast, third, left, of pedigree M.vlpaa." [WB:rynl]
 synonym: "left SM3" RELATED []
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007818
 name: SM3R
 def: "male-specific sex myoblast, third, right, of pedigree M.vrpaa." [WB:rynl]
 synonym: "right SM3" RELATED []
-is_a: WBbt:0008373 ! sex myoblast
+is_a: WBbt:0008604 ! male sex myoblast
 
 [Term]
 id: WBbt:0007819
@@ -49873,7 +49873,7 @@ relationship: develops_from WBbt:0006292 ! ABprpaapapp
 [Term]
 id: WBbt:0008373
 name: sex myoblast
-def: "male-specific blast cell which divides to product muscle cell." [WB:rynl]
+def: "Blast cell which divides to product sex-specific muscle cells." [WB:rynl]
 is_a: WBbt:0005757 ! male-specific
 is_a: WBbt:0006783 ! blast cell
 
@@ -50754,6 +50754,7 @@ id: WBbt:0008495
 name: M.vrpaa hermaphrodite
 def: "Post-embryonic cell of pedigree M.vrpaa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0007197 ! M.vrpaa
+is_a: WBbt:0008605 ! hermaphrodite sex myoblast
 created_by: raymond
 creation_date: 2012-05-29T02:44:35Z
 
@@ -50762,6 +50763,7 @@ id: WBbt:0008496
 name: M.vlpaa hermaphrodite
 def: "Post-embryonic cell of pedigree M.vlpaa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0007184 ! M.vlpaa
+is_a: WBbt:0008605 ! hermaphrodite sex myoblast
 created_by: raymond
 creation_date: 2012-05-29T02:50:14Z
 
@@ -51559,6 +51561,47 @@ def: "Muscle cell of the alimentary canal, excluding the pharynx." [WB:rynl]
 is_a: WBbt:0005820 ! alimentary muscle
 created_by: raymond
 creation_date: 2014-01-23T14:01:20Z
+
+[Term]
+id: WBbt:0008601
+name: SM lineage cell
+def: "A cell that is a sex myoblast or is a lineal descendant of a sex myoblast." [WB:rynl]
+is_a: WBbt:0008439 ! M lineage cell
+created_by: raymond
+creation_date: 2014-03-20T15:36:22Z
+
+[Term]
+id: WBbt:0008602
+name: SM lineage cell male
+def: "An SM lineage cell in a male animal." [WB:rynl]
+is_a: WBbt:0008601 ! SM lineage cell
+created_by: raymond
+creation_date: 2014-03-20T15:39:07Z
+
+[Term]
+id: WBbt:0008603
+name: SM lineage cell hermaphrodite
+def: "An SM lineage cell in a hermaphrodite animal." [WB:rynl]
+is_a: WBbt:0008601 ! SM lineage cell
+created_by: raymond
+creation_date: 2014-03-20T15:40:25Z
+
+[Term]
+id: WBbt:0008604
+name: male sex myoblast
+def: "Male-specific blast cell which divides to product muscle cell." [WB:rynl]
+is_a: WBbt:0005757 ! male-specific
+is_a: WBbt:0008373 ! sex myoblast
+created_by: raymond
+creation_date: 2014-03-20T15:48:36Z
+
+[Term]
+id: WBbt:0008605
+name: hermaphrodite sex myoblast
+def: "Hermaphrodite-specific blast cell which divides to product muscle cell." [WB:rynl]
+is_a: WBbt:0008373 ! sex myoblast
+created_by: raymond
+creation_date: 2014-03-20T15:56:15Z
 
 [Typedef]
 id: DESCENDENTOF
