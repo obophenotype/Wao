@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-03-20
-date: 20:03:2014 16:02
+data-version: 2014-03-21
+date: 21:03:2014 09:57
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -37422,7 +37422,7 @@ alt_id: WBbt:0003949
 def: "Embryonic cell of pedigree Cppappa." [WB:rynl, WBPaper:00038216]
 synonym: "lineage name: Cppappa" RELATED []
 synonym: "mu_bod" RELATED []
-synonym: "VR22" RELATED []
+synonym: "VR20" RELATED []
 is_a: WBbt:0006806 ! body wall muscle cell from C lineage
 is_a: WBbt:0007028 ! embryonic cell
 is_a: WBbt:0008265 ! VLR
@@ -37698,7 +37698,7 @@ alt_id: WBbt:0003948
 def: "Embryonic cell of pedigree Cppappp." [WB:rynl, WBPaper:00038216]
 synonym: "lineage name: Cppappp" RELATED []
 synonym: "mu_bod" RELATED []
-synonym: "VR23" RELATED []
+synonym: "VR21" RELATED []
 is_a: WBbt:0006806 ! body wall muscle cell from C lineage
 is_a: WBbt:0007028 ! embryonic cell
 is_a: WBbt:0008266 ! VMR
@@ -42751,7 +42751,7 @@ id: WBbt:0007202
 name: M.vrpap
 def: "Post-embryonic cell of pedigree M.vrpap." [WB:rynl, WBPaper:00038216]
 synonym: "mu_bod" RELATED []
-synonym: "VR20" RELATED []
+synonym: "VR22" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008258 ! body wall muscle cell from M lineage
 is_a: WBbt:0008265 ! VLR
@@ -42761,7 +42761,7 @@ id: WBbt:0007203
 name: M.vrpp
 def: "Post-embryonic cell of pedigree M.vrpp." [WB:rynl, WBPaper:00038216]
 synonym: "mu_bod" RELATED []
-synonym: "VR21" RELATED []
+synonym: "VR23" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008258 ! body wall muscle cell from M lineage
 is_a: WBbt:0008266 ! VMR
