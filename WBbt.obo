@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-04-10
-date: 10:04:2014 10:08
+data-version: 2014-04-14
+date: 14:04:2014 13:46
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -21161,7 +21161,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0004008
 name: R6stR
-alt_id: WBbt:0007560
+alt_id: WBbt:0007567
 def: "Post-embryonic cell of pedigree V6R.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6R.pppppapp" RELATED []
 synonym: "R6R.app" RELATED []
@@ -21182,7 +21182,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0004010
 name: R6stL
-alt_id: WBbt:0007516
+alt_id: WBbt:0007523
 def: "Post-embryonic cell of pedigree V6L.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6L.pppppapp" RELATED []
 synonym: "R6L.app" RELATED []
@@ -21203,7 +21203,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0004012
 name: R6BR
-alt_id: WBbt:0007559
+alt_id: WBbt:0007566
 def: "Post-embryonic cell of pedigree V6R.pppppapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6R.pppppapa" RELATED []
 synonym: "R6R.apa" RELATED []
@@ -21224,7 +21224,7 @@ is_a: WBbt:0007028 ! embryonic cell
 [Term]
 id: WBbt:0004014
 name: R6BL
-alt_id: WBbt:0007515
+alt_id: WBbt:0007522
 def: "Post-embryonic cell of pedigree V6L.pppppapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6L.pppppapa" RELATED []
 synonym: "R6L.apa" RELATED []
@@ -21244,7 +21244,7 @@ is_a: WBbt:0008447 ! somatic blastomere
 [Term]
 id: WBbt:0004016
 name: R6AR
-alt_id: WBbt:0007556
+alt_id: WBbt:0007563
 def: "Post-embryonic cell of pedigree V6R.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
 synonym: "lineage name: V6R.pppppaaa" RELATED []
 synonym: "R6R.aaa" RELATED []
@@ -21264,7 +21264,7 @@ is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
 [Term]
 id: WBbt:0004018
 name: R6AL
-alt_id: WBbt:0007512
+alt_id: WBbt:0007519
 def: "Post-embryonic cell of pedigree V6L.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
 synonym: "lineage name: V6L.pppppaaa" RELATED []
 synonym: "R6L.aaa" RELATED []
@@ -21276,7 +21276,7 @@ relationship: part_of WBbt:0006961 ! ray 6 left
 [Term]
 id: WBbt:0004019
 name: R5stR
-alt_id: WBbt:0007567
+alt_id: WBbt:0007560
 def: "Post-embryonic cell of pedigree V6R.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6R.ppppaapp" RELATED []
 synonym: "R5R.app" RELATED []
@@ -21288,7 +21288,7 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 [Term]
 id: WBbt:0004020
 name: R5stL
-alt_id: WBbt:0007523
+alt_id: WBbt:0007516
 def: "Post-embryonic cell of pedigree V6L.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6L.ppppaapp" RELATED []
 synonym: "R5L.app" RELATED []
@@ -21300,7 +21300,7 @@ relationship: part_of WBbt:0006959 ! ray 5 left
 [Term]
 id: WBbt:0004021
 name: R5BR
-alt_id: WBbt:0007566
+alt_id: WBbt:0007559
 def: "Post-embryonic cell of pedigree V6R.ppppaapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6R.ppppaapa" RELATED []
 synonym: "R5R.apa" RELATED []
@@ -21312,7 +21312,7 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 [Term]
 id: WBbt:0004022
 name: R5BL
-alt_id: WBbt:0007522
+alt_id: WBbt:0007515
 def: "Post-embryonic cell of pedigree V6L.ppppaapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6L.ppppaapa" RELATED []
 synonym: "R5L.apa" RELATED []
@@ -21324,7 +21324,7 @@ relationship: part_of WBbt:0006959 ! ray 5 left
 [Term]
 id: WBbt:0004023
 name: R5AR
-alt_id: WBbt:0007563
+alt_id: WBbt:0007556
 def: "Post-embryonic cell of pedigree V6R.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "lineage name: V6R.ppppaaaa" EXACT []
 synonym: "R5R.aaa" RELATED []
@@ -21335,7 +21335,7 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 [Term]
 id: WBbt:0004024
 name: R5AL
-alt_id: WBbt:0007519
+alt_id: WBbt:0007512
 def: "Post-embryonic cell of pedigree V6L.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "R5L.aaa" RELATED []
 synonym: "V6L.ppppaaaa" RELATED []
@@ -47738,7 +47738,7 @@ is_a: WBbt:0004794 ! R4_hyp
 [Term]
 id: WBbt:0008051
 name: R5L_hyp
-alt_id: WBbt:0004718
+alt_id: WBbt:0004199
 def: "male tail seam cell, R5 left." [WB:rynl]
 synonym: "lineage name: V6L.ppppap" RELATED []
 synonym: "set" RELATED []
@@ -47747,7 +47747,7 @@ is_a: WBbt:0004793 ! R5_hyp
 [Term]
 id: WBbt:0008052
 name: R5R_hyp
-alt_id: WBbt:0004514
+alt_id: WBbt:0004185
 def: "male tail seam cell, R5 right." [WB:rynl]
 synonym: "lineage name: V6R.ppppap" RELATED []
 synonym: "set" RELATED []
@@ -47756,7 +47756,7 @@ is_a: WBbt:0004793 ! R5_hyp
 [Term]
 id: WBbt:0008053
 name: R6L_hyp
-alt_id: WBbt:0004199
+alt_id: WBbt:0004718
 def: "male tail seam cell, R6 left." [WB:rynl]
 synonym: "hyp7" RELATED []
 synonym: "lineage name: V6L.pppppp" RELATED []
@@ -47765,7 +47765,7 @@ is_a: WBbt:0004792 ! R6_hyp
 [Term]
 id: WBbt:0008054
 name: R6R_hyp
-alt_id: WBbt:0004185
+alt_id: WBbt:0004514
 def: "male tail seam cell, R6 right." [WB:rynl]
 synonym: "hyp7" RELATED []
 synonym: "lineage name: V6R.pppppp" RELATED []
