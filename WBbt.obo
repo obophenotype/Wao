@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-03-21
-date: 21:03:2014 09:57
+data-version: 2014-04-10
+date: 10:04:2014 10:08
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -12044,84 +12044,85 @@ id: WBbt:0002677
 name: V6L.pppppaaa nucleus
 def: "nucleus of pedigree V6L.pppppaaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003156 ! V6L.pppppaa nucleus
-relationship: part_of WBbt:0004024 ! R5AL
+relationship: part_of WBbt:0004018 ! R6AL
 
 [Term]
 id: WBbt:0002678
 name: V6R.pppppaaa nucleus
 def: "nucleus of pedigree V6R.pppppaaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003202 ! V6R.pppppaa nucleus
-relationship: part_of WBbt:0004023 ! R5AR
+relationship: part_of WBbt:0004016 ! R6AR
 
 [Term]
 id: WBbt:0002679
 name: V6L.pppppapa nucleus
 def: "nucleus of pedigree V6L.pppppapa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003158 ! V6L.pppppap nucleus
-relationship: part_of WBbt:0004022 ! R5BL
+relationship: part_of WBbt:0004014 ! R6BL
 
 [Term]
 id: WBbt:0002680
 name: V6R.pppppapa nucleus
 def: "nucleus of pedigree V6R.pppppapa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003204 ! V6R.pppppap nucleus
-relationship: part_of WBbt:0004021 ! R5BR
+relationship: part_of WBbt:0004012 ! R6BR
 
 [Term]
 id: WBbt:0002681
 name: V6L.pppppapp nucleus
 def: "nucleus of pedigree V6L.pppppapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0003158 ! V6L.pppppap nucleus
-relationship: part_of WBbt:0004020 ! R5stL
+relationship: part_of WBbt:0004010 ! R6stL
 
 [Term]
 id: WBbt:0002682
 name: V6R.pppppapp nucleus
 def: "nucleus of pedigree V6R.pppppapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0003204 ! V6R.pppppap nucleus
-relationship: part_of WBbt:0004019 ! R5stR
+relationship: part_of WBbt:0004008 ! R6stR
 
 [Term]
 id: WBbt:0002683
 name: V6L.ppppaaaa nucleus
 def: "nucleus of pedigree V6L.ppppaaaa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003150 ! V6L.ppppaaa nucleus
-relationship: part_of WBbt:0004018 ! R6AL
+relationship: part_of WBbt:0004024 ! R5AL
 
 [Term]
 id: WBbt:0002684
 name: V6R.ppppaaaa nucleus
-def: "nucleus of pedigree V6R.ppppaaaa" [WB:rynl]
+def: "Nucleus of pedigree V6R.pppppaaa." [WB:Paper00000462, WB:rynl]
+synonym: "lineage name: V6R.pppppaaa" RELATED []
 relationship: DESCINMALE WBbt:0003196 ! V6R.ppppaaa nucleus
-relationship: part_of WBbt:0004016 ! R6AR
+relationship: part_of WBbt:0004023 ! R5AR
 
 [Term]
 id: WBbt:0002685
 name: V6L.ppppaapa nucleus
 def: "nucleus of pedigree V6L.ppppaapa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003152 ! V6L.ppppaap nucleus
-relationship: part_of WBbt:0004014 ! R6BL
+relationship: part_of WBbt:0004022 ! R5BL
 
 [Term]
 id: WBbt:0002686
 name: V6R.ppppaapa nucleus
 def: "nucleus of pedigree V6R.ppppaapa" [WB:rynl]
 relationship: DESCINMALE WBbt:0003198 ! V6R.ppppaap nucleus
-relationship: part_of WBbt:0004012 ! R6BR
+relationship: part_of WBbt:0004021 ! R5BR
 
 [Term]
 id: WBbt:0002687
 name: V6L.ppppaapp nucleus
 def: "nucleus of pedigree V6L.ppppaapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0003152 ! V6L.ppppaap nucleus
-relationship: part_of WBbt:0004010 ! R6stL
+relationship: part_of WBbt:0004020 ! R5stL
 
 [Term]
 id: WBbt:0002688
 name: V6R.ppppaapp nucleus
 def: "nucleus of pedigree V6R.ppppaapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0003198 ! V6R.ppppaap nucleus
-relationship: part_of WBbt:0004008 ! R6stR
+relationship: part_of WBbt:0004019 ! R5stR
 
 [Term]
 id: WBbt:0002689
@@ -15707,8 +15708,8 @@ id: WBbt:0003153
 name: V6L.ppppap nucleus
 def: "nucleus of pedigree V6L.ppppap" [WB:rynl]
 relationship: DESCINMALE WBbt:0008092 ! V6L.ppppa nucleus male
-relationship: part_of WBbt:0008053 ! R6L_hyp
-relationship: part_of WBbt:0008070 ! hyp7 syncytium male
+relationship: part_of WBbt:0008051 ! R5L_hyp
+relationship: part_of WBbt:0008351 ! set left
 
 [Term]
 id: WBbt:0003154
@@ -15749,8 +15750,8 @@ id: WBbt:0003159
 name: V6L.pppppp nucleus
 def: "nucleus of pedigree V6L.pppppp" [WB:rynl]
 relationship: DESCINMALE WBbt:0008152 ! V6L.ppppp nucleus male
-relationship: part_of WBbt:0008051 ! R5L_hyp
-relationship: part_of WBbt:0008351 ! set left
+relationship: part_of WBbt:0008053 ! R6L_hyp
+relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 
 [Term]
 id: WBbt:0003160
@@ -16044,8 +16045,8 @@ id: WBbt:0003199
 name: V6R.ppppap nucleus
 def: "nucleus of pedigree V6R.ppppap" [WB:rynl]
 relationship: DESCINMALE WBbt:0008097 ! V6R.ppppa nucleus male
-relationship: part_of WBbt:0008054 ! R6R_hyp
-relationship: part_of WBbt:0008070 ! hyp7 syncytium male
+relationship: part_of WBbt:0008052 ! R5R_hyp
+relationship: part_of WBbt:0008352 ! set right
 
 [Term]
 id: WBbt:0003200
@@ -16086,8 +16087,8 @@ id: WBbt:0003205
 name: V6R.pppppp nucleus
 def: "nucleus of pedigree V6R.pppppp" [WB:rynl]
 relationship: DESCINMALE WBbt:0008148 ! V6R.ppppp nucleus male
-relationship: part_of WBbt:0008052 ! R5R_hyp
-relationship: part_of WBbt:0008352 ! set right
+relationship: part_of WBbt:0008054 ! R6R_hyp
+relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 
 [Term]
 id: WBbt:0003206
@@ -21161,10 +21162,10 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0004008
 name: R6stR
 alt_id: WBbt:0007560
-def: "Post-embryonic cell of pedigree V6R.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.ppppaapp" RELATED []
+def: "Post-embryonic cell of pedigree V6R.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6R.pppppapp" RELATED []
 synonym: "R6R.app" RELATED []
-synonym: "V6R.ppppaapp" EXACT []
+synonym: "V6R.pppppapp" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008276 ! ray structural cell
 relationship: part_of WBbt:0006962 ! ray 6 right
@@ -21182,10 +21183,10 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0004010
 name: R6stL
 alt_id: WBbt:0007516
-def: "Post-embryonic cell of pedigree V6L.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.ppppaapp" RELATED []
+def: "Post-embryonic cell of pedigree V6L.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6L.pppppapp" RELATED []
 synonym: "R6L.app" RELATED []
-synonym: "V6L.ppppaapp" EXACT []
+synonym: "V6L.pppppapp" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008276 ! ray structural cell
 relationship: part_of WBbt:0006961 ! ray 6 left
@@ -21203,10 +21204,10 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0004012
 name: R6BR
 alt_id: WBbt:0007559
-def: "Post-embryonic cell of pedigree V6R.ppppaapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.ppppaapa" RELATED []
+def: "Post-embryonic cell of pedigree V6R.pppppapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6R.pppppapa" RELATED []
 synonym: "R6R.apa" RELATED []
-synonym: "V6R.ppppaapa" EXACT []
+synonym: "V6R.pppppapa" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008402 ! R6B
 relationship: part_of WBbt:0006962 ! ray 6 right
@@ -21224,10 +21225,10 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0004014
 name: R6BL
 alt_id: WBbt:0007515
-def: "Post-embryonic cell of pedigree V6L.ppppaapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.ppppaapa" RELATED []
+def: "Post-embryonic cell of pedigree V6L.pppppapa, male sensory rays, neuron, not darkly staining nor open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6L.pppppapa" RELATED []
 synonym: "R6L.apa" RELATED []
-synonym: "V6L.ppppaapa" EXACT []
+synonym: "V6L.pppppapa" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008402 ! R6B
 relationship: part_of WBbt:0006961 ! ray 6 left
@@ -21244,10 +21245,10 @@ is_a: WBbt:0008447 ! somatic blastomere
 id: WBbt:0004016
 name: R6AR
 alt_id: WBbt:0007556
-def: "Post-embryonic cell of pedigree V6R.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.ppppaaaa" RELATED []
+def: "Post-embryonic cell of pedigree V6R.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
+synonym: "lineage name: V6R.pppppaaa" RELATED []
 synonym: "R6R.aaa" RELATED []
-synonym: "V6R.ppppaaaa" EXACT []
+synonym: "V6R.pppppaaa" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008395 ! R6A
 relationship: part_of WBbt:0006962 ! ray 6 right
@@ -21264,10 +21265,10 @@ is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
 id: WBbt:0004018
 name: R6AL
 alt_id: WBbt:0007512
-def: "Post-embryonic cell of pedigree V6L.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.ppppaaaa" RELATED []
+def: "Post-embryonic cell of pedigree V6L.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
+synonym: "lineage name: V6L.pppppaaa" RELATED []
 synonym: "R6L.aaa" RELATED []
-synonym: "V6L.ppppaaaa" EXACT []
+synonym: "V6L.pppppaaa" RELATED []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008395 ! R6A
 relationship: part_of WBbt:0006961 ! ray 6 left
@@ -21276,10 +21277,10 @@ relationship: part_of WBbt:0006961 ! ray 6 left
 id: WBbt:0004019
 name: R5stR
 alt_id: WBbt:0007567
-def: "Post-embryonic cell of pedigree V6R.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.pppppapp" RELATED []
+def: "Post-embryonic cell of pedigree V6R.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6R.ppppaapp" RELATED []
 synonym: "R5R.app" RELATED []
-synonym: "V6R.pppppapp" EXACT []
+synonym: "V6R.ppppaapp" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008276 ! ray structural cell
 relationship: part_of WBbt:0006960 ! ray 5 right
@@ -21288,10 +21289,10 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 id: WBbt:0004020
 name: R5stL
 alt_id: WBbt:0007523
-def: "Post-embryonic cell of pedigree V6L.pppppapp, male sensory rays, structural cell." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.pppppapp" RELATED []
+def: "Post-embryonic cell of pedigree V6L.ppppaapp, male sensory rays, structural cell." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6L.ppppaapp" RELATED []
 synonym: "R5L.app" RELATED []
-synonym: "V6L.pppppapp" EXACT []
+synonym: "V6L.ppppaapp" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008276 ! ray structural cell
 relationship: part_of WBbt:0006959 ! ray 5 left
@@ -21300,10 +21301,10 @@ relationship: part_of WBbt:0006959 ! ray 5 left
 id: WBbt:0004021
 name: R5BR
 alt_id: WBbt:0007566
-def: "Post-embryonic cell of pedigree V6R.pppppapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.pppppapa" RELATED []
+def: "Post-embryonic cell of pedigree V6R.ppppaapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6R.ppppaapa" RELATED []
 synonym: "R5R.apa" RELATED []
-synonym: "V6R.pppppapa" EXACT []
+synonym: "V6R.ppppaapa" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008401 ! R5B
 relationship: part_of WBbt:0006960 ! ray 5 right
@@ -21312,10 +21313,10 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 id: WBbt:0004022
 name: R5BL
 alt_id: WBbt:0007522
-def: "Post-embryonic cell of pedigree V6L.pppppapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.pppppapa" RELATED []
+def: "Post-embryonic cell of pedigree V6L.ppppaapa, male sensory rays, neuron, darkly staining tip, open to outside." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6L.ppppaapa" RELATED []
 synonym: "R5L.apa" RELATED []
-synonym: "V6L.pppppapa" EXACT []
+synonym: "V6L.ppppaapa" EXACT []
 is_a: WBbt:0007030 ! post-embryonic cell
 is_a: WBbt:0008401 ! R5B
 relationship: part_of WBbt:0006959 ! ray 5 left
@@ -21324,10 +21325,9 @@ relationship: part_of WBbt:0006959 ! ray 5 left
 id: WBbt:0004023
 name: R5AR
 alt_id: WBbt:0007563
-def: "Post-embryonic cell of pedigree V6R.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6R.pppppaaa" RELATED []
+def: "Post-embryonic cell of pedigree V6R.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X, WB:Paper00000462]
+synonym: "lineage name: V6R.ppppaaaa" EXACT []
 synonym: "R5R.aaa" RELATED []
-synonym: "V6R.pppppaaa" EXACT []
 is_a: WBbt:0006856 ! R5A
 is_a: WBbt:0007030 ! post-embryonic cell
 relationship: part_of WBbt:0006960 ! ray 5 right
@@ -21336,10 +21336,9 @@ relationship: part_of WBbt:0006960 ! ray 5 right
 id: WBbt:0004024
 name: R5AL
 alt_id: WBbt:0007519
-def: "Post-embryonic cell of pedigree V6L.pppppaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X]
-synonym: "lineage name: V6L.pppppaaa" RELATED []
+def: "Post-embryonic cell of pedigree V6L.ppppaaaa, male sensory rays, neuron, striated rootlet." [ISBN:0-87969-307-X, WB:Paper00000462]
 synonym: "R5L.aaa" RELATED []
-synonym: "V6L.pppppaaa" EXACT []
+synonym: "V6L.ppppaaaa" RELATED []
 is_a: WBbt:0006856 ! R5A
 is_a: WBbt:0007030 ! post-embryonic cell
 relationship: part_of WBbt:0006959 ! ray 5 left
@@ -27415,7 +27414,7 @@ is_a: WBbt:0007834 ! DX neuron
 [Term]
 id: WBbt:0004807
 name: R1_hyp
-def: "Ray 1 hypodermal cell, fuses with other ray hypodermal cells to form the tail seam" [ISBN:0-87969-307-X]
+def: "Ray 1 hypodermal cell, fuses with other ray hypodermal cells to form the tail seam." [ISBN:0-87969-307-X]
 synonym: "lineage name: V5.pppppp, R1.p" RELATED []
 is_a: WBbt:0008353 ! set precursor
 
@@ -41224,62 +41223,62 @@ is_a: WBbt:0006929 ! sensillum
 [Term]
 id: WBbt:0006931
 name: ray precursor cell
-def: "precursor cell of the male sensory ray (1-9)." [WB:rynl]
+def: "Precursor cell of the male sensory ray (R1-R9)." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0005757 ! male-specific
 is_a: WBbt:0006783 ! blast cell
 
 [Term]
 id: WBbt:0006932
 name: R1
-def: "precursor of cells that form male sensory ray 1." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 1." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006933
 name: R2
-def: "precursor of cells that form male sensory ray 2." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 2." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006934
 name: R3
-def: "precursor of cells that form male sensory ray 3." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 3." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006935
 name: R4
-def: "precursor of cells that form male sensory ray 4." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 4." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006936
 name: R5
-def: "precursor of cells that form male sensory ray 5." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 5." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006937
 name: R6
-def: "precursor of cells that form male sensory ray 6." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 6." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006938
 name: R7
-def: "precursor of cells that form male sensory ray 7." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 7." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006939
 name: R8
-def: "precursor of cells that form male sensory ray 8." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 8." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
 id: WBbt:0006940
 name: R9
-def: "precursor of cells that form male sensory ray 9." [WB:rynl]
+def: "Precursor of cells that form male sensory ray 9." [WB:Paper00000462, WB:rynl]
 is_a: WBbt:0006931 ! ray precursor cell
 
 [Term]
@@ -43681,6 +43680,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007356
 name: TL.apapp
 def: "post-embryonic cell of pedigree TL.apapp" [WB:rynl]
+is_a: WBbt:0006938 ! R7
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -43712,6 +43712,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007364
 name: TL.appaa
 def: "post-embryonic cell of pedigree TL.appaa" [WB:rynl]
+is_a: WBbt:0006939 ! R8
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -43743,6 +43744,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007372
 name: TL.appap
 def: "post-embryonic cell of pedigree TL.appap" [WB:rynl]
+is_a: WBbt:0006940 ! R9
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -44368,7 +44370,8 @@ is_a: WBbt:0007030 ! post-embryonic cell
 [Term]
 id: WBbt:0007483
 name: V6L.papap
-def: "post-embryonic cell of pedigree V6L.papap" [WB:rynl]
+def: "Post-embryonic cell of pedigree V6L.papap." [WB:rynl]
+is_a: WBbt:0006933 ! R2
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -44443,6 +44446,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007501
 name: V6L.pppap
 def: "post-embryonic cell of pedigree V6L.pppap" [WB:rynl]
+is_a: WBbt:0006935 ! R4
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -44548,6 +44552,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007527
 name: V6R.papap
 def: "post-embryonic cell of pedigree V6R.papap" [WB:rynl]
+is_a: WBbt:0006933 ! R2
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -44622,6 +44627,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 id: WBbt:0007545
 name: V6R.pppap
 def: "post-embryonic cell of pedigree V6R.pppap" [WB:rynl]
+is_a: WBbt:0006935 ! R4
 is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
@@ -46815,7 +46821,7 @@ id: WBbt:0007907
 name: TR.apapp nucleus
 def: "nucleus of pedigree TR.apapp" [WB:rynl]
 relationship: DESCINMALE WBbt:0008082 ! TR.apap nucleus male
-relationship: part_of WBbt:0008490 ! TR.apapp male
+relationship: part_of WBbt:0008490 ! TR.apapp
 
 [Term]
 id: WBbt:0007908
@@ -47734,7 +47740,7 @@ id: WBbt:0008051
 name: R5L_hyp
 alt_id: WBbt:0004718
 def: "male tail seam cell, R5 left." [WB:rynl]
-synonym: "lineage name: V6L.pppppp" RELATED []
+synonym: "lineage name: V6L.ppppap" RELATED []
 synonym: "set" RELATED []
 is_a: WBbt:0004793 ! R5_hyp
 
@@ -47743,7 +47749,7 @@ id: WBbt:0008052
 name: R5R_hyp
 alt_id: WBbt:0004514
 def: "male tail seam cell, R5 right." [WB:rynl]
-synonym: "lineage name: V6R.pppppp" RELATED []
+synonym: "lineage name: V6R.ppppap" RELATED []
 synonym: "set" RELATED []
 is_a: WBbt:0004793 ! R5_hyp
 
@@ -47753,7 +47759,7 @@ name: R6L_hyp
 alt_id: WBbt:0004199
 def: "male tail seam cell, R6 left." [WB:rynl]
 synonym: "hyp7" RELATED []
-synonym: "lineage name: V6L.ppppap" RELATED []
+synonym: "lineage name: V6L.pppppp" RELATED []
 is_a: WBbt:0004792 ! R6_hyp
 
 [Term]
@@ -47762,7 +47768,7 @@ name: R6R_hyp
 alt_id: WBbt:0004185
 def: "male tail seam cell, R6 right." [WB:rynl]
 synonym: "hyp7" RELATED []
-synonym: "lineage name: V6R.ppppap" RELATED []
+synonym: "lineage name: V6R.pppppp" RELATED []
 is_a: WBbt:0004792 ! R6_hyp
 
 [Term]
@@ -48410,6 +48416,7 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 [Term]
 id: WBbt:0008142
 name: V6L.pappp nucleus male
+def: "Nucleus of pedigree V6L.pappp male." [WB:rynl]
 is_a: WBbt:0003130 ! V6L.pappp nucleus
 relationship: part_of WBbt:0008543 ! V6L.pappp male
 
@@ -48423,6 +48430,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 [Term]
 id: WBbt:0008144
 name: V5L.ppppp nucleus male
+def: "Nucleus of pedigree V5L.ppppp in male." [WB:rynl]
 is_a: WBbt:0003084 ! V5L.ppppp nucleus
 relationship: part_of WBbt:0008537 ! V5L.ppppp male
 
@@ -48489,6 +48497,7 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 [Term]
 id: WBbt:0008154
 name: V6R.pappp nucleus male
+def: "Nucleus of pedigree V6R.pappp male." [WB:rynl]
 is_a: WBbt:0003176 ! V6R.pappp nucleus
 relationship: part_of WBbt:0008541 ! V6R.pappp male
 
@@ -50633,6 +50642,7 @@ creation_date: 2012-05-23T04:22:29Z
 id: WBbt:0008480
 name: V5R.ppppp male
 def: "Post-embryonic cell of pedigree V5R.ppppp in male." [WB:rynl]
+is_a: WBbt:0006932 ! R1
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-29T01:06:38Z
@@ -50711,8 +50721,9 @@ creation_date: 2012-05-29T02:06:20Z
 
 [Term]
 id: WBbt:0008490
-name: TR.apapp male
+name: TR.apapp
 def: "Post-embryonic cell of pedigree TR.apapp in male." [WB:rynl]
+is_a: WBbt:0006938 ! R7
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-29T02:09:33Z
@@ -50811,6 +50822,7 @@ creation_date: 2012-05-29T03:09:45Z
 id: WBbt:0008502
 name: V6R.ppppa male
 def: "Post-embryonic cell of pedigree V6R.ppppa in male." [WB:rynl]
+is_a: WBbt:0006936 ! R5
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-29T03:16:55Z
@@ -50912,6 +50924,7 @@ creation_date: 2012-05-30T09:14:39Z
 [Term]
 id: WBbt:0008516
 name: V6L.ppppa male
+is_a: WBbt:0006936 ! R5
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -50926,6 +50939,7 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008518
 name: V6R.ppppp male
+is_a: WBbt:0006937 ! R6
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -50968,6 +50982,7 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008524
 name: TR.appap
+is_a: WBbt:0006940 ! R9
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -51038,6 +51053,7 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008534
 name: V6L.ppppp male
+is_a: WBbt:0006937 ! R6
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -51059,6 +51075,8 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008537
 name: V5L.ppppp male
+def: "Post-embryonic cell of pedigree V5L.ppppp in male." [WB:rynl]
+is_a: WBbt:0006932 ! R1
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -51073,6 +51091,7 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008539
 name: TR.appaa
+is_a: WBbt:0006939 ! R8
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -51087,6 +51106,8 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008541
 name: V6R.pappp male
+def: "Post-embryonic cell of pedigree V6R.pappp male." [WB:rynl]
+is_a: WBbt:0006934 ! R3
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
@@ -51101,6 +51122,8 @@ creation_date: 2012-05-30T09:39:45Z
 [Term]
 id: WBbt:0008543
 name: V6L.pappp male
+def: "Post-embryonic cell of pedigree V6L.pappp male." [WB:rynl]
+is_a: WBbt:0006934 ! R3
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-30T09:39:45Z
