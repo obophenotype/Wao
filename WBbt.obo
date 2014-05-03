@@ -4,6 +4,7 @@ date: 14:04:2014 13:46
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
+ontology: wbbt
 remark: $
 
 [Term]
@@ -50397,8 +50398,8 @@ id: WBbt:0008452
 name: W.aaa or P1.aaaa nucleus
 def: "Nucleus of pedigree W.aaa or P1.aaaa, to become either AVFL or AVFR nucleus." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0002463 ! P1.aaaa nucleus
-relationship: xunion_of WBbt:0003254 ! W.aaa nucleus
+union_of: WBbt:0002463 ! P1.aaaa nucleus
+union_of: WBbt:0003254 ! W.aaa nucleus
 created_by: raymond
 creation_date: 2012-04-20T10:36:21Z
 
@@ -50407,8 +50408,8 @@ id: WBbt:0008453
 name: ABplapaapp or ABprapaapp nucleus
 def: "Nucleus of pedigree ABplapaapp or ABprapaapp." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001360 ! ABplapaapp nucleus
-relationship: xunion_of WBbt:0001518 ! ABprapaapp nucleus
+union_of: WBbt:0001360 ! ABplapaapp nucleus
+union_of: WBbt:0001518 ! ABprapaapp nucleus
 created_by: raymond
 creation_date: 2012-04-20T02:12:46Z
 
@@ -50425,8 +50426,8 @@ id: WBbt:0008455
 name: ABprappaaa or ABplappaaa nucleus
 def: "Nucleus of pedigree ABprappaaa or ABplappaaa." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001374 ! ABplappaaa nucleus
-relationship: xunion_of WBbt:0001532 ! ABprappaaa nucleus
+union_of: WBbt:0001374 ! ABplappaaa nucleus
+union_of: WBbt:0001532 ! ABprappaaa nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:09:38Z
 
@@ -50435,8 +50436,8 @@ id: WBbt:0008456
 name: ABprappaap or ABplappaap nucleus
 def: "Nucleus of pedigree ABprappaap or ABplappaap." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001375 ! ABplappaap nucleus
-relationship: xunion_of WBbt:0001533 ! ABprappaap nucleus
+union_of: WBbt:0001375 ! ABplappaap nucleus
+union_of: WBbt:0001533 ! ABprappaap nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:23:43Z
 
@@ -50445,8 +50446,8 @@ id: WBbt:0008457
 name: ABprappapp or ABplappapp nucleus
 def: "Nucleus of pedigree ABprappapp or ABplappapp." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001377 ! ABplappapp nucleus
-relationship: xunion_of WBbt:0001535 ! ABprappapp nucleus
+union_of: WBbt:0001377 ! ABplappapp nucleus
+union_of: WBbt:0001535 ! ABprappapp nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:28:03Z
 
@@ -50455,8 +50456,8 @@ id: WBbt:0008458
 name: ABprapapap or ABplapapap nucleus
 def: "Nucleus of pedigree ABprapapap or ABplapapap." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001364 ! ABplapapap nucleus
-relationship: xunion_of WBbt:0001522 ! ABprapapap nucleus
+union_of: WBbt:0001364 ! ABplapapap nucleus
+union_of: WBbt:0001522 ! ABprapapap nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:31:58Z
 
@@ -50465,8 +50466,8 @@ id: WBbt:0008459
 name: B.alaa or B.araa nucleus
 def: "Nucleus of pedigree B.alaa or B.araa." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001718 ! B.alaa nucleus
-relationship: xunion_of WBbt:0007858 ! B.araa nucleus
+union_of: WBbt:0001718 ! B.alaa nucleus
+union_of: WBbt:0007858 ! B.araa nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:38:36Z
 
@@ -50475,8 +50476,8 @@ id: WBbt:0008460
 name: B.alpp or B.arpp nucleus
 def: "Nucleus of pedigree B.alpp or B.arpp." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0007857 ! B.alpp nucleus
-relationship: xunion_of WBbt:0007859 ! B.arpp nucleus
+union_of: WBbt:0007857 ! B.alpp nucleus
+union_of: WBbt:0007859 ! B.arpp nucleus
 created_by: raymond
 creation_date: 2012-04-20T03:59:00Z
 
@@ -50485,8 +50486,8 @@ id: WBbt:0008461
 name: ABplpppapap or ABprpppapap nucleus
 def: "Nucleus of pedigree ABplpppapap or ABprpppapap." [WB:<new dbxref>rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0001451 ! ABplpppapap nucleus
-relationship: xunion_of WBbt:0001610 ! ABprpppapap nucleus
+union_of: WBbt:0001451 ! ABplpppapap nucleus
+union_of: WBbt:0001610 ! ABprpppapap nucleus
 created_by: raymond
 creation_date: 2012-04-23T10:04:27Z
 
@@ -50495,8 +50496,8 @@ id: WBbt:0008462
 name: ABplapappa or ABprapappa nucleus
 def: "Nucleus of pedigree ABplapappa or ABprapappa." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0002578 ! ABplapappa nucleus
-relationship: xunion_of WBbt:0002586 ! ABprapappa nucleus
+union_of: WBbt:0002578 ! ABplapappa nucleus
+union_of: WBbt:0002586 ! ABprapappa nucleus
 created_by: raymond
 creation_date: 2012-04-23T11:18:02Z
 
@@ -50505,8 +50506,8 @@ id: WBbt:0008463
 name: Z1.ppp (5R) or Z4.aaa (5L) nucleus
 def: "Nucleus of pedigree Z1.ppp (5R) or Z4.aaa (5L)." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
-relationship: xunion_of WBbt:0005674 ! Z1.ppp (5R) nucleus
-relationship: xunion_of WBbt:0005702 ! Z4.aaa (5L) nucleus
+union_of: WBbt:0005674 ! Z1.ppp (5R) nucleus
+union_of: WBbt:0005702 ! Z4.aaa (5L) nucleus
 created_by: raymond
 creation_date: 2012-04-23T02:44:36Z
 
@@ -51628,19 +51629,23 @@ creation_date: 2014-03-20T15:56:15Z
 
 [Typedef]
 id: DESCENDENTOF
-name: daughter_of
+name: child nucleus of
+xref: RO:0002476
 
 [Typedef]
 id: DESCINHERM
-name: daughter_of_in_hermaphrodite
+name: child nucleus of in hermaphrodite
+xref: RO:0002477
 
 [Typedef]
 id: DESCINMALE
-name: daughter_of_in_male
+name: child nucleus of in male
+xref: RO:0002478
 
 [Typedef]
 id: develops_from
 name: develops_from
+xref: RO:0002202
 
 [Typedef]
 id: part_of
