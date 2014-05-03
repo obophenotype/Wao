@@ -51629,15 +51629,18 @@ creation_date: 2014-03-20T15:56:15Z
 
 [Typedef]
 id: DESCENDENTOF
-name: daughter_of
+name: child nucleus of
+xref: RO:0002476
 
 [Typedef]
 id: DESCINHERM
-name: daughter_of_in_hermaphrodite
+name: child nucleus of in hermaphrodite
+xref: RO:0002477
 
 [Typedef]
 id: DESCINMALE
-name: daughter_of_in_male
+name: child nucleus of in male
+xref: RO:0002478
 
 [Typedef]
 id: develops_from
