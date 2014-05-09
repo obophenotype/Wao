@@ -67,6 +67,14 @@ while(<>) {
 	    push (@related_ids, $related_id);
 	    push (@good_ids, $related_id);
 	}
+        elsif ($tag eq 'union_of') {
+	    $relationship = $tag;
+	    push (@relationships, $relationship);
+	    $related_id = $val2;
+	    $related_id =~ s/WBbt://;
+	    push (@related_ids, $related_id);
+	    push (@good_ids, $related_id);
+	}	
 	elsif ($tag eq 'relationship') {
 	    my $rel_id;
 	    ($relationship, $rel_id) = split(' ', $val2);
@@ -309,7 +317,7 @@ sub printace {
 		}
 		elsif ($relationship eq 'DESCINMALE') {
 		    print "DESC_IN_MALE_p WBbt:$related_id\n";
-		} elsif ($relationship eq 'xunion_of') {
+		} elsif ($relationship eq 'union_of') {
  		    print "XUNION_OF_p WBbt:$related_id\n";
 		} else {
 		    print "UNKNOWN RELATION: $def_ref\n";
