@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-04-14
-date: 14:04:2014 13:46
+data-version: 2014-05-26
+date: 26:05:2014 13:46
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -33365,7 +33365,7 @@ is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
 id: WBbt:0005767
 name: pharyngeal-intestinal valve
 alt_id: WBbt:0005435
-def: "A group of six equivalent cells forms a tightly constructed “valve” that links the posterior bulb of the pharynx to the anterior four cells of the intestine. These six cells comprise a small epithelial channel with a cuticular lining in continuity with the pharyngeal cuticle and link the lumen of the pharynx to the large lumen of the anterior intestine." [WBPaper:00038216]
+def: "A group of six equivalent cells forms a tightly constructed 'valve' that links the posterior bulb of the pharynx to the anterior four cells of the intestine. These six cells comprise a small epithelial channel with a cuticular lining in continuity with the pharyngeal cuticle and link the lumen of the pharynx to the large lumen of the anterior intestine." [WBPaper:00038216]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/alimentary/alimentary1.htm#vip>
 synonym: "cardia" RELATED []
 synonym: "esophago-intestinal valve" RELATED []
