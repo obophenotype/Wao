@@ -2564,24 +2564,24 @@ Reference WBPaper00005760
 
 
 Anatomy_function : "WBbtf0199"
-Assay	"Laser_ablation"	"Condition : WBPaper00005760_9"
+Assay	"Laser_ablation"	"WBPaper00005760_9"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Involved	"WBbt:0005178"	Necessary	"in Z1, Z4 ablated animals, SNB-1::YFP failed to localize in punctate clusters at the normal location in HSNL."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_9
+Condition : WBPaper00005760_9
 Genotype "kyIs235(unc-86::snb-1::yfp)"
 Reference WBPaper00005760
 
 
 
 Anatomy_function : "WBbtf0200"
-Assay	"Genetic_ablation"	"Condition : WBPaper00005760_2"
+Assay	"Genetic_ablation"	"WBPaper00005760_2"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Involved	"WBbt:0007831"	Necessary	"lin-3 mutants, in which the gonad is present but the vulval epithelium is absent due to a loss of EGF signaling, had abnormal anteriorly displaced SNB-1 clusters."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_2
+Condition : WBPaper00005760_2
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);lin-3(e1417)"
 Reference "WBPaper00005760"
 
@@ -2589,12 +2589,12 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0201"
-Assay	"Genetic_ablation"	"Condition : WBPaper00005760_3"
+Assay	"Genetic_ablation"	"WBPaper00005760_3"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Involved	"WBbt:0007831"	Sufficient	"in lin-15 mutants, which have vulval epithelium at multiple ectopic pseudovulvae in addition to the normal vulva, multiple SNB-1::YFP clusters formed at the ectopic pseudovulvae, even when the gonad was killed."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_3
+Condition : WBPaper00005760_3
 Genotype "kyIs235(unc-86::snb-1::yfp);lin-15(n765ts)"
 Reference "WBPaper00005760"
 
@@ -2602,14 +2602,14 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0202"
-Assay	"Expression_mosaic"	"Condition : WBPaper00005760_4"
+Assay	"Expression_mosaic"	"WBPaper00005760_4"
 Phenotype	"WBPhenotype:0000102"	Autonomous
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000461(normal)"
 Gene	"WBGene00006365"	Published_as	"syg-1"
 Involved	"WBbt:0006830"	Sufficient	"syg-1 synaptic vesicle defects were rescued when the expression of SYG-1 was driven by the unc-86 promoter, which is active in HSN neurons."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_4
+Condition : WBPaper00005760_4
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);syg-1(ky652);kyEx(unc-86::syg-1)"
 Reference "WBPaper00005760"
 
@@ -2617,13 +2617,13 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0203"
-Assay	"Expression_mosaic"	"Condition : WBPaper00005760_5"
+Assay	"Expression_mosaic"	"WBPaper00005760_5"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Gene	"WBGene00006365"	Published_as	"syg-1"
 Not_involved	"WBbt:0005304"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the unc-4 promoter, which is active in VC neurons."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_5
+Condition : WBPaper00005760_5
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);kyEx(unc-4::syg-1)"
 Reference "WBPaper00005760"
 
@@ -2631,14 +2631,14 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0204"
-Assay	"Expression_mosaic"	"Condition : WBPaper00005760_6"
+Assay	"Expression_mosaic"	"WBPaper00005760_6"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Gene	"WBGene00006365"	Published_as	"syg-1"
 Not_involved	"WBbt:0005304"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the lin-11B promoter, which is active in VC neurons and vulval epithelium."
 Not_involved	"WBbt:0007831"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the lin-11B promoter, which is active in VC neurons and vulval epithelium."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_6
+Condition : WBPaper00005760_6
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);kyEx(lin-11B::syg-1)"
 Reference "WBPaper00005760"
 
@@ -2646,13 +2646,13 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0205"
-Assay	"Expression_mosaic"	"Condition : WBPaper00005760_7"
+Assay	"Expression_mosaic"	"WBPaper00005760_7"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Gene	"WBGene00006365"	Published_as	"syg-1"
 Not_involved	"WBbt:0007831"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the egl-17 promoter, which is active in vulval epithelium."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_7
+Condition : WBPaper00005760_7
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);kyEx(egl-17::syg-1)"
 Reference "WBPaper00005760"
 
@@ -2660,14 +2660,14 @@ Reference "WBPaper00005760"
 
 
 Anatomy_function : "WBbtf0206"
-Assay	"Expression_mosaic"	"Condition : WBPaper00005760_8"
+Assay	"Expression_mosaic"	"WBPaper00005760_8"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000628(mislocalized)"
 Gene	"WBGene00006365"	Published_as	"syg-1"
 Not_involved	"WBbt:0006976"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the sra-6 promoter, which is active in PVQ and ASH neurons."
 Not_involved	"WBbt:0005665"	Insufficient	"syg-1 synaptic vesicle defects were not rescued when the expression of SYG-1 was driven by the sra-6 promoter, which is active in PVQ and ASH neurons."
 Reference	"WBPaper00005760"
 
-Condition : Condition : WBPaper00005760_8
+Condition : WBPaper00005760_8
 Genotype "kyIs235(unc-86::snb-1::yfp);syg-1(ky652);kyEx(sra-6::syg-1)"
 Reference "WBPaper00005760"
 
@@ -4419,39 +4419,39 @@ Reference WBPaper00013500
 
 
 Anatomy_function : "WBbtf0334"
-Assay	"Expression_mosaic"	"Condition : WBPaper00013500_2"
+Assay	"Expression_mosaic"	"WBPaper00013500_2"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0048589(developmental growth)|WBls:0000032(dauer larva) QUALITY:PATO:0000297(arrested)"
 Gene	"WBGene00003831"	Published_as	"nuo-1"
 Not_involved	"WBbt:0007810"	Insufficient	"Transformation of LB77 with the Punc-54::nuo-1(+) construct did not allow nuo-1(ua1) animals to exit dauer in response to more favorable conditions."
 Reference	"WBPaper00013500"
 
-Condition : Condition : WBPaper00013500_2
+Condition : WBPaper00013500_2
 Genotype "nuo-1(ua1); Ex[Punc-54::nuo-1(+)]"
 Reference WBPaper00013500
 
 
 
 Anatomy_function : "WBbtf0335"
-Assay	"Expression_mosaic"	"Condition : WBPaper00013500_3"
+Assay	"Expression_mosaic"	"WBPaper00013500_3"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0048589(developmental growth)|WBls:0000032(dauer larva) QUALITY:PATO:0000297(arrested)"
 Gene	"WBGene00003831"	Published_as	"nuo-1"
 Not_involved	"WBbt:0005784"	Insufficient	"Transformation of LB77 with the Ppie-1::nuo-1(+) construct did not allow nuo-1(ua1) animals to exit dauer in response to more favorable conditions."
 Reference	"WBPaper00013500"
 
-Condition : Condition : WBPaper00013500_3
+Condition : WBPaper00013500_3
 Genotype "nuo-1(ua1); Ex[Ppie-1::nuo-1(+)]"
 Reference WBPaper00013500
 
 
 
 Anatomy_function : "WBbtf0336"
-Assay	"Expression_mosaic"	"Condition : WBPaper00013500_4"
+Assay	"Expression_mosaic"	"WBPaper00013500_4"
 Phenotype	"WBPhenotype:0000127"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0048589(developmental growth)|WBls:0000032(dauer larva) QUALITY:PATO:0000297(arrested)"
 Gene	"WBGene00003831"	Published_as	"nuo-1"
 Not_involved	"WBbt:0005451"	Insufficient	"Transformation of LB77 with the Pmyo-2::nuo-1(+) construct did not allow nuo-1(ua1) animals to exit dauer in response to more favorable conditions."
 Reference	"WBPaper00013500"
 
-Condition : Condition : WBPaper00013500_4
+Condition : WBPaper00013500_4
 Genotype "nuo-1(ua1); Ex[Pmyo-2::nuo-1(+)]"
 Reference WBPaper00013500
 
@@ -5151,28 +5151,28 @@ Reference WBPaper00036472
 
 
 Anatomy_function : "WBbtf0397"
-Assay	"Expression_mosaic"	"Condition : WBPaper00036472_2"
+Assay	"Expression_mosaic"	"WBPaper00036472_2"
 Phenotype	"WBPhenotype:0000039"	Nonautonomous
 Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0008340(determination of adult life span) QUALITY:PATO:0001333(temporally extended) NOT"
 Gene	"WBGene00010671"	Published_as	"eak-7"
 Involved	"WBbt:0003679"	Sufficient	"neuron-specific (ric-19 promoter driven) expression of EAK-7::GFP rescues the life span extension phenotype of eak-7;akt-1 mutants."
 Reference	"WBPaper00036472"
 
-Condition : Condition : WBPaper00036472_2
+Condition : WBPaper00036472_2
 Genotype "eak-7;akt-1;Ex[ric-19p::EAK-7::GFP]"
 Reference WBPaper00036472
 
 
 
 Anatomy_function : "WBbtf0398"
-Assay	"Expression_mosaic"	"Condition : WBPaper00036472_3"
+Assay	"Expression_mosaic"	"WBPaper00036472_3"
 Phenotype	"WBPhenotype:0000039"	Nonautonomous
 Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0008340(determination of adult life span) QUALITY:PATO:0001333(temporally extended) NOT"
 Gene	"WBGene00010671"	Published_as	"eak-7"
 Involved	"WBbt:0005792"	Sufficient	"intestine-specific (ges-1 promoter driven) expression of EAK-7::GFP rescues the life span extension phenotype of eak-7;akt-1 mutants."
 Reference	"WBPaper00036472"
 
-Condition : Condition : WBPaper00036472_3
+Condition : WBPaper00036472_3
 Genotype "eak-7;akt-1;Ex[ges-1p::EAK-7::GFP]"
 Reference WBPaper00036472
 
@@ -7999,6 +7999,1094 @@ Reference	"WBPaper00042187"
 Condition : WBPaper00042187_7
 Genotype "madd-2(ok2226); Ex[unc-103e::madd-2::GFP]"
 Reference WBPaper00042187
+
+
+
+Anatomy_function : "WBbtf0599"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000812"	Nonautonomous
+Phenotype	"WBPhenotype:0000812"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|WBbt:0005784(germ line)|GO:0048468(cell development)"
+Phenotype	"WBPhenotype:0000812"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003704"	Published_as	"nhr-114"
+Involved	"WBbt:0005792"	Sufficient	"To test whether nhr-114 intestinal expression supports germline development and fertility, we generated animals expressing an epitope-tagged, RNAi-insensitive nhr-114 transgene in the intestines(EV441). Next, we reduced endogenous nhr-114 by injection-mediated RNAi in EV441, leaving the RNAi-insensitive nhr-114 transgene as the only source of nhr-114 activity. In this case, recovered fully fertile animals on an OP50 diet (84%, n = 511), suggesting that somatic NHR-114 activity in the intestine might be sufficient to prevent GSC division defects and sterility."
+Reference	"WBPaper00042194"
+
+
+Anatomy_function : "WBbtf0600"
+Assay	"Expression_mosaic"	"WBPaper00042194_1"
+Phenotype	"WBPhenotype:0000812"	Nonautonomous
+Phenotype	"WBPhenotype:0000812"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|WBbt:0005784(germ line)|GO:0048468(cell development)"
+Phenotype	"WBPhenotype:0000812"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003704"	Published_as	"nhr-114"
+Involved	"WBbt:0008378"	Sufficient	"A significant number of fertile rrf-1(pk1417); nhr-114(RNAi) animals were recovered), indicating that preservation of somatic nhr-114 activity promotes fertility."
+Reference	"WBPaper00042194"
+
+Condition : WBPaper00042194_1
+Genotype "rrf-1(pk1417); nhr-114(RNAi)"
+Reference WBPaper00042194
+
+
+
+Anatomy_function : "WBbtf0601"
+Assay	"Genetic_mosaic"	"WBPaper00044158_1"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective)"
+Gene	"WBGene00004140"	Published_as	"ebax-1"
+Involved	"WBbt:0003679"	Sufficient	"We performed mosaic analysis in unc-6; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-6 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Involved	"WBbt:0003679"	Necessary	"We performed mosaic analysis in unc-6; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-6 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Reference	"WBPaper00044158"
+
+Condition : WBPaper00044158_1
+Genotype "ebax-1(ju699); unc-6(ev400); Ex[Pebax-1::EBAX-1]"
+Reference WBPaper00044158
+
+
+
+Anatomy_function : "WBbtf0602"
+Assay	"Genetic_mosaic"	"WBPaper00044158_2"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective)"
+Gene	"WBGene00004140"	Published_as	"ebax-1"
+Involved	"WBbt:0003679"	Sufficient	"We performed mosaic analysis in unc-40; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-40 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Involved	"WBbt:0003679"	Necessary	"We performed mosaic analysis in unc-40; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-40 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Reference	"WBPaper00044158"
+
+Condition : WBPaper00044158_2
+Genotype "ebax-1(ju699); unc-40(e1430); Ex[Pebax-1::EBAX-1]"
+Reference WBPaper00044158
+
+
+
+Anatomy_function : "WBbtf0603"
+Assay	"Expression_mosaic"	"WBPaper00044158_3"
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00000915"	Published_as	"daf-21"
+Involved	"WBbt:0003679"	Sufficient	"daf-21 mutants showed synergistic enhancement of AVM guidance defects in the unc-6 mutant background. The enhanced defects in unc-6; daf-21 mutants were rescued by expression of DAF-21 in neurons."
+Reference	"WBPaper00044158"
+
+Condition : WBPaper00044158_3
+Genotype "daf-21; unc-6(ev400); Ex[Prgef-1::DAF-21]"
+Reference WBPaper00044158
+
+
+
+Anatomy_function : "WBbtf0604"
+Assay	"Expression_mosaic"	"WBPaper00044158_4"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00000915"	Published_as	"daf-21"
+Involved	"WBbt:0005237"	Sufficient	"daf-21 mutants showed synergistic enhancement of AVM guidance defects in the unc-6 mutant background. The enhanced defects in unc-6; daf-21 mutants were rescued by expression of DAF-21 in touch neurons."
+Reference	"WBPaper00044158"
+
+Condition : WBPaper00044158_4
+Genotype "daf-21; unc-6(ev400); Ex[Pmec-7::DAF-21]"
+Reference WBPaper00044158
+
+
+
+Anatomy_function : "WBbtf0605"
+Assay	"Expression_mosaic"	"WBPaper00044158_5"
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective)"
+Gene	"WBGene00000915"	Published_as	"daf-21"
+Not_involved	"WBbt:0007810"	Insufficient	"daf-21 mutants showed synergistic enhancement of AVM guidance defects in the unc-6 mutant background. The enhanced defects in unc-6; daf-21 mutants were not rescued by expression of DAF-21 in muscles."
+Reference	"WBPaper00044158"
+
+Condition : WBPaper00044158_5
+Genotype "daf-21; unc-6(ev400); Ex[Pmyo-3::DAF-21]"
+Reference WBPaper00044158
+
+
+
+Anatomy_function : "WBbtf0606"
+Assay	"Genetic_mosaic"	"WBPaper00043906_1"
+Phenotype	"WBPhenotype:0000730"	Autonomous
+Phenotype	"WBPhenotype:0000730"	Remark	"ENTITY:WBbt:0006122(MSpaaaaap)|GO:0006915(apoptotic cell death)"
+Phenotype	"WBPhenotype:0000730"	Remark	"QUALITY:PATO:0000467(present) NOT"
+Gene	"WBGene00012735"	Published_as	"sptf-3"
+Involved	"WBbt:0006598"	Necessary	"We generated sptf-3(n4850) mutants carrying an extrachromosomal array containing an sptf-3-rescuing transgene marked with the cell-autonomous GFP reporters sur-5::gfp and unc-119::gfp. We observed 56 mosaic animals that were not rescued for the defect in M4 sister cell death but that carried the array with the sptf-3-rescuing transgene. Among these 56 animals, we found two animals that retained the array in the blastomere MSpa, the great-great-great-grandmother of the M4 sister (MSpaaaaap), but did not find any animals that retained the array in the blastomere MSpaa, the great-great-grandmother of the M4 sister, indicating that sptf-3 is required at or later than the stage of the blastomere MSpaa and seems to function cell autonomously to promote the death of the M4 sister."
+Reference	"WBPaper00043906"
+
+Condition : WBPaper00043906_1
+Genotype "sptf-3(n4850);Ex[sptf-3-rescuing sur-5::gfp unc-119::gfp] "
+Reference WBPaper00043906
+
+
+
+
+Anatomy_function : "WBbtf0607"
+Assay	"Expression_mosaic"	"WBPaper00045029_1"
+Phenotype	"WBPhenotype:0001652"	Autonomous
+Phenotype	"WBPhenotype:0001652"	Remark	"ENTITY:WBbt:0004522(anchor cell)|GO:0005604(basement membrane)|GO:0022411(cellular component disassembly)"
+Phenotype	"WBPhenotype:0001652"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00006794"	Published_as	"unc-60"
+Involved	"WBbt:0004522"	Sufficient	"To determine if ADF/cofilin functions within the AC, we generated a construct in which the unc-60 (ADF/cofilin) transcript from the related nematode Caenorhabditis briggsae was expressed specifically in the AC. cdh-3>GFP::Cbrunc-60 restored invasion in animals treated with C. elegans unc-60a RNAi."
+Reference	"WBPaper00045029"
+
+Condition : WBPaper00045029_1
+Genotype "qyIs224[cdh-3 > GFP::Cbrunc-60]"
+Reference WBPaper00045029
+
+
+
+
+Anatomy_function : "WBbtf0608"
+Assay	"Expression_mosaic"	"WBPaper00045065_1"
+Phenotype	"WBPhenotype:0000901"	Nonautonomous
+Phenotype	"WBPhenotype:0000901"	Remark	"ENTITY:WBbt:0003712(g1)|GO:0009653(morphogenesis)"
+Phenotype	"WBPhenotype:0000901"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00000936"	Published_as	"dbl-1"
+Involved	"WBbt:0004467"	Sufficient	"We hypothesize that DBL-1 is expressed and secreted from M4 to affect gland cell morphology. To test this hypothesis, we asked if expressing dbl-1 in the M4 cell using the ser-7b promoter would rescue gland cell defects of dbl-1 and ceh-28 mutants. The ser-7b promoter is active exclusively in M4, and we have previously shown it remains active in ceh-28 mutants. ser-7b::dbl-1 partially rescued gland cell defects in both dbl-1 and ceh-28 mutants."
+Reference	"WBPaper00045065"
+
+Condition : WBPaper00045065_1
+Genotype "dbl-1(ev580); cuEx611[phat-3::yfp Pser-7b::dbl-1 rol-6d]"
+Reference WBPaper00045065
+
+
+
+
+Anatomy_function : "WBbtf0609"
+Assay	"Genetic_mosaic"	"WBPaper00045249_1"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003929"	Published_as	"pat-2"
+Involved	"WBbt:0005406"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pat-2/alpha-integrin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Involved	"WBbt:0003832"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pat-2/alpha-integrin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_1
+Genotype "pat-2(ok2148);uEx829(pat-2p::pat-2, pCFJ90, mec-3p::rfp)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0610"
+Assay	"Genetic_mosaic"	"WBPaper00045249_2"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003930"	Published_as	"pat-3"
+Involved	"WBbt:0005406"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pat-3/beta-integrin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Involved	"WBbt:0003832"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pat-3/beta-integrin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_2
+Genotype "pat-3(st564); uEx826(pat-3p::pat-3, pCFJ90, mec-3p::rfp)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0611"
+Assay	"Genetic_mosaic"	"WBPaper00045249_3"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006826"	Published_as	"unc-97"
+Involved	"WBbt:0005406"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of unc-97/PINCH in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Involved	"WBbt:0003832"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of unc-97/PINCH in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_3
+Genotype "unc-97(ra115)dpy-8(e130); uEx832(unc-97p::unc-97, pCFJ90, mec-3p::rfp)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0612"
+Assay	"Genetic_mosaic"	"WBPaper00045249_4"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006836"	Published_as	"unc-112"
+Involved	"WBbt:0005406"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of unc-112/Mig-2 in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Involved	"WBbt:0003832"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of unc-112/Mig-2 in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_4
+Genotype "unc-112(gk1); uEx824(unc-112p::unc-112, pCFJ90, mec-3p::rfp)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0613"
+Assay	"Genetic_mosaic"	"WBPaper00045249_5"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00006870"	Published_as	"pax-6"
+Involved	"WBbt:0005406"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pax-6/actopaxin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Involved	"WBbt:0003832"	Necessary	"To circumvent the embryonic lethality associated with the complete loss of the focal adhesion genes, we tested touch sensitivity in animals that were mosaic for null alleles. Loss of pax-6/actopaxin in the anterior TRNs (the two ALM cells and the AVM cell) yielded animals that were partially insensitive to anterior touch."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_5
+Genotype "pat-6(st561); uEx827(pat-6p::pat-6, pCFJ90, mec-3p::rfp)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0614"
+Assay	"Expression_mosaic"	"WBPaper00045249_6"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000102"	Published_as	"akt-1"
+Involved	"WBbt:0005237"	Sufficient	"TRN-specific expression of akt-1(+) restored the anterior touch sensitivity of akt-1 animals (from 2.6 +/- 0.3 responses to 4.0 +/- 0.3responses, N >= 3, p<0.0001), indicating that the pathway was active in the TRNs."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_6
+Genotype "akt-1(ok525)V; uEx891(mec-17p::gfp, mec-17p::akt-1a, pCFJ90)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0615"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0005739(head)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0004467"	Necessary	"Laser ablation of both the M4 and I5 neurons in late L4 stage animals resulted in adults whose anterior touch sensitivity mimicked the loss of ins-10 within 24 h of ablation, but whose posterior touch sensitivity did not change (data not shown). Ablation of either cell alone resulted in little or no reduction of anterior touch sensitivity compared with controls."
+Involved	"WBbt:0004740"	Necessary	"Laser ablation of both the M4 and I5 neurons in late L4 stage animals resulted in adults whose anterior touch sensitivity mimicked the loss of ins-10 within 24 h of ablation, but whose posterior touch sensitivity did not change (data not shown). Ablation of either cell alone resulted in little or no reduction of anterior touch sensitivity compared with controls."
+Reference	"WBPaper00045249"
+
+
+Anatomy_function : "WBbtf0616"
+Assay	"Expression_mosaic"	"WBPaper00045249_7"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050975(sensory perception of touch)|WBbt:0005739(head)|GO:0051931(regulation of sensory perception)|PATO:0000033(concentration)|CHEBI:26710(NaCl)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005237"	Sufficient	"Expressing daf-16a but not daf-16b in the TRNs of daf-16 animals caused them to reduce anterior touch sensitivity on high salt."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_7
+Genotype "daf-16(mgDf50)I; uEx894(mec-17p::gfp, mec-3p::daf-16a, pCFJ90)"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0617"
+Assay	"Genetic_ablation"	"WBPaper00045249_8"
+Phenotype	"WBPhenotype:0000850"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050975(sensory perception of touch)|WBbt:0005739(head)"
+Phenotype	"WBPhenotype:0000850"	Remark	"QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0005663"	Sufficient	"che-1 animals, which lack both ASE cells, have reduced anterior touch sensitivity that can be restored by TRN::pdk-1(gf), suggesting that INS-22 from the ASE cells regulates TRN touch sensitivity."
+Reference	"WBPaper00045249"
+
+Condition : WBPaper00045249_8
+Genotype "che-1(ot151) otIs114 I"
+Reference WBPaper00045249
+
+
+
+
+Anatomy_function : "WBbtf0618"
+Assay	"Genetic_mosaic"	"WBPaper00045273_1"
+Phenotype	"WBPhenotype:0001038"	Autonomous
+Phenotype	"WBPhenotype:0001038"	Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
+Phenotype	"WBPhenotype:0001038"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Involved	"WBbt:0005784"	Sufficient	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
+Reference	"WBPaper00045273"
+
+Condition : WBPaper00045273_1
+Genotype "kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]"
+Reference WBPaper00045273
+
+
+
+
+Anatomy_function : "WBbtf0619"
+Assay	"Genetic_mosaic"	"WBPaper00045273_1"
+Phenotype	"WBPhenotype:0001038"	Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
+Phenotype	"WBPhenotype:0001038"	Remark	"QUALITY:PATO:0001997(reduced)"
+Not_involved	"WBbt:0007815"	Insufficient	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant. Although we did not recover animals with speci&#64257;c loss of the ugEx27 array in the germ line, gonads with robust somatic gonad KIN-10 expression, but very limited expression in the germ line, maintain over-proliferation in regions where KIN-10 expression is low or absent."
+Reference	"WBPaper00045273"
+
+Condition : WBPaper00045273_1
+Genotype "kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]"
+Reference WBPaper00045273
+
+
+
+
+Anatomy_function : "WBbtf0620"
+Assay	"Expression_mosaic"	"WBPaper00044735_1"
+Phenotype	"WBPhenotype:0001739"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0010259(multicellular organismal aging)"
+Phenotype	"WBPhenotype:0001739"	Remark	"QUALITY:PATO:0000499(decreased duration) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"To test the idea that age-related loss of axon regeneration are separately regulated, we attempted to decouple the two phenotypes using daf-16(-) mosaic animals. We found that intestine::daf-16 animals did exhibit increased lifespan compared to controls."
+Reference	"WBPaper00044735"
+
+Condition : WBPaper00044735_1
+Genotype "daf-2(e1370); daf-16(mu86); Ex[Pges-1::daf-16]"
+Reference WBPaper00044735
+
+
+
+
+Anatomy_function : "WBbtf0621"
+Assay	"Expression_mosaic"	"WBPaper00044735_1"
+Phenotype	"WBPhenotype:0001911"	Remark	"ENTITY:PATO:0000308(old)|WBls:0000041(adult)|WBbt:0007849(hermaphrodite)|WBbt:0005190(GABAergic neuron)|GO:0030424(axon)|GO:0031099(regeneration)"
+Phenotype	"WBPhenotype:0001911"	Remark	"QUALITY:PATO:0001997(decreased number)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0005792"	Insufficient	"To test the idea that age-related loss of axon regeneration and lifespan are separately regulated, we attempted to decouple the two phenotypes using daf-16(-) mosaic animals. However, 5-day adult intestine::daf-16 animals showed a low level of axon regeneration that was similar to wild-type."
+Reference	"WBPaper00044735"
+
+Condition : WBPaper00044735_1
+Genotype "daf-2(e1370); daf-16(mu86); Ex[Pges-1::daf-16]"
+Reference WBPaper00044735
+
+
+
+
+Anatomy_function : "WBbtf0622"
+Assay	"Expression_mosaic"	"WBPaper00044735_2"
+Phenotype	"WBPhenotype:0001739"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0010259(multicellular organismal aging)"
+Phenotype	"WBPhenotype:0001739"	Remark	"QUALITY:PATO:0000499(decreased duration)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0003679"	Insufficient	"We expressed wild-type daf-16 under the control of the pan-neuronal promoter Prgef-1 in daf-2(-); daf-16(-) mutants. In these animals, daf-16 is expressed only in neurons, where it is active due to the lack of daf-2. Neuronal-specific expression of daf-16 had no effect on lifespan."
+Reference	"WBPaper00044735"
+
+Condition : WBPaper00044735_2
+Genotype "daf-2(e1370); daf-16(mu86); Ex[Prgef-1::daf-16]"
+Reference WBPaper00044735
+
+
+
+
+Anatomy_function : "WBbtf0623"
+Assay	"Expression_mosaic"	"WBPaper00044735_2"
+Phenotype	"WBPhenotype:0001911"	Remark	"ENTITY:PATO:0000308(old)|WBls:0000041(adult)|WBbt:0007849(hermaphrodite)|WBbt:0005190(GABAergic neuron)|GO:0030424(axon)|GO:0031099(regeneration)"
+Phenotype	"WBPhenotype:0001911"	Remark	"QUALITY:PATO:0001997(decreased number) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We expressed wild-type daf-16 under the control of the pan-neuronal promoter Prgef-1 in daf-2(-); daf-16(-) mutants. In these animals, daf-16 is expressed only in neurons, where it is active due to the lack of daf-2. However, aged neuron:daf-16 animals had improved axon regeneration compared to controls, even though they did not live any longer."
+Reference	"WBPaper00044735"
+
+Condition : WBPaper00044735_2
+Genotype "daf-2(e1370); daf-16(mu86); Ex[Prgef-1::daf-16]"
+Reference WBPaper00044735
+
+
+
+
+Anatomy_function : "WBbtf0624"
+Assay	"Expression_mosaic"	"WBPaper00044735_3"
+Phenotype	"WBPhenotype:0001911"	Autonomous
+Phenotype	"WBPhenotype:0001911"	Remark	"ENTITY:PATO:0000308(old)|WBls:0000041(adult)|WBbt:0007849(hermaphrodite)|WBbt:0005190(GABAergic neuron)|GO:0030424(axon)|GO:0031099(regeneration)"
+Phenotype	"WBPhenotype:0001911"	Remark	"QUALITY:PATO:0000470(increased number) NOT"
+Gene	"WBGene00000913"	Published_as	"daf-18"
+Involved	"WBbt:0005190"	Sufficient	"We found that GABA-specific daf-18 expression (driven by the unc-47 [vesicular GABA transporter] promoter) inhibits regeneration in aged daf-18(-) mutants."
+Reference	"WBPaper00044735"
+
+Condition : WBPaper00044735_3
+Genotype "daf-18(mg198); Ex[Punc-47::daf-18cDNA]"
+Reference WBPaper00044735
+
+
+
+
+Anatomy_function : "WBbtf0625"
+Assay	"Expression_mosaic"	"WBPaper00045403_1"
+Phenotype	"WBPhenotype:0000753"	Nonautonomous
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0007846"	Sufficient	"Only GFP::DAF-16 expression from a hypodermis-specific promoter (col-12) significantly rescued the daf-16(mu86) phenotype (reduced VPC cell division arrest upon starvation)."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_1
+Genotype "daf-16(mu86); qyEx292[col-12::GFP::daf-16]"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0626"
+Assay	"Expression_mosaic"	"WBPaper00045403_2"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0003679"	Insufficient	"GFP::DAF-16 expressed from tissue-specific promoters for neurons (unc-119) failed to rescue the daf-16(mu86) bypass (reduced VPC cell division arrest upon starvation) phenotype."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_2
+Genotype "daf-16(mu86); qyEx262[unc-119::GFP::daf-16]"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0627"
+Assay	"Expression_mosaic"	"WBPaper00045403_3"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0003679"	Insufficient	"GFP::DAF-16 expressed from tissue-specific promoters for neurons (unc-115) failed to rescue the daf-16(mu86) bypass (reduced VPC cell division arrest upon starvation) phenotype."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_3
+Genotype "daf-16(mu86); qyEx268[unc-115::GFP::daf-16]"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0628"
+Assay	"Expression_mosaic"	"WBPaper00045403_4"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0007810"	Insufficient	"GFP::DAF-16 expressed from tissue-specific promoters for muscles (myo-3) failed to rescue the daf-16(mu86) bypass (reduced VPC cell division arrest upon starvation) phenotype."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_4
+Genotype "daf-16(mu86); qyEx264[myo-3::GFP::daf-16]"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0629"
+Assay	"Expression_mosaic"	"WBPaper00045403_5"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0005792"	Insufficient	"GFP::DAF-16 expressed from tissue-specific promoters for intestine (ges-1) failed to rescue the daf-16(mu86) bypass (reduced VPC cell division arrest upon starvation) phenotype."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_5
+Genotype "daf-16(mu86); qyEx267[ges-1::GFP::daf-16]"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0630"
+Assay	"Expression_mosaic"	"WBPaper00045403_6"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0000297(arrested)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0005792"	Unnecessary	"We carried out tissue-specific RNAi of daf-16. Targeted reduction of daf-16 in the intestine did not alter sensitivity to the removal from food."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_6
+Genotype "rde-1(ne219); nhx-2::rde-1"
+Remark "strain name VP303"
+Other "daf-16 feeding RNAi"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0631"
+Assay	"Expression_mosaic"	"WBPaper00045403_7"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0000297(arrested)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0006804"	Unnecessary	"We carried out tissue-specific RNAi of daf-16. Targeted reduction of daf-16 in muscle did not alter sensitivity to the removal from food."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_7
+Genotype "rde-1(ne219); hlh-1::rde-1"
+Remark "strain name NR350"
+Other "daf-16 feeding RNAi"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0632"
+Assay	"Expression_mosaic"	"WBPaper00045403_8"
+Phenotype	"WBPhenotype:0000753"	Remark	"ENTITY:WBls:0000035(L3 larva Ce)|WBbt:0007809(VPC)|GO:0051301(cell division)|WBbt:0006748(vulva)|GO:0048513(organ development)|GO:0042594(starvation response)"
+Phenotype	"WBPhenotype:0000753"	Remark	"QUALITY:PATO:0000297(arrested) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0007846"	Necessary	"We carried out tissue-specific RNAi of daf-16. Reducing daf-16 specifically in the hypodermis reproduced the phenotype of systemic loss of daf-16 (altered sensitivity to the removal from food)."
+Reference	"WBPaper00045403"
+
+Condition : WBPaper00045403_8
+Genotype "rde-1(ne219); lin-26::rde-1"
+Remark "strain name NR222"
+Other "daf-16 feeding RNAi"
+Reference WBPaper00045403
+
+
+
+
+Anatomy_function : "WBbtf0633"
+Assay	"Genetic_mosaic"	"WBPaper00044621_1"
+Phenotype	"WBPhenotype:0001661"	Autonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005833(AWC-OFF)|GO:0048664(neuron fate determination)|"
+Phenotype	"WBPhenotype:0001661"	Remark	"GO:0035545(determination of left/right symmetry in nervous system)"
+Phenotype	"WBPhenotype:0001661"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000995"	Published_as	"die-1"
+Involved	"WBbt:0005833"	Sufficient	"We generated transgenic die-1(w34)-null mutants that carry an extrachromosomal array containing the rescuing die-1 fosmid reporter and the AWCL/AWCR-expressed odr-1 promoter::DsRed marker. We scored expression of the AWC-ON marker str-2promoter::GFP, contained on a separate, chromosomally integrated array. We found that the presence of the die-1 array in an AWC neuron results in an increased probability of the AWC-OFF state compared with AWC neurons that have lost the array."
+Reference	"WBPaper00044621"
+
+Condition : WBPaper00044621_1
+Genotype "die-1(w34); kyIs140(str-2p::GFP; vyEx1462[die-1::YFP ord-1p::DsRed])"
+Reference WBPaper00044621
+
+
+
+
+Anatomy_function : "WBbtf0634"
+Assay	"Genetic_mosaic"	"WBPaper00044621_1"
+Phenotype	"WBPhenotype:0001661"	Autonomous
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005833(AWC-OFF)|GO:0048664(neuron fate determination)|"
+Phenotype	"WBPhenotype:0001661"	Remark	"GO:0035545(determination of left/right symmetry in nervous system)"
+Phenotype	"WBPhenotype:0001661"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000995"	Published_as	"die-1"
+Involved	"WBbt:0005833"	Sufficient	"We generated transgenic die-1(w34)-null mutants that carry an extrachromosomal array containing the rescuing die-1 fosmid reporter and the AWCL/AWCR-expressed odr-1 promoter::DsRed marker. We scored expression of the AWC-ON marker str-2promoter::GFP, contained on a separate, chromosomally integrated array. We found that the presence of the die-1 array in an AWC neuron results in an increased probability of the AWC-OFF state compared with AWC neurons that have lost the array. Furthermore, we specifically examined animals that contain die-1(+)gene activity on a rescuing array (as assessed with the expression of the odr-1 marker) in one AWC neuron but not the contralateral homolog. We found that in these animals, the presence of the die-1 array tracks with the adoption of the AWC-OFF phenotype."
+Reference	"WBPaper00044621"
+
+Condition : WBPaper00044621_1
+Genotype "die-1(w34); kyIs140(str-2p::GFP; vyEx1462[die-1::YFP ord-1p::DsRed])"
+Reference WBPaper00044621
+
+
+
+
+Anatomy_function : "WBbtf0635"
+Assay	"Genetic_mosaic"	"WBPaper00045414_1"
+Phenotype	"WBPhenotype:0000469"	Nonautonomous
+Phenotype	"WBPhenotype:0000469"	Remark	"ENTITY:WBbt:0008598(Q cell)|WBbt:0003927(AQR)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000469"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000396"	Published_as	"cdh-4"
+Not_involved	"WBbt:0003927"	Unnecessary	"To test the functional requirement of cdh-4 in the Q cells, we performed a mosaic analysis using the cdh-4::gfp fosmid transgene. A stably-integrated gcy-32::cfp transgene was used to score the positions of AQR and PQR, and an unstable extrachromosomal array containing rescuing cdh-4::gfp and gcy-32::yfp was used to generate genetic mosaics of cdh-4(+) activity in the cdh-4(lq56) mutant. The cdh-4::gfp extrachromosomal array rescued AQR and PQR defects in cdh-4(lq56) mutants, indicating that it supplies cdh-4(+)activity. We next screened for mosaic animals in which the cdh-4::gfp extrachromosomal array was specifically lost in either AQR or PQR but retained in the other and in the URX neurons using gcy-32::cfp expression. The positions of AQR or PQR that lost the array were then determined by gcy-32::yfp. In such mosaic animals, AQR and PQR migration defects were not significantly different from non-mosiac, rescued animal."
+Reference	"WBPaper00045414"
+
+Condition : WBPaper00045414_1
+Genotype "cdh-4(lq56); Is[gcy-32::cfp]; Ex[cdh-4(+)]"
+Reference WBPaper00045414
+
+
+
+
+Anatomy_function : "WBbtf0636"
+Assay	"Genetic_mosaic"	"WBPaper00045414_1"
+Phenotype	"WBPhenotype:0000469"	Nonautonomous
+Phenotype	"WBPhenotype:0000469"	Remark	"ENTITY:WBbt:0008598(Q cell)| WBbt:0004096(PQR)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000469"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000396"	Published_as	"cdh-4"
+Not_involved	"WBbt:0004096"	Unnecessary	"To test the functional requirement of cdh-4 in the Q cells, we performed a mosaic analysis using the cdh-4::gfp fosmid transgene. A stably-integrated gcy-32::cfp transgene was used to score the positions of AQR and PQR, and an unstable extrachromosomal array containing rescuing cdh-4::gfp and gcy-32::yfp was used to generate genetic mosaics of cdh-4(+) activity in the cdh-4(lq56) mutant. The cdh-4::gfp extrachromosomal array rescued AQR and PQR defects in cdh-4(lq56) mutants, indicating that it supplies cdh-4(+)activity. We next screened for mosaic animals in which the cdh-4::gfp extrachromosomal array was specifically lost in either AQR or PQR but retained in the other and in the URX neurons using gcy-32::cfp expression. The positions of AQR or PQR that lost the array were then determined by gcy-32::yfp. In such mosaic animals, AQR and PQR migration defects were not significantly different from non-mosiac, rescued animal."
+Reference	"WBPaper00045414"
+
+Condition : WBPaper00045414_1
+Genotype "cdh-4(lq56); Is[gcy-32::cfp]; Ex[cdh-4(+)]"
+Reference WBPaper00045414
+
+
+
+
+Anatomy_function : "WBbtf0637"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000648"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034609(spicule insertion)"
+Phenotype	"WBPhenotype:0000648"	Remark	"QUALITY:PATO:0000502(delayed)"
+Involved	"WBbt:0008189"	Necessary	"The mature gonad consists of the germ line, seminal vesicle and vas deferens. We measured the initial insertion time and refractory period of males that had different cellular constituents of their gonad laser-ablated. We found that males lacking all of these structures required longer time to commence mating."
+Involved	"WBbt:0005784"	Necessary	"The mature gonad consists of the germ line, seminal vesicle and vas deferens. We measured the initial insertion time and refractory period of males that had different cellular constituents of their gonad laser-ablated. We found that males lacking all of these structures required longer time to commence mating."
+Involved	"WBbt:0008202"	Necessary	"The mature gonad consists of the germ line, seminal vesicle and vas deferens. We measured the initial insertion time and refractory period of males that had different cellular constituents of their gonad laser-ablated. We found that males lacking all of these structures required longer time to commence mating."
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0638"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000648"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034609(spicule insertion)"
+Phenotype	"WBPhenotype:0000648"	Remark	"QUALITY:PATO:0000502(delayed)"
+Involved	"WBbt:0005784"	Necessary	"We next asked if the somatic gonad, consisting of the seminal vesicle (the storage area of mature sperm) and the vas deferens (a tubular seminal fluid-producing conduit for sperm movement), was sufficient to promote the initial mating drive, or if the germ line was also required. We found that germ line-ablated males behaviorally resembled the gonad-ablated males, indicating that the germ line is required for the gonad to promote mating."
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0639"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000648"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034609(spicule insertion)"
+Phenotype	"WBPhenotype:0000648"	Remark	"QUALITY:PATO:0000502(delayed) NOT"
+Not_involved	"WBbt:0005062"	Unnecessary	"Removal of the linker cell late in development prevents the mature vas deferens from connecting to the cloacal opening (Sulston et al., 1980). The somatic gonad and germ line are still functional and sperm moves from the seminal vesicle, but are retained in the vas deferens upon spicule insertion. Interestingly, the operation did not affect the initial mating drive."
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0640"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000648"	Remark	"ENTITY:WBbt:0007850(male)|GO:0060179(male mating behavior)|REENTRY|POST|GO:0007620(copulation)"
+Phenotype	"WBPhenotype:0000648"	Remark	"QUALITY:PATO:0000694(premature)"
+Involved	"WBbt:0007805"	Necessary	"Unlike the larval SPD and SPV-ablated males, spicule tip cut adult males did not display variable mating defects. Both the mock-cut control and operated males displayed normal initial response times to hermaphrodites, but interestingly, the spicule tips-cut males displayed a significantly shorter refractory period than control males."
+Involved	"WBbt:0006862"	Necessary	"Unlike the larval SPD and SPV-ablated males, spicule tip cut adult males did not display variable mating defects. Both the mock-cut control and operated males displayed normal initial response times to hermaphrodites, but interestingly, the spicule tips-cut males displayed a significantly shorter refractory period than control males."
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0641"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004013"	Remark	"ENTITY:WBbt:0007850(male)|GO:0042713(sperm ejaculation)"
+Phenotype	"WBPhenotype:0004013"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0007805"	Necessary	"Although spicule tips-cut males lacking functional SPV and SPD could insert their spicules, many of the males were defective in ejaculation."
+Involved	"WBbt:0006862"	Necessary	"Although spicule tips-cut males lacking functional SPV and SPD could insert their spicules, many of the males were defective in ejaculation."
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0642"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000648"	Remark	"ENTITY:WBbt:0007850(male)|GO:0060179(male mating behavior)|WBbt:0008441(vas deferens valve cell)|GO:0060401(cytosolic calcium ion transport)|GO:0007320(insemination)"
+Phenotype	"WBPhenotype:0000648"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0007805"
+Involved	"WBbt:0006862"
+Reference	"WBPaper00045365"
+
+
+Anatomy_function : "WBbtf0643"
+Assay	"Expression_mosaic"	"WBPaper00044913_1"
+Phenotype	"WBPhenotype:0001226"	Autonomous
+Phenotype	"WBPhenotype:0001226"	Remark	"ENTITY: WBbt:0005490(PLM)|GO:0007409(axonogenesis)"
+Phenotype	"WBPhenotype:0001226"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00004121"	Published_as	"ptrn-1"
+Involved	"WBbt:0005490"	Sufficient	"The defective PLM commissure extension observed in the ptrn-1(tm5597) mutant was fully rescued by ptrn-1a cDNA expressed in the PLM neuron, indicating that the role for PTRN-1 in commissure formation is cell-autonomous."
+Reference	"WBPaper00044913"
+
+Condition : WBPaper00044913_1
+Genotype "ptrn-1(tm5597);Ex[Punc-86::ptrn-1]"
+Reference WBPaper00044913
+
+
+
+
+Anatomy_function : "WBbtf0644"
+Assay	"Expression_mosaic"	"WBPaper00044913_2"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY: WBbt:0005490(PLM)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00004121"	Published_as	"ptrn-1"
+Involved	"WBbt:0005490"	Sufficient	"To determine whether the requirement for ptrn-1 in SV localization is cell-autonomous, we used two different promoters to drive ptrn-1a::yfp cDNA expression in the PLM neuron of the ptrn-1 mutants. Both constructs rescued the defects in mCherry::RAB-3 localization, indicating that PTRN-1 functions cell autonomously in the PLM neuron to promote proper SV localization."
+Reference	"WBPaper00044913"
+
+Condition : WBPaper00044913_2
+Genotype "ptrn-1(tm5597);Ex[Punc-86::ptrn-1a::yfp]"
+Reference WBPaper00044913
+
+
+
+
+Anatomy_function : "WBbtf0645"
+Assay	"Expression_mosaic"	"WBPaper00044913_3"
+Phenotype	"WBPhenotype:0000102"	Autonomous
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY: WBbt:0005490(PLM)|GO:0008021(synaptic vesicle)|GO:0097091(synaptic vesicle clustering)"
+Phenotype	"WBPhenotype:0000102"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00004121"	Published_as	"ptrn-1"
+Involved	"WBbt:0005490"	Sufficient	"To determine whether the requirement for ptrn-1 in SV localization is cell-autonomous, we used two different promoters to drive ptrn-1a::yfp cDNA expression in the PLM neuron of the ptrn-1 mutants. Both constructs rescued the defects in mCherry::RAB-3 localization, indicating that PTRN-1 functions cell autonomously in the PLM neuron to promote proper SV localization."
+Reference	"WBPaper00044913"
+
+Condition : WBPaper00044913_3
+Genotype "ptrn-1(wy560);Ex[Pmec-3::ptrn-1a::yfp]"
+Reference WBPaper00044913
+
+
+
+
+Anatomy_function : "WBbtf0646"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00012929"	Published_as	"rsks-1"
+Involved	"WBbt:0005784"	Necessary	"Using these tissue-specific RNAi tools, we identified the tissues in which rsks-1 RNAi synergistically extended the lifespan of daf-2 animals. Knockdown of rsks-1 in the daf-2 single mutant extended the mean lifespan by 54%. Germline-specific rsks-1 RNAi extended the daf-2 lifespan by 41%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0647"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00012929"	Published_as	"rsks-1"
+Involved	"WBbt:0007846"	Necessary	"Using these tissue-specific RNAi tools, we identified the tissues in which rsks-1 RNAi synergistically extended the lifespan of daf-2 animals. Knockdown of rsks-1 in the daf-2 single mutant extended the mean lifespan by 54%. Hypodermis-specific rsks-1 RNAi extended the daf-2 lifespan by 39%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0648"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00012929"	Published_as	"rsks-1"
+Involved	"WBbt:0005792"	Necessary	"Using these tissue-specific RNAi tools, we identified the tissues in which rsks-1 RNAi synergistically extended the lifespan of daf-2 animals. Knockdown of rsks-1 in the daf-2 single mutant extended the mean lifespan by 54%. Intestine-specific rsks-1 RNAi in daf-2 caused a moderate lifespan extension of 21%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0649"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00012929"	Published_as	"rsks-1"
+Not_involved	"WBbt:0006804"	Unnecessary	"Using these tissue-specific RNAi tools, we identified the tissues in which rsks-1 RNAi synergistically extended the lifespan of daf-2 animals. Knockdown of rsks-1 in the daf-2 single mutant extended the mean lifespan by 54%. Body wall muscle-specific rsks-1 RNAi did not extend daf-2 lifespan significantly."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0650"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005784"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including daf-16. Knockdown of daf-16 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 69%. Upon inhibition of these genes in the germline, the synergistic longevity was significantly suppressed by daf-16 RNAi(49%)."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0651"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including daf-16. Knockdown of daf-16 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 69%. Intestine-specific knockdown of daf-16 significantly suppressed daf-2 rsks-1 lifespan by 50%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0652"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0007846"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including daf-16. Knockdown of daf-16 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 69%. Additionally, inhibition of daf-16 in the hypodermis also significantly decreased the daf-2 rsks-1 lifespan by 63%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0653"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Not_involved	"WBbt:0006804"	Unnecessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including daf-16. Knockdown of daf-16 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 69%. In the body wall muscle, knockdown of daf-16 had little effect on longevity."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0654"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00020142"	Published_as	"aak-2"
+Involved	"WBbt:0005784"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including aak-2. Knockdown of aak-2 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 58%. Upon inhibition in the germline, the synergistic longevity was significantly suppressed by aak-2 RNAi(58%)."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0655"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00020142"	Published_as	"aak-2"
+Involved	"WBbt:0005792"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including aak-2. Knockdown of daf-16 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 58%. Intestine-specific knockdown of aak-2 significantly suppressed daf-2 rsks-1 lifespan by 39%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0656"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate) NOT"
+Gene	"WBGene00002004"	Published_as	"hsf-1"
+Involved	"WBbt:0005792"	Necessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including hsf-1. Knockdown of hsf-1 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 72%. Intestine-specific knockdown of hsf-1 significantly suppressed daf-2 rsks-1 lifespan by 69%."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0657"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00002004"	Published_as	"hsf-1"
+Not_involved	"WBbt:0006804"	Unnecessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including hsf-1. Knockdown of hsf-1 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 72%. In the body wall muscle, knockdown of hsf-1 had little effect on longevity."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0658"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000041(adult)|GO:0007568(aging)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0000911(decreased rate)"
+Gene	"WBGene00020142"	Published_as	"aak-2"
+Not_involved	"WBbt:0006804"	Unnecessary	"We tested the tissue-specific involvement of the key suppressors of daf-2 rsks-1, including aak-2. Knockdown of aak-2 by RNAi in daf-2 rsks-1 suppressed the mean lifespan by 58%. In the body wall muscle, knockdown of aak-2 had little effect on longevity."
+Reference	"WBPaper00044638"
+
+
+Anatomy_function : "WBbtf0659"
+Assay	"Expression_mosaic"	"WBPaper00044613_1"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00004095"	Published_as	"pqe-1"
+Involved	"WBbt:0005304"	Sufficient	"Mutation of pqe-1 results in ectopic unc-4 promoter expression in all six VC neurons. Since expression of the pqe-1a isoform from the VC-expressed promoter lin-11p::pes-10p, which contains a 500 bp lin-11 enhancer and a pes-10 basal promoter, prevented the ectopic unc-4 expression, PQE-1 acts cell-autonomously and does not require the exonuclease domain."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_1
+Genotype "pqe-1(u825); uIs45[unc-4p::GFP]; Ex[lin-11p::pes-10p::pqe-1a]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0660"
+Assay	"Expression_mosaic"	"WBPaper00044613_2"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00004095"	Published_as	"pqe-1"
+Involved	"WBbt:0005304"	Sufficient	"Mutation of pqe-1 results in ectopic unc-4 promoter expression in all six VC neurons. Since expression of the pqe-1a isoform from the VC-expressed promoter lin-11p::pes-10p, which contains a 500 bp lin-11 enhancer and a pes-10 basal promoter, prevented the ectopic unc-4 expression, PQE-1 acts cell-autonomously and does not require the exonuclease domain. Because lin-11p::pes-10p is also expressed in secondary vulval cells, uterine pi cell progeny, and the spermatheca, we repeated the rescue experiments by expressing pqe-1a(+) from the"
+Involved	"WBbt:0005304"	Sufficient	"ida-1 promoter, which is expressed in many neurons but only overlaps with the expression pattern of lin-11p::pes-10p in the VC cells. We obtained similar result."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_2
+Genotype "pqe-1(u825); uIs45[unc-4p::GFP]; Ex[ida-1p::pqe-1a]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0661"
+Assay	"Genetic_mosaic"	"WBPaper00044613_3"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
+Gene	"WBGene00004095"	Published_as	"pqe-1"
+Involved	"WBbt:0005304"	Necessary	"Mutation of pqe-1 results in ectopic unc-4 promoter expression in all six VC neurons. To rule out the possible non-cell autonomous interactions among the VC neurons, which synapses on one another, we also performed mosaic analyses on pqe-1(u825); uIs45 animals with an extragenic pqe-1(+) array. In the 15 mosaic animals we examined, all VC1-3 and VC6 cells lacking the rescuing array expressed GFP strongly, suggesting that pqe-1 acts cell autonomously."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_3
+Genotype "pqe-1(u825); uIs45[unc-4p::GFP]; Ex[pqe-1(+)]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0662"
+Assay	"Expression_mosaic"	"WBPaper00044613_4"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00011636"	Published_as	"cec-3"
+Involved	"WBbt:0005304"	Sufficient	"Mutation of cec-3 results in ectopic unc-4 promoter expression in all six VC neurons. , CEC-3 expression in VC neurons restored the normal unc-4 promoter expression pattern, indicating that it acts cell-autonomously in the VC neurons."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_4
+Genotype "cec-3(u830); uIs45[unc-4p::GFP]; Ex[lin-11p::pes-10p::cec-3]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0663"
+Assay	"Genetic_mosaic"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
+Gene	"WBGene00011636"	Published_as	"cec-3"
+Involved	"WBbt:0005304"	Necessary	"Mutation of cec-3 results in ectopic unc-4 promoter expression in all six VC neurons. , CEC-3 expression in VC neurons restored the normal unc-4 promoter expression pattern. Mosaic analysis confirmed the cec-3 cell autonomy in individual VC cells (data not shown)."
+Reference	"WBPaper00044613"
+
+
+Anatomy_function : "WBbtf0664"
+Assay	"Expression_mosaic"	"WBPaper00044613_5"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00002335"	Published_as	"let-60"
+Involved	"WBbt:0005304"	Sufficient	"let-60/RAS and lin-45/RAF mutant, which lack downstream effectors of EGFR, also failed to express unc-4 in vulval VC neurons. Importantly, unc-4 expression in VC4 and VC5 neurons was restored in animals with hypomorphic alleles of let-60 and lin-45 by VC-specific expression of the respective wild-type gene, indicating that the EGFR/RAS/RAF signaling cascade functions cell-autonomously in VC neurons."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_5
+Genotype "let-60(n2021); uIs45[unc-4p::GFP]; Ex[lin-11p::pes-10p::let-60(+)]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0665"
+Assay	"Expression_mosaic"	"WBPaper00044613_6"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00003030"	Published_as	"lin-45"
+Involved	"WBbt:0005304"	Sufficient	"let-60/RAS and lin-45/RAF mutant, which lack downstream effectors of EGFR, also failed to express unc-4 in vulval VC neurons. Importantly, unc-4 expression in VC4 and VC5 neurons was restored in animals with hypomorphic alleles of let-60 and lin-45 by VC-specific expression of the respective wild-type gene, indicating that the EGFR/RAS/RAF signaling cascade functions cell-autonomously in VC neurons."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_6
+Genotype "lin-45(n2018); uIs45[unc-4p::GFP]; Ex[lin-11p::pes-10p::lin-45(+)]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0666"
+Assay	"Laser_ablation"	"WBPaper00044613_7"
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
+Involved	"WBbt:0006768"	Necessary	"laser ablation of vulF cells caused the loss of unc-4 expression in the VC4 and VC5 neurons, suggesting that vulF cells are responsible for releasing EGF that activates unc-4."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_7
+Genotype "uIs45[unc-4p::GFP]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0667"
+Assay	"Genetic_ablation"	"WBPaper00044613_8"
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
+Involved	"WBbt:0006768"	Necessary	"Laser ablation of vulF cells caused the loss of unc-4 expression in the VC4 and VC5 neurons, suggesting that vulF cells are responsible for releasing EGF that activates unc-4. To further confirm the importance of vulF cells in inducing unc-4, we examined lin-12d mutants, in which all the six vulval precursor cells adopt the secondary vulval cell fate and the primary lineage progeny vulF cells are not generate. The strong lin-12d allele n137 caused a multivulva phenotype but had no unc-4 expression in any VC cells."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_8
+Genotype "lin-12(n137); uIs45[unc-4p::GFP]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0668"
+Assay	"Genetic_ablation"	"WBPaper00044613_9"
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
+Involved	"WBbt:0006768"	Necessary	"Laser ablation of vulF cells caused the loss of unc-4 expression in the VC4 and VC5 neurons, suggesting that vulF cells are responsible for releasing EGF that activates unc-4. To further confirm the importance of vulF cells in inducing unc-4, we examined lin-12d mutants, in which all the six vulval precursor cells adopt the secondary vulval cell fate and the primary lineage progeny vulF cells are not generate. The weaker lin-12d allele n302 resulted in a vulvaless phenotype and the elimination of unc-4 expression in VC4 and VC5 neurons."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_9
+Genotype "lin-12(n302); uIs45[unc-4p::GFP]"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0669"
+Assay	"Expression_mosaic"	"WBPaper00044613_10"
+Phenotype	"WBPhenotype:0000113"	Autonomous
+Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Gene	"WBGene00003000"	Published_as	"lin-11"
+Involved	"WBbt:0005304"	Sufficient	"Mutation of lin-11, which encodes a LIM homeodomain protein, eliminated uIs45"
+Involved	"WBbt:0005304"	Sufficient	"expression in VC4 and VC5. Expression of lin-11(+) using lin-11p::pes-10p, which is active in VC neurons but transiently expressed in the developing vulval cells, mainly the vulC and vulD cells but not the vulF cells, produced a normal unc-4 expression pattern in lin-11 mutants. We obtained a similar rescue using the ida-1 promoter, which is expressed in many neurons, including the VC neurons, but not vulval cells."
+Reference	"WBPaper00044613"
+
+Condition : WBPaper00044613_10
+Genotype "lin-11(n389); uIs45[unc-4p::GFP]; ida-1p::lin-11(+)"
+Reference WBPaper00044613
+
+
+
+Anatomy_function : "WBbtf0670"
+Assay	"Expression_mosaic"	"WBPaper00044483_1"
+Phenotype	"WBPhenotype:0004028"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000304(decreased speed)|GO:0032094(response to food)"
+Phenotype	"WBPhenotype:0004028"	Remark	"QUALIFY:PATO:0001997(decreased amount) NOT"
+Gene	"WBGene00020506"	Published_as	"dop-3"
+Not_involved	"WBbt:0006746"	Unnecessary	"RNAi against dop-3 blocked basal slowing in the control strain (susceptible to systemic RNAi) but did not affect basal slowing in the Pdat-1 strain (susceptibble to dopaminergic neuron-specific RNAi). Our results demonstrate that the dopamine receptor dop-3 does not function in the dopamine neurons."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044483_1
+Genotype "XE1474(lin-15B(n744)X; eri-1(mg366)IV; rde-1(ne219)V; wpSi6[Pdat-1::rde-1:SL2:sid-1,Cbunc-119(+)]II)"
+Treatment "dop-3 RNAi"
+Reference WBPaper00044483
+
+
+
+Anatomy_function : "WBbtf0671"
+Assay	"Expression_mosaic"	"WBPaper00044483_2"
+Phenotype	"WBPhenotype:0001221"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009612(response to mechanical stimulus)|WBbt:0008426(nose)|GO:0050975(sensory perception of touch)"
+Phenotype	"WBPhenotype:0001221"	Remark	"QUALIFY:PATO:0001997(decreased amount) NOT"
+Gene	"WBGene00001612"	Published_as	"glr-1"
+Not_involved	"WBbt:0006829"	Unnecessary	"We fed neuron-sensitized (lin15B; eri-1) animals dsRNA against glr-1. These animals were deficient in their ability to respond to nose touch when compared to controls. In contrast, RNAi against glr-1 did not affect the ability of the glutamate-specific (vis-a-vis RNAi susceptibility) strain to respond to nose touch.  Our results demonstrate that the glutamate receptor glr-1 does not function in the glutamate neurons."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044483_2
+Genotype "XE1474(lin-15B(n744)X; eri-1(mg366)IV; rde-1(ne219)V; wpSi11[Peat-4::rde-1:SL2:sid-1, Cbunc-119(+)]II)"
+Treatment "glr-1 RNAi"
+Reference WBPaper00044483
+
+
+
+Anatomy_function : "WBbtf0672"
+Assay	"Genetic_mosaic"	"WBPaper00044189_1"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Not_involved	"WBbt:0006804"	Unnecessary	"Expressing the vpr-1 genomic locus in vpr-1(tm1411) null worms rescued the fat metabolism defect in muscle, as well as the muscle mitochondrial defects, sterility, slow growth, and other phenotypes. Transgene array loss in the EMS lineage generates mosaic worms that have a subset of muscles lacking vpr-1 expression. These muscle cells exhibited low fat levels, identical to muscle cells that express vpr-1. Therefore, VPR-1 is not required in body wall muscle for fat accumulation."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_1
+Genotype "vpr-1(tm1411); Ex[vpr-1(+) sur-5::GFP]"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0673"
+Assay	"Genetic_mosaic"	"WBPaper00044189_1"
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Not_involved	"WBbt:0005792"	Unnecessary	"Expressing the vpr-1 genomic locus in vpr-1(tm1411) null worms rescued the fat metabolism defect in muscle, as well as the muscle mitochondrial defects, sterility, slow growth, and other phenotypes. Mosaic worms lacking vpr-1 in the E lineage, which generates the intestine, also did not exhibit elevated muscle fat droplets, indicating that vpr-1 is not required in the intestine."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_1
+Genotype "vpr-1(tm1411); Ex[vpr-1(+) sur-5::GFP]"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0674"
+Assay	"Genetic_mosaic"	"WBPaper00044189_1"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Involved	"WBbt:0003679"	Sufficient	"Expressing the vpr-1 genomic locus in vpr-1(tm1411) null worms rescued the fat metabolism defect in muscle, as well as the muscle mitochondrial defects, sterility, slow growth, and other phenotypes. In contrast to muscle and intestine loss, vpr-1 loss in the AB lineage, which generates the neurons, did cause increased fat droplets in muscles."
+Involved	"WBbt:0007846"	Sufficient	"Expressing the vpr-1 genomic locus in vpr-1(tm1411) null worms rescued the fat metabolism defect in muscle, as well as the muscle mitochondrial defects, sterility, slow growth, and other phenotypes. In contrast to muscle and intestine loss, vpr-1 loss in the AB lineage, which generates the neurons, did cause increased fat droplets in muscles."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_1
+Genotype "vpr-1(tm1411); Ex[vpr-1(+) sur-5::GFP]"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0675"
+Assay	"Genetic_mosaic"	"WBPaper00044189_1"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Involved	"WBbt:0005784"	Sufficient	"Expressing the vpr-1 genomic locus in vpr-1(tm1411) null worms rescued the fat metabolism defect in muscle, as well as the muscle mitochondrial defects, sterility, slow growth, and other phenotypes. Unexpectedly, we also found that vpr-1 loss in the germ cell lineage causes muscle fat accumulation."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_1
+Genotype "vpr-1(tm1411); Ex[vpr-1(+) sur-5::GFP]"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0676"
+Assay	"Expression_mosaic"	"WBPaper00044189_2"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Not_involved	"WBbt:0007810"	Insufficient	"To test whether VPR-1 expression is sufficient in neurons, we expressed VPR-1 under the control of tissue-specific promoters in vpr-1 null mutants. Consistent with genetic mosaic analysis, VPR-1 expression using the myo-3 muscle-specific promoter did not influence muscle fat levels."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_2
+Genotype "vpr-1(tm1411); Ex[myo-3p::vpr-1"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0677"
+Assay	"Expression_mosaic"	"WBPaper00044189_3"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased)"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Not_involved	"WBbt:0005792"	Insufficient	"To test whether VPR-1 expression is sufficient in neurons, we expressed VPR-1 under the control of tissue-specific promoters in vpr-1 null mutants. Consistent with genetic mosaic analysis, VPR-1 expression using the ges-1 intestine-specific promoter did not influence muscle fat levels."
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_3
+Genotype "vpr-1(tm1411); Ex[ges-1p::vpr-1"
+Reference WBPaper00044189
+
+
+
+Anatomy_function : "WBbtf0678"
+Assay	"Expression_mosaic"	"WBPaper00044189_4"
+Phenotype	"WBPhenotype:0001182"	Nonautonomous
+Phenotype	"WBPhenotype:0001182"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0019915(lipid storage)"
+Phenotype	"WBPhenotype:0001182"	Remark	"QUALIFY:PATO:000047(increased) NOT"
+Gene	"WBGene00018008"	Published_as	"vpr-1"
+Involved	"WBbt:0003679"
+Reference	"WBPaper00044483"
+
+Condition : WBPaper00044189_4
+Genotype "vpr-1(tm1411); Ex[unc-119p::vpr-1"
+Reference WBPaper00044189
 
 
 
