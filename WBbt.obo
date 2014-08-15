@@ -31185,6 +31185,7 @@ id: WBbt:0005348
 name: cloacal ganglion
 def: "A pair of neuronal ganglia in the adult male tail, lying on either side of the proctodeum, but not found in the hermaphrodite." [WBPaper:00038216]
 is_a: WBbt:0005189 ! ganglion
+relationship: part_of WBbt:0010000 ! male tail
 
 [Term]
 id: WBbt:0005349
@@ -33424,6 +33425,7 @@ name: cloaca
 def: "a feature of the male tail, caudal to the proctodeum, where the vas deferens and the intestine open out jointly near the tail tip to discharge their contents." [WBPaper:00038216]
 is_a: WBbt:0005757 ! male-specific
 relationship: part_of WBbt:0005748 ! alimentary system
+relationship: part_of WBbt:0010000 ! male tail
 
 [Term]
 id: WBbt:0005775
@@ -41099,7 +41101,10 @@ synonym: "male posterior seam" RELATED []
 synonym: "set" RELATED []
 is_a: WBbt:0005753 ! seam cell
 is_a: WBbt:0005757 ! male-specific
-is_a: WBbt:0008074 ! syncytium
+is_a: WBbt:0008074 ! syncytiu
+intersection_of: WBbt:0005753 ! seam cell
+intersection_of: part_of WBbt:0010000 ! male tail
+relationship: part_of WBbt:0010000 ! male tail
 
 [Term]
 id: WBbt:0006913
@@ -49760,6 +49765,7 @@ name: male tail tip cell
 def: "syncytial hypodermal cell of the tip of male tail; migrates anteiorly during male tail morphogenesis." [WB:rynl, WBPaper:00038216]
 is_a: WBbt:0007846 ! hypodermal cell
 is_a: WBbt:0008074 ! syncytium
+relationship: part_of WBbt:0010001 ! male tail tip
 
 [Term]
 id: WBbt:0008355
@@ -51626,6 +51632,23 @@ def: "Hermaphrodite-specific blast cell which divides to product muscle cell." [
 is_a: WBbt:0008373 ! sex myoblast
 created_by: raymond
 creation_date: 2014-03-20T15:56:15Z
+
+[Term]
+id: WBbt:0010000
+name: male tail
+def: "The tail of a male nematode." [GOC:cjm, GOC:kva]
+is_a: WBbt:0005741 ! tail 
+intersection_of: WBbt:0005741 ! tail 
+intersection_of: part_of WBbt:0007850 ! male 
+relationship: part_of WBbt:0007850 ! male 
+created_by: cjm
+
+[Term]
+id: WBbt:0010001
+name: male tail tip
+def: "The tail tip undergoes morphogenesis to form a copulatory structure. The most posterior hypodermal cells in the tail define a specialized, sexually dimorphic compartment in which cells fuse and retract in the male, changing their shape from a tapered cone or spike to a blunt dome. As in, but not restricted to, the roundworms (Nematoda, ncbi_taxonomy_id:6231)" [NCBITaxon:6231, GOC:kva, GOC:cjm]
+relationship: part_of WBbt:0010000 ! male tail
+created_by: cjm
 
 [Typedef]
 id: DESCENDENTOF
