@@ -1,11 +1,11 @@
 format-version: 1.2
-data-version: 2014-05-26
-date: 26:05:2014 13:46
+data-version: 2014-09-10
+date: 10:09:2014 13:21
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
-ontology: wbbt
 remark: $
+ontology: wbbt
 
 [Term]
 id: WBbt:0000100
@@ -11348,7 +11348,7 @@ id: WBbt:0002578
 name: ABplapappa nucleus
 def: "nucleus of pedigree ABplapappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001365 ! ABplapapp nucleus
-relationship: part_of WBbt:0004410 ! P11
+relationship: part_of WBbt:0008606 ! P11/12L
 
 [Term]
 id: WBbt:0002579
@@ -11403,7 +11403,7 @@ id: WBbt:0002586
 name: ABprapappa nucleus
 def: "nucleus of pedigree ABprapappa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001523 ! ABprapapp nucleus
-relationship: part_of WBbt:0004409 ! P12
+relationship: part_of WBbt:0008607 ! P11/12R
 
 [Term]
 id: WBbt:0002587
@@ -48224,7 +48224,7 @@ relationship: part_of WBbt:0008112 ! P3.p hermaphrodite
 [Term]
 id: WBbt:0008115
 name: ventral cord blast cell
-def: "Blast cell lying ventrolaterally in the late embryo and L1 larval stage which divides during the late L1 larva in stereotypical reiterated fashion to give rise to many motor neurons which begin function in the ventral cord and preanal ganglion of the early L2 larva, as well as hypodermal cells (which fuse into hyp7) and a series of programmed cell deaths. In addition, the Pn.p daughters of P3 through P8 lineages persist without fusing into the hyp7 syncytium until mid L3 stage when they can be induced to divide further to produce vulval epithelial cells (vulA – vulF) or more hyp7 cells. P0 is also known as W." [WB:rynl, WBpaper:00038216]
+def: "Blast cell lying ventrolaterally in the late embryo and L1 larval stage which divides during the late L1 larva in stereotypical reiterated fashion to give rise to many motor neurons which begin function in the ventral cord and preanal ganglion of the early L2 larva, as well as hypodermal cells (which fuse into hyp7) and a series of programmed cell deaths. In addition, the Pn.p daughters of P3 through P8 lineages persist without fusing into the hyp7 syncytium until mid L3 stage when they can be induced to divide further to produce vulval epithelial cells (vulA - vulF) or more hyp7 cells. P0 is also known as W." [WB:rynl, WBpaper:00038216]
 synonym: "P cell" RELATED []
 is_a: WBbt:0006783 ! blast cell
 
@@ -51626,6 +51626,22 @@ def: "Hermaphrodite-specific blast cell which divides to product muscle cell." [
 is_a: WBbt:0008373 ! sex myoblast
 created_by: raymond
 creation_date: 2014-03-20T15:56:15Z
+
+[Term]
+id: WBbt:0008606
+name: P11/12L
+def: "Postembryonic blast cells for ventral cord motorneurons, ventral hypodermis, vulva, male preanal ganglion; ventral hypodermis in L1." [ISBN:0-87969-307-X]
+is_a: WBbt:0008115 ! ventral cord blast cell
+created_by: raymond
+creation_date: 2014-09-10T13:15:00Z
+
+[Term]
+id: WBbt:0008607
+name: P11/12R
+def: "Postembryonic blast cells for ventral cord motorneurons, ventral hypodermis, vulva, male preanal ganglion; ventral hypodermis in L1." [ISBN:0-87969-307-X]
+is_a: WBbt:0008115 ! ventral cord blast cell
+created_by: raymond
+creation_date: 2014-09-10T13:15:00Z
 
 [Typedef]
 id: DESCENDENTOF
