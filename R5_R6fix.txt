@@ -1,0 +1,19 @@
+Zeynep pointed out a problem with R6L_hyp. I realized that there's a complete reversal between R5 and R6 lineages. Fixed (completely?) the problem in OBO-Edit but cannot change secondary IDs within. Must chnage the second IDs with a text editor.
+Here's my guess of what should be the correct connections
+Secondary ID	Primary ID
+0004718	0008053	DONE
+0004199	0008051	DONE
+0004185	0008052	DONE
+0004514	0008054	DONE
+WBbt:0007519	WBbt:0004018	DONE
+WBbt:0007512	WBbt:0004024	DONE
+WBbt:0007563	DONE
+WBbt:0007556	DONE
+WBbt:0007522	DONE
+WBbt:0007515	DONE
+WBbt:0007559	DONE
+WBbt:0007566	DONE
+WBbt:0007523	DONE
+WBbt:0007516	DONE
+WBbt:0007567	DONE
+WBbt:0007560	DONE

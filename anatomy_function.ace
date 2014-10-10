@@ -9090,3 +9090,1072 @@ Reference WBPaper00044189
 
 
 
+Anatomy_function : "WBbtf0679"
+Assay	"Expression_mosaic"	"WBPaper00044263_1"
+Gene	"WBGene00002189"	Published_as	"kin-1"
+Involved	"WBbt:0005190"	Necessary	"To determine whether PKA functions in GABAergic neurons to control the Exp step, we generated worms expressing dominant negative PKA transgenes specifically in these neurons. We mutated the corresponding Gly residue to Asp (G310D) in the B site of the KIN-2a isoform (referred to as PKA[DN], and expressed this construct specifically in GABAergic motor neurons (using the full length unc-47 promoter). Two independently generated PKA[DN] transgenic lines displayed distended intestinal lumens, and dramatically reduced cycles in which Exp occurred."
+Reference	"WBPaper00044263"
+
+Condition : WBPaper00044263_1
+Genotype "vjIs76[ttx-3::RFP; Punc-47(FL):: kin-2a(G310D)]"
+Reference WBPaper00044263
+
+
+
+Anatomy_function : "WBbtf0680"
+Assay	"Expression_mosaic"	"WBPaper00042107_1"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Not_involved	"WBbt:0005274"	Insufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used a truncated unc-129 promoter (Punc-129MN) expression in the DB class of dorsal motoneuron. Expression of PLX-1-encoding complementary DNA (cDNA) in DB class neurons or postsynaptic body wall muscles did not rescue the synaptic tiling phenotype in plx-1 mutants."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_1
+Genotype "plx-1(nc36); Ex[Punc-129::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0681"
+Assay	"Expression_mosaic"	"WBPaper00042107_2"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Not_involved	"WBbt:0006804"	Insufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used the hlh-1 promoter for expression in the body wall muscles. Expression of PLX-1-encoding complementary DNA (cDNA) in DB class neurons or postsynaptic body wall muscles did not rescue the synaptic tiling phenotype in plx-1 mutants."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_2
+Genotype "plx-1(nc36); Ex[Phlh-1::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0682"
+Assay	"Expression_mosaic"	"WBPaper00042107_3"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Involved	"WBbt:0005278"	Sufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_3
+Genotype "plx-1(nc36); Ex[Punc-4c::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0683"
+Assay	"Genetic_mosaic"	"WBPaper00042107_3"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Involved	"WBbt:0004857"	Necessary	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_3
+Genotype "plx-1(nc36); Ex[Punc-4c::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0684"
+Assay	"Expression_mosaic"	"WBPaper00042107_4"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Involved	"WBbt:0004857"	Sufficient	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9. Consistent with these observations, PLX-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the plx-1 phenotype."
+Not_involved	"WBbt:0004858"	Unnecessary	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9. Consistent with these observations, PLX-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the plx-1 phenotype."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_4
+Genotype "plx-1(nc36); Ex[Pmig-13::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0685"
+Assay	"Expression_mosaic"	"WBPaper00042107_5"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Involved	"WBbt:0004857"	Sufficient	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4)."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_5
+Genotype "plx-1(nc36); Ex[Pitr-1::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0686"
+Assay	"Expression_mosaic"	"WBPaper00042107_6"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Not_involved	"WBbt:0005274"	Insufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used a truncated unc-129 promoter (Punc-129MN) expression in the DB class of dorsal motoneuron. Expression of smp-1-encoding complementary DNA (cDNA) in DB class neurons or postsynaptic body wall muscles did not rescue the synaptic tiling phenotype in smp-1;smp-2 double mutants."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_6
+Genotype "smp-1; smp-2; Ex[Punc-129::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0687"
+Assay	"Expression_mosaic"	"WBPaper00042107_7"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Not_involved	"WBbt:0006804"	Insufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used the hlh-1 promoter for expression in the body wall muscles. Expression of SMP-1-encoding complementary DNA (cDNA) in DB class neurons or postsynaptic body wall muscles did not rescue the synaptic tiling phenotype in smp-1;smp-2 double mutants."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_7
+Genotype "smp-1; smp-2; Ex[Phlh-1::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0688"
+Assay	"Genetic_mosaic"	"WBPaper00042107_8"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Involved	"WBbt:0004857"	Necessary	"We used a truncated unc-4 promoter (unc-4c) for expression of the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the smp-1 mutant phenotype, suggesting that SMP-1 is required in DA9."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_8
+Genotype "smp-1; smp-2; Ex[Punc-4c::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0689"
+Assay	"Expression_mosaic"	"WBPaper00042107_8"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Involved	"WBbt:0005278"	Sufficient	"We next asked in which cells plx-1 and semaphorins function by performing rescue experiments using several tissue-specific promoters. We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_8
+Genotype "smp-1; smp-2; Ex[Punc-4c::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0690"
+Assay	"Expression_mosaic"	"WBPaper00042107_9"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Involved	"WBbt:0004857"	Sufficient	"We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the mutant phenotype, suggesting that SMP-1 is required in DA9. Consistent with these observations, SMP-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the smp-1; smp-2 phenotype."
+Not_involved	"WBbt:0004858"	Unnecessary	"We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the mutant phenotype, suggesting that SMP-1 is required in DA9. Consistent with these observations, SMP-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the smp-1; smp-2 phenotype."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_9
+Genotype "smp-1; smp-2; Ex[Pmig-13::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0691"
+Assay	"Expression_mosaic"	"WBPaper00042107_10"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Involved	"WBbt:0004857"	Sufficient	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4)."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_10
+Genotype "smp-1; smp-2; Ex[Pitr-1::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0692"
+Assay	"Expression_mosaic"	"WBPaper00042107_11"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00002335"	Published_as	"let-60"
+Involved	"WBbt:0004857"	Necessary	"We found that a gain-of-function mutant of Ras (let-60gf) showed a significant synaptic tiling defect. To test the cellular requirement of the Ras-induced synaptic tiling phenotype, we independently expressed two dominant-negative LET-60 Ras proteins (G10R and S89F) in DA9 using the mig-13 promoter. We found that DA9 expression of these two Ras constructs suppressed the let-60(gf) mutant phenotype, suggesting that Ras also function cell autonomously in DA9 to restrict its synaptic domain."
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_11
+Genotype "let-60(n1046); Ex[mig-13::let-60(G10R)]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf0693"
+Assay	"Genetic_mosaic"	"WBPaper00041722_1"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0004078(PVPR)|GO:0030424(axon)|GO:0007411(axon guidance)|WBbt:0005829(ventral nerve cord)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00017381"	Published_as	"ddr-2"
+Involved	"WBbt:0004078"	Necessary	"We performed a genetic mosaic analysis to test whether ddr-2 acts cell-autonomously in the PVPR neuron by correlating the presence or absence of a rescuing ddr-2 transgene in PVPR with the presence or absence of axonal defects. We found that loss of an extra-chromosomal array containing a functional ddr-2 gene in PVPR abolished the rescue of the pioneer navigation defects."
+Reference	"WBPaper00041722"
+
+Condition : WBPaper00041722_1
+Genotype "ddr-1(ok874) ddr-2(ok574); hdIs29[odr-2::CFP, sra-6::DsRed2]; Ex[ddr-2(+) odr-2::GFP sra-6::GFP rol-6(su1006)]"
+Reference WBPaper00041722
+
+
+
+Anatomy_function : "WBbtf0694"
+Assay	"Genetic_mosaic"	"WBPaper00041722_1"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0004082(PVPL)|GO:0030424(axon)|GO:0007411(axon guidance)|WBbt:0005829(ventral nerve cord)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00017381"	Published_as	"ddr-2"
+Involved	"WBbt:0004082"	Necessary	"We performed a genetic mosaic analysis to test whether ddr-2 acts cell-autonomously in the PVPR neuron by correlating the presence or absence of a rescuing ddr-2 transgene in PVPR with the presence or absence of axonal defects. We found that loss of an extra-chromosomal array containing a functional ddr-2 gene in PVPR abolished the rescue of the pioneer navigation defects. Similarly loss of the transgene in PVPL abolished the rescue of PVPL defects."
+Reference	"WBPaper00041722"
+
+Condition : WBPaper00041722_1
+Genotype "ddr-1(ok874) ddr-2(ok574); hdIs29[odr-2::CFP, sra-6::DsRed2]; Ex[ddr-2(+) odr-2::GFP sra-6::GFP rol-6(su1006)]"
+Reference WBPaper00041722
+
+
+
+Anatomy_function : "WBbtf0695"
+Assay	"Genetic_mosaic"	"WBPaper00041722_1"
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0004076(PVQL)|GO:0030424(axon)|GO:0007411(axon guidance)|WBbt:0005829(ventral nerve cord)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00017381"	Published_as	"ddr-2"
+Involved	"WBbt:0004078"	Necessary	"We performed a genetic mosaic analysis to test whether ddr-2 acts in the PVPR neuron by correlating the presence or absence of a rescuing ddr-2 transgene in PVPR with the presence or absence of axonal defects. Loss of the ddr-2 transgene in PVPR, but not in PVQL, lead to PVQL axon navigation defects comparable to those in ddr-1 ddr-2 double mutants."
+Reference	"WBPaper00041722"
+
+Condition : WBPaper00041722_1
+Genotype "ddr-1(ok874) ddr-2(ok574); hdIs29[odr-2::CFP, sra-6::DsRed2]; Ex[ddr-2(+) odr-2::GFP sra-6::GFP rol-6(su1006)]"
+Reference WBPaper00041722
+
+
+
+Anatomy_function : "WBbtf0696"
+Assay	"Genetic_mosaic"	"WBPaper00041722_1"
+Phenotype	"WBPhenotype:0000384"	Nonautonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0004076(PVQL)|GO:0030424(axon)|GO:0007411(axon guidance)|WBbt:0005829(ventral nerve cord)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00017381"	Published_as	"ddr-2"
+Not_involved	"WBbt:0004076"	Unnecessary	"We performed a genetic mosaic analysis to test whether ddr-2 acts in the PVPR neuron by correlating the presence or absence of a rescuing ddr-2 transgene in PVPR with the presence or absence of axonal defects. Loss of the ddr-2 transgene in PVPR, but not in PVQL, lead to PVQL axon navigation defects comparable to those in ddr-1 ddr-2 double mutants. Taken together these results indicate that ddr-2 functions cell-autonomously in the PVPR neuron to guide the pioneering axon and that the PVQL follower defects are a secondary consequence of pioneer defects."
+Reference	"WBPaper00041722"
+
+Condition : WBPaper00041722_1
+Genotype "ddr-1(ok874) ddr-2(ok574); hdIs29[odr-2::CFP, sra-6::DsRed2]; Ex[ddr-2(+) odr-2::GFP sra-6::GFP rol-6(su1006)]"
+Reference WBPaper00041722
+
+
+
+Anatomy_function : "WBbtf0697"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000550"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|PATO:0002037(degeneration)|GO:0007568(ageing)"
+Phenotype	"WBPhenotype:0000550"	Remark	"QUALIFY:PATO:0000380(increased frequency) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"Aging C. elegans muscles resemble those of human sarcopenia patients, in which muscle filaments fragment and break. We found that expressing daf-16 exclusively in the intestine of daf-16(-); daf-2(-) mutants reduced this muscle deterioration and improved body movement."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0698"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00004932(sod-3)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. sod-3 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0699"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00003096(lys-7)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. lys-7 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0700"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00003473(mtl-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. mtl-1 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0701"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00010745(dod-17)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0002051(increased occurence) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. dod-17 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0702"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00001843(hgo-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. hgo-1 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0703"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00001684(gpd-2)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. gpd-2 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0704"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBGene00001684(nnt-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: intestine. nnt-1 was regulated in a strictly cell-autonomous fashion. The demonstration of cell autonomy was particularly striking in the intestine, because the ges-1 intestinal promoter we used did not fire evenly in all cells. We observed a close correlation between GFP::DAF-16 and reporter expression among individual intestinal cells."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0705"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00004932(sod-3)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. sod-3 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0706"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00003096(lys-7)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. lys-7 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0707"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00003473(mtl-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. mtl-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0708"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00010745(dod-17)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0002051(increased occurence) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. dod-17 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0709"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00001843(hgo-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. hgo-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0710"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00001684(gpd-2)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. gpd-2 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0711"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0003679(neuron)|WBGene00001684(nnt-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: neurons. nnt-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0712"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00004932(sod-3)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. sod-3 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0713"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00003096(lys-7)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. lys-7 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0714"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00003473(mtl-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. mtl-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0715"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00001843(hgo-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. hgo-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0716"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00001684(gpd-2)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. gpd-2 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0717"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBGene00001684(nnt-1)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"We introduced transgenic reporters for these genes into daf-16(-); daf-2(-) mutants in which daf-16 was expressed in only one tissue: muscles. nnt-1 was regulated in a strictly cell-autonomous fashion."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0718"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Nonautonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBbt:0006804(body wall muscle cell)|WBbt:0007846(hypodermal cell)|WBGene00010790(dod-11)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"In daf-2(-) mutants expressing daf-16(+) only in the intestine, expression of Pdod-11::rfp was induced in the hypodermis and muscles in multiple independent lines. Within the intestine itself, GFP::DAF-16-positive cells generally expressed Pdod-11::rfp, but we observed exceptions."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0719"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Nonautonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBbt:0006804(body wall muscle cell)|WBbt:0007846(hypodermal cell)|WBGene00010790(dod-11)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"In daf-2(-) mutants expressing daf-16(+) only in muscles exhibited dod-11 induction in the muscles, intestine, and hypodermis."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0720"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Nonautonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBbt:0007846(hypodermal cell)|WBbt:0005792(hsp-12.6)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"In daf-2(-) mutants intestine-expressed daf-16 induced hsp-12.6 expression in the intestine as well as in daf-16(-) tissues, such as the hypodermis."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0721"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Nonautonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBbt:0007846(hypodermal cell)|WBbt:0005792(hsp-12.6)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0006804"	Sufficient	"In daf-2(-) mutants muscle-expressed daf-16 was able to induce the hsp-12.6 reporter in both muscles and hypodermis."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0722"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000962"	Autonomous
+Phenotype	"WBPhenotype:0000962"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|WBbt:0007846(hypodermal cell)|WBGene00007363(dod-8)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0000962"	Remark	"QUALIFY:PATO:0002051(increased occurence) NOT"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005792"	Sufficient	"In two independent transgenic lines (daf-2 daf-16 mutant), intestinal DAF-16 activity strongly attenuated dod-8 reporter expression in the hypodermis and muscles."
+Reference	"WBPaper00041915"
+
+
+Anatomy_function : "WBbtf0723"
+Assay	"Genetic_mosaic"	"WBPaper00041364_1"
+Phenotype	"WBPhenotype:0000105"	Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
+Phenotype	"WBPhenotype:0000105"	Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
+Gene	"WBGene00002189"	Published_as	"kin-1"
+Not_involved	"WBbt:0005784"	Unnecessary	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. Loss of kin-1(+) function in germ-line lineages (P3 and P4) did not affect viability or fertility. Thus, kin-1 is not required in the germ line for meiotic maturation."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_1
+Genotype "kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0724"
+Assay	"Genetic_mosaic"	"WBPaper00041364_1"
+Phenotype	"WBPhenotype:0000106"	Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)|GO:1900194(negative regulation of oocyte maturation)"
+Phenotype	"WBPhenotype:0000106"	Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
+Gene	"WBGene00002189"	Published_as	"kin-1"
+Not_involved	"WBbt:0005784"	Unnecessary	"To assess whether kin-1 might function in the germ line to inhibit meiotic maturation, we asked whether oocytes continue to undergo meiotic maturation and ovulation upon the depletion of sperm through self-fertilization in germline mosaics. We observed that kin-1 (ok338) germline mosaics produced a total of 10 +/- 14 unfertilized oocytes as compared to 14 +/- 21 unfertilized oocytes for nonmosaic siblings. Thus, kin-1(+) function is dispensable in the germ line both for meiotic maturation and also for its inhibition when sperm are absent or limiting."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_1
+Genotype "kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0725"
+Assay	"Genetic_mosaic"	"WBPaper00041364_1"
+Phenotype	"WBPhenotype:0000105"	Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
+Phenotype	"WBPhenotype:0000105"	Remark	"QUALIFY:PATO:0002052(decreased occurance)"
+Gene	"WBGene00002189"	Published_as	"kin-1"
+Involved	"WBbt:0005828"	Sufficient	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Involved	"WBbt:0005828"	Necessary	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Not_involved	"WBbt:0007816"	Insufficient	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Not_involved	"WBbt:0007816"	Unnecessary	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_1
+Genotype "kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0726"
+Assay	"Expression_mosaic"	"WBPaper00041364_2"
+Phenotype	"WBPhenotype:0000105"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0019953(sexual reproduction)"
+Phenotype	"WBPhenotype:0000105"	Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
+Gene	"WBGene00019245"	Published_as	"sacy-1"
+Involved	"WBbt:0005784"	Necessary	"To assess whether RNAi depletion of sacy-1 function in the germ line or somatic gonad mediates the suppression of acy-4 (lf) sterility, we conducted RNAi experiments in the somatic gonad RNAi-deficient rrf-1(pk1417) genetic background. sacy-1(RNAi) using rrf-1(pk1417); acy-4(ok1806); tnEx37 suppresses acy-4(lf) sterility in the F1 generation. Thus, reduction of sacy-1 function in the germ line suppresses acy-4(lf) sterility."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_2
+Genotype "rrf-1(pk1417); acy-4(ok1806); tnEx37[acy-4(+) sur-5::gfp]"
+Treatment "sacy-1 RNAi"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0727"
+Assay	"Genetic_mosaic"	"WBPaper00041364_3"
+Phenotype	"WBPhenotype:0000105"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0019953(sexual reproduction)"
+Phenotype	"WBPhenotype:0000105"	Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
+Gene	"WBGene00006656"	Published_as	"twk-1"
+Involved	"WBbt:0007815"	Necessary	"To test more definitively whether acy-4(ok1806) sterility requires twk-1(+) function in the somatic gonad, we conducted genetic mosaic analysis of acy-4(lf) suppression. We sought fertile genetic mosaics among twk-1(tn1397); acy-4(ok1806); tnEx180[twk-1(+) sur-5::gfp] animals, produced by acy-4(ok1806)/+ heterozygous parents using nT1[qIs51] as a dominantly marked balancer chromosome for acy-4(ok1806). Two genetic mosaics with losses in the EMS founder cell, which is a precursor to the somatic gonad, were fertile in both gonad arms. These genetic mosaics produced GFP-containing progeny, indicating that their germ lines were twk-1(+). A third genetic mosaic animal resulted from complex losses within the Z1 lineage . This animal was fertile in the anterior gonad arm, but was sterile in the posterior gonad arm. All gonadal sheath cells in the anterior gonad arm of this mosaic were twk-1(tn1397) mutant, but the germline and several anterior spermathecal cells were twk-1(+). A fourth genetic mosaic, resulting from a loss in the Z4 somatic gonadal precursor cell (and some cells within the C lineage), was fertile in the posterior gonad arm, but not the anterior gonad arm. The germ line of this animal was also twk-1(+). We conclude that twk-1 functions downstream of acy-4 in the somatic gonad to regulate meiotic maturation."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_3
+Genotype "twk-1(tn1397); acy-4(ok1806); tnEx180[twk-1(+) sur-5::gfp]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0728"
+Assay	"Genetic_mosaic"	"WBPaper00041364_4"
+Phenotype	"WBPhenotype:0000415"	Remark	"ENTITY:WBbt:0006796(germ cell)|GO:0070265(necrotic cell death)"
+Phenotype	"WBPhenotype:0000415"	Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
+Gene	"WBGene00019245"	Published_as	"sacy-1"
+Involved	"WBbt:0005784"	Necessary	"We sought genetic mosaics using the sacy-1(tm5503); unc-119(ed3); tnEx159[gfp::sacy-1 unc-119(+)] strain in which the rescuing GFP::SACY-1 fusion is expressed in most or all germline and somatic cells and serves as a cell-autonomous marker for mosaic analysis. The unc-119(ed3) genetic background was utilized as a marker for the AB lineage so as to identify rare non-Unc mosaics showing the sacy-1(tm5503) gamete degeneration phenotype. We found four genetic mosaics with P1 losses, a single mosaic with a P3 loss (this animal had an independent loss within the C lineage), and two mosaics with P4 losses. This result indicates that sacy-1(+) function is required in the germ line to prevent gamete degeneration."
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_4
+Genotype "sacy-1(tm5503); unc-119(ed3); tnEx159[gfp::sacy-1 unc-119(+)]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf0729"
+Assay	"Expression_mosaic"	"WBPaper00041563_1"
+Phenotype	"WBPhenotype:0000029"	Remark	"ENTITY: WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference)|GO:0009605(response to external stimulus)"
+Phenotype	"WBPhenotype:0000029"	Remark	"QUALIFY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00017445"	Published_as	"sid-5"
+Involved	"WBbt:0005792"	Sufficient	"Intestinal SID-5 expression could restore silencing of transgenic (GFP) and endogenous (unc-22) bwm targets in response to environmental RNA."
+Reference	"WBPaper00041563"
+
+Condition : WBPaper00041563_1
+Genotype "ccIs4251[myo-3p::GFP*] I; mIs11 [myo-2p::GFP] IV; sid-5(qt24)X; qtEx125[sid-2p::sid-5; sid-2p::DsRed]"
+Reference WBPaper00041563
+
+
+
+Anatomy_function : "WBbtf0730"
+Assay	"Expression_mosaic"	"WBPaper00041563_2"
+Phenotype	"WBPhenotype:0000029"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference)|GO:0009605(response to external stimulus)"
+Phenotype	"WBPhenotype:0000029"	Remark	"QUALIFY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00017445"	Published_as	"sid-5"
+Not_involved	"WBbt:0006804"	Insufficient	"In the case of sid-5 mutants, we found the opposite: intestinal SID-5 expression, but not bwm SID-5 expression, could restore silencing of both transgenic (GFP) and endogenous (unc-22) bwm targets in response to environmental RNAi."
+Reference	"WBPaper00041563"
+
+Condition : WBPaper00041563_2
+Genotype "ccIs4251[myo-3::GFP*] I; mIs11[myo-2p::GFP] IV; sid-5(qt24) X;qtEx121[myo-3p::sid-5; pHC183 (myo-3p::DsRed)]"
+Reference WBPaper00041563
+
+
+
+Anatomy_function : "WBbtf0731"
+Assay	"Expression_mosaic"	"WBPaper00041563_3"
+Phenotype	"WBPhenotype:0000029"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference)|GO:0009605(response to external stimulus)"
+Phenotype	"WBPhenotype:0000029"	Remark	"QUALIFY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00004795"	Published_as	"sid-1"
+Involved	"WBbt:0006804"	Sufficient	"We tested myo-3::sid-1 extrachromosomal array for the ability to silence the bwm gene unc-22 in response to feeding RNAi. unc-22 silencing was observed when sid-1 was rescued in the bwm of the sid-1 mutant strain."
+Reference	"WBPaper00041563"
+
+Condition : WBPaper00041563_3
+Genotype "ccIs4251[myo-3::GFP*] I; mIs11[myo-2p::GFP] IV; sid-1(qt9) X;qtEx[myo-3p::sid-1; pHC183 (myo-3p::DsRed)]"
+Reference WBPaper00041563
+
+
+
+Anatomy_function : "WBbtf0732"
+Assay	"Expression_mosaic"	"WBPaper00041563_4"
+Phenotype	"WBPhenotype:0000029"	Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference)|GO:0031668(cellular response to extracellular stimulus)"
+Phenotype	"WBPhenotype:0000029"	Remark	"QUALIFY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00017445"	Published_as	"sid-5"
+Not_involved	"WBbt:0005792"	Insufficient	"It has recently been shown that some proteins required for RNAi, e.g., the RNA-binding protein RDE-4, can rescue the mutant phenotype when expressed in a third tissue, i.e., neither the sending or receiving cells. To test whether this could also be true for SID-5, we rescued SID-5 specifically in the intestine in sid-5 mutants expressing body wall muscle GFP and pharyngeal gfp-hpRNA. However, this did not restore silencing of bwm GFP after starvation."
+Reference	"WBPaper00041563"
+
+Condition : WBPaper00041563_4
+Genotype "ccIs4251[myo-3p::GFP*] I; qtIs3[myo-2::GFP-hpRNA] III; mIs11[myo-2p::GFP] IV; sid-5(qt24) X; qtEx127[sid-2p::sid-5; sid-2p::DsRed]"
+Reference WBPaper00041563
+
+
+
+Anatomy_function : "WBbtf0733"
+Assay	"Genetic_mosaic"	"WBPaper00041001_1"
+Phenotype	"WBPhenotype:0000676"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040007(growth)"
+Phenotype	"WBPhenotype:0000676"	Remark	"QUALIFY:PATO:0000911(slow rate)"
+Gene	"WBGene00006342"	Published_as	"sup-37"
+Involved	"WBbt:0005208"	Necessary	"E(-) mosaics, those lacking the sup-37 (+) array in all cells of the intestine, were invariably slightly retarded in growth relative to non-mosaics on partially synchronous plates (L4s vs. adults)."
+Reference	"WBPaper00041001"
+
+Condition : WBPaper00041001_1
+Genotype "sup-37(tm356)V; fdEx174(sup-37+,sur-5::GFP)"
+Reference WBPaper00041001
+
+
+
+Anatomy_function : "WBbtf0734"
+Assay	"Genetic_mosaic"	"WBPaper00041001_1"
+Phenotype	"WBPhenotype:0000634"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0007631(eating behavior)"
+Phenotype	"WBPhenotype:0000634"	Remark	"QUALIFY:PATO:0000381(decreased frequency) NOT"
+Gene	"WBGene00006342"	Published_as	"sup-37"
+Involved	"WBbt:0004458"	Necessary	"Healthy genetic mosaics that segregated from WY733 were analyzed. Because these mosaics were healthy and had reached the L4 or young adult stage, it is reasonable to assume that wild-type sup-37 present on the fdEx174 array functioned in these mosaics in the proper part of the cell lineage required for normal pharyngeal pumping. The only early cells of the lineage that did not undergo losses of the array were P1; EMS, one of the daughters of P1; and MS, a granddaughter of P1, indicating that the focus of gene activity descends from MS."
+Reference	"WBPaper00041001"
+
+Condition : WBPaper00041001_1
+Genotype "sup-37(tm356)V; fdEx174(sup-37+,sur-5::GFP)"
+Reference WBPaper00041001
+
+
+
+Anatomy_function : "WBbtf0735"
+Assay	"Genetic_mosaic"	"WBPaper00041027_1"
+Phenotype	"WBPhenotype:0000707"	Nonautonomous
+Phenotype	"WBPhenotype:0000707"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0001738(morphogenesis of a polarized epithelium)"
+Phenotype	"WBPhenotype:0000707"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00002247"	Published_as	"lam-1"
+Involved	"WBbt:0005792"	Sufficient	"Because several C. elegans tissues have been reported to express laminin, including the pharynx, intestine and BWMs, we investigated which cells must express lam-1 to properly orient PPC polarity. e constructed a homozygous lam-1(ok3139) strain that carried an extrachromosomal array (zuEx288) containing a wild-type lam-1(+) gene plus a cell-autonomous marker (SUR-5::GFP). We found that the pharynx had a single lumen in 6/8 animals with zuEx288 only in intestinal cells."
+Reference	"WBPaper00041027"
+
+Condition : WBPaper00041027_1
+Genotype "lam-1(ok3139); zuEx288[lam-1(+) SUR-5::GFP]"
+Reference WBPaper00041027
+
+
+
+Anatomy_function : "WBbtf0736"
+Assay	"Genetic_mosaic"	"WBPaper00041027_1"
+Phenotype	"WBPhenotype:0000707"	Nonautonomous
+Phenotype	"WBPhenotype:0000707"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0001738(morphogenesis of a polarized epithelium)"
+Phenotype	"WBPhenotype:0000707"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00002247"	Published_as	"lam-1"
+Involved	"WBbt:0006804"	Sufficient	"Because several C. elegans tissues have been reported to express laminin, including the pharynx, intestine and BWMs, we investigated which cells must express lam-1 to properly orient PPC polarity. e constructed a homozygous lam-1(ok3139) strain that carried an extrachromosomal array (zuEx288) containing a wild-type lam-1(+) gene plus a cell-autonomous marker (SUR-5::GFP). We found that the pharynx had a single lumen in 14/17 animals with zuEx288 only in skin (hypodermal) cells and BWMs."
+Involved	"WBbt:0007846"	Sufficient	"Because several C. elegans tissues have been reported to express laminin, including the pharynx, intestine and BWMs, we investigated which cells must express lam-1 to properly orient PPC polarity. e constructed a homozygous lam-1(ok3139) strain that carried an extrachromosomal array (zuEx288) containing a wild-type lam-1(+) gene plus a cell-autonomous marker (SUR-5::GFP). We found that the pharynx had a single lumen in 14/17 animals with zuEx288 only in skin (hypodermal) cells and BWMs."
+Reference	"WBPaper00041027"
+
+Condition : WBPaper00041027_1
+Genotype "lam-1(ok3139); zuEx288[lam-1(+) SUR-5::GFP]"
+Reference WBPaper00041027
+
+
+
+Anatomy_function : "WBbtf0737"
+Assay	"Genetic_mosaic"	"WBPaper00002293_1"
+Phenotype	"WBPhenotype:0000828"	Nonautonomous
+Phenotype	"WBPhenotype:0000828"	Remark	"ENTITY:WBbt:0008409(T cell)|GO:0007163(establishment or maintenance of cell polarity)|GO:0051301(cell division)"
+Phenotype	"WBPhenotype:0000828"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00003029"	Published_as	"lin-44"
+Not_involved	"WBbt:0008409"	Unnecessary	"To generate lin-44 mosaics, we made lin-44; ncl-1 unc-36 animals transgenic for an extrachromosomal array of DNA, mnEx37, that contains wild-type copies of lin-44, ncl-1, and unc-36. Among the total of 15 animals in which both TL and TR were genotypically mutant, 12 showed normal polarity for both T cells. We conclude that lin-44 acts cell nonautonomously."
+Reference	"WBPaper00002293"
+
+Condition : WBPaper00002293_1
+Genotype "lin-44; ncl-1(e1865) unc-36(e251); mnEx31[lin-44(+) ncl-1(+) unc-36(+)]"
+Reference WBPaper00002293
+
+
+
+Anatomy_function : "WBbtf0738"
+Assay	"Genetic_mosaic"	"WBPaper00002293_1"
+Phenotype	"WBPhenotype:0000828"	Nonautonomous
+Phenotype	"WBPhenotype:0000828"	Remark	"ENTITY:WBbt:0003825(B cell)|GO:0007163(establishment or maintenance of cell polarity)|GO:0051301(cell division)"
+Phenotype	"WBPhenotype:0000828"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Gene	"WBGene00003029"	Published_as	"lin-44"
+Not_involved	"WBbt:0008409"	Unnecessary	"To generate lin-44 mosaics, we made lin-44; ncl-1 unc-36 animals transgenic for an extrachromosomal array of DNA, mnEx31, that contains wild-type copies of lin-44, ncl-1, and unc-36. We also examined B cell polarity in mosaic males that had early losses in the AB.p lineage. We found five mosaic males of the desired type, three of which had lost the array at the division that generates AB, and all five males had normal B, TL, and TR cell polarities."
+Reference	"WBPaper00002293"
+
+Condition : WBPaper00002293_1
+Genotype "lin-44; ncl-1(e1865) unc-36(e251), him-5; mnEx31[lin-44(+) ncl-1(+) unc-36(+)]"
+Reference WBPaper00002293
+
+
+
+Anatomy_function : "WBbtf0739"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000708"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0009888(tissue development)"
+Phenotype	"WBPhenotype:0000708"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Not_involved	"WBbt:0004015"	Unnecessary	"To determine if anterior endoderm requires contact with cells from other lineages, laser ablation was used to kill the non-gut progenitors of the first three cell divisions: AB at the 2-cell stage, P2 in the 4-cell stage (after the P2-EMS contact just mentioned), and MS at the 8-cell stage. In combination, these ablations eliminate all non-gut lineages. None of these ablations (including simultaneous ablation of AB, P2 and MS) prevent anterior gut marker expression, suggesting that gut patterning is lineage autonomous."
+Not_involved	"WBbt:0006873"	Unnecessary	"To determine if anterior endoderm requires contact with cells from other lineages, laser ablation was used to kill the non-gut progenitors of the first three cell divisions: AB at the 2-cell stage, P2 in the 4-cell stage (after the P2-EMS contact just mentioned), and MS at the 8-cell stage. In combination, these ablations eliminate all non-gut lineages. None of these ablations (including simultaneous ablation of AB, P2 and MS) prevent anterior gut marker expression, suggesting that gut patterning is lineage autonomous."
+Not_involved	"WBbt:0004458"	Unnecessary	"To determine if anterior endoderm requires contact with cells from other lineages, laser ablation was used to kill the non-gut progenitors of the first three cell divisions: AB at the 2-cell stage, P2 in the 4-cell stage (after the P2-EMS contact just mentioned), and MS at the 8-cell stage. In combination, these ablations eliminate all non-gut lineages. None of these ablations (including simultaneous ablation of AB, P2 and MS) prevent anterior gut marker expression, suggesting that gut patterning is lineage autonomous."
+Reference	"WBPaper00003331"
+
+
+Anatomy_function : "WBbtf0740"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000708"	Remark	"ENTITY:WBbt:0006733(Ea)|GO:0009888(tissue development)"
+Phenotype	"WBPhenotype:0000708"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Not_involved	"WBbt:0006612"	Unnecessary	"Within the E lineage, ablation of Ep, the posterior daughter of the E cell, also does not prevent the formation of Ea-derived anterior gut."
+Reference	"WBPaper00003331"
+
+
+Anatomy_function : "WBbtf0741"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000111"	Remark	"ENTITY:WBbt:0007446(V5L.p)|WBbt:0007463(V5R.p)|GO:0010467(gene expression)|WBGene00003102(mab-5)"
+Phenotype	"WBPhenotype:0000111"	Remark	"QUALITY:PATO:0000462(absent) NOT"
+Involved	"WBbt:0004875"	Necessary	"We asked whether expression of a mab-5-GFP fusion could be switched on precociously in the V5 lineage following ablation of V6. We found that following ablation of V6, GFP expression was detected in V5.p and both seam cell daughters. We verified this finding using anti-MAB-5 antisera."
+Involved	"WBbt:0004874"	Necessary	"We asked whether expression of a mab-5-GFP fusion could be switched on precociously in the V5 lineage following ablation of V6. We found that following ablation of V6, GFP expression was detected in V5.p and both seam cell daughters. We verified this finding using anti-MAB-5 antisera."
+Reference	"WBPaper00003428"
+
+
+Anatomy_function : "WBbtf0742"
+Assay	"Genetic_mosaic"	"WBPaper00003428_1"
+Phenotype	"WBPhenotype:0000216"	Autonomous
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY: WBbt:0004874(V6R)|WBbt:0004875(V6L)|GO:0001708(cell fate specification)| WBbt:0006941(ray)|PATO:0002470(transformed to)|WBbt:0007832(alae)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALITY:PATO:0002470(absent)"
+Gene	"WBGene00003912"	Published_as	"pal-1"
+Involved	"WBbt:0004875"	Necessary	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. Among these mosaic animals were two males with Pal phenotypes; in both cases, the V6 cell was Ncl and therefore mutant for pal-1. This indicated that this V6 ray phenotype was indeed due to lack of pal-1 activity."
+Involved	"WBbt:0004874"	Necessary	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. Among these mosaic animals were two males with Pal phenotypes; in both cases, the V6 cell was Ncl and therefore mutant for pal-1. This indicated that this V6 ray phenotype was indeed due to lack of pal-1 activity."
+Reference	"WBPaper00003428"
+
+Condition : WBPaper00003428_1
+Genotype "pal-1(ct224) dpy-17(e164) ncl-1(e1865) unc-36(e251) III; him-8(e1489) IV; sDp3(III;f)"
+Reference WBPaper00003428
+
+
+
+Anatomy_function : "WBbtf0743"
+Assay	"Genetic_mosaic"	"WBPaper00003428_1"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY: WBbt:0004874(V6R)|WBbt:0004875(V6L)|GO:0001708(cell fate specification)| WBbt:0006941(ray)|PATO:0002470(transformed to)|WBbt:0007832(alae)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALITY:PATO:0002470(absent) NOT"
+Gene	"WBGene00003912"	Published_as	"pal-1"
+Not_involved	"WBbt:0004890"	Unnecessary	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. We also identified several other Ncl-1 mosaic males in which other cells that require mab-5 activity were Ncl. Four of these animals were pal-1(&#8722;) in ABp-derived cells and produced animals that appeared wild type. Since ABp gives rise to V5, this finding indicates that cells in the V5 lineage do not require pal-1 activity to develop normally."
+Not_involved	"WBbt:0004876"	Unnecessary	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. We also identified several other Ncl-1 mosaic males in which other cells that require mab-5 activity were Ncl. Four of these animals were pal-1(&#8722;) in ABp-derived cells and produced animals that appeared wild type. Since ABp gives rise to V5, this finding indicates that cells in the V5 lineage do not require pal-1 activity to develop normally."
+Reference	"WBPaper00003428"
+
+Condition : WBPaper00003428_1
+Genotype "pal-1(ct224) dpy-17(e164) ncl-1(e1865) unc-36(e251) III; him-8(e1489) IV; sDp3(III;f)"
+Reference WBPaper00003428
+
+
+
+Anatomy_function : "WBbtf0744"
+Assay	"Genetic_mosaic"	"WBPaper00003450_1"
+Phenotype	"WBPhenotype:0001585"	Autonomous
+Phenotype	"WBPhenotype:0001585"	Remark	"ENTITY:WBbt:0008409(T cell)|GO:0008356(asymmetric cell division)"
+Phenotype	"WBPhenotype:0001585"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00001194"	Published_as	"egl-27"
+Involved	"WBbt:0008409"	Sufficient	"To generate egl-27 mosaics, we made unc-29; egl-27 animals transgenic for an extrachromosomal array of DNA that contains the functional egl-27::gfp fusion and a wild-type copy of unc-29. We found 30 examples in which the polarity of the T cell was abnormal, and in 29 of these, the transgene was missing from the T cell descendants. By contrast, we found 242 examples of normal T cell polarity, and all 242 contained the transgene. We conclude that egl-27 is required cell autonomously within the T cells for normal polarity."
+Involved	"WBbt:0008409"	Necessary	"To generate egl-27 mosaics, we made unc-29; egl-27 animals transgenic for an extrachromosomal array of DNA that contains the functional egl-27::gfp fusion and a wild-type copy of unc-29. We found 30 examples in which the polarity of the T cell was abnormal, and in 29 of these, the transgene was missing from the T cell descendants. By contrast, we found 242 examples of normal T cell polarity, and all 242 contained the transgene. We conclude that egl-27 is required cell autonomously within the T cells for normal polarity."
+Reference	"WBPaper00003450"
+
+Condition : WBPaper00003450_1
+Genotype "unc-29(e1072); egl-27(mn553); mhEx7[unc-29(+) egl-27::gfp"
+Reference WBPaper00003450
+
+
+
+Anatomy_function : "WBbtf0745"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Nonautonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003394"	Published_as	"mom-1"
+Involved	"WBbt:0006873"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-3 mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Involved	"WBbt:0006873"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-3 mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Reference	"WBPaper00003645"
+
+
+Anatomy_function : "WBbtf0746"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Nonautonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003395"	Published_as	"mom-2"
+Involved	"WBbt:0006873"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS, mom-2/wg mutant P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Involved	"WBbt:0006873"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS, mom-2/wg mutant P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Reference	"WBPaper00003645"
+
+
+Anatomy_function : "WBbtf0747"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Nonautonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003246"	Published_as	"mom-3"
+Involved	"WBbt:0006873"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS, mom-3 mutant P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Involved	"WBbt:0006873"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS, mom-3 mutant P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Reference	"WBPaper00003645"
+
+
+Anatomy_function : "WBbtf0748"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Autonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003397"	Published_as	"mom-5"
+Involved	"WBbt:0006876"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner.  EMS blastomeres from mom-5/fz mutants did not respond competently to wild-type P2 signaling, but mom-5/fz mutant P2 blastomeres properly oriented the spindle of wild-type EMS cells."
+Involved	"WBbt:0006876"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner.  EMS blastomeres from mom-5/fz mutants did not respond competently to wild-type P2 signaling, but mom-5/fz mutant P2 blastomeres properly oriented the spindle of wild-type EMS cells."
+Reference	"WBPaper00003645"
+
+
+Anatomy_function : "WBbtf0749"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Autonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00001746"	Published_as	"gsk-3"
+Involved	"WBbt:0006876"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner.  EMS blastomeres from gsk-3 mutants did not respond competently to wild-type P2 signaling, but gsk-3 mutant P2 blastomeres properly oriented the spindle of wild-type EMS cells."
+Involved	"WBbt:0006876"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner.  EMS blastomeres from gsk-3 mutants did not respond competently to wild-type P2 signaling, but gsk-3 mutant P2 blastomeres properly oriented the spindle of wild-type EMS cells."
+Reference	"WBPaper00003645"
+
+
+Anatomy_function : "WBbtf0750"
+Assay	"Genetic_mosaic"	"WBPaper00004350_1"
+Phenotype	"WBPhenotype:0001585"	Autonomous
+Phenotype	"WBPhenotype:0001585"	Remark	"ENTITY:WBbt:0008409(T cell)|GO:0008356(asymmetric cell division)"
+Phenotype	"WBPhenotype:0001585"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00004203"	Published_as	"psa-1"
+Involved	"WBbt:0008409"	Necessary	"To analyze whether psa-1 is required in the T cell, we performed mosaic analyses. We constructed unc-29; psa-1 animals that were transgenic for an extrachromosomal array (osEx77) containing the wild-type unc-29 gene and functional psa-1 ::GFP. We found 10 examples in 115 non-Unc animals that showed the Psa phenotype. In all cases, the T cell descendants did not express GFP, indicating that the T cells did not have osEx77. Among them we found four examples in which we could not detect any GFP-negative cells except for the T cell descendants."
+Reference	"WBPaper00004350"
+
+Condition : WBPaper00004350_1
+Genotype "unc-29(e1072); psa-1(os22); osEx77[psa-1::GFP unc-29(+)]"
+Reference WBPaper00004350
+
+
+
+Anatomy_function : "WBbtf0751"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000594"	Remark	"ENTITY:WBbt:0008606(P11/12L)|WBbt:0008607(P11/12R)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000594"	Remark	"QUALIFY:PATO:0000613(disoriented)"
+Involved	"WBbt:0004578"	Necessary	"We ablated Y within 1 h after hatching. In the absence of Y, the bias in P(11/12)L/R migration is lost, as in lin-12(lf) mutants. Thus, the Y cell is required for the bias in P(11/12)L/R migration."
+Reference	"WBPaper00004662"
+
+
+Anatomy_function : "WBbtf0752"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0007446(V5L.p)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004250"	Unnecessary	"Using a laser microbeam, we ablated one of the V5 daughters shortly after the V5 cell division and then examined the fate adopted by the remaining daughter. Following V5.a ablation in wild-type animals, V5.p always adopted the expected seam fate."
+Reference	"WBPaper00004436"
+
+
+Anatomy_function : "WBbtf0753"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0004250(V5L.a)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000461(normal)"
+Not_involved	"WBbt:0007446"	Unnecessary	"Using a laser microbeam, we ablated one of the V5 daughters shortly after the V5 cell division and then examined the fate adopted by the remaining daughter. When V5.p was ablated, V5.a always adopted the syncytial fat."
+Reference	"WBPaper00004436"
+
+
+Anatomy_function : "WBbtf0754"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0004246(V5R.a)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000461(normal)"
+Not_involved	"WBbt:0007463"	Unnecessary	"Using a laser microbeam, we ablated one of the V5 daughters shortly after the V5 cell division and then examined the fate adopted by the remaining daughter. When V5.p was ablated, V5.a always adopted the syncytial fat."
+Reference	"WBPaper00004436"
+
+
+Anatomy_function : "WBbtf0755"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0007463(V5R.p)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004220"	Unnecessary	"Using a laser microbeam, we ablated one of the V5 daughters shortly after the V5 cell division and then examined the fate adopted by the remaining daughter. Following V5.a ablation in wild-type animals, V5.p always adopted the expected seam fate."
+Reference	"WBPaper00004436"
+
+
+Anatomy_function : "WBbtf0756"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0007846(hypodermal cell)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000057(occurence)"
+Involved	"WBbt:0003810"	Sufficient	"We analyzed the differentiated cell types produced. An isolated wild-type C blastomere always produced epidermis."
+Reference	"WBPaper00004636"
+
+
+Anatomy_function : "WBbtf0757"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0007846(hypodermal cell)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0001507(disrupted)"
+Not_involved	"WBbt:0004458"	Insufficient	"We analyzed the differentiated cell types produced. An isolated wild-type C blastomere always produced epidermis; an isolated MS cell never did."
+Reference	"WBPaper00004636"
+
+
+Anatomy_function : "WBbtf0758"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0005451(pharyngeal muscle cell)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000057(occurence) NOT"
+Involved	"WBbt:0006876"	Necessary	"EMS-ablated wild-type embryos always lack gut and pharynx (Pharynx cells were scored by expression of ceh-22 ::GFP)."
+Reference	"WBPaper00004636"
+
+
+Anatomy_function : "WBbtf0759"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000216"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000216"	Remark	"QUALIFY:PATO:0000057(occurence) NOT"
+Involved	"WBbt:0006876"	Necessary	"EMS-ablated wild-type embryos always lack gut (Intestinal cells were scored by polarized light birefringence or expression of elt-2::GFP) and pharynx."
+Reference	"WBPaper00004636"
+
+
+Anatomy_function : "WBbtf0760"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective) NOT"
+Gene	"WBGene00005077"	Published_as	"src-1"
+Not_involved	"WBbt:0006873"	Unnecessary	"Isolated wild-type EMS cells placed back in contact with P2 (but not two EMS cells placed together), correctly orient their mitotic spindles in accordance with the P2 contact site. We next examined chimeric embryos assembled using a combination of wild-type and src-1 mutant blastomeres. We found that chimeric embryos lacking src-1 function in P2 exhibited a wild-type orientation of the EMS division axis."
+Reference	"WBPaper00005375"
+
+
+Anatomy_function : "WBbtf0761"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Autonomous
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00005077"	Published_as	"src-1"
+Involved	"WBbt:0006876"	Necessary	"Isolated wild-type EMS cells placed back in contact with P2 (but not two EMS cells placed together), correctly orient their mitotic spindles in accordance with the P2 contact site. We next examined chimeric embryos assembled using a combination of wild-type and src-1 mutant blastomeres. We found that chimeric embryos lacking src-1 function in P2 exhibited a wild-type orientation of the EMS division axis, while embryos lacking src-1 function in EMS always failed to do so."
+Reference	"WBPaper00005375"
+
+
+Anatomy_function : "WBbtf0762"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003219"	Published_as	"mes-1"
+Involved	"WBbt:0006876"	Necessary	"Isolated wild-type EMS cells placed back in contact with P2 (but not two EMS cells placed together), correctly orient their mitotic spindles in accordance with the P2 contact site. We found that mes-1(+) activity was required in both EMS and P2 to orient the mitotic spindle of EMS."
+Reference	"WBPaper00005375"
+
+
+Anatomy_function : "WBbtf0763"
+Assay	"Blastomere_isolation"
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
+Gene	"WBGene00003219"	Published_as	"mes-1"
+Involved	"WBbt:0006873"	Necessary	"Isolated wild-type EMS cells placed back in contact with P2 (but not two EMS cells placed together), correctly orient their mitotic spindles in accordance with the P2 contact site. We found that mes-1(+) activity was required in both EMS and P2 to orient the mitotic spindle of EMS."
+Reference	"WBPaper00005375"
+
+
+Anatomy_function : "WBbtf0764"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000220"	Remark	"ENTITY:WBbt:000689(P5.p)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000220"	Remark	"QUALITY:PATO:0001507(disrupted)"
+Involved	"WBbt:0005175"	Necessary	"P5.p VPC failed to adopt the vulval cell fate as the gonadal primoridum was removed by laser ablation during the L1 larval stage."
+Reference	"WBPaper00005632"
+
+
+Anatomy_function : "WBbtf0765"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000220"	Remark	"ENTITY:WBbt:0006894(P6.p)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000220"	Remark	"QUALITY:PATO:0001507(disrupted)"
+Involved	"WBbt:0005175"	Necessary	"P6.p VPC failed to adopt the vulval cell fate as the gonadal primoridum was removed by laser ablation during the L1 larval stage."
+Reference	"WBPaper00005632"
+
+
+Anatomy_function : "WBbtf0766"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000220"	Remark	"ENTITY:WBbt:0006895(P7.p)|GO:0001708(cell fate specification)"
+Phenotype	"WBPhenotype:0000220"	Remark	"QUALITY:PATO:0001507(disrupted)"
+Involved	"WBbt:0005175"	Necessary	"P7.p VPC failed to adopt the vulval cell fate as the gonadal primoridum was removed by laser ablation during the L1 larval stage."
+Reference	"WBPaper00005632"
+
+
+Anatomy_function : "WBbtf0767"
+Assay	"Expression_mosaic"	"WBPaper00027140_1"
+Phenotype	"WBPhenotype:0000470"	Autonomous
+Phenotype	"WBPhenotype:0000470"	Remark	"ENTITY:WBbt:0006830(HSN)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000470"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00003238"	Published_as	"mig-1"
+Involved	"WBbt:0006830"	Sufficient	"We generated transgenic animals that used unc-86 sequences to drive expression of a mig-1 cDNA fused to GFP (gmEx384). In the posterior of the transgenic embryos, only the HSNs and PLM neurons expressed GFP. Expression of MIG-1::GFP in the HSNs rescued the HSN migration defects of mig-1 mutants, suggesting that MIG-1 functions in the HSNs to promote their migration."
+Reference	"WBPaper00027140"
+
+Condition : WBPaper00027140_1
+Genotype "mig-1(e1787); gmEx384(Punc-86::mig-1::gfp)"
+Reference WBPaper00027140
+
+
+
+Anatomy_function : "WBbtf0768"
+Assay	"Expression_mosaic"	"WBPaper00027140_2"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0003832(AVM)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00003238"	Published_as	"mig-1"
+Involved	"WBbt:0003832"	Sufficient	"To test whether Wnts act directly on the AVM/PVM neurons, we asked whether expression of MIG-1 in these cells could rescue their A/P guidance defects in mig-1 mom-5 mutants. We generated transgenic animals that expressed a mig-1 cDNA fused to GFP from the mec-7 promoter (gmEx414). Expression of MIG-1::GFP in the AVM/PVM rescues the migration defects of their growth cones in the mig-1(e1787) mom-5(ne12) mutants."
+Reference	"WBPaper00027140"
+
+Condition : WBPaper00027140_2
+Genotype "mig-1(e1787) mom-5(ne12); gmEx414[mec-7::MIG-1::GFP])"
+Reference WBPaper00027140
+
+
+
+Anatomy_function : "WBbtf0769"
+Assay	"Expression_mosaic"	"WBPaper00027140_2"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0004086(PVM)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00003238"	Published_as	"mig-1"
+Involved	"WBbt:0004086"	Sufficient	"To test whether Wnts act directly on the AVM/PVM neurons, we asked whether expression of MIG-1 in these cells could rescue their A/P guidance defects in mig-1 mom-5 mutants. We generated transgenic animals that expressed a mig-1 cDNA fused to GFP from the mec-7 promoter (gmEx414). Expression of MIG-1::GFP in the AVM/PVM rescues the migration defects of their growth cones in the mig-1(e1787) mom-5(ne12) mutants."
+Reference	"WBPaper00027140"
+
+Condition : WBPaper00027140_2
+Genotype "mig-1(e1787) mom-5(ne12); gmEx414[mec-7::MIG-1::GFP])"
+Reference WBPaper00027140
+
+
+
