@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-09-10
-date: 10:09:2014 13:21
+data-version: 2014-11-10
+date: 10:11:2014 15:18
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -47854,6 +47854,7 @@ name: B cell male
 def: "a post-embryonic blast cell in male." [WB:rynl]
 is_a: WBbt:0003825 ! B cell
 is_a: WBbt:0005757 ! male-specific
+is_a: WBbt:0008608 ! B lineage cell
 
 [Term]
 id: WBbt:0008065
@@ -51642,6 +51643,14 @@ def: "Postembryonic blast cells for ventral cord motorneurons, ventral hypodermi
 is_a: WBbt:0008115 ! ventral cord blast cell
 created_by: raymond
 creation_date: 2014-09-10T13:15:00Z
+
+[Term]
+id: WBbt:0008608
+name: B lineage cell
+def: "A cell that is the B post-embryonic blast cell or is a lineal descendant of B, in male." [WB:rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2014-11-10T15:11:46Z
 
 [Typedef]
 id: DESCENDENTOF
