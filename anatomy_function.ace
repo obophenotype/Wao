@@ -5964,7 +5964,8 @@ Assay	"Genetic_mosaic"	"WBPaper00039901_2"
 Phenotype	"WBPhenotype:0001661"	Autonomous
 Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005832(AWC-ON)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
 Gene	"WBGene00006831"	Published_as	"unc-104"
-Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(-) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Necessary
 Reference	"WBPaper00039901"
 
 Condition : WBPaper00039901_2
@@ -5978,7 +5979,8 @@ Assay	"Genetic_mosaic"	"WBPaper00039901_2"
 Phenotype	"WBPhenotype:0001661"	Nonautonomous
 Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005833(AWC-OFF)|GO:0001708(cell fate specification) QUALITY:PATO:0000380(increased frequency)"
 Gene	"WBGene00006831"	Published_as	"unc-104"
-Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(–) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Sufficient	"Spontaneous loss of the extrachromosomal array (unc-104p::unc-104) in one of the two AWC neurons resulted in mosaic animals in which one of the two AWC neurons expressed the transgene and therefore had unc-104 activity; this cell could be identified by expression of the DsRed marker. In the majority of these mosaic animals, the unc-104(+) AWC neuron became AWC-ON and the unc-104(-) AWC neuron became AWC-OFF."
+Involved	"WBbt:0005832"	Necessary
 Reference	"WBPaper00039901"
 
 Condition : WBPaper00039901_2
@@ -6117,6 +6119,7 @@ Phenotype	"WBPhenotype:0000572"	Autonomous
 Phenotype	"WBPhenotype:0000572"	Remark	"ENTITY:WBbt:0005413(AIY)|GO:0043005(neurite)|GO:0031175(neurite outgrowth) QUALITY:PATO:0001997(reduced) NOT"
 Gene	"WBGene00000913"	Published_as	"daf-18"
 Involved	"WBbt:0005413"	Sufficient	"We analyzed daf-18(mg198) mosaic animals retaining the rescuing array in a subset of cells. We observed that mosaic animals retaining the array in AIY were rescued, whereas animals that did not retain the array in AIY, but retained it in other cells, such as postsynaptic partner RIA, were not rescued for the neurite length phenotype in AIY (P<0.001). These mosaic data suggest that DAF-18 acts cell-autonomously in AIY."
+Involved	"WBbt:0005413"	Necessary
 Reference	"WBPaper00040402"
 
 Condition : WBPaper00040402_1
@@ -9092,6 +9095,8 @@ Reference WBPaper00044189
 
 Anatomy_function : "WBbtf0679"
 Assay	"Expression_mosaic"	"WBPaper00044263_1"
+Phenotype	"WBPhenotype:0000391"	Remark	"ENTITY:WBbt:0008600(enteric muscle)|GO:0006936(muscle contraction)|GO:0030421(defecation)"
+Phenotype	"WBPhenotype:0000391"	Remark	"QUALIFY:PATO:0002052(decreased occurrence)"
 Gene	"WBGene00002189"	Published_as	"kin-1"
 Involved	"WBbt:0005190"	Necessary	"To determine whether PKA functions in GABAergic neurons to control the Exp step, we generated worms expressing dominant negative PKA transgenes specifically in these neurons. We mutated the corresponding Gly residue to Asp (G310D) in the B site of the KIN-2a isoform (referred to as PKA[DN], and expressed this construct specifically in GABAergic motor neurons (using the full length unc-47 promoter). Two independently generated PKA[DN] transgenic lines displayed distended intestinal lumens, and dramatically reduced cycles in which Exp occurred."
 Reference	"WBPaper00044263"
@@ -9917,8 +9922,8 @@ Phenotype	"WBPhenotype:0001681"	Nonautonomous
 Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006876(EMS)|GO:0000132(establishment of mitotic spindle orientation)"
 Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0001511(defective)"
 Gene	"WBGene00003394"	Published_as	"mom-1"
-Involved	"WBbt:0006873"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-3 mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
-Involved	"WBbt:0006873"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-3 mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Involved	"WBbt:0006873"	Sufficient	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-1/porc mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
+Involved	"WBbt:0006873"	Necessary	"We constructed genetic chimeras to determine if these and other genes are required in P2 to signal, or in EMS to respond to signaling. We isolated blastomeres from mutant and wild-type embryos, and in each experiment re-associated a mutant cell with a wild-type partner. When placed in contact with a wild-type EMS mom-1/porc mutant, P2 blastomeres failed to properly orient EMS mitotic spindles, whereas EMS cells from these mutant embryos were capable of responding to wild-type P2 cells."
 Reference	"WBPaper00003645"
 
 
@@ -10413,6 +10418,9 @@ Reference WBPaper00032332
 
 Anatomy_function : "WBbtf0788"
 Assay	"Expression_mosaic"	"WBPaper00032955_1"
+Phenotype	"WBPhenotype:0000384"	Autonomous
+Phenotype	"WBPhenotype:0000384"	Remark	"ENTITY:WBbt:0005270(DD neuron)|WBbt:0005303(VD neuron)|GO:0007411(axon guidance)"
+Phenotype	"WBPhenotype:0000384"	Remark	"QUALITY:PATO:0001511(defective) NOT"
 Gene	"WBGene00003006"	Published_as	"lin-17"
 Involved	"WBbt:0005270"	Sufficient	"Because Wnt signaling is known to affect a variety of cells in the C. elegans tail,"
 Involved	"WBbt:0005303"
@@ -11286,6 +11294,996 @@ Reference	"WBPaper00044679"
 Condition : WBPaper00044679_1
 Genotype "plr-1(zd165); Ex[lin-11::SL2::plr-1-gfp]"
 Reference WBPaper00044679
+
+
+
+Anatomy_function : "WBbtf0849"
+Assay	"Expression_mosaic"	"WBPaper00046106_1"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000553"	Published_as	"cmk-1"
+Not_involved	"WBbt:0005662"	Insufficient	"cmk-1(pg58) homozygous animals carrying AFD-specific gcy-8 promoter showed no rescue of noxious heat avoidance in three independent lines."
+Reference	"WBPaper00046106"
+
+Condition : WBPaper00046106_1
+Genotype "cmk-1(pg58);Ex[gcy-8p::cmk-1]"
+Reference WBPaper00046106
+
+
+
+Anatomy_function : "WBbtf0850"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Not_involved	"WBbt:0005662"	Insufficient	"We genetically ablated AFD in wild-type and the cmk-1(pg58) background. AFD ablation was achieved genetically in animals expressing a reconstituted caspase in AFD. Animals without AFD avoided heat similarly as those with intact AFD neurons."
+Reference	"WBPaper00046106"
+
+
+Anatomy_function : "WBbtf0851"
+Assay	"Expression_mosaic"	"WBPaper00046106_3"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced)"
+Gene	"WBGene00000553"	Published_as	"cmk-1"
+Not_involved	"WBbt:0005662"	Insufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed no rescue effect with the tax-4 promoter, which drives expression in AWC, ASI, AFD, and several other classes of sensory neurons."
+Not_involved	"WBbt:0005672"	Insufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed no rescue effect with the tax-4 promoter, which drives expression in AWC, ASI, AFD, and several other classes of sensory neurons."
+Not_involved	"WBbt:0005666"	Insufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed no rescue effect with the tax-4 promoter, which drives expression in AWC, ASI, AFD, and several other classes of sensory neurons."
+Reference	"WBPaper00046106"
+
+Condition : WBPaper00046106_3
+Genotype "cmk-1(pg58); Ex[tax-4p::cmk-1]"
+Reference WBPaper00046106
+
+
+
+Anatomy_function : "WBbtf0852"
+Assay	"Expression_mosaic"	"WBPaper00046106_4"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000553"	Published_as	"cmk-1"
+Involved	"WBbt:0006828"	Sufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed a significant rescue effect with the egl-46 promoter, exclusively driving expression in the FLP and PVD neurons in adults."
+Involved	"WBbt:0006831"	Sufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed a significant rescue effect with the egl-46 promoter, exclusively driving expression in the FLP and PVD neurons in adults."
+Reference	"WBPaper00046106"
+
+Condition : WBPaper00046106_4
+Genotype "cmk-1(pg58); Ex[egl-46::cmk-1]"
+Reference WBPaper00046106
+
+
+
+Anatomy_function : "WBbtf0853"
+Assay	"Expression_mosaic"	"WBPaper00046106_5"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced) NOT"
+Gene	"WBGene00000553"	Published_as	"cmk-1"
+Involved	"WBbt:0006828"	Sufficient	"We extended cell-specific rescue experiments to other neurons, focusing on those previously shown to be thermosensitive: AWC, ASI, PVD, and FLP. We observed a significant rescue effect with the mec-3 promoter, driving expression into the touch receptor neurons (TRNs), PVD and FLP. We further analyzed transgenic animals from one mec-3p::cmk-1 rescue line by separately scoring individuals that were expressing GFP in FLP and individuals that were not. Strikingly, rescue was detected only in animals expressing the transgene in FLP. These data imply that expression of wild-type cmk-1 in FLP is sufficient to restore noxious heat avoidance."
+Reference	"WBPaper00046106"
+
+Condition : WBPaper00046106_5
+Genotype "cmk-1(pg58); Ex[mec-3p::cmk-1]"
+Reference WBPaper00046106
+
+
+
+Anatomy_function : "WBbtf0854"
+Assay	"Genetic_ablation"	"WBPaper00046106_6"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009408(response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0001997(reduced)"
+Involved	"WBbt:0006828"	Necessary	"To determine if FLP neurons were necessary for noxious heat avoidance, we evaluated the effect of ablating FLP neurons on noxious heat avoidance. We generated a line expressing a caspase suicide transgene to ablate FLP neurons. This line also ablated PLM. In a wild-type cmk-1 background, ablating FLP (and PLM) produced a partial defect in heat avoidance."
+Involved	"WBbt:0005490"	Necessary	"To determine if FLP neurons were necessary for noxious heat avoidance, we evaluated the effect of ablating FLP neurons on noxious heat avoidance. We generated a line expressing a caspase suicide transgene to ablate FLP neurons. This line also ablated PLM. In a wild-type cmk-1 background, ablating FLP (and PLM) produced a partial defect in heat avoidance."
+Reference	"WBPaper00046106"
+
+Condition : WBPaper00046106_6
+Genotype "domEx303[mec-3p::CZcasp3, flp-4p::QF, QUAS::casp3NZ::SL2mCherry, unc-122p::RFP]"
+Reference WBPaper00046106
+
+
+
+Anatomy_function : "WBbtf0855"
+Assay	"Expression_mosaic"	"WBPaper00045859_1"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0005667"	Sufficient	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_1
+Genotype "daf-7(ok3125);Ex[Ptrx-1::daf-7]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0856"
+Assay	"Expression_mosaic"	"WBPaper00045859_2"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0005666"	Sufficient	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_2
+Genotype "daf-7(ok3125);Ex[Pstr-3::daf-7]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0857"
+Assay	"Expression_mosaic"	"WBPaper00045859_1"
+Phenotype	"WBPhenotype:0000062"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0016265(death)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0000062"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0005667"	Sufficient	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_1
+Genotype "daf-7(ok3125);Ex[Ptrx-1::daf-7]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0858"
+Assay	"Expression_mosaic"	"WBPaper00045859_2"
+Phenotype	"WBPhenotype:0000062"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0016265(death)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0000062"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0005666"	Sufficient	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_2
+Genotype "daf-7(ok3125);Ex[Pstr-3::daf-7]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0859"
+Assay	"Genetic_ablation"	"WBPaper00045859_3"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Involved	"WBbt:0005667"	Sufficient	"We also observed that the genetic ablation of the ASJ neuron pair conferred a partial deficit in P. aeruginosa avoidance and susceptibility, demonstrating that the ASJ neurons are necessary for the complete protective response to P. aeruginosa."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_3
+Genotype "jxEx[trx-1::ICE+ofm-1::gfp]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0860"
+Assay	"Genetic_ablation"	"WBPaper00045859_3"
+Phenotype	"WBPhenotype:0000062"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0016265(death)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0000062"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Involved	"WBbt:0005667"	Sufficient	"We also observed that the genetic ablation of the ASJ neuron pair conferred a partial deficit in P. aeruginosa avoidance and susceptibility, demonstrating that the ASJ neurons are necessary for the complete protective response to P. aeruginosa."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_3
+Genotype "jxEx[trx-1::ICE+ofm-1::gfp]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0861"
+Assay	"Expression_mosaic"	"WBPaper00045859_4"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Involved	"WBbt:0006834"	Sufficient	"Expression of daf-1 in only the RIM/RIC interneurons under the tdc-1 promoter was sufficient to restore pathogen avoidance behavior in the daf-1 mutant to wild-type levels."
+Involved	"WBbt:0005835"	Sufficient	"Expression of daf-1 in only the RIM/RIC interneurons under the tdc-1 promoter was sufficient to restore pathogen avoidance behavior in the daf-1 mutant to wild-type levels."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_4
+Genotype "daf-1(m40); ftEX205[ptdc-1::daf-1-gfp; odr-1::dsRED]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0862"
+Assay	"Expression_mosaic"	"WBPaper00045859_5"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Not_involved	"WBbt:0006816"	Insufficient	"Using daf-1 mutant strains in which transgenic expression of daf-1 is directed in subsets of neurons, we observed that daf-1 expression under its native promoter or the panneuronal egl-3 promoter rescued P. aeruginosa avoidance to wild-type levels, but no rescue was observed when daf-1 was expressed in ~60 ciliated sensory neurons (including ASI and ASJ), using either the osm-6 or bbs-1 promoters."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_5
+Genotype "daf-1(m40); ftEX83[posm-6::daf-1::GFP; odr-1::dsRED]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0863"
+Assay	"Expression_mosaic"	"WBPaper00045859_6"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Not_involved	"WBbt:0006816"	Insufficient	"Using daf-1 mutant strains in which transgenic expression of daf-1 is directed in subsets of neurons, we observed that daf-1 expression under its native promoter or the panneuronal egl-3 promoter rescued P. aeruginosa avoidance to wild-type levels, but no rescue was observed when daf-1 was expressed in ~60 ciliated sensory neurons (including ASI and ASJ), using either the osm-6 or bbs-1 promoters."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_6
+Genotype "daf-1(m40); ftEX70[pbbs-1::daf-1::GFP; odr-1::dsRED]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0864"
+Assay	"Expression_mosaic"	"WBPaper00045859_7"
+Phenotype	"WBPhenotype:0001012"	Autonomous
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0005667(ASJ)|WBGene00000903(daf-7)|GO:0010467(gene expression)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00001665"	Published_as	"gpa-3"
+Involved	"WBbt:0005667"	Sufficient	"To determine if GPA-3 acts cell autonomously in the ASJ neurons to mediate the response to P. aeruginosa , we expressed wild-type copies of gpa-3 cDNA under heterologous promoters in the gpa-2(pk16) gpa-3(pk35) background. Under control of either the panciliated neuronal promoter bbs-1 or the ASJ-specific promoter trx-1, gpa-3 cDNA was able to rescue the daf-7 ASJ expression defect, indicating that GPA-3 acts cell autonomously in ASJ to mediate the response to P. aeruginosa."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_7
+Genotype "ksIs2; gpa-2(pk16) gpa-3(pk35); qdEx67[trx-1p::gpa-3 + ofm-1::gfp]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0865"
+Assay	"Expression_mosaic"	"WBPaper00045859_8"
+Phenotype	"WBPhenotype:0001012"	Autonomous
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0005667(ASJ)|WBGene00000903(daf-7)|GO:0010467(gene expression)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00001664"	Published_as	"gpa-2"
+Involved	"WBbt:0005667"	Sufficient	"To determine the site of action for gpa-2 in the response to P.aeruginosa, we expressed wild-type copies of gpa-2 cDNA under heterologous promoters in the gpa-2(pk16) gpa-3(pk35) background. To our surprise, expression of gpa-2 driven by either the panciliated neuronal promoter bbs-1 or the ASJ-specific promoter trx-1 was able to rescue the daf-7p::gfp phenotype, but expression of gpa-2 in the AWC neurons under the ceh-36 promoter was not able to rescue the gpa-2 gpa-3 mutant phenotype. This indicates that GPA-2, like GPA-3, also acts cell autonomously in ASJ to induce daf-7 expression in response to P. aeruginosa."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_8
+Genotype "ksIs2; gpa-2(pk16) gpa-3(pk35); qdEx95[trx-1p::gpa-2 + ofm-1::gfp]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0866"
+Assay	"Expression_mosaic"	"WBPaper00045859_9"
+Phenotype	"WBPhenotype:0001012"	Remark	"ENTITY:WBbt:0005667(ASJ)|WBGene00000903(daf-7)|GO:0010467(gene expression)|GO:0042742(defense response to bacterium)|NCBITaxon:287(Pseudomonas aeruginosa)"
+Phenotype	"WBPhenotype:0001012"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Gene	"WBGene00001664"	Published_as	"gpa-2"
+Not_involved	"WBbt:0005672"	Insufficient	"To determine the site of action for gpa-2 in the response to P.aeruginosa, we expressed wild-type copies of gpa-2 cDNA under heterologous promoters in the gpa-2(pk16) gpa-3(pk35) background. To our surprise, expression of gpa-2 driven by either the panciliated neuronal promoter bbs-1 or the ASJ-specific promoter trx-1 was able to rescue the daf-7p::gfp phenotype, but expression of gpa-2 in the AWC neurons under the ceh-36 promoter was not able to rescue the gpa-2 gpa-3 mutant phenotype. This indicates that GPA-2, like GPA-3, also acts cell autonomously in ASJ to induce daf-7 expression in response to P. aeruginosa."
+Reference	"WBPaper00045859"
+
+Condition : WBPaper00045859_9
+Genotype "ksIs2; gpa-2(pk16) gpa-3(pk35); qdEx96[ceh-36p::gpa-2 + ofm-1::gfp]"
+Reference WBPaper00045859
+
+
+
+Anatomy_function : "WBbtf0867"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal) NOT"
+Not_involved	"WBbt:0006782"	Unnecessary	"We hypothesized that the du cell could potentially be pushing downward on the utse, causing it to stretch outward. However, du ablation had no effect on utse cell behavior."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0868"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal)"
+Involved	"WBbt:0006785"	Necessary	"Ablations of uterine toroid 1 (ut1) or uterine toroid 2 (ut2) caused defects in utse development. 88% of ut1-ablated worms showed defects in nuclear migration and had utse cell bodies that were both shorter than wild type and missing portions."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0869"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal)"
+Involved	"WBbt:0006786"	Necessary	"Ablations of uterine toroid 1 (ut1) or uterine toroid 2 (ut2) caused defects in utse development. 91% of ut2 ablated worms showed defects including reduced distance between utse nuclei in ut2 ablated worms and a shorter cell bodies containing missing portions and vacuoles."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0870"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal) NOT"
+Not_involved	"WBbt:0006787"	Unnecessary	"Ablation of the next most distal ut cell, ut3 which has no direct contact with the utse, caused no defects in nuclear migration or cell outgrowth."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0871"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal)"
+Involved	"WBbt:0005728"	Necessary	"We performed the anchor cell ablations after mid L4, the stage at which the AC had already induced pi cells, fused with the upsilon cell nuclei, and its nucleus could be easily identifies due to its position in a unique plane of focus relative to other nuclei in the worm. C nuclear ablation caused defects in utse development. utse nuclei were clustered together in AC nuclear ablated worms and utse cell bodies were short and deformed."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0872"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0006789(uterine seam cell)|GO:0035847(uterine epithelium development)|GO:0003382(epithelial cell morphogenesis)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000460(abnormal)"
+Involved	"WBbt:0008605"	Necessary	"We ablated the M cell in the L1 larval stage, and then observed the utse at L4. In the absence of the SMs, the utse cell body exhibits abnormal morphology and expands beyond its normal position."
+Reference	"WBPaper00045833"
+
+
+Anatomy_function : "WBbtf0873"
+Assay	"Expression_mosaic"	"WBPaper00045598_1"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Involved	"WBbt:0003679"	Sufficient	"To test whether inhibition of pharynx pumping in response to 10% CO2 requires expression of hid-1 in the gut, neurons, or both, we used transgenic lines that express HID-1 fused to GFP driven by either the pan-neuronal promoter rab-3 or the gut-specific promoter ges-1. Expression of HID-1 under the rab-3 promoter in neurons of hid-1(sa722) background was sufficient to restore inhibition of the pharynx pumping almost to the levels shown by wild-type animals."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_1
+Genotype "hid-1(sa722); lin-15(n765); jsEx897[rab-3p::HID-1::GFP"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0874"
+Assay	"Expression_mosaic"	"WBPaper00045598_2"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Not_involved	"WBbt:0005792"	Insufficient	"To test whether inhibition of pharynx pumping in response to 10% CO2 requires expression of hid-1 in the gut, neurons, or both, we used transgenic lines that express HID-1 fused to GFP driven by either the pan-neuronal promoter rab-3 or the gut-specific promoter ges-1. Expression of HID-1 under the rab-3 promoter in neurons of hid-1(sa722) background was sufficient to restore inhibition of the pharynx pumping almost to the levels shown by wild-type animals. In contrast, expression of HID-1 under the ges-1 promoter in the gut of hid-1(sa722) had no significant effect on the response of the pharynx to 10% CO2."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_2
+Genotype "hid-1(sa722); lin-15(n765); jsEx909[ges-1p::HID-1::GFP"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0875"
+Assay	"Expression_mosaic"	"WBPaper00045598_3"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Not_involved	"WBbt:0005662"	Insufficient	"Transgenic expression of HID-1::GFP driven by a gcy-8 promoter in the thermosensory AFD of hid-1(sa722) background did not restore the CO2-mediated pumping inhibition."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_3
+Genotype "hid-1(sa722); ygEx317[gcy-8p::HID-1::GFP]"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0876"
+Assay	"Expression_mosaic"	"WBPaper00045598_4"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Not_involved	"WBbt:0005663"	Insufficient	"Transgenic expression of HID-1::GFP driven by the osm-6 promoter, which was expressed in ASE neurons (undetected in BAG neurons), did not restore the CO2-mediated pumping inhibition."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_4
+Genotype "hid-1(sa722); Ex[osm-6p::HID-1::GFP]"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0877"
+Assay	"Expression_mosaic"	"WBPaper00045598_5"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Involved	"WBbt:0006825"	Sufficient	"Transgenic lines expressing HID-1::GFP under the promoter of flp-17 showed expression in the BAG neurons. This expression was sufficient to fully restore the CO2-dependent pumping inhibition."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_5
+Genotype "hid-1(sa722); ygEx319 [flp-17-p::HID-1::GFP"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0878"
+Assay	"Expression_mosaic"	"WBPaper00045598_6"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00001844"	Published_as	"hid-1"
+Involved	"WBbt:0006825"	Sufficient	"The expression of HID-1::GFP under the gcy-33 promoter in hid-1(sa722)background was specific to the BAG neurons. This expression was sufficient to fully restore the CO2-dependent pumping inhibition."
+Reference	"WBPaper00045598"
+
+Condition : WBPaper00045598_6
+Genotype "hid-1(sa722); ygEx320 [gcy-33-p::HID-1::GFP"
+Reference WBPaper00045598
+
+
+
+Anatomy_function : "WBbtf0879"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001764"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)|GO:0010035(response to inorganic substance)|CHEBI:16526(carbon dioxide)"
+Phenotype	"WBPhenotype:0001764"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Involved	"WBbt:0006825"	Necessary	"We also ablated the BAG neurons in wild-type background using GFP driven by gcy-33 promoter as a marker. We found that following ablation of the BAG neurons, the pumping in response to 10% CO2 was similar to that in HID-1-null animals (Figure 4C). These results suggest that the BAG neurons are required for the pumping inhibition."
+Reference	"WBPaper00045598"
+
+
+Anatomy_function : "WBbtf0880"
+Assay	"Genetic_ablation"	"WBPaper00045291_1"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective)"
+Involved	"WBbt:0006828"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Involved	"WBbt:0005237"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Involved	"WBbt:0006831"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_1
+Genotype "vxEx284[Pmec-10::ICE+Pmyo-2::mCherry]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0881"
+Assay	"Genetic_ablation"	"WBPaper00045291_2"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective)"
+Involved	"WBbt:0006828"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Involved	"WBbt:0005237"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Involved	"WBbt:0006831"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch and multidendritic neurons (via Pmec-10::ICE or Pmec-3::ICE) abolished hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_2
+Genotype "vxEx277[Pmec-3::ICE+Pmyo-2::mCherry]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0882"
+Assay	"Genetic_ablation"	"WBPaper00045291_3"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Not_involved	"WBbt:0005237"	Unnecessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the touch neurons [via mec-4(d)] had no effect on hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_3
+Genotype "mec-4(e1611) X"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0883"
+Assay	"Genetic_ablation"	"WBPaper00045291_4"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Not_involved	"WBbt:0005244"	Unnecessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the mechanosensitive dopamine neurons (CEP, ADE, and PED via Pdat-1::ICE) had no effect on hygrotaxis."
+Not_involved	"WBbt:0005415"	Unnecessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the mechanosensitive dopamine neurons (CEP, ADE, and PED via Pdat-1::ICE) had no effect on hygrotaxis."
+Not_involved	"WBbt:0006747"	Unnecessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. We found that ablation of the mechanosensitive dopamine neurons (CEP, ADE, and PED via Pdat-1::ICE) had no effect on hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_4
+Genotype "Ex[Pdat-1::ICE]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0884"
+Assay	"Genetic_ablation"	"WBPaper00045291_5"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective)"
+Involved	"WBbt:0006828"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. To test the FLP neurons, we ablated them via expression of Psto-5::ICE and found that this strain failed to perform hygrotaxis."
+Involved	"WBbt:0006826"	Necessary	"To test the requirement of these different sensory neurons in hygrotaxis, we used strains with different subsets of neurons that had been destroyed via expression of a human cell death caspase (ICE) or via a gain-of-function mutation in mec-4. To test the FLP neurons, we ablated them via expression of Psto-5::ICE and found that this strain failed to perform hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_5
+Genotype "vxEx279[Psto-5::ICE+Pmyo-2::mCherry]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0885"
+Assay	"Expression_mosaic"	"WBPaper00045291_6"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00022815"	Published_as	"asic-1"
+Involved	"WBbt:0006828"	Sufficient	"We then assessed whether asic-1(null) mutant worms with asic-1 rescued in FLP using the Psto-5 promoter could perform hygrotaxis. These asic-1 (FLP+) transgenic worms displayed significant improvement in hygrotaxis performance while their untransformed sisters performed similarly to the asic-1(null) mutant."
+Involved	"WBbt:0006826"	Sufficient	"We then assessed whether asic-1(null) mutant worms with asic-1 rescued in FLP using the Psto-5 promoter could perform hygrotaxis. These asic-1 (FLP+) transgenic worms displayed significant improvement in hygrotaxis performance while their untransformed sisters performed similarly to the asic-1(null) mutant."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_6
+Genotype "asic-1(ok415) I; vxEx284[Psto-5::ASIC-1+Pcoel::GFP]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0886"
+Assay	"Genetic_ablation"	"WBPaper00045291_7"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective)"
+Involved	"WBbt:0005662"	Necessary	"To independently test the role of AFD neurons in hygrosensation, we genetically ablated them by expressing ICE with the AFD-specific promoter Pgcy-8. This AFD-ablated strain failed to perform hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_7
+Genotype "vxEx289[Pgcy-8::ICE+Pmyo-2::mCherry]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0887"
+Assay	"Expression_mosaic"	"WBPaper00045291_8"
+Phenotype	"WBPhenotype:0000738"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0009270(response to humidity)"
+Phenotype	"WBPhenotype:0000738"	Remark	"QUALITY:PATO:0000460(defective) NOT"
+Gene	"WBGene00006526"	Published_as	"tax-4"
+Involved	"WBbt:0005662"	Sufficient	"The tax-4 gene is widely expressed in various sensory neurons. To determine whether tax-4 is required in AFD neurons for hygrotaxis, we expressed it in a tax-4 mutant background in AFD, which partially rescued hygrotaxis."
+Reference	"WBPaper00045291"
+
+Condition : WBPaper00045291_8
+Genotype "tax-4(p678) III. VxEx291[Pgcy-8::tax-4+Pmyo-2::mCherry]"
+Reference WBPaper00045291
+
+
+
+Anatomy_function : "WBbtf0888"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0003638"	Sufficient	"We found that optogenetic excitation of the MC neurons stimulated pumping. Stimulation of the MCs still excited pumping after the ablation of the M2 neurons, demonstrating that the MCs can directly stimulate pumping."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0889"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0003634"	Sufficient	"We found that optogenetic stimulation of the M2s increased pump rate to a similar level as that observed during MC stimulation. Furthermore, M2 excitation stimulated pumping in the absence of the MC neurons, demonstrating that the M2s, like the MCs, can stimulate pumping directly."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0890"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0004467"	Sufficient	"We found that optogenetic excitation of the M4 neuron caused an increase in pumping to a similar level as that observed during MC or M2 stimulation."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0891"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0002056"	Remark	"ENTITY:WBbt:0003734(isthmus)|GO:0030432(peristalsis)"
+Phenotype	"WBPhenotype:0002056"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0004467"	Sufficient	"Optogenetic excitation of M4 caused a greater proportion of pumps to be followed by peristalsis than during MC stimulation."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0892"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Not_involved	"WBbt:0004488"	Insufficient	"In contrast to the other cholinergic pharyngeal neurons, we did not find M1 optogenetic stimulation to affect pump rate."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0893"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003649"	Necessary	"Ablation of the I1 neurons has no effect on the pump rate in the presence of food. However, we found that the I1s are required for pumping in the absence of food."
+Reference	"WBPaper00045312"
+
+
+Anatomy_function : "WBbtf0894"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003638"	Necessary	"I1 stimulation excited pumping following the ablation of either the MCs or the M2s, but not following ablation of both neuron types, demonstrating that the I1s can stimulate pumping through the MCs, through the M2s, or through both the MCs and the M2s."
+Involved	"WBbt:0003634"	Necessary	"I1 stimulation excited pumping following the ablation of either the MCs or the M2s, but not following ablation of both neuron types, demonstrating that the I1s can stimulate pumping through the MCs, through the M2s, or through both the MCs and the M2s."
+Reference	"WBPaper00045312"
+
+
+Anatomy_function : "WBbtf0895"
+Assay	"Optogenetic"	"WBPaper00045312_1"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0003649"	Sufficient	"Optogenetic stimulation of the I1 neurons increases pumping rate in an ATR-dependent manner to a level similar to that seen with MC or M2 stimulation."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_1
+Genotype "lin-15(n765ts) vsIs48[unc-17::GFP] X; zxIs6[Punc-17::ChR2(H134R)::YFP; lin-15(+)] V"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0896"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Not_involved	"WBbt:0004488"	Unnecessary	"Optogenetic inhibition of M1 had no effect on pump rate, suggesting that M1 is not required for pump rate regulation."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0897"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003638"	Necessary	"We found that optogenetic inhibition of the MCs, the M2s, or M4 reduced pump rate, indicating that an endogenous function of these neurons is to stimulate pumping."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0898"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003634"	Necessary	"We found that optogenetic inhibition of the MCs, the M2s, or M4 reduced pump rate, indicating that an endogenous function of these neurons is to stimulate pumping."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0899"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003677"	Necessary	"We found that optogenetic inhibition of the MCs, the M2s, or M4 reduced pump rate, indicating that an endogenous function of these neurons is to stimulate pumping."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0900"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003649"	Necessary	"The I1 interneurons regulate pumping endogenously via the MCs and the M2s. As with MC, M2, and M4, we found that I1 inhibition caused a decrease in pumping."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0901"
+Assay	"Optogenetic"	"WBPaper00045312_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)|GO:0043051(regulation of pharyngeal pumping)|WBbt:0003649(I1 neuron)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003638"	Necessary	"However, inhibition of the I1s simultaneously with inhibition of both the MCs and the M2s did not cause slower pumping than that seen with inhibition of the MCs and the M2s alone, indicating that effect of I1 inhibition on pumping rate requires the MCs and the M2s."
+Involved	"WBbt:0003634"	Necessary	"However, inhibition of the I1s simultaneously with inhibition of both the MCs and the M2s did not cause slower pumping than that seen with inhibition of the MCs and the M2s alone, indicating that effect of I1 inhibition on pumping rate requires the MCs and the M2s."
+Reference	"WBPaper00045312"
+
+Condition : WBPaper00045312_2
+Genotype "lite-1(ce314) X; zxEx620[Punc-17::Mac::YFP; Pelt-2::mCherry]"
+Reference WBPaper00045312
+
+
+
+Anatomy_function : "WBbtf0902"
+Assay	"Genetic_ablation"	"WBPaper00045214_1"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Not_involved	"WBbt:0005671"	Unnecessary	"Animals in which AWB or AWC were genetically ablated showed no defects in chemotaxis in response to high diacetyl concentrations."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_1
+Genotype "Ex[Pstr-1::mCasp1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0903"
+Assay	"Genetic_ablation"	"WBPaper00045214_2"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Not_involved	"WBbt:0005672"	Unnecessary	"Animals in which AWB or AWC were genetically ablated showed no defects in chemotaxis in response to high diacetyl concentrations."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_2
+Genotype "Ex[Pceh-36::mCasp1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0904"
+Assay	"Genetic_ablation"	"WBPaper00045214_3"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0005665"	Necessary	"Animals in which AWB or AWC were genetically ablated showed no defects in chemotaxis in response to high diacetyl concentrations. However, ablation of ASH neurons inhibited this avoidance behavior."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_3
+Genotype "Ex[Psra-6::mCasp1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0905"
+Assay	"Expression_mosaic"	"WBPaper00045214_4"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Involved	"WBbt:0005665"	Necessary	"To determine whether SRI-14 functions in AWC or ASH neurons in the response to high concentrations of diacetyl, we performed neuron-specific knockdown of sri-14 in AWC and ASH neurons. ASH-specific knockdown of sri-14 caused a defect in diacetyl avoidance, but AWC-specific knockdown did not."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_4
+Genotype "Ex[Psra-6::sri-14RNAi]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0906"
+Assay	"Expression_mosaic"	"WBPaper00045214_5"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Not_involved	"WBbt:0005672"	Unnecessary	"To determine whether SRI-14 functions in AWC or ASH neurons in the response to high concentrations of diacetyl, we performed neuron-specific knockdown of sri-14 in AWC and ASH neurons. ASH-specific knockdown of sri-14 caused a defect in diacetyl avoidance, but AWC-specific knockdown did not."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_5
+Genotype "Ex[Pceh-36::sri-14RNAi]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0907"
+Assay	"Expression_mosaic"	"WBPaper00045214_5"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Not_involved	"WBbt:0005672"	Unnecessary	"To determine whether SRI-14 functions in AWC or ASH neurons in the response to high concentrations of diacetyl, we performed neuron-specific knockdown of sri-14 in AWC and ASH neurons. ASH-specific knockdown of sri-14 caused a defect in diacetyl avoidance, but AWC-specific knockdown did not."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_5
+Genotype "Ex[Pceh-36::sri-14RNAi]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0908"
+Assay	"Expression_mosaic"	"WBPaper00045214_6"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Involved	"WBbt:0005665"	Sufficient	"Defects of the sri-14 mutants in the avoidance of high diacetyl concentrations were rescued by the ASH-specific expression of sri-14 complementary DNA."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_6
+Genotype "sri-14(ok2865); Ex[Psra-6::sri-14]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0909"
+Assay	"Expression_mosaic"	"WBPaper00045214_7"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Not_involved	"WBbt:0005670"	Insufficient	"Moreover, defects of the sri-14 mutants in the avoidance of high diacetyl concentrations were rescued by the ASH-specific expression of sri-14 complementary DNA (cDNA), but were only partially rescued or not rescued by specific expression in AWA, AWB, or AWC olfactory neurons."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_7
+Genotype "sri-14(ok2865); Ex[Podr-10::sri-14]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0910"
+Assay	"Expression_mosaic"	"WBPaper00045214_8"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Not_involved	"WBbt:0005671"	Insufficient	"Moreover, defects of the sri-14 mutants in the avoidance of high diacetyl concentrations were rescued by the ASH-specific expression of sri-14 complementary DNA (cDNA), but were only partially rescued or not rescued by specific expression in AWA, AWB, or AWC olfactory neurons."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_8
+Genotype "sri-14(ok2865); Ex[Pstr-1::sri-14]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0911"
+Assay	"Expression_mosaic"	"WBPaper00045214_9"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Not_involved	"WBbt:0005672"	Insufficient	"Moreover, defects of the sri-14 mutants in the avoidance of high diacetyl concentrations were rescued by the ASH-specific expression of sri-14 complementary DNA (cDNA), but were only partially rescued or not rescued by specific expression in AWA, AWB, or AWC olfactory neurons."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_9
+Genotype "sri-14(ok2865); Ex[Pceh-36::sri-14]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0912"
+Assay	"Genetic_ablation"	"WBPaper00045214_10"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0005670"	Necessary	"We analyzed behavioral responses of animals in which the AWA neurons were specifically ablated. AWA-ablated animals exhibited decreased avoidance of high diacetyl concentrations."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_10
+Genotype "Ex[Podr-10::mCap1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0913"
+Assay	"Genetic_ablation"	"WBPaper00045214_10"
+Phenotype	"WBPhenotype:0000265"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050918(positive chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0000265"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0005670"	Necessary	"We analyzed behavioral responses of animals in which the AWA neurons were specifically ablated. AWA-ablated animals exhibited decreased avoidance of high diacetyl concentrations, as well as reduced attraction to low concentration."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_10
+Genotype "Ex[Podr-10::mCap1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0914"
+Assay	"Genetic_ablation"	"WBPaper00045214_11"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY: PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0005670"	Necessary	"Double ablation of both AWA and ASH caused a more severe defect than did single ablation, indicating that AWA and ASH act in parallel in the response to high diacetyl concentrations."
+Involved	"WBbt:0005665"	Necessary	"Double ablation of both AWA and ASH caused a more severe defect than did single ablation, indicating that AWA and ASH act in parallel in the response to high diacetyl concentrations."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_11
+Genotype "Ex[Podr-10::mCap1+Psra-6::mCap1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0915"
+Assay	"Genetic_ablation"	"WBPaper00045214_12"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY:PATO:0000625(reversed)"
+Involved	"WBbt:0006812"	Necessary	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_12
+Genotype "Ex[Pgcy-28.d::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0916"
+Assay	"Genetic_ablation"	"WBPaper00045214_13"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY:PATO:0000625(reversed)"
+Involved	"WBbt:0005413"	Necessary	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_13
+Genotype "Ex[Pttx-3::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0917"
+Assay	"Genetic_ablation"	"WBPaper00045214_14"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY:PATO:0000625(reversed)"
+Involved	"WBbt:0005836"	Necessary	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_14
+Genotype "Ex[Plin-11::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0918"
+Assay	"Genetic_ablation"	"WBPaper00045214_15"
+Phenotype	"WBPhenotype:0001455"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001455"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0006813"	Necessary	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_15
+Genotype "Ex[Pnpr-9::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0919"
+Assay	"Genetic_ablation"	"WBPaper00045214_12"
+Phenotype	"WBPhenotype:0000265"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050918(positive chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0000265"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Not_involved	"WBbt:0006812"	Unnecessary	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_12
+Genotype "Ex[Pgcy-28.d::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0920"
+Assay	"Genetic_ablation"	"WBPaper00045214_15"
+Phenotype	"WBPhenotype:0000265"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050918(positive chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0000265"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Not_involved	"WBbt:0006813"	Unnecessary	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_15
+Genotype "Ex[Pnpr-9::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0921"
+Assay	"Genetic_ablation"	"WBPaper00045214_14"
+Phenotype	"WBPhenotype:0000265"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050918(positive chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0000265"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Not_involved	"WBbt:0005836"	Unnecessary	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_14
+Genotype "Ex[Plin-11::unc-103(gf)]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0922"
+Assay	"Genetic_ablation"	"WBPaper00045214_10"
+Phenotype	"WBPhenotype:0001048"	Remark	"ENTITY:WBbt:0005665(ASH)|CHEBI:29108(calcium(2+))|GO:0050801(ion homeostasis)|PATO:0000077(response to)|PATO:0001159(concentrated)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001048"	Remark	"QUALITY:PATO:0001997(decrease amount)"
+Involved	"WBbt:0005670"	Necessary	"Because we observed that ablation of AWA altered the response to diacetyl, we also tested the effect of AWA ablation on the calcium responses induced by a high concentration (10**(-3) of diacetyl in ASH neurons and found that ablation of AWA neurons enhanced the calcium response of ASH neurons, indicating that AWA maybe involved in an inhibitory circuit with ASH."
+Not_involved	"WBbt:0005836"	Unnecessary	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_10
+Genotype "Ex[Podr-10::mCap1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0923"
+Assay	"Expression_mosaic"	"WBPaper00045214_6"
+Phenotype	"WBPhenotype:0001048"	Autonomous
+Phenotype	"WBPhenotype:0001048"	Remark	"ENTITY:WBbt:0005665(ASH)|CHEBI:29108(calcium(2+))|GO:0050801(ion homeostasis)|PATO:0000077(response to)|PATO:0001159(concentrated)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001048"	Remark	"QUALITY:PATO:0001997(decrease amount) NOT"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Involved	"WBbt:0005665"	Sufficient	"We observed normal Ca2+ dynamics that were evoked by a high concentration of diacetyl in ASH neurons in odr-10 mutants, but significantly decreased responses in ASH neurons in sri-14 mutants. This defect of sri-14 mutants in response to diacetyl in ASH was rescued by ASH-specific expression of the wild-type sri-14 gene."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_6
+Genotype "sri-14(ok2865); Ex[Psra-6::sri-14]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf0924"
+Assay	"Expression_mosaic"	"WBPaper00045214_4"
+Phenotype	"WBPhenotype:0001048"	Autonomous
+Phenotype	"WBPhenotype:0001048"	Remark	"ENTITY:WBbt:0005665(ASH)|CHEBI:29108(calcium(2+))|GO:0050801(ion homeostasis)|PATO:0000077(response to)|PATO:0001159(concentrated)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001048"	Remark	"QUALITY:PATO:0001997(decrease amount)"
+Gene	"WBGene00005526"	Published_as	"sri-14"
+Involved	"WBbt:0005665"	Necessary	"We observed normal Ca2+ dynamics that were evoked by a high concentration of diacetyl in ASH neurons in odr-10 mutants, but significantly decreased responses in ASH neurons in sri-14 mutants. ASH-specific sri-14 knockdown in wild-type animals decreased ASH Ca2+ responses to a high concentration of diacetyl."
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_4
+Genotype "Ex[Psra-6::sri-14RNAi]"
+Reference WBPaper00045214
 
 
 

@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2014-11-10
-date: 10:11:2014 15:18
+data-version: 2015-03-20
+date: 20:03:2015 15:14
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51651,6 +51651,15 @@ def: "A cell that is the B post-embryonic blast cell or is a lineal descendant o
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2014-11-10T15:11:46Z
+
+[Term]
+id: WBbt:0008609
+name: midbody remnant
+def: "The remnant the midbody from the first embryonic cell division, eventually becomes absorbed by the EMS blastomere." [WBPaper:00044848]
+xref: GO:0030496
+is_a: WBbt:0005732 ! extracellular component
+created_by: raymond
+creation_date: 2015-03-20T15:02:28Z
 
 [Typedef]
 id: DESCENDENTOF
