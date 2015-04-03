@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-03-20
-date: 20:03:2015 15:14
+data-version: 2015-04-03
+date: 03:04:2015 09:01
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -9,14 +9,14 @@ ontology: wbbt
 
 [Term]
 id: WBbt:0000100
-name: C. elegans Cell and Anatomy Ontology
+name: C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0000101
 name: Lineage
 def: "pedigree of nuclei, lineal descent from P0, the founder." [WB:RYNL]
 xref: WB:RYNL
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0000102
@@ -21260,7 +21260,7 @@ name: Cell
 alt_id: WBbt:0003730
 def: "a cellular object that consists of subcellular components, expresses genes or functions." [WB:rynl]
 synonym: "Cell type" RELATED []
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0004018
@@ -29979,6 +29979,7 @@ def: "Neuron class of six ciliated neurons with striated rootlets, each of which
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/IL1frameset.html>
 is_a: WBbt:0005117 ! inner labial neuron
 is_a: WBbt:0008431 ! mechanosensory neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005120
@@ -30523,8 +30524,8 @@ id: WBbt:0005225
 name: URA
 def: "Neuron class of four ring motoneuron, non-ciliated endings in head, associated with OLQ in embryo." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/URAframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005226
@@ -31211,9 +31212,9 @@ id: WBbt:0005353
 name: SMD
 def: "Neuron class of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SMDframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005354
@@ -31225,9 +31226,9 @@ id: WBbt:0005355
 name: SMB
 def: "Neuron class of four motoneurons, which innervate muscles in the head via NMJs in the nerve ring and also send processes posteriorly down the sub-lateral cords." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/SMBframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006840 ! cholinergic neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005356
@@ -31484,16 +31485,16 @@ name: RME
 def: "Neuron class of four motoneurons, with NMJs in the nerve ring, which innervate head muscles." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMEframeset.html>
 is_a: WBbt:0005190 ! GABAergic neuron
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005400
 name: RMD
 def: "Neuron class of six major motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMDframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005401
@@ -33345,13 +33346,13 @@ relationship: part_of WBbt:0005735 ! nervous system
 id: WBbt:0005763
 name: Functional system
 def: "concerns with functional aspects of cells and anatomical parts" [WB:rynl]
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0005765
 name: Time
 def: "concerns with temporal aspects of cells and anatomical parts, e.g. development" [WB:rynl]
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0005766
@@ -33359,7 +33360,7 @@ name: Anatomy
 alt_id: WBbt:0005764
 def: "entity of anatomical origin that is either entirely acellular or is a collection of cells and acellular parts." [WB:rynl]
 synonym: "Space" RELATED []
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0005767
@@ -33823,8 +33824,8 @@ id: WBbt:0005835
 name: RIM
 def: "Neuron class of two interneuron motoneurons that innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIMframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005836
@@ -40314,7 +40315,7 @@ relationship: part_of WBbt:0005830 ! lumbar ganglion
 id: WBbt:0006803
 name: Nucleus
 def: "cell nulceus with a defined lineage." [WB:rynl]
-is_a: WBbt:0000100 ! C. elegans Cell and Anatomy Ontology
+is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
 id: WBbt:0006804
@@ -40582,8 +40583,8 @@ name: RIV
 def: "Neuron class of two interneurons/motoneurons with cell bodies situated sub-dorsally in the lateral ganglion." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RIVframeset.html>
 is_a: WBbt:0005113 ! interneuron
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0006840
@@ -40597,24 +40598,24 @@ id: WBbt:0006841
 name: RMF
 def: "Neuron class of two motoneurons, which innervate head muscles via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMFframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0006842
 name: RMG
 def: "Neuron class of two motoneurons, which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMGframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0006843
 name: RMH
 def: "Neuron class of two motoneurons which innervate muscles in the head via NMJs in the nerve ring." [WB:Paper00000938]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/RMHframeset.html>
-is_a: WBbt:0005409 ! motor neuron
 is_a: WBbt:0006974 ! nerve ring neuron
+is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0006844
@@ -51660,6 +51661,14 @@ xref: GO:0030496
 is_a: WBbt:0005732 ! extracellular component
 created_by: raymond
 creation_date: 2015-03-20T15:02:28Z
+
+[Term]
+id: WBbt:0008610
+name: head motor neuron
+def: "Motor neuron that controls the movement of the head and the neck." [WB:rynl, WBPaper:00000983, WBPaper:00038216]
+is_a: WBbt:0005409 ! motor neuron
+created_by: raymond
+creation_date: 2015-04-03T08:40:21Z
 
 [Typedef]
 id: DESCENDENTOF
