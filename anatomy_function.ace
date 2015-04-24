@@ -12287,3 +12287,486 @@ Reference WBPaper00045214
 
 
 
+Anatomy_function : "WBbtf0925"
+Assay	"Genetic_ablation"	"WBPaper00040180_1"
+Phenotype	"WBPhenotype:0000736"	Remark	"ENTITY:WBbt:0005792(intestinal cell)|WBbt:0005753(seam cell)|GO:0006914(autophagy)"
+Phenotype	"WBPhenotype:0000736"	Remark	"QUALITY:PATO:0002051(increased occurrence)"
+Involved	"WBbt:0005784"	Necessary	"We observed a dramatic increase in autophagosomes as well as in autolysosomes in intestinal and hypodermal seam cells in glp-1(e2141) mutants compared to N2 wild-type animals."
+Reference	"WBPaper00040180"
+
+Condition : WBPaper00040180_1
+Genotype "glp-1(e2141)"
+Reference WBPaper00040180
+
+
+
+Anatomy_function : "WBbtf0926"
+Assay	"Expression_mosaic"	"WBPaper00045009_1"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration) NOT"
+Gene	"WBGene00003423"	Published_as	"msi-1"
+Involved	"WBbt:0005842"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0006819"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0006818"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0005835"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0003850"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0004823"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0005840"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_1
+Genotype "msi-1(os1); utrEx61[pnmr-1::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0927"
+Assay	"Expression_mosaic"	"WBPaper00045009_2"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration) NOT"
+Gene	"WBGene00003423"	Published_as	"msi-1"
+Involved	"WBbt:0005842"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0003649"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0004741"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0004467"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0003666"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Involved	"WBbt:0004070"	Sufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_2
+Genotype "msi-1(os1); utrEx60[prig-3::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0928"
+Assay	"Expression_mosaic"	"WBPaper00045009_3"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration)"
+Gene	"WBGene00003423"	Published_as	"msi-1"
+Not_involved	"WBbt:0005671"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005021"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005400"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0003938"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0006839"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005397"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005361"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_3
+Genotype "msi-1(os1); utrEx59[plim-4::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0929"
+Assay	"Expression_mosaic"	"WBPaper00045009_4"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration)"
+Gene	"WBGene00003423"	Published_as	"msi-1"
+Not_involved	"WBbt:0005399"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0003843"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005045"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0004070"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0004822"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005270"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Not_involved	"WBbt:0005303"	Insufficient	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_4
+Genotype "msi-1(os1); utrEx70[punc-47::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0930"
+Assay	"Expression_mosaic"	"WBPaper00045009_5"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration) NOT"
+Involved	"WBbt:0005842"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0003649"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0004741"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0004467"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0003666"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0004070"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_5
+Genotype "utrEx62[prig-3::wsp-1VCA::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0931"
+Assay	"Expression_mosaic"	"WBPaper00045009_6"
+Phenotype	"WBPhenotype:0001785"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001785"	Remark	"QUALITY:PATO:0000498(increased duration) NOT"
+Involved	"WBbt:0005842"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0006819"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0006818"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0005835"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0003850"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0004823"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Involved	"WBbt:0005840"	Sufficient	"To overactivate the Arp2/3 complex, we expressed the WSP-1 VCA fragment under the control of the nmr-1 or rig-3 promoters in wild-type worms. In accord with our hypothesis, expression of the WSP-1 VCA fragment under the nmr-1 or rig-3 promoters increased memory retention in wild-type worms similar to msi-1 deletion. This result shows that increased activity of the Arp2/3 complex in the AVA neuron is sufficient to inhibit memory loss."
+Reference	"WBPaper00045009"
+
+Condition : WBPaper00045009_6
+Genotype "utrEx63[pnmr-1::wsp-1VCA::3'UTR, psur-5::mDsRed]"
+Reference WBPaper00045009
+
+
+
+Anatomy_function : "WBbtf0932"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006874(Psub1)|"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:"
+Involved	"WBbt:0008609"	Necessary	"We directly tested the role of the MBR (midbody remnant) in spindle rotation by specifically ablating the MBR alone with the use of a focused, pulsed UV laser. MBR ablation before rotation of the nucleus-centrosome complex started in P1 leads to a loss of nucleus-centrosome complex and spindle rotation onto the AP axis."
+Reference	"WBPaper00044848"
+
+
+Anatomy_function : "WBbtf0933"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001681"	Remark	"ENTITY:WBbt:0006874(Psub1)|GO:0072686(mitotic spindle)|PATO:0001599(rotation)"
+Phenotype	"WBPhenotype:0001681"	Remark	"QUALITY:PATO:0000381(decreased frequency)"
+Involved	"WBbt:0008609"	Necessary	"We directly tested the role of the MBR (midbody remnant, of first cell division) in spindle rotation by specifically ablating the MBR alone with the use of a focused, pulsed UV laser. MBR ablation before rotation of the nucleus-centrosome complex started in P1 leads to a loss of nucleus-centrosome complex and spindle rotation onto the AP axis."
+Reference	"WBPaper00044848"
+
+
+Anatomy_function : "WBbtf0934"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000381(reduced frequency)|GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000502(delayed)"
+Involved	"WBbt:0003645"	Necessary	"To test whether either of these pharyngeal neuron classes might function in the response to light, we used laser microsurgery to kill the pair of I2 neurons and the I4 neuron. We found that killing the I2 neuron pair delayed the acute response, indicating that the I2 neurons promote acute response speed."
+Reference	"WBPaper00046411"
+
+
+Anatomy_function : "WBbtf0935"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000381(reduced frequency)|GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000502(delayed) NOT"
+Not_involved	"WBbt:0004741"	Unnecessary	"To test whether either of these pharyngeal neuron classes might function in the response to light, we used laser microsurgery to kill the pair of I2 neurons and the I4 neuron. We found that killing the I2 neuron pair delayed the acute response, indicating that the I2 neurons promote acute response speed. By contrast, we observed no effect of ablating the I4 neuron."
+Reference	"WBPaper00046411"
+
+
+Anatomy_function : "WBbtf0936"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000381(reduced frequency)|GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000502(delayed)"
+Involved	"WBbt:0003645"	Necessary	"To test whether either of these pharyngeal neuron classes might function in the response to light, we used laser microsurgery to kill the pair of I2 neurons and the I4 neuron. We found that killing the I2 neuron pair delayed the acute response, indicating that the I2 neurons promote acute response speed. Cell-specific genetic ablation of the I2 neurons using the caspase CSP-1B confirmed these findings."
+Reference	"WBPaper00046411"
+
+
+Anatomy_function : "WBbtf0937"
+Assay	"Expression_mosaic"	"WBPaper00046411_1"
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000381(reduced frequency)|GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000502(delayed) NOT"
+Gene	"WBGene00001804"	Published_as	"gur-3"
+Involved	"WBbt:0003645"	Sufficient	"To test whether gur-3 acts in the I2 neurons for the pumping response to light, we generated a transgenic strain (flp-15prom::mCherry::gur-3) that expressed a fluorescence-tagged GUR-3 protein using a promoter that expresses specifically in the I2s and PHAs, a pair of neurons in the tail (flp-15prom). Expression of gur-3 using this promoter rescued the acute response defect of gur-3 mutants."
+Reference	"WBPaper00046411"
+
+Condition : WBPaper00046411_1
+Genotype "gur-3(ok2245) lin-15(n765); nEx2144[flp-15prom::mCherry::gur-3, lin-15(+)]"
+Reference WBPaper00046411
+
+
+
+Anatomy_function : "WBbtf0938"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001897"	Autonomous
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003645(I2 neuron)|PATO:0001162(increased concentration)|CHEBI:29108(calcium(2+))||GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000297(abolished) NOT"
+Gene	"WBGene00001804"	Published_as	"gur-3"
+Involved	"WBbt:0003645"	Sufficient	"We found that gur-3 mutants completely lacked the I2 calcium response to light and that this response was restored by I2-specific expression of gur-3."
+Reference	"WBPaper00046411"
+
+
+Anatomy_function : "WBbtf0939"
+Assay	"Expression_mosaic"	"WBPaper00046411_2"
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000381(reduced frequency)|GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000502(delayed) NOT"
+Gene	"WBGene00006434"	Published_as	"prdx-2"
+Involved	"WBbt:0003645"	Sufficient	"To test whether prdx-2 acts in the I2 neurons for the pumping response to light, we generated a transgenic strain that expresses prdx-2 cDNA specifically in the I2s (flp-15prom::prdx-2 cDNA). I2-specific expression of prdx-2 rescued the acute response defect of prdx-2 mutants, indicating that prdx-2 functions in I2 for the pumping response to light."
+Reference	"WBPaper00046411"
+
+Condition : WBPaper00046411_2
+Genotype "prdx-2(gk169); lin-15(n765); nEx2155[flp-15prom::prdx-2 cDNA, lin-15(+)]"
+Reference WBPaper00046411
+
+
+
+Anatomy_function : "WBbtf0940"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001897"	Autonomous
+Phenotype	"WBPhenotype:0001897"	Remark	"ENTITY:WBbt:0003645(I2 neuron)|PATO:0001162(increased concentration)|CHEBI:29108(calcium(2+))||GO:0009416(response to light stimulus)|PATO:0001424(violet)"
+Phenotype	"WBPhenotype:0001897"	Remark	"QUALITY:PATO:0000297(abolished) NOT"
+Gene	"WBGene00006434"	Published_as	"prdx-2"
+Involved	"WBbt:0003645"	Sufficient	"We found that prdx-2 mutants completely lacked the I2 calcium response to light and that this response was restored by I2-specific expression of prdx-2."
+Reference	"WBPaper00046411"
+
+
+Anatomy_function : "WBbtf0941"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006796(germ cell)|WP:CE22380(HSF-1)|GO:0051179(localization)|GO:0005634(nucleus)|PATO:0001629(aggregate)"
+Phenotype	"WBPhenotype:0000436"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0005662"	Sufficient	"Light stimulation of the AFD thermosensory neurons (carrying AFD::ChR2) resulted in the formation of HSF1::GFP puncta (in gonadal nuclei) in 78.4% of the experimental animals grown on ATR."
+Reference	"WBPaper00046292"
+
+
+Anatomy_function : "WBbtf0942"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0043050(pharyngeal pumping)|PATO:0000161(rate)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000380(increased frequency)"
+Involved	"WBbt:0005662"	Sufficient	"Optogenetic excitation of the AFD thermosensory neurons caused an increase in pharyngeal pumping within the first minute of light exposure."
+Reference	"WBPaper00046292"
+
+
+Anatomy_function : "WBbtf0943"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006796(germ cell)|WP:CE22380(HSF-1)|GO:0051179(localization)|GO:0005634(nucleus)|PATO:0001629(aggregate)"
+Phenotype	"WBPhenotype:0000436"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0005662"	Sufficient	"Light stimulation of the AFD thermosensory neurons (carrying AFD::ChR2) resulted in the formation of HSF1::GFP puncta (in gonadal nuclei) in 78.4% of the experimental animals grown on ATR."
+Reference	"WBPaper00046292"
+
+
+Anatomy_function : "WBbtf0944"
+Assay	"Genetic_ablation"	"WBPaper00046292_1"
+Phenotype	"WBPhenotype:0000991"	Remark	"ENTITY:WBbt:0005739(head)|GO:0005576(extracellular region)|CHEBI:28790(serotonin)|GO:0001820(serotonin secretion)|GO:0034605(cellular response to heat)"
+Phenotype	"WBPhenotype:0000991"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism) NOT"
+Involved	"WBbt:0003666"	Necessary	"We then investigated which of the serotonergic neurons were responsible for the temperature-dependent serotonin release by genetically ablating specific serotonergic neurons. Genetic ablation of the NSM and ADF neurons only, achieved by directing the expression of a split caspase to these cells, resulted in the loss of serotonin relocalization following heat shock."
+Involved	"WBbt:0005660"	Necessary	"We then investigated which of the serotonergic neurons were responsible for the temperature-dependent serotonin release by genetically ablating specific serotonergic neurons. Genetic ablation of the NSM and ADF neurons only, achieved by directing the expression of a split caspase to these cells, resulted in the loss of serotonin relocalization following heat shock."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_1
+Genotype "olaEx75 [Ptph-1::caspase-3(p12)::nz; Ptph-1::cz::caspase3(p17);Punc-122::mCherry]"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0945"
+Assay	"Genetic_ablation"	"WBPaper00046292_1"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|WBGene00002026(hsp-70)|GO:0010467(gene expression)|GO:0034605(cellular response to heat)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism) NOT"
+Involved	"WBbt:0003666"	Necessary	"Animals lacking serotonergic ADF and NSM neurons showed significant decreases in hsp70 mRNA accumulation upon heat shock compared to wild-type animals."
+Involved	"WBbt:0005660"	Necessary	"Animals lacking serotonergic ADF and NSM neurons showed significant decreases in hsp70 mRNA accumulation upon heat shock compared to wild-type animals."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_1
+Genotype "olaEx75 [Ptph-1::caspase-3(p12)::nz; Ptph-1::cz::caspase3(p17);Punc-122::mCherry]"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0946"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0000991"	Remark	"ENTITY:WBbt:0005739(head)|GO:0005576(extracellular region)|CHEBI:28790(serotonin)|GO:0001820(serotonin secretion)|GO:0034605(cellular response to heat)"
+Phenotype	"WBPhenotype:0000991"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism) NOT"
+Involved	"WBbt:0003666"	Sufficient	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We confirmed that the optogenetic activation of these serotonergic neurons caused the relocalization of serotonin into areas outside serotonergic neuronal cell bodies, as observed upon heat shock."
+Involved	"WBbt:0005660"	Necessary	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We confirmed that the optogenetic activation of these serotonergic neurons caused the relocalization of serotonin into areas outside serotonergic neuronal cell bodies, as observed upon heat shock."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0947"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0004023"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0031987(locomotion involved in locomotory behavior)"
+Phenotype	"WBPhenotype:0004023"	Remark	"QUALITY:PATO:0001997(present in fewer numbers in organism)"
+Involved	"WBbt:0003666"	Sufficient	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We also confirmed that, as previously reported, optogenetic excitation of serotonergic neurons decreased locomotory rates (number of body bends) and increased pharyngeal pumping rates."
+Involved	"WBbt:0005660"	Necessary	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We also confirmed that, as previously reported, optogenetic excitation of serotonergic neurons decreased locomotory rates (number of body bends) and increased pharyngeal pumping rates."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0948"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0001006"	Remark	"ENTITY:WBbt:0003681(pharynx)|GO:0006936(muscle contraction)|GO:0043050(pharyngeal pumping)"
+Phenotype	"WBPhenotype:0001006"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Involved	"WBbt:0003666"	Sufficient	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We also confirmed that, as previously reported, optogenetic excitation of serotonergic neurons decreased locomotory rates (number of body bends) and increased pharyngeal pumping rates."
+Involved	"WBbt:0005660"	Sufficient	"We used optogenetics to stimulate only the NSM and ADF neurons while maintaining animals at 20C. It was done by locally illuminating the NSM and ADF neurons in a previously characterized transgenic strain lite-1(ce314) X; ljIs102, which expresses ChR2 only in these neurons. We also confirmed that, as previously reported, optogenetic excitation of serotonergic neurons decreased locomotory rates (number of body bends) and increased pharyngeal pumping rates."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0949"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006796(germ cell)|WP:CE22380(HSF-1)|GO:0051179(localization)|GO:0005634(nucleus)|PATO:0001629(aggregate)"
+Phenotype	"WBPhenotype:0000436"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0003666"	Sufficient	"Optogenetic activation of the ADF and NSM neurons caused 64% (n = 44) of the experimental animals grown on ATR to exhibit relocalization of HSF1::GFP into nuclear stress granules within 10-20 min post light activation."
+Involved	"WBbt:0005660"	Sufficient	"Optogenetic activation of the ADF and NSM neurons caused 64% (n = 44) of the experimental animals grown on ATR to exhibit relocalization of HSF1::GFP into nuclear stress granules within 10-20 min post light activation."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0950"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006796(germ cell)|WP:CE22380(HSF-1)|GO:0051179(localization)|GO:0005634(nucleus)|PATO:0001629(aggregate)"
+Phenotype	"WBPhenotype:0000436"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0003666"	Sufficient	"Optogenetic stimulation of either the ADF or the NSM neurons was effective in activating HSF1, although the ADF neurons appeared more effective (75% versus 33.3%)."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0951"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0000436"	Remark	"ENTITY:WBbt:0006796(germ cell)|WP:CE22380(HSF-1)|GO:0051179(localization)|GO:0005634(nucleus)|PATO:0001629(aggregate)"
+Phenotype	"WBPhenotype:0000436"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0005660"	Sufficient	"Optogenetic stimulation of either the ADF or the NSM neurons was effective in activating HSF1, although the ADF neurons appeared more effective (75% versus 33.3%)."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0952"
+Assay	"Optogenetic"	"WBPaper00046292_2"
+Phenotype	"WBPhenotype:0001273"	Remark	"ENTITY:WBbt:0007833(organism)|WBGene00002026(hsp-70)|GO:0010467(gene expression)"
+Phenotype	"WBPhenotype:0001273"	Remark	"QUALITY:PATO:0000470(present in greater numbers in organism)"
+Involved	"WBbt:0003666"	Sufficient	"Stimulation of the ADF and NSM neurons resulted in a 5- to 8-fold induction of hsp70 mRNA."
+Involved	"WBbt:0005660"	Sufficient	"Stimulation of the ADF and NSM neurons resulted in a 5- to 8-fold induction of hsp70 mRNA."
+Reference	"WBPaper00046292"
+
+Condition : WBPaper00046292_2
+Genotype "lite-1(ce314) X; ljIs102"
+Reference WBPaper00046292
+
+
+
+Anatomy_function : "WBbtf0953"
+Assay	"Expression_mosaic"	"WBPaper00046467_1"
+Phenotype	"WBPhenotype:0000750"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0021700(developmental maturation)|BTO:0001091(axenic)|CHEBI:33290(food)"
+Phenotype	"WBPhenotype:0000750"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Gene	"WBGene00020490"	Published_as	"tmc-1"
+Involved	"WBbt:0003675"	Sufficient	"To localize further the tmc-1 cell-specific function, we introduced tmc-1 cDNA with with Punc-17(3.7k), Punc-17(10k) and Plev-11(3.5k) promoters into the tmc-1(ok1859) mutant. Strains expressing either the unc-17 or the lev-11 promoter constructs suppressed the tmc-1 phenotype (faster larval development on Ce maintenance medium), although the muscle-expressing transgene was less effective."
+Reference	"WBPaper00046467"
+
+Condition : WBPaper00046467_1
+Genotype "tmc-1(ok1859); Ex[Plev-11:tmc-1]"
+Reference WBPaper00046467
+
+
+
+Anatomy_function : "WBbtf0954"
+Assay	"Expression_mosaic"	"WBPaper00046467_2"
+Phenotype	"WBPhenotype:0000750"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0021700(developmental maturation)|BTO:0001091(axenic)|CHEBI:33290(food)"
+Phenotype	"WBPhenotype:0000750"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Gene	"WBGene00020490"	Published_as	"tmc-1"
+Involved	"WBbt:0006840"	Sufficient	"To localize further the tmc-1 cell-specific function, we introduced tmc-1 cDNA with with Punc-17(3.7k), Punc-17(10k) and Plev-11(3.5k) promoters into the tmc-1(ok1859) mutant. Strains expressing either the unc-17 or the lev-11 promoter constructs suppressed the tmc-1 phenotype (faster larval development on Ce maintenance medium), although the muscle-expressing transgene was less effective. We found that expression from either Punc-17(3.7k) or Punc-17(10k) promoters partially suppress the tmc-1(ok1859) phenotype."
+Reference	"WBPaper00046467"
+
+Condition : WBPaper00046467_2
+Genotype "tmc-1(ok1859); Ex[Punc-17:tmc-1]"
+Reference WBPaper00046467
+
+
+
+Anatomy_function : "WBbtf0955"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000750"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0021700(developmental maturation)|BTO:0001091(axenic)|CHEBI:33290(food)"
+Phenotype	"WBPhenotype:0000750"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Involved	"WBbt:0003638"	Necessary	"To assess if the tmc-1-expressing MC neurons attenuated growth on CeMM, we laser ablated these bilateral cells in wild-type L1 larvae. CeMM-fed operated animals (27%) developed into adults by 5 d.p.h. and most developed into adults by 8 d.p.h. Thus, removal of both wild-type MC neurons mimics the mutant's phenotype, suggesting they attenuate growth in the axenic media."
+Reference	"WBPaper00046467"
+
+
+Anatomy_function : "WBbtf0956"
+Assay	"Expression_mosaic"	"WBPaper00046467_3"
+Phenotype	"WBPhenotype:0000750"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0021700(developmental maturation)|BTO:0001091(axenic)|CHEBI:33290(food)"
+Phenotype	"WBPhenotype:0000750"	Remark	"QUALITY:PATO:0000912(increased rate)"
+Gene	"WBGene00020490"	Published_as	"tmc-1"
+Not_involved	"WBbt:0005661"	Insufficient	"However, the  transgenic  expression  of  TMC-1  in  the  chemosensory neurons ADL, ADF, AWA and ASH, using the ocr-2 promoter, did not restore a wild-type developmental rate to the tmc-1 mutant."
+Not_involved	"WBbt:0005660"	Insufficient	"However, the  transgenic  expression  of  TMC-1  in  the  chemosensory neurons ADL, ADF, AWA and ASH, using the ocr-2 promoter, did not restore a wild-type developmental rate to the tmc-1 mutant."
+Not_involved	"WBbt:0005670"	Insufficient	"However, the  transgenic  expression  of  TMC-1  in  the  chemosensory neurons ADL, ADF, AWA and ASH, using the ocr-2 promoter, did not restore a wild-type developmental rate to the tmc-1 mutant."
+Not_involved	"WBbt:0005665"	Insufficient	"However, the  transgenic  expression  of  TMC-1  in  the  chemosensory neurons ADL, ADF, AWA and ASH, using the ocr-2 promoter, did not restore a wild-type developmental rate to the tmc-1 mutant."
+Reference	"WBPaper00046467"
+
+Condition : WBPaper00046467_3
+Genotype "tmc-1(ok1859); Ex[Pocr-2::tmc-1]"
+Reference WBPaper00046467
+
+
+
+Anatomy_function : "WBbtf0957"
+Assay	"Genetic_ablation"	"WBPaper00046467_4"
+Phenotype	"WBPhenotype:0000750"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0021700(developmental maturation)|BTO:0001091(axenic)|CHEBI:33290(food)"
+Phenotype	"WBPhenotype:0000750"	Remark	"QUALITY:PATO:0000912(increased rate) NOT"
+Not_involved	"WBbt:0005661"	Unnecessary	"To test the contributions of these neurons in an alternative way, we hyperpolarized the above sensory neurons in wild-type animals, using a gain-of-function mutant unc-103 voltage-gated K+ channel expressed from the ocr-2 promoter. But unlike crippling the MC neurons, we did not detect accelerated development on CeMM of the unc-103(gf) transgenic line."
+Not_involved	"WBbt:0005660"	Unnecessary	"To test the contributions of these neurons in an alternative way, we hyperpolarized the above sensory neurons in wild-type animals, using a gain-of-function mutant unc-103 voltage-gated K+ channel expressed from the ocr-2 promoter. But unlike crippling the MC neurons, we did not detect accelerated development on CeMM of the unc-103(gf) transgenic line."
+Not_involved	"WBbt:0005670"	Unnecessary	"To test the contributions of these neurons in an alternative way, we hyperpolarized the above sensory neurons in wild-type animals, using a gain-of-function mutant unc-103 voltage-gated K+ channel expressed from the ocr-2 promoter. But unlike crippling the MC neurons, we did not detect accelerated development on CeMM of the unc-103(gf) transgenic line."
+Not_involved	"WBbt:0005665"	Unnecessary	"To test the contributions of these neurons in an alternative way, we hyperpolarized the above sensory neurons in wild-type animals, using a gain-of-function mutant unc-103 voltage-gated K+ channel expressed from the ocr-2 promoter. But unlike crippling the MC neurons, we did not detect accelerated development on CeMM of the unc-103(gf) transgenic line."
+Reference	"WBPaper00046467"
+
+Condition : WBPaper00046467_4
+Genotype "Ex[Pocr-2::unc-103(gf)]"
+Reference WBPaper00046467
+
+
+
+Anatomy_function : "WBbtf0958"
+Assay	"Expression_mosaic"	"WBPaper00044546_1"
+Phenotype	"WBPhenotype:0001524"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0030431(sleep)"
+Phenotype	"WBPhenotype:0001524"	Remark	"QUALITY:PATO:0001997(decreased amount)"
+Gene	"WBGene00003760"	Published_as	"nlp-22"
+Involved	"WBbt:0006833"	Necessary	"To test for the functional relevance of the observed RIA gene reporter expression, we expressed nlp-22 double-stranded RNA (dsRNA) to knockdown nlp-22 mRNA specifically in RIA, and, as a control, in the hypodermis. Expression in the RIA neurons but not in the hypodermis reduced lethargus quiescence."
+Reference	"WBPaper00044546"
+
+Condition : WBPaper00044546_1
+Genotype "sid-1(pk3321)V qnIs157[glr-3:nlp-22(RNAi);myo-2:mCherry;unc-119(+)]"
+Reference WBPaper00044546
+
+
+
+Anatomy_function : "WBbtf0959"
+Assay	"Expression_mosaic"	"WBPaper00044546_2"
+Phenotype	"WBPhenotype:0001524"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0030431(sleep)"
+Phenotype	"WBPhenotype:0001524"	Remark	"QUALITY:PATO:0001997(decreased amount) NOT"
+Gene	"WBGene00003760"	Published_as	"nlp-22"
+Not_involved	"WBbt:0007846"	Unnecessary	"To test for the functional relevance of the observed RIA gene reporter expression, we expressed nlp-22 double-stranded RNA (dsRNA) to knockdown nlp-22 mRNA specifically in RIA, and, as a control, in the hypodermis. Expression in the RIA neurons but not in the hypodermis reduced lethargus quiescence."
+Reference	"WBPaper00044546"
+
+Condition : WBPaper00044546_2
+Genotype "sid-1(pk3321)V qnIs137[dpy-7:nlp-22(RNAi);myo-2:mCherry;unc-119(+)]"
+Reference WBPaper00044546
+
+
+
+Anatomy_function : "WBbtf0960"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0001524"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0030431(sleep)"
+Phenotype	"WBPhenotype:0001524"	Remark	"QUALITY:PATO:0001997(decreased amount)"
+Involved	"WBbt:0006833"	Necessary	"We made transgenic animals expressing the blue light-activated cation channel channelrhosopsin-2 (ChR2) in the RIA neurons. We optogenetically depolarized the RIA neurons during the active L4 stage as well as during L4 lethargus. Stimulating the RIA neurons during the active L4 stage caused no induction in behavioural quiescence. In contrast, optogenetic depolarization of the RIA neurons during L4 lethargus had a locomotion-stimulating effect."
+Reference	"WBPaper00044546"
+
+
+Anatomy_function : "WBbtf0961"
+Assay	"Genetic_ablation"	"WBPaper00044546_3"
+Phenotype	"WBPhenotype:0001524"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva Ce)|GO:0030431(sleep)"
+Phenotype	"WBPhenotype:0001524"	Remark	"QUALITY:PATO:0001997(decreased amount)"
+Involved	"WBbt:0006833"	Necessary	"We used the strain VM1345, which expresses the cell death gene ICE in the RIA neurons. There was a significant reduction in lethargus quiescence in animals lacking both RIA neurons.  Animals lacking only one of the RIA neurons also showed a small but significant reduction in L4 lethargus quiescence compared with control transgenic animals."
+Reference	"WBPaper00044546"
+
+Condition : WBPaper00044546_3
+Genotype "lin-15(n765ts)X; akEx211[Pglr-3:gfp;Pglr-3:ICE;lin-15(+)]"
+Reference WBPaper00044546
+
+
+
