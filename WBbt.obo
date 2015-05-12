@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-04-03
-date: 03:04:2015 09:01
+data-version: 2015-05-12
+date: 12:05:2015 08:52
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -33110,7 +33110,7 @@ relationship: part_of WBbt:0004522 ! anchor cell
 [Term]
 id: WBbt:0005729
 name: Tissue
-def: "association of cells with a common embryological origin or pathway and similar structure and function. usually, cells of a tissue are contiguous at cell membranes and may be of one or more types. tissues aggregate to form organs." [ISBN:0-14-051288-8, WB:rynl]
+def: "Association of cells with a common embryological origin or pathway and similar structure and function. Usually, cells of a tissue are contiguous at cell membranes and may be of one or more types. Tissues aggregate to form organs." [ISBN:0-14-051288-8, WB:rynl]
 xref: ISBN:0-14-051288-8
 xref: WB:rynl
 is_a: WBbt:0005763 ! Functional system
@@ -39977,12 +39977,12 @@ is_a: WBbt:0005811 ! neuronal sheath cell
 id: WBbt:0006756
 name: spermathecal-uterine junction
 alt_id: WBbt:0005317
-def: "a valve tissue that connects the spermatheca and the uterus of a hermaphrodite gonad." [WB:rynl]
+def: "A valve tissue that connects the spermatheca and the uterus of a hermaphrodite gonad." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem1.htm#Thespermatheca-uterinevalve>
 synonym: "sp-ut valve" RELATED []
 synonym: "spermatheca-uterus valve" EXACT []
 synonym: "spermathecal valve" RELATED []
-is_a: WBbt:0005781 ! smooth muscle
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 
 [Term]
@@ -40788,7 +40788,7 @@ relationship: part_of WBbt:0005175 ! gonad
 [Term]
 id: WBbt:0006866
 name: anterior spermathecal-uterine valve cell
-def: "valve made of a single syncytium cell of four nuclei, connecting spermatheca and uterine of anterior arm of hermaphrodite gonad." [WB:rynl]
+def: "Valve made of a single syncytium cell of four nuclei, connecting spermatheca and uterine of anterior arm of hermaphrodite gonad." [WB:rynl]
 is_a: WBbt:0008217 ! spermathecal-uterine valve cell
 relationship: part_of WBbt:0006757 ! anterior spermathecal-uterine junction
 
@@ -40802,7 +40802,7 @@ relationship: part_of WBbt:0006758 ! posterior spermathecal-uterine junction
 [Term]
 id: WBbt:0006868
 name: anterior spermathecal-uterine core cell
-def: "a syncytium cell that forms a plug in maturing spemathecal-uterine valve of anterior gonad arm." [WB:rynl]
+def: "A syncytium cell that forms a plug in maturing spemathecal-uterine valve of anterior gonad arm." [WB:rynl]
 synonym: "sujc" RELATED [WB:Paper00002608]
 is_a: WBbt:0008218 ! spermathecal-uterine core cell
 relationship: part_of WBbt:0006757 ! anterior spermathecal-uterine junction
@@ -48891,7 +48891,7 @@ is_a: WBbt:0008210 ! gon herm sujn
 [Term]
 id: WBbt:0008217
 name: spermathecal-uterine valve cell
-def: "a single syncytium cell of four nuclei makes a valve, connecting spermatheca and uterus of hermaphrodite gonad." [WB:rynl]
+def: "A single syncytium cell of four nuclei makes a valve, connecting spermatheca and uterus of hermaphrodite gonad." [WB:rynl]
 synonym: "sp-ut cell" RELATED []
 is_a: WBbt:0007815 ! hermaphrodite somatic gonadal cell
 is_a: WBbt:0008074 ! syncytium
