@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-05-12
-date: 12:05:2015 08:52
+data-version: 2015-05-26
+date: 26:05:2015 20:03
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -40314,7 +40314,7 @@ relationship: part_of WBbt:0005830 ! lumbar ganglion
 [Term]
 id: WBbt:0006803
 name: Nucleus
-def: "cell nulceus with a defined lineage." [WB:rynl]
+def: "cell nucleus with a defined lineage." [WB:rynl]
 is_a: WBbt:0000100 ! C. elegans Cell and Anatomy
 
 [Term]
