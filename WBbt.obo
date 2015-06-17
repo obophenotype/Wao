@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-06-01
-date: 01:06:2015 16:14
+data-version: 2015-06-16
+date: 16:06:2015 19:14
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -12668,7 +12668,7 @@ relationship: part_of WBbt:0007292 ! SM1L.pa
 id: WBbt:0002764
 name: SM1L.paa nucleus
 def: "nucleus of pedigree SM1L.paa" [WB:rynl]
-synonym: "M.dlpaapa nucleus" RELATED []
+synonym: "M.dlpaapaa nucleus" RELATED []
 relationship: DESCINMALE WBbt:0002763 ! SM1L.pa nucleus
 relationship: part_of WBbt:0003818 ! mu_male_diag
 relationship: part_of WBbt:0007293 ! SM1L.paa
