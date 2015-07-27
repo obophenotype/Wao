@@ -12770,3 +12770,455 @@ Reference WBPaper00044546
 
 
 
+Anatomy_function : "WBbtf0962"
+Assay	"Expression_mosaic"	"WBPaper00046716_1"
+Phenotype	"WBPhenotype:0001801"	Remark	"ENTITY:WBbt:0005406(ALM)|GO:0033564(anterior/posterior axon guidance)"
+Phenotype	"WBPhenotype:0001801"	Remark	"QUALITY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00003397"	Published_as	"mom-5"
+Involved	"WBbt:0005237"	Sufficient	"A transgene containing a mom-5 cDNA driven from the mec-3 promoter that expresses MOM-5 in mechanosensory neurons partially rescued the ALM defects of the cwn-1; mom-5(gm409) double mutant, indicating that MOM-5 acts in the neurons."
+
+Condition : WBPaper00046716_1
+Genotype "mom-5(gm409); cwn-1(ok456); Ex[Pmec-3::mom-5]"
+Reference WBPaper00046716
+
+
+
+Anatomy_function : "WBbtf0963"
+Assay	"Expression_mosaic"	"WBPaper00046716_2"
+Phenotype	"WBPhenotype:0001801"	Autonomous
+Phenotype	"WBPhenotype:0001801"	Remark	"ENTITY:WBbt:0005406(ALM)|GO:0033564(anterior/posterior axon guidance)"
+Phenotype	"WBPhenotype:0001801"	Remark	"QUALITY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00000289"	Published_as	"cam-1"
+Involved	"WBbt:0005406"	Sufficient	"To test whether CAM functions in the ALM, we expressed a cam-1 cDNA under the control of the unc-86 promoter, which is expressed in many neurons including the ALMs, but not in non-neuronal cells.  This transgene partially rescued the ALM defects in both cam-1 single and cwn-1 cam-1 double mutants, suggesting that CAM-1 can act in the ALM to regulate its polarity."
+
+Condition : WBPaper00046716_2
+Genotype "cam-1(gm122);Ex[Punc-18::cam-1]"
+Reference WBPaper00046716
+
+
+
+Anatomy_function : "WBbtf0964"
+Assay	"Genetic_mosaic"	"WBPaper00046716_3"
+Phenotype	"WBPhenotype:0001801"	Autonomous
+Phenotype	"WBPhenotype:0001801"	Remark	"ENTITY:WBbt:0005406(ALM)|GO:0033564(anterior/posterior axon guidance)"
+Phenotype	"WBPhenotype:0001801"	Remark	"QUALITY:PATO:0001507(disrupted) NOT"
+Gene	"WBGene00000289"	Published_as	"cam-1"
+Involved	"WBbt:0005406"	Sufficient	"To further test the autonomous role for CAM-1 in ALM polarity, we generated animals that were mosaic for cam-1 function. We started with a strain that was mutant for cam-1 and ncl-1. The strain also bore an extra-chromosomal transgenic array that contained the wild-type cam-1 and ncl-1 genes as well as a dominant allele of the rol-6 gene that causes animals to roll. Approximately 45% of the Ncl ALMs displayed a polarity defect, but none of the 459 ALMs with wild-type nucleoli displayed a polarity defect.  These observations strongly support the hypothesis that cam-1 acts in the ALM to promote normal polarity"
+
+Condition : WBPaper00046716_3
+Genotype "cam-1(gm122);ncl-1(e1865);gmEx188[Pcam-1::cam-1; ncl-1(+); pRF4[rol-6(su1006)]]"
+Reference WBPaper00046716
+
+
+
+Anatomy_function : "WBbtf0965"
+Assay	"Expression_mosaic"	"WBPaper00046716_4"
+Phenotype	"WBPhenotype:0001801"	Nonautonomous
+Phenotype	"WBPhenotype:0001801"	Remark	"ENTITY:WBbt:0005406(ALM)|GO:0033564(anterior/posterior axon guidance)"
+Phenotype	"WBPhenotype:0001801"	Remark	"QUALITY:PATO:0001507(disrupted)"
+Gene	"WBGene00000289"	Published_as	"cam-1"
+Involved	"WBbt:0007810"	Sufficient	"One interesting finding from this experiment is that the mosaic animals with Ncl ALMs have a higher frequency of reversed ALMs than cam-1; ncl-1 mutants that do not carry the transgenic array, which we interpret as an enhancement of the ALM defect. One explanation for this effect is that CAM-1 has antagonistic activities in ALM polarity: an autonomous function as a Wnt receptor that promotes normal polarity, and a nonautonomous function that antagonizes Wnt function. To test this hypothesis further, we expressed CAM-1 from the myo-3 promoter in muscle cells. This expression resulted in a strong ALM polarity defect in a cam-1 mutant background, consistent with our hypothesis that CAM-1 has antagonistic functions."
+
+Condition : WBPaper00046716_4
+Genotype "cam-1(gm122);Ex[Pmyo-3::cam-1]"
+Reference WBPaper00046716
+
+
+
+Anatomy_function : "WBbtf0966"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0008340(determination of adult lifespan)|PATO:0001152(susceptible toward)|CHEBI:28201(rotenone)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0001550(decreased sensitivity)"
+Involved	"WBbt:0005666"	Necessary	"To further elucidate which neuronal subsets may be involved into mtROS-mediated lifespan extension we laser-ablated selectively ASI neurons in wild-type nematodes. Notably, rotenone did not extend lifespan in the absence of ASI neurons."
+Reference	"WBPaper00044426"
+
+
+Anatomy_function : "WBbtf0967"
+Assay	"Expression_mosaic"	"WBPaper00044426_1"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0008340(determination of adult lifespan)|PATO:0001152(susceptible toward)|CHEBI:28201(rotenone)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0001550(decreased sensitivity) NOT"
+Gene	"WBGene00004804"	Published_as	"skn-1"
+Involved	"WBbt:0005666"	Sufficient	"To further support this hypothesis we analyzed worms that were deficient for only two of the three SKN-1 isoforms, named skn-1(zu67). Notably, the neuronal SKN-1 isoform is functional in these worms. Consistent with neuronal ROS signaling both rotenone as well as piericidin A extended lifespan in this isoform-specific mutant."
+Reference	"WBPaper00044426"
+
+Condition : WBPaper00044426_1
+Genotype "skn-1(zu67)"
+Reference WBPaper00044426
+
+
+
+Anatomy_function : "WBbtf0968"
+Assay	"Expression_mosaic"	"WBPaper00044426_1"
+Phenotype	"WBPhenotype:0000039"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0008340(determination of adult lifespan)|PATO:0001152(susceptible toward)|(piericidin A)"
+Phenotype	"WBPhenotype:0000039"	Remark	"QUALITY:PATO:0001550(decreased sensitivity) NOT"
+Gene	"WBGene00004804"	Published_as	"skn-1"
+Involved	"WBbt:0005666"	Sufficient	"To further support this hypothesis we analyzed worms that were deficient for only two of the three SKN-1 isoforms, named skn-1(zu67). Notably, the neuronal SKN-1 isoform is functional in these worms. Consistent with neuronal ROS signaling both rotenone as well as piericidin A extended lifespan in this isoform-specific mutant."
+Reference	"WBPaper00044426"
+
+Condition : WBPaper00044426_1
+Genotype "skn-1(zu67)"
+Reference WBPaper00044426
+
+
+
+Anatomy_function : "WBbtf0969"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0002154"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0005844(polysome)|(profile)"
+Phenotype	"WBPhenotype:0002154"	Remark	"QUALITY:PATO:0000460(abnormal) NOT"
+Not_involved	"WBbt:0005784"	Unnecessary	"Polyribosome profiling experiments were performed in germline-ablated nematodes. To this end, daf-2(e1370) and N2 nematodes were fed siRNA against GLP-1, a germline-specific GLP-/Notch receptor. Interestingly, polyribosome profiles of N2 nematodes did not markedly differ upon abrogation of GLP-1."
+Reference	"WBPaper00042552"
+
+
+Anatomy_function : "WBbtf0970"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality)"
+Involved	"WBbt:0003904"	Necessary	"We examined which sensory neuron serves as a sensor for alkaline pH by analyzing wild-type animals whose ASEL and/or ASER had been ablated by laser microsurgery. Animals lacking ASEL distributed almost equally to both higher and lower pH regions, whereas animals lacking ASER moved toward higher pH just as intact wild-type animals do."
+Reference	"WBPaper00042397"
+
+
+Anatomy_function : "WBbtf0971"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality) NOT"
+Not_involved	"WBbt:0003903"	Unnecessary	"We examined which sensory neuron serves as a sensor for alkaline pH by analyzing wild-type animals whose ASEL and/or ASER had been ablated by laser microsurgery. Animals lacking ASEL distributed almost equally to both higher and lower pH regions, whereas animals lacking ASER moved toward higher pH just as intact wild-type animals do."
+Reference	"WBPaper00042397"
+
+
+Anatomy_function : "WBbtf0972"
+Assay	"Expression_mosaic"	"WBPaper00042397_1"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality) NOT"
+Gene	"WBGene00001119"	Published_as	"dyf-3"
+Involved	"WBbt:0003904"	Sufficient	"Furthermore, the chemotactic defect of dyf-3 mutants was reversed by specific expression of the wild-type dyf-3 gene in ASEL, whereas specific expression of dyf-3 in ASER did not."
+Reference	"WBPaper00042397"
+
+Condition : WBPaper00042397_1
+Genotype "dyf-3(m185); ixEx91[pgcy-7p::dyf-3cDNA; pmyo-3p::venus]"
+Reference WBPaper00042397
+
+
+
+Anatomy_function : "WBbtf0973"
+Assay	"Expression_mosaic"	"WBPaper00042397_2"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality)"
+Gene	"WBGene00001119"	Published_as	"dyf-3"
+Not_involved	"WBbt:0003903"	Insufficient	"Furthermore, the chemotactic defect of dyf-3 mutants was reversed by specific expression of the wild-type dyf-3 gene in ASEL, whereas specific expression of dyf-3 in ASER did not."
+Reference	"WBPaper00042397"
+
+Condition : WBPaper00042397_2
+Genotype "dyf-3(m185); ixEx91[pgcy-5p::dyf-3cDNA; pmyo-3p::venus]"
+Reference WBPaper00042397
+
+
+
+Anatomy_function : "WBbtf0974"
+Assay	"Expression_mosaic"	"WBPaper00042397_3"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality) NOT"
+Gene	"WBGene00006526"	Published_as	"tax-4"
+Involved	"WBbt:0003904"	Sufficient	"ASEL-specific expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect."
+Reference	"WBPaper00042397"
+
+Condition : WBPaper00042397_3
+Genotype "tax-4(p678); ixEx183[pgcy-7p::tax-4gDNA; pmyo-3p::venus]"
+Reference WBPaper00042397
+
+
+
+Anatomy_function : "WBbtf0975"
+Assay	"Expression_mosaic"	"WBPaper00042397_4"
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002303(decreased object quality)"
+Gene	"WBGene00006526"	Published_as	"tax-4"
+Not_involved	"WBbt:0003903"	Insufficient	"ASEL-specific (but not ASER-specific) expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect."
+Reference	"WBPaper00042397"
+
+Condition : WBPaper00042397_4
+Genotype "tax-4(p678); ixEx183[pgcy-5p::tax-4gDNA; pmyo-3p::venus]"
+Reference WBPaper00042397
+
+
+
+Anatomy_function : "WBbtf0976"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0002171"	Autonomous	"Not dependent on synaptic transmission."
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0003904(ASEL)|GO:0071469(cellular response to alkaline pH)|GO:0070588(calcium ion transmembrane transport)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002305(increased object quality)"
+Involved	"WBbt:0003904"	Sufficient	"To analyze alkaline pH sensitivity of ASE neurons in living animals, we carried out in vivo Ca2+ imaging by specifically expressing GCaMP3, a genetically encoded Ca2+ indicator in ASE. ASEL was activated by elevation of pH and was slightly inactivated by lowering of pH. When the pH was elevated from 6.8 to 10.0, ASEL of both unc-13 and snb-1 mutants was activated to levels similar to those observed in wild-type animals. These results demonstrate that ASEL functions as the primary, direct sensor of environmental alkalinity in C. elegans."
+Reference	"WBPaper00042397"
+
+
+Anatomy_function : "WBbtf0977"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0002171"	Nonautonomous	"Dependent on synaptic transmission."
+Phenotype	"WBPhenotype:0002171"	Remark	"ENTITY:WBbt:0003903(ASER)|GO:0071469(cellular response to alkaline pH)|GO:0070588(calcium ion transmembrane transport)"
+Phenotype	"WBPhenotype:0002171"	Remark	"QUALITY:PATO:0002305(increased object quality)"
+Not_involved	"WBbt:0003903"
+Reference	"WBPaper00042397"
+
+
+Anatomy_function : "WBbtf0978"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004006"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)|"
+Phenotype	"WBPhenotype:0004006"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0004062"	Necessary	"In males where only PVY was ablated, contact response efficiency and scanning speed were significantly reduced compared to control males."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0979"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004006"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)|PATO:0000008(speed)"
+Phenotype	"WBPhenotype:0004006"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Involved	"WBbt:0004062"	Necessary	"In males where only PVY was ablated, contact response efficiency and scanning speed were significantly reduced compared to control males."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0980"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004006"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)|PATO:0000008(speed)"
+Phenotype	"WBPhenotype:0004006"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Involved	"WBbt:0005842"	Necessary	"When scanning was initiated successfully, the scanning speed of AVA-ablated males was significantly slower than that of control males."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0981"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004006"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)|WBbt:0005741(tail)|PATO:0001961(in contact with)|WBbt:0007849(hermaphrodite)"
+Phenotype	"WBPhenotype:0004006"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Involved	"WBbt:0005842"	Necessary	"AVA-ablated males lost tail contact during scanning at a significantly higher rate than controls, possibly because the uncoordinated phenotype resulting from AVA ablation interferes with tail apposition."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0982"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004006"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)|WBbt:0005741(tail)|PATO:0001961(in contact with)|WBbt:0007849(hermaphrodite)"
+Phenotype	"WBPhenotype:0004006"	Remark	"QUALITY:PATO:0002302(decreased process quality)"
+Involved	"WBbt:0004062"	Necessary	"PVY-ablated males also lost tail contact at a significantly higher frequency than control males during the search."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0983"
+Assay	"Optogenetic"	"WBPaper00042229_1"
+Phenotype	"WBPhenotype:0001702"	Remark	"ENTITY:WBbt:0007850(male)|GO:0043057(backward locomotion)"
+Phenotype	"WBPhenotype:0001702"	Remark	"QUALITY:PATO:0002051(increased occurrence)"
+Involved	"WBbt:0004063"	Sufficient	"When exposed to the light flash, 90% of Pnlp-14::ChR2-YFP males immediately reversed and traveled a median distance of -5 micrometer, with the negative value indicating that they reversed away from their position at the time of the flash. Through a series of control experiments we determined that this reversal response was specifically due to activation of male-specific interneurons PVY and PVX."
+Involved	"WBbt:0004062"	Sufficient	"When exposed to the light flash, 90% of Pnlp-14::ChR2-YFP males immediately reversed and traveled a median distance of -5 micrometer, with the negative value indicating that they reversed away from their position at the time of the flash. Through a series of control experiments we determined that this reversal response was specifically due to activation of male-specific interneurons PVY and PVX."
+Reference	"WBPaper00042229"
+
+Condition : WBPaper00042229_1
+Genotype "lite-1(ce314); Ex[Pnlp-14(PVY+PVX)::ChR2-YFP+Punc-122::GFP]"
+Reference WBPaper00042229
+
+
+
+Anatomy_function : "WBbtf0984"
+Assay	"Optogenetic"	"WBPaper00042229_2"
+Phenotype	"WBPhenotype:0001702"	Remark	"ENTITY:WBbt:0007850(male)|GO:0034606(response to hermaphrodite contact)|GO:0043057(backward locomotion)"
+Phenotype	"WBPhenotype:0001702"	Remark	"QUALITY:PATO:0000499(decreased duration)"
+Involved	"WBbt:0004063"	Necessary	"We activated NpHR during scanning by exposing the male to a 500 msec flash of yellow light (540/25 nm wavelength) at 5, evenly spaced, time intervals and counted the number of times pausing coincided with a pulse. Pnlp-14::NpHR-EYFP males, grown in the presence of ATR, paused in response to 4 out of 5 flashes, on average."
+Involved	"WBbt:0004062"	Necessary	"We activated NpHR during scanning by exposing the male to a 500 msec flash of yellow light (540/25 nm wavelength) at 5, evenly spaced, time intervals and counted the number of times pausing coincided with a pulse. Pnlp-14::NpHR-EYFP males, grown in the presence of ATR, paused in response to 4 out of 5 flashes, on average."
+Reference	"WBPaper00042229"
+
+Condition : WBPaper00042229_2
+Genotype "lite-1(ce314); Ex[Pnlp-14(PVY+PVX)::NpHR-EYFP+pha-1(+)]"
+Reference WBPaper00042229
+
+
+
+Anatomy_function : "WBbtf0985"
+Assay	"Laser_ablation"	"WBPaper00042229_1"
+Phenotype	"WBPhenotype:0001702"	Remark	"ENTITY:WBbt:0007850(male)|WBbt:0004063(PVX)|WBbt:0004062(PYV)|GO:0051899(membrane depolarization)|GO:0043057(backward locomotion)"
+Phenotype	"WBPhenotype:0001702"	Remark	"QUALITY:PATO:0002052(decreased occurrence)"
+Involved	"WBbt:0005842"	Necessary	"When exposed to a 500 msec flash of blue light, Pnlp-14::ChR2-YFP AVA-ablated males were severely impaired in reversal behavior with a significant proportion either pausing, unable to reverse (25%), or reversing a median distance of ~1 micrometer (56%). Thus, PVY+PVX-induced reversal is dependent on AVA function."
+Reference	"WBPaper00042229"
+
+Condition : WBPaper00042229_1
+Genotype "lite-1(ce314); Ex[Pnlp-14(PVY+PVX)::ChR2-YFP+Punc-122::GFP]"
+Reference WBPaper00042229
+
+
+
+Anatomy_function : "WBbtf0986"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001702"	Remark	"ENTITY:WBbt:0007850(male)|WBbt:0004063(PVX)|WBbt:0004062(PYV)|GO:0051899(membrane depolarization)|GO:0043057(backward locomotion)"
+Phenotype	"WBPhenotype:0001702"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00000057"	Published_as	"acr-18"
+Involved	"WBbt:0005842"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Involved	"WBbt:0006818"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Involved	"WBbt:0006819"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Involved	"WBbt:0003850"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Involved	"WBbt:0005835"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Involved	"WBbt:0005840"	Sufficient	"We placed a promoterless fragment of the wild type acr-18 gene (a cDNA::genomic hybrid gene and its 39 UTR) under the control of the nmr-1 gene promoter, which is expressed in backward command cells AVA, AVD, AVE and in AVG, RIM and PVC. We observed that the presence of the acr-18(+) transgene in the nmr-1-expressing cells was sufficient to rescue the acr-18 mutant defect."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0987"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001702"	Remark	"ENTITY:WBbt:0007850(male)|WBbt:0004063(PVX)|WBbt:0004062(PYV)|GO:0051899(membrane depolarization)|GO:0043057(backward locomotion)"
+Phenotype	"WBPhenotype:0001702"	Remark	"QUALITY:PATO:0002052(decreased occurrence) NOT"
+Gene	"WBGene00006765"	Published_as	"unc-29"
+Involved	"WBbt:0005842"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Involved	"WBbt:0006818"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Involved	"WBbt:0006819"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Involved	"WBbt:0003850"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Involved	"WBbt:0005835"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Involved	"WBbt:0005840"	Sufficient	"To test whether the absence of unc-29 function from AVA might be responsible for the reversal defect of unc-29; acr-16 males, we performed tissue-specific rescue experiments, targeting expression of unc-29(+) to AVA. This was achieved using an unc-29(+)::SL2::GFP transgene placed under the control of the Pnmr-1 promoter. In ChR2-mediated PVY+PVX activation assays, unc-29; acr-16 males expressing unc-29(+) in AVA (indicated by GFP expression in AVA) were rescued, reversing at frequencies comparable to acr-16 single mutants and wild type males (83%)."
+Reference	"WBPaper00042229"
+
+
+Anatomy_function : "WBbtf0988"
+Assay	"Expression_mosaic"	"WBPaper00042221_1"
+Phenotype	"WBPhenotype:0000644"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000763(paralysed)|GO:0042221(response to chemical)|CHEBI:15760(tyramine)"
+Phenotype	"WBPhenotype:0000644"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00004777"	Published_as	"ser-2"
+Involved	"WBbt:0005190"	Sufficient	"SER-2 is specifically expressed in the GABAergic VD motor neurons. No other promoters have been described that specifically drive expression in the GABAergic VD neurons. We therefore expressed ser-2 cDNA in all GABAergic neurons using the unc-47 promoter (Punc-47::SER-2). ser-2 expression in GABAergic neurons of ser-2 mutants restored normal sensitivity to exogenous tyramine."
+Reference	"WBPaper00042221"
+
+Condition : WBPaper00042221_1
+Genotype "[Punc-47::SER-2, lin-15(+)]; ser-2(pk1357) lin-15(n765ts)"
+Reference WBPaper00042221
+
+
+
+Anatomy_function : "WBbtf0989"
+Assay	"Expression_mosaic"	"WBPaper00042221_2"
+Phenotype	"WBPhenotype:0000644"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000763(paralysed)|GO:0042221(response to chemical)|CHEBI:15760(tyramine)"
+Phenotype	"WBPhenotype:0000644"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00001648"	Published_as	"goa-1"
+Involved	"WBbt:0005190"	Sufficient	"goa-1 expression in GABAergic neurons (Punc-47::GOA-1) of goa-1 mutants largely restored sensitivity to exogenous tyramine."
+Reference	"WBPaper00042221"
+
+Condition : WBPaper00042221_2
+Genotype "[Punc-47::GOA-1::SL2::mCherry, unc-122::GFP]; goa-1(sa734)"
+Reference WBPaper00042221
+
+
+
+Anatomy_function : "WBbtf0990"
+Assay	"Expression_mosaic"	"WBPaper00042221_3"
+Phenotype	"WBPhenotype:0000644"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000763(paralysed)|GO:0042221(response to chemical)|CHEBI:15760(tyramine)"
+Phenotype	"WBPhenotype:0000644"	Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
+Gene	"WBGene00001145"	Published_as	"eat-16"
+Involved	"WBbt:0005190"	Sufficient	"Similarly, rescue expression of eat-16 in GABAergic neurons partly restores sensitivity to exogenous tyramine."
+Reference	"WBPaper00042221"
+
+Condition : WBPaper00042221_3
+Genotype " [Punc-47::EAT-16::SL2::mCherry, unc-122::GFP]; eat-16(sa609)"
+Reference WBPaper00042221
+
+
+
+Anatomy_function : "WBbtf0991"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001703"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002501(ventrally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0001703"	Remark	"QUALITY:PATO:0002017(increased magnitude)"
+Involved	"WBbt:0005303"	Necessary	"Animals in which only the VD neurons were ablated still propagated a sinusoidal wave along the anterior-posterior axis, but displayed deeper ventral than dorsal flexures. As a consequence VD ablated animals moved in ventrally directed circles."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0992"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001703"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002495(dorsally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0001703"	Remark	"QUALITY:PATO:0002017(increased magnitude)"
+Involved	"WBbt:0005270"	Necessary	"Conversely, animals in which the DD neurons were ablated exhibited deeper dorsal than ventral flexures and moved in dorsally directed circles."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0993"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0001703"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002501(ventrally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0001703"	Remark	"QUALITY:PATO:0002017(increased magnitude)"
+Involved	"WBbt:0005270"	Sufficient	"To test whether the differential activity of the VD and DD motor neurons can induce bending, we generated transgenic animals that co-expressed the light-activated cation channel Channelrhodopsin-2 (ChR2) and light-activated chloride pump Halorhodopsin (NpHR) in the six GABAergic DD motor neurons that synapse onto the dorsal muscles (Pflp-13::ChR2; Pflp-13::NpHR). ChR2 is activated by blue light and depolarizes neurons, while NpHR is activated by green light and hyperpolarizes neurons. We found that blue light activation induced a deep ventral turn."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0994"
+Assay	"Optogenetic"
+Phenotype	"WBPhenotype:0001703"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002495(dorsally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0001703"	Remark	"QUALITY:PATO:0002017(increased magnitude)"
+Involved	"WBbt:0005270"	Necessary	"To test whether the differential activity of the VD and DD motor neurons can induce bending, we generated transgenic animals that co-expressed the light-activated cation channel Channelrhodopsin-2 (ChR2) and light-activated chloride pump Halorhodopsin (NpHR) in the six GABAergic DD motor neurons that synapse onto the dorsal muscles (Pflp-13::ChR2; Pflp-13::NpHR). ChR2 is activated by blue light and depolarizes neurons, while NpHR is activated by green light and hyperpolarizes neurons. We found that blue light activation induced a deep ventral turn. In contrast, green light inhibition induced a deep dorsal turn."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0995"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000551"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002501(ventrally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0000551"	Remark	"QUALITY:PATO:0002018(decreased magnitude)"
+Involved	"WBbt:0005270"	Necessary	"In response to touch, animals in which the GABAergic DD neurons were ablated initiated omega turns with a deep ventral head bend, but often their head failed to touch the ventral side of the body to close the omega turn. Animals with ablated GABAergic VD neurons did not have a defect in the execution of closed omega turns."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0996"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000551"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|WBbt:0005740(midbody)|PATO:0002501(ventrally directed)|PATO:0000617(bent)"
+Phenotype	"WBPhenotype:0000551"	Remark	"QUALITY:PATO:0002018(decreased magnitude) NOT"
+Not_involved	"WBbt:0005303"	Unnecessary	"In response to touch, animals in which the GABAergic DD neurons were ablated initiated omega turns with a deep ventral head bend, but often their head failed to touch the ventral side of the body to close the omega turn. Animals with ablated GABAergic VD neurons did not have a defect in the execution of closed omega turns."
+Reference	"WBPaper00042221"
+
+
+Anatomy_function : "WBbtf0997"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0004577(Z1)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004574"	Unnecessary	"We killed the ancestor of one SGP by laser-irradiation and observed the behavior of the remaining SGP using transgenes to mark the SGP and PGC surfaces. We found that the remaining SGP always migrated to the normal location, and eventually wrapped entirely around that PGC.  In laser-irradiated embryos, we never observed the single SGP significantly over- or under-migrate, or wrap around the contralateral PGC. We conclude that even though the two SGPs undergo mirror-symmetric and synchronous morphogenetic movements, Z1 and Z4 are not dependent on each other for their posterior migration, extension of projections, or wrapping behaviors."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf0998"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0004574(Z4)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004577"	Unnecessary	"We killed the ancestor of one SGP by laser-irradiation and observed the behavior of the remaining SGP using transgenes to mark the SGP and PGC surfaces. We found that the remaining SGP always migrated to the normal location, and eventually wrapped entirely around that PGC.  In laser-irradiated embryos, we never observed the single SGP significantly over- or under-migrate, or wrap around the contralateral PGC. We conclude that even though the two SGPs undergo mirror-symmetric and synchronous morphogenetic movements, Z1 and Z4 are not dependent on each other for their posterior migration, extension of projections, or wrapping behaviors."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf0999"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0004577(Z1)|GO:0030030(cell projection organization)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004574"	Unnecessary	"We killed the ancestor of one SGP by laser-irradiation and observed the behavior of the remaining SGP using transgenes to mark the SGP and PGC surfaces. We found that the remaining SGP always migrated to the normal location, and eventually wrapped entirely around that PGC.  In laser-irradiated embryos, we never observed the single SGP significantly over- or under-migrate, or wrap around the contralateral PGC. We conclude that even though the two SGPs undergo mirror-symmetric and synchronous morphogenetic movements, Z1 and Z4 are not dependent on each other for their posterior migration, extension of projections, or wrapping behaviors."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1000"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0004574(Z4)|GO:0030030(cell projection organization)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal)"
+Not_involved	"WBbt:0004577"	Unnecessary	"We killed the ancestor of one SGP by laser-irradiation and observed the behavior of the remaining SGP using transgenes to mark the SGP and PGC surfaces. We found that the remaining SGP always migrated to the normal location, and eventually wrapped entirely around that PGC.  In laser-irradiated embryos, we never observed the single SGP significantly over- or under-migrate, or wrap around the contralateral PGC. We conclude that even though the two SGPs undergo mirror-symmetric and synchronous morphogenetic movements, Z1 and Z4 are not dependent on each other for their posterior migration, extension of projections, or wrapping behaviors."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1001"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0007854(somatic gonad precursor)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal) NOT"
+Involved	"WBbt:0006849"	Necessary	"In mes-1 (RNAi) embryos (PGCs are transformed into muscle-like cells), the SGPs were born at the same location as wild-type embryos. The SGPs still migrated posteriorly along the lateral edges of the endoderm in mes-1(RNAi) embryos (Fig. 4A and B), and they remained lateral to the endoderm but ceased migrating at a slightly more anterior position. We conclude that PGCs are dispensable for SGP posterior migration but are required for the precise positioning of SGPs at the end of their migration."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1002"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0007854(somatic gonad precursor)|GO:0030030(cell projection organization)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal) NOT"
+Involved	"WBbt:0006849"	Necessary	"In mes-1 (RNAi) embryos (PGCs are transformed into muscle-like cells), the SGPs extended projections that were abnormal in shape and orientation compared to those in wild-type embryos. We conclude while PGCs are not needed to initiate formation of SGP projections, PGCs are essential for the morphology and behavior of the SGP projections and for the wrapping behavior of the SGPs."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1003"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0007854(somatic gonad precursor)|GO:0016477(cell migration)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal) NOT"
+Involved	"WBbt:0005208"	Necessary	"In end-1 end-3 mutant embryos, the endodermal cell lineage is transformed to adopt epidermal- and muscle-like cell fates. We observed that the SGPs were born in approximately the normal location in end-1 end-3 embryos. However, while the SGPs still migrated posteriorly in the absence of endoderm, they stopped migrating at a more anterior position."
+Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1004"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000399"	Remark	"ENTITY:WBbt:0007854(somatic gonad precursor)|GO:0030030(cell projection organization)"
+Phenotype	"WBPhenotype:0000399"	Remark	"QUALITY:PATO:0000461(normal) NOT"
+Involved	"WBbt:0005208"	Necessary	"In end-1 end-3 mutant embryos, the endodermal cell lineage is transformed to adopt epidermal- and muscle-like cell fates. In the end-1 end-3 embryos in which the PGCs failed to ingress, the SGPs extended short dynamic projections in various directions but did not migrate to the external PGCs nor wrap around any other cell. In the end-1 end-3 embryos in which one or both PGCs had ingressed, the SGPs always extended projections around the PGCs they contacted, but these projections were often shorter and thicker than in wild type. ... We conclude that endoderm is not required for SGPs to migrate posteriorly, extend projections, or wrap around the PGCs. However, endoderm is required for the normal morphology of the SGP projections, for SGPs to reach their regular final position just posterior to the PGCs, and to prevent SGPs from shifting medially and contacting the contralateral SGP and/or PGC."
+Reference	"WBPaper00042220"
+
+
