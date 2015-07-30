@@ -1,0 +1,18 @@
+<divider orientation="HORZ">
+ <first>
+  <component id="DAG" width="300" />
+ </first>
+ <second>
+  <panel>
+   <north>
+    <component id="FIND"/>
+   </north>
+   <center>
+    <box orientation="HORZ"> 
+      <component id="TEXTEDIT" width="320"/>
+      <component id="plugin:org.bdgp.apps.dagedit.plugin.DAGView"/>
+    </box>
+   </center>
+  </panel>
+ </second>
+</divider>

@@ -1,0 +1,38 @@
+<panel>
+ <center>
+ <divider orientation="HORZ">
+  <first>
+   <divider orientation="VERT">
+     <first>
+       <component id="DAG" width="300" />
+     </first>
+     <second>
+       <component id="DAG" width="300" />
+     </second>
+   </divider>        
+  </first>
+  <second>
+   <panel>
+    <north>
+     <component id="FIND"/>
+    </north>
+    <center>
+     <divider orientation="HORZ">
+       <first>
+         <component id="TEXTEDIT" width="320"/>
+       </first>
+       <second>
+         <box orientation="VERT">
+            <component id="plugin:org.bdgp.apps.dagedit.plugin.DAGView"/>
+         </box>
+        </second>
+     </divider>
+    </center>
+   </panel>
+  </second>
+ </divider>
+ </center>
+ <south>
+ <component id="plugin:org.bdgp.apps.dagedit.plugin.FlatFileHelperPlugin" />
+ </south>
+</panel>
