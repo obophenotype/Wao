@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-09-09
-date: 09:09:2015 10:19
+data-version: 2015-09-23
+date: 23:09:2015 10:09
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -4672,14 +4672,16 @@ id: WBbt:0001654
 name: ABplpaapapa nucleus
 def: "nucleus of pedigree ABplpaapapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001402 ! ABplpaapap nucleus
-relationship: part_of WBbt:0003931 ! AMsoL
+relationship: part_of WBbt:0008619 ! AMsoL hermaphrodite
+relationship: part_of WBbt:0008623 ! AMsoL male early
 
 [Term]
 id: WBbt:0001655
 name: ABprpaapapa nucleus
 def: "nucleus of pedigree ABprpaapapa" [WB:rynl]
 relationship: DESCENDENTOF WBbt:0001560 ! ABprpaapap nucleus
-relationship: part_of WBbt:0003929 ! AMsoR
+relationship: part_of WBbt:0008621 ! AMsoR hermaphrodite
+relationship: part_of WBbt:0008625 ! AMsoR male early
 
 [Term]
 id: WBbt:0001656
@@ -25418,7 +25420,7 @@ relationship: part_of WBbt:0005776 ! excretory gland cell
 
 [Term]
 id: WBbt:0004536
-name: exc_gl_L
+name: exc_gl_L nucleus
 alt_id: WBbt:0002006
 def: "left nucleus of binuclear syncytium excretory gland, fused, send processes to ring,open into excretory duct." [ISBN:0-87969-307-X]
 synonym: "ABplpapapaa nucleus" RELATED []
@@ -51678,6 +51680,135 @@ def: "A cell that is the AB blast cell or is a lineal descendant of AB." [WB:ryn
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2015-05-27T13:48:04Z
+
+[Term]
+id: WBbt:0008612
+name: MCM
+def: "Neuron class of male specific interneurons (mystery cells of the male) that are born at the early L4 stage, when the male undergoes sexual maturation." [WB:Paper00038216]
+is_a: WBbt:0005113 ! interneuron
+is_a: WBbt:0005757 ! male-specific
+created_by: raymond
+creation_date: 2015-09-22T13:17:56Z
+
+[Term]
+id: WBbt:0008613
+name: MCML
+def: "Left cell of MCM neuron class." [WB:rynl]
+is_a: WBbt:0008612 ! MCM
+created_by: raymond
+creation_date: 2015-09-22T13:29:29Z
+
+[Term]
+id: WBbt:0008614
+name: MCMR
+def: "Right cell of MCM neuron class." [WB:rynl]
+is_a: WBbt:0008612 ! MCM
+created_by: raymond
+creation_date: 2015-09-22T13:29:29Z
+
+[Term]
+id: WBbt:0008615
+name: ABplpaapapaa nucleus
+def: "Nucleus of the pedigree ABplpaapapaa." [WB:rynl]
+relationship: DESCINMALE WBbt:0001654 ! ABplpaapapa nucleus
+relationship: part_of WBbt:0008624 ! AMsoL male late
+created_by: raymond
+creation_date: 2015-09-23T08:25:50Z
+
+[Term]
+id: WBbt:0008616
+name: ABplpaapapap nucleus
+def: "Nucleus of the pedigree ABplpaapapap." [WB:rynl]
+relationship: DESCINMALE WBbt:0001654 ! ABplpaapapa nucleus
+relationship: part_of WBbt:0008613 ! MCML
+created_by: raymond
+creation_date: 2015-09-23T08:25:50Z
+
+[Term]
+id: WBbt:0008617
+name: ABprpaapapa nucleus
+def: "Nucleus of the pedigree ABprpaapapa." [WB:rynl]
+relationship: DESCINMALE WBbt:0001655 ! ABprpaapapa nucleus
+relationship: part_of WBbt:0008614 ! MCMR
+created_by: raymond
+creation_date: 2015-09-23T08:28:03Z
+
+[Term]
+id: WBbt:0008618
+name: ABprpaapapa nucleus
+def: "Nucleus of the pedigree ABprpaapapa." [WB:rynl]
+relationship: DESCINMALE WBbt:0001655 ! ABprpaapapa nucleus
+relationship: part_of WBbt:0008626 ! AMsoR male late
+created_by: raymond
+creation_date: 2015-09-23T08:28:03Z
+
+[Term]
+id: WBbt:0008619
+name: AMsoL hermaphrodite
+def: "AMsoL cell in hermaphrodite animal." [WB:rynl]
+is_a: WBbt:0003931 ! AMsoL
+is_a: WBbt:0005758 ! hermaphrodite-specific
+created_by: raymond
+creation_date: 2015-09-23T09:11:56Z
+
+[Term]
+id: WBbt:0008620
+name: AMsoL male
+def: "AMsoL cell in male animal." [WB:rynl]
+is_a: WBbt:0003931 ! AMsoL
+is_a: WBbt:0005757 ! male-specific
+created_by: raymond
+creation_date: 2015-09-23T09:11:56Z
+
+[Term]
+id: WBbt:0008621
+name: AMsoR hermaphrodite
+def: "AMsoR cell in hermaphrodite animal." [WB:rynl]
+is_a: WBbt:0003929 ! AMsoR
+is_a: WBbt:0005758 ! hermaphrodite-specific
+created_by: raymond
+creation_date: 2015-09-23T09:12:27Z
+
+[Term]
+id: WBbt:0008622
+name: AMsoR male
+def: "AMsoR cell in male animal." [WB:rynl]
+is_a: WBbt:0003929 ! AMsoR
+is_a: WBbt:0005757 ! male-specific
+created_by: raymond
+creation_date: 2015-09-23T09:12:27Z
+
+[Term]
+id: WBbt:0008623
+name: AMsoL male early
+def: "AMsoL cell in male prior to cell division in L4." [WB:rynl]
+is_a: WBbt:0008620 ! AMsoL male
+created_by: raymond
+creation_date: 2015-09-23T09:41:56Z
+
+[Term]
+id: WBbt:0008624
+name: AMsoL male late
+def: "AMsoL cell in male formed after AMsoL early cell divides in L4." [WB:rynl]
+is_a: WBbt:0008620 ! AMsoL male
+created_by: raymond
+creation_date: 2015-09-23T09:41:56Z
+
+[Term]
+id: WBbt:0008625
+name: AMsoR male early
+def: "AMsoR cell in male prior to cell division in L4." [WB:rynl]
+is_a: WBbt:0008622 ! AMsoR male
+created_by: raymond
+creation_date: 2015-09-23T09:49:31Z
+
+[Term]
+id: WBbt:0008626
+name: AMsoR male late
+def: "AMsoR cell in male formed after AMsoR early cell divides in L4." [WB:rynl]
+is_a: WBbt:0008622 ! AMsoR male
+created_by: raymond
+creation_date: 2015-09-23T09:49:31Z
 
 [Typedef]
 id: DESCENDENTOF
