@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-09-23
-date: 23:09:2015 10:09
+data-version: 2015-09-24
+date: 24:09:2015 07:48
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -27617,7 +27617,7 @@ is_a: WBbt:0008274 ! proctodeal cell
 id: WBbt:0004831
 name: B_gamma.alv
 alt_id: WBbt:0007098
-def: "Cell of male proctodeum, post-embryonic pedigree B_gamma.alv." [ISBN:0-87969-307-X, WB:<new dbxref>rynl]
+def: "Cell of male proctodeum, post-embryonic pedigree B_gamma.alv." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "B_gamma.alv" EXACT []
 synonym: "lineage name: B.alppalv/B.arppalv" RELATED []
 synonym: "lineage name: B_gamma.alv" RELATED []
@@ -49096,7 +49096,7 @@ is_a: WBbt:0004942 ! U cell
 [Term]
 id: WBbt:0008247
 name: Y cell hermaphrodite
-def: "Rectal epithelial cell in hermaphrodite." [WB:<new dbxref>rynl]
+def: "Rectal epithelial cell in hermaphrodite." [WB:rynl]
 is_a: WBbt:0004578 ! Y cell
 
 [Term]
@@ -49961,13 +49961,13 @@ is_a: WBbt:0006909 ! longitudinal male muscle
 [Term]
 id: WBbt:0008385
 name: anal depressor muscle male
-def: "Anal depressor muscle of a male animal." [WB:<new dbxref>rynl]
+def: "Anal depressor muscle of a male animal." [WB:rynl]
 is_a: WBbt:0004292 ! anal depressor muscle
 
 [Term]
 id: WBbt:0008386
 name: anal depressor muscle hermaphrodite
-def: "Anal depressor muscle of a hermaphrodite animal." [WB:<new dbxref>rynl]
+def: "Anal depressor muscle of a hermaphrodite animal." [WB:rynl]
 is_a: WBbt:0004292 ! anal depressor muscle
 is_a: WBbt:0005803 ! rectal muscle
 
@@ -50296,7 +50296,7 @@ creation_date: 2011-11-30T02:09:53Z
 [Term]
 id: WBbt:0008439
 name: M lineage cell
-def: "A cell that is the M blast cell or is a lineal descendant of M." [WB:<new dbxref>rynl]
+def: "A cell that is the M blast cell or is a lineal descendant of M." [WB:rynl]
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2012-01-26T02:48:40Z
@@ -50385,7 +50385,7 @@ creation_date: 2012-04-19T02:34:50Z
 [Term]
 id: WBbt:0008450
 name: V5L.pppa
-def: "Cell of pedigree V5L.pppa. Fate diverges in male and hermaphrodite." [WB:<new dbxref>rynl]
+def: "Cell of pedigree V5L.pppa. Fate diverges in male and hermaphrodite." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-04-19T02:41:20Z
@@ -50489,7 +50489,7 @@ creation_date: 2012-04-20T03:59:00Z
 [Term]
 id: WBbt:0008461
 name: ABplpppapap or ABprpppapap nucleus
-def: "Nucleus of pedigree ABplpppapap or ABprpppapap." [WB:<new dbxref>rynl]
+def: "Nucleus of pedigree ABplpppapap or ABprpppapap." [WB:rynl]
 is_a: WBbt:0006803 ! Nucleus
 union_of: WBbt:0001451 ! ABplpppapap nucleus
 union_of: WBbt:0001610 ! ABprpppapap nucleus
@@ -50631,7 +50631,7 @@ creation_date: 2012-05-23T04:18:11Z
 [Term]
 id: WBbt:0008478
 name: Z1.paaaap
-def: "Post-embryonic cell of pedigree Z1.paaaap." [WB:<new dbxref>rynl]
+def: "Post-embryonic cell of pedigree Z1.paaaap." [WB:rynl]
 is_a: WBbt:0007030 ! post-embryonic cell
 created_by: raymond
 creation_date: 2012-05-23T04:20:20Z
@@ -51726,8 +51726,8 @@ creation_date: 2015-09-23T08:25:50Z
 
 [Term]
 id: WBbt:0008617
-name: ABprpaapapa nucleus
-def: "Nucleus of the pedigree ABprpaapapa." [WB:rynl]
+name: ABprpaapapap nucleus
+def: "Nucleus of the pedigree ABprpaapapap." [WB:rynl]
 relationship: DESCINMALE WBbt:0001655 ! ABprpaapapa nucleus
 relationship: part_of WBbt:0008614 ! MCMR
 created_by: raymond
@@ -51735,8 +51735,8 @@ creation_date: 2015-09-23T08:28:03Z
 
 [Term]
 id: WBbt:0008618
-name: ABprpaapapa nucleus
-def: "Nucleus of the pedigree ABprpaapapa." [WB:rynl]
+name: ABprpaapapaa nucleus
+def: "Nucleus of the pedigree ABprpaapapaa." [WB:rynl]
 relationship: DESCINMALE WBbt:0001655 ! ABprpaapapa nucleus
 relationship: part_of WBbt:0008626 ! AMsoR male late
 created_by: raymond
