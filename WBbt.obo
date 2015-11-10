@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-09-24
-date: 24:09:2015 07:48
+data-version: 2015-11-10
+date: 10:11:2015 11:49
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -50112,8 +50112,8 @@ is_a: WBbt:0006783 ! blast cell
 [Term]
 id: WBbt:0008410
 name: phasmid socket cell
-def: "hypodermal socket cell of the phasmid sensillum." [WB:rynl]
-synonym: "phso" RELATED []
+def: "Hypodermal socket cell of the phasmid sensillum." [WB:rynl]
+synonym: "Phso" RELATED []
 is_a: WBbt:0005750 ! socket cell
 
 [Term]
@@ -51685,6 +51685,7 @@ creation_date: 2015-05-27T13:48:04Z
 id: WBbt:0008612
 name: MCM
 def: "Neuron class of male specific interneurons (mystery cells of the male) that are born at the early L4 stage, when the male undergoes sexual maturation." [WB:Paper00038216]
+synonym: "mystery cells of the male" RELATED []
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005757 ! male-specific
 created_by: raymond
