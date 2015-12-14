@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-11-10
-date: 10:11:2015 11:49
+data-version: 2015-12-14
+date: 14:12:2015 08:29
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -33312,12 +33312,14 @@ id: WBbt:0005757
 name: male-specific
 def: "cells or anatomical parts specific to the male sex" [WB:rynl]
 is_a: WBbt:0005752 ! Sex specific entity
+is_a: WBbt:0007850 ! male
 
 [Term]
 id: WBbt:0005758
 name: hermaphrodite-specific
 def: "cells or anatomical parts specific to the hermaphrodite sex" [WB:rynl]
 is_a: WBbt:0005752 ! Sex specific entity
+is_a: WBbt:0007849 ! hermaphrodite
 
 [Term]
 id: WBbt:0005759
