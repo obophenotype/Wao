@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-12-14
-date: 14:12:2015 08:29
+data-version: 2015-12-21
+date: 21:12:2015 11:39
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -20558,7 +20558,7 @@ synonym: "lineage name: QR.ap" RELATED []
 is_a: WBbt:0006751 ! head neuron
 is_a: WBbt:0006816 ! ciliated neuron
 is_a: WBbt:0006974 ! nerve ring neuron
-is_a: WBbt:0008432 ! oxygene sensory neuron
+is_a: WBbt:0008432 ! oxygen sensory neuron
 
 [Term]
 id: WBbt:0003928
@@ -22040,7 +22040,7 @@ synonym: "lineage name: QL.ap" RELATED []
 is_a: WBbt:0005097 ! lumbar left ganglion neuron
 is_a: WBbt:0005600 ! lumbar right ganglion neuron
 is_a: WBbt:0006816 ! ciliated neuron
-is_a: WBbt:0008432 ! oxygene sensory neuron
+is_a: WBbt:0008432 ! oxygen sensory neuron
 
 [Term]
 id: WBbt:0004097
@@ -40475,7 +40475,7 @@ def: "Neuron class of two neurons with ciliated endings, in the head, with ellip
 comment: BAG neuron sense CO2 [WBpaper00038260]
 is_a: WBbt:0006816 ! ciliated neuron
 is_a: WBbt:0008430 ! carbon dioxide sensory neuron
-is_a: WBbt:0008432 ! oxygene sensory neuron
+is_a: WBbt:0008432 ! oxygen sensory neuron
 
 [Term]
 id: WBbt:0006826
@@ -40645,7 +40645,7 @@ def: "Neuron class of two neurons with cell bodies that are situated sub-dorsall
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/neurons/Individual%20Neurons/URXframeset.html>
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0006974 ! nerve ring neuron
-is_a: WBbt:0008432 ! oxygene sensory neuron
+is_a: WBbt:0008432 ! oxygen sensory neuron
 
 [Term]
 id: WBbt:0006847
@@ -50253,8 +50253,8 @@ is_a: WBbt:0005759 ! sensory neuron
 
 [Term]
 id: WBbt:0008432
-name: oxygene sensory neuron
-def: "neuron that senses and responds to oxygen." [WB:rynl]
+name: oxygen sensory neuron
+def: "Neuron that senses and responds to oxygen." [WB:rynl]
 is_a: WBbt:0005759 ! sensory neuron
 
 [Term]
