@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-12-21
-date: 21:12:2015 11:39
+data-version: 2015-01-08
+date: 08:01:2016 08:28
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -51812,6 +51812,14 @@ def: "AMsoR cell in male formed after AMsoR early cell divides in L4." [WB:rynl]
 is_a: WBbt:0008622 ! AMsoR male
 created_by: raymond
 creation_date: 2015-09-23T09:49:31Z
+
+[Term]
+id: WBbt:0008627
+name: MS lineage cell
+def: "A cell that is the MS blast cell or is a lineal descendant of MS." [WB:rynl]
+is_a: WBbt:0004017 ! Cell
+created_by: raymond
+creation_date: 2016-01-08T08:26:06Z
 
 [Typedef]
 id: DESCENDENTOF
