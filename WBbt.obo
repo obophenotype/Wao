@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-01-08
-date: 08:01:2016 08:28
+data-version: 2015-01-09
+date: 08:01:2016 15:17
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -33201,7 +33201,7 @@ is_a: WBbt:0005738 ! body region
 
 [Term]
 id: WBbt:0005742
-name: bodywall
+name: body wall
 def: "exterior tube of two concentric tubes that make up the body, includes the epidermal cells and the attached neurons and muscles." [WB:Paper00000978, WB:rynl]
 is_a: WBbt:0005738 ! body region
 
@@ -49193,7 +49193,7 @@ relationship: part_of WBbt:0008262 ! body wall muscle quadrant
 id: WBbt:0008262
 name: body wall muscle quadrant
 def: "logitudinal quadrant of body wall muscle." [WB:rynl]
-relationship: part_of WBbt:0005742 ! bodywall
+relationship: part_of WBbt:0005742 ! body wall
 
 [Term]
 id: WBbt:0008263
