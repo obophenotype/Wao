@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-05-02
-date: 02:05:2016 16:24
+data-version: 2015-05-03
+date: 03:05:2016 14:57
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -18873,6 +18873,7 @@ relationship: part_of WBbt:0004577 ! Z1
 id: WBbt:0003280
 name: Z1.a nucleus hermaphrodite
 def: "nucleus of pedigree Z1.a in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0008067 ! Z1.a nucleus
 relationship: part_of WBbt:0007022 ! Z1.a hermaphrodite
 
@@ -19120,6 +19121,7 @@ relationship: part_of WBbt:0007595 ! Z1.paa
 id: WBbt:0003311
 name: Z1.paaa nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paaa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINHERM WBbt:0007931 ! Z1.paa nucleus hermaphrodite
 relationship: part_of WBbt:0004504 ! gon_herm_dish_A
 
@@ -19211,6 +19213,7 @@ relationship: part_of WBbt:0004699 ! gon_male_vdef
 id: WBbt:0003327
 name: Z1.paap nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paap in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINHERM WBbt:0007931 ! Z1.paa nucleus hermaphrodite
 relationship: part_of WBbt:0008553 ! Z1.paap hermaphrodite
 
@@ -19218,6 +19221,7 @@ relationship: part_of WBbt:0008553 ! Z1.paap hermaphrodite
 id: WBbt:0003328
 name: Z1.paapa nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paapa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINHERM WBbt:0003327 ! Z1.paap nucleus hermaphrodite
 relationship: part_of WBbt:0008467 ! Z1.paapa hermaphrodite
 
@@ -19273,6 +19277,7 @@ relationship: part_of WBbt:0004474 ! gon_herm_prsh_A
 id: WBbt:0003335
 name: Z1.paapp nucleus hermaphrodite
 def: "nucleus of pedigree Z1.paapp in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINHERM WBbt:0003327 ! Z1.paap nucleus hermaphrodite
 relationship: part_of WBbt:0008473 ! Z1.paapp hermaphrodite
 
@@ -21398,6 +21403,7 @@ is_obsolete: true
 id: WBbt:0003591
 name: Z4.p nucleus hermaphrodite
 def: "nucleus of pedigree Z4.p in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0008065 ! Z4.p nucleus
 relationship: part_of WBbt:0007024 ! Z4.p hermaphrodite
 
@@ -35727,6 +35733,7 @@ relationship: part_of WBbt:0008176 ! ut4 anterior 5L
 id: WBbt:0005726
 name: Z4.aap nucleus hermaphrodite
 def: "nucleus of pedigree Z4.aap" [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0007979 ! Z4.aap nucleus
 relationship: part_of WBbt:0008296 ! Z4.aap hermaphrodite
 
@@ -35734,6 +35741,7 @@ relationship: part_of WBbt:0008296 ! Z4.aap hermaphrodite
 id: WBbt:0005727
 name: Z4.aaa nucleus hermaphrodite
 def: "nucleus of pedigree Z4.aaa" [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0007978 ! Z4.aaa nucleus
 relationship: part_of WBbt:0008294 ! Z4.aaa hermaphrodite
 
@@ -49221,6 +49229,7 @@ id: WBbt:0007870
 name: M.dlpa nucleus male
 def: "nucleus of lineage M.dlpa in male" [WB:rynl]
 is_a: WBbt:0002188 ! M.dlpa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0007824 ! M.dlpa male
 
 [Term]
@@ -49228,6 +49237,7 @@ id: WBbt:0007871
 name: M.dlpa nucleus hermaphrodite
 def: "nucleus of lineage M.dlpa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002188 ! M.dlpa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004564 ! ccDL
 
 [Term]
@@ -49235,6 +49245,7 @@ id: WBbt:0007872
 name: M.drpa nucleus male
 def: "nucleus of pedigree M.drpa in male" [WB:rynl]
 is_a: WBbt:0002195 ! M.drpa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0007825 ! M.drpa male
 
 [Term]
@@ -49242,6 +49253,7 @@ id: WBbt:0007873
 name: M.drpa nucleus hermaphrodite
 def: "nucleus of pedigree M.drpa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002195 ! M.drpa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004563 ! ccDR
 
 [Term]
@@ -49250,6 +49262,7 @@ name: M.vlpaa nucleus male
 def: "nucleus of pedigree M.vlpaa in male" [WB:rynl]
 synonym: "SM3L nucleus" RELATED []
 is_a: WBbt:0002204 ! M.vlpaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0007817 ! SM3L
 
 [Term]
@@ -49257,6 +49270,7 @@ id: WBbt:0007875
 name: M.vlpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vlpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002204 ! M.vlpaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008496 ! M.vlpaa hermaphrodite
 
 [Term]
@@ -49265,6 +49279,7 @@ name: M.vrpaa nucleus male
 def: "nucleus of pedigree M.vrpaa in male" [WB:rynl]
 synonym: "SM3R nucleus" RELATED []
 is_a: WBbt:0002227 ! M.vrpaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0007818 ! SM3R
 
 [Term]
@@ -49272,6 +49287,7 @@ id: WBbt:0007877
 name: M.vrpaa nucleus hermaphrodite
 def: "nucleus of pedigree M.vrpaa in hermaphrodite" [WB:rynl]
 is_a: WBbt:0002227 ! M.vrpaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008495 ! M.vrpaa hermaphrodite
 
 [Term]
@@ -49686,23 +49702,27 @@ relationship: part_of WBbt:0003962 ! R9stR
 id: WBbt:0007930
 name: Z1.paa nucleus male
 is_a: WBbt:0003310 ! Z1.paa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008364 ! Z1.paa male
 
 [Term]
 id: WBbt:0007931
 name: Z1.paa nucleus hermaphrodite
 is_a: WBbt:0003310 ! Z1.paa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008363 ! Z1.paa hermaphrodite
 
 [Term]
 id: WBbt:0007932
 name: Z1.paaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007983 ! Z1.paa nucleus male non-terminal
 relationship: part_of WBbt:0008476 ! Z1.paaa male
 
 [Term]
 id: WBbt:0007933
 name: Z1.paap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007983 ! Z1.paa nucleus male non-terminal
 relationship: part_of WBbt:0008554 ! Z1.paap male
 
@@ -49800,12 +49820,14 @@ relationship: part_of WBbt:0004703 ! gon_male_vdef
 [Term]
 id: WBbt:0007947
 name: Z1.paapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007933 ! Z1.paap nucleus male
 relationship: part_of WBbt:0004698 ! gon_male_vdef
 
 [Term]
 id: WBbt:0007948
 name: Z1.paapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007933 ! Z1.paap nucleus male
 relationship: part_of WBbt:0005022 ! Z1.paapp male
 
@@ -49813,12 +49835,14 @@ relationship: part_of WBbt:0005022 ! Z1.paapp male
 id: WBbt:0007949
 name: Z1.papaaa nucleus male
 is_a: WBbt:0003355 ! Z1.papaaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008556 ! Z1.papaaa male
 
 [Term]
 id: WBbt:0007950
 name: Z1.papaaa nucleus hermaphrodite
 is_a: WBbt:0003355 ! Z1.papaaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008555 ! Z1.papaaa hermaphrodite
 
 [Term]
@@ -49832,12 +49856,14 @@ relationship: part_of WBbt:0008472 ! Z1.papaapp
 id: WBbt:0007952
 name: Z1.papaap nucleus male
 is_a: WBbt:0003360 ! Z1.papaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008558 ! Z1.papaap male
 
 [Term]
 id: WBbt:0007953
 name: Z1.papaap nucleus hermaphrodite
 is_a: WBbt:0003360 ! Z1.papaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008557 ! Z1.papaap hermaphrodite
 
 [Term]
@@ -49872,59 +49898,69 @@ relationship: part_of WBbt:0005010 ! gon_male_vdef
 id: WBbt:0007958
 name: Z1.ppa nucleus male
 is_a: WBbt:0005697 ! Z1.ppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008292 ! Z1.ppa male
 
 [Term]
 id: WBbt:0007959
 name: Z1.ppa nucleus hermaphrodite
 is_a: WBbt:0005697 ! Z1.ppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008293 ! Z1.ppa hermaphrodite
 
 [Term]
 id: WBbt:0007960
 name: Z1.ppaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007958 ! Z1.ppa nucleus male
 relationship: part_of WBbt:0008560 ! Z1.ppaa male
 
 [Term]
 id: WBbt:0007961
 name: Z1.ppap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007958 ! Z1.ppa nucleus male
 relationship: part_of WBbt:0005057 ! gon_male_sves
 
 [Term]
 id: WBbt:0007962
 name: Z1.ppaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007960 ! Z1.ppaa nucleus male
 relationship: part_of WBbt:0008321 ! Z1.ppaap male
 
 [Term]
 id: WBbt:0007963
 name: Z1.ppaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007960 ! Z1.ppaa nucleus male
 relationship: part_of WBbt:0008316 ! Z1.ppaaa male
 
 [Term]
 id: WBbt:0007964
 name: Z1.ppaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007963 ! Z1.ppaaa nucleus male
 relationship: part_of WBbt:0008547 ! Z1.ppaaaa male
 
 [Term]
 id: WBbt:0007965
 name: Z1.ppaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007963 ! Z1.ppaaa nucleus male
 relationship: part_of WBbt:0005059 ! gon_male_sves
 
 [Term]
 id: WBbt:0007966
 name: Z1.ppaaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007964 ! Z1.ppaaaa nucleus male
 relationship: part_of WBbt:0005060 ! gon_male_sves
 
 [Term]
 id: WBbt:0007967
 name: Z1.ppaaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007964 ! Z1.ppaaaa nucleus male
 relationship: part_of WBbt:0005061 ! gon_male_sves
 
@@ -49932,59 +49968,69 @@ relationship: part_of WBbt:0005061 ! gon_male_sves
 id: WBbt:0007968
 name: Z1.ppp nucleus hermaphrodite
 is_a: WBbt:0005698 ! Z1.ppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008305 ! Z1.ppp hermaphrodite
 
 [Term]
 id: WBbt:0007969
 name: Z1.ppp nucleus male
 is_a: WBbt:0005698 ! Z1.ppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008304 ! Z1.ppp male
 
 [Term]
 id: WBbt:0007970
 name: Z1.pppp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007969 ! Z1.ppp nucleus male
 relationship: part_of WBbt:0005050 ! gon_male_sves
 
 [Term]
 id: WBbt:0007971
 name: Z1.pppa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007969 ! Z1.ppp nucleus male
 relationship: part_of WBbt:0008565 ! Z1.pppa male
 
 [Term]
 id: WBbt:0007972
 name: Z1.pppaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007971 ! Z1.pppa nucleus male
 relationship: part_of WBbt:0008347 ! Z1.pppaa male
 
 [Term]
 id: WBbt:0007973
 name: Z1.pppap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007971 ! Z1.pppa nucleus male
 relationship: part_of WBbt:0005052 ! Z1.pppap male
 
 [Term]
 id: WBbt:0007974
 name: Z1.pppaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007972 ! Z1.pppaa nucleus male
 relationship: part_of WBbt:0008465 ! Z1.pppaaa male
 
 [Term]
 id: WBbt:0007975
 name: Z1.pppaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007972 ! Z1.pppaa nucleus male
 relationship: part_of WBbt:0005054 ! gon_male_sves
 
 [Term]
 id: WBbt:0007976
 name: Z1.pppaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007974 ! Z1.pppaaa nucleus male
 relationship: part_of WBbt:0005056 ! gon_male_sves
 
 [Term]
 id: WBbt:0007977
 name: Z1.pppaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007974 ! Z1.pppaaa nucleus male
 relationship: part_of WBbt:0005055 ! gon_male_sves
 
@@ -50005,12 +50051,14 @@ relationship: part_of WBbt:0007707 ! Z4.aap
 [Term]
 id: WBbt:0007980
 name: Z4.aaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0007978 ! Z4.aaa nucleus
 relationship: part_of WBbt:0008295 ! Z4.aaa male
 
 [Term]
 id: WBbt:0007981
 name: Z4.aap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0007979 ! Z4.aap nucleus
 relationship: part_of WBbt:0008297 ! Z4.aap male
 
@@ -50049,18 +50097,21 @@ relationship: part_of WBbt:0008362 ! Z4.aaa male 1L
 [Term]
 id: WBbt:0007986
 name: Z4.aaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007985 ! Z4.aaa nucleus male non-terminal
 relationship: part_of WBbt:0008568 ! Z4.aaaa male
 
 [Term]
 id: WBbt:0007987
 name: Z4.aaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007985 ! Z4.aaa nucleus male non-terminal
 relationship: part_of WBbt:0008574 ! Z4.aaap male
 
 [Term]
 id: WBbt:0007988
 name: Z4.aaapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007987 ! Z4.aaap nucleus male
 relationship: part_of WBbt:0004982 ! gon_male_vdef
 relationship: part_of WBbt:0008343 ! Z4.aaapa male
@@ -50068,150 +50119,175 @@ relationship: part_of WBbt:0008343 ! Z4.aaapa male
 [Term]
 id: WBbt:0007989
 name: Z4.aaapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007987 ! Z4.aaap nucleus male
 relationship: part_of WBbt:0005046 ! Z4.aaapp male
 
 [Term]
 id: WBbt:0007990
 name: Z4.aaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007986 ! Z4.aaaa nucleus male
 relationship: part_of WBbt:0008338 ! Z4.aaaaa male
 
 [Term]
 id: WBbt:0007991
 name: Z4.aaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007986 ! Z4.aaaa nucleus male
 relationship: part_of WBbt:0008341 ! Z4.aaaap male
 
 [Term]
 id: WBbt:0007992
 name: Z4.aaaapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007991 ! Z4.aaaap nucleus male
 relationship: part_of WBbt:0004986 ! gon_male_vdef
 
 [Term]
 id: WBbt:0007993
 name: Z4.aaaapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007991 ! Z4.aaaap nucleus male
 relationship: part_of WBbt:0004984 ! gon_male_vdef
 
 [Term]
 id: WBbt:0007994
 name: Z4.aaaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007990 ! Z4.aaaaa nucleus male
 relationship: part_of WBbt:0008570 ! Z4.aaaaaa male
 
 [Term]
 id: WBbt:0007995
 name: Z4.aaaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007990 ! Z4.aaaaa nucleus male
 relationship: part_of WBbt:0008572 ! Z4.aaaaap male
 
 [Term]
 id: WBbt:0007996
 name: Z4.aaaaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007994 ! Z4.aaaaaa nucleus male
 relationship: part_of WBbt:0005000 ! gon_male_vdef
 
 [Term]
 id: WBbt:0007997
 name: Z4.aaaaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007994 ! Z4.aaaaaa nucleus male
 relationship: part_of WBbt:0004996 ! gon_male_vdef
 
 [Term]
 id: WBbt:0007998
 name: Z4.aaaaapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007995 ! Z4.aaaaap nucleus male
 relationship: part_of WBbt:0008544 ! Z4.aaaaapa male
 
 [Term]
 id: WBbt:0007999
 name: Z4.aaaaapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007995 ! Z4.aaaaap nucleus male
 relationship: part_of WBbt:0008520 ! Z4.aaaaapp male
 
 [Term]
 id: WBbt:0008000
 name: Z4.aaaaapaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007998 ! Z4.aaaaapa nucleus male
 relationship: part_of WBbt:0004995 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008001
 name: Z4.aaaaapap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007998 ! Z4.aaaaapa nucleus male
 relationship: part_of WBbt:0004994 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008002
 name: Z4.aaaaappa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007999 ! Z4.aaaaapp nucleus male
 relationship: part_of WBbt:0008536 ! Z4.aaaaappa male
 
 [Term]
 id: WBbt:0008003
 name: Z4.aaaaappp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007999 ! Z4.aaaaapp nucleus male
 relationship: part_of WBbt:0004988 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008004
 name: Z4.aaaaappap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008002 ! Z4.aaaaappa nucleus male
 relationship: part_of WBbt:0004990 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008005
 name: Z4.aaaaappaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008002 ! Z4.aaaaappa nucleus male
 relationship: part_of WBbt:0004992 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008006
 name: Z4.aapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007981 ! Z4.aap nucleus male
 relationship: part_of WBbt:0008577 ! Z4.aapa male
 
 [Term]
 id: WBbt:0008007
 name: Z4.aapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0007981 ! Z4.aap nucleus male
 relationship: part_of WBbt:0008578 ! Z4.aapp male
 
 [Term]
 id: WBbt:0008008
 name: Z4.aappa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008007 ! Z4.aapp nucleus male
 relationship: part_of WBbt:0004708 ! Z4.aappa male
 
 [Term]
 id: WBbt:0008009
 name: Z4.aappp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008007 ! Z4.aapp nucleus male
 relationship: part_of WBbt:0005044 ! Z4.aappp male
 
 [Term]
 id: WBbt:0008010
 name: Z4.aapaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008006 ! Z4.aapa nucleus male
 relationship: part_of WBbt:0008325 ! Z4.aapaa male
 
 [Term]
 id: WBbt:0008011
 name: Z4.aapap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008006 ! Z4.aapa nucleus male
 relationship: part_of WBbt:0008329 ! Z4.aapap male
 
 [Term]
 id: WBbt:0008012
 name: Z4.aapapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008011 ! Z4.aapap nucleus male
 relationship: part_of WBbt:0004710 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008013
 name: Z4.aapapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008011 ! Z4.aapap nucleus male
 relationship: part_of WBbt:0004709 ! gon_male_vdef
 
@@ -50219,6 +50295,7 @@ relationship: part_of WBbt:0004709 ! gon_male_vdef
 id: WBbt:0008014
 name: Z4.aapaaa nucleus male
 def: "Nucleus of pedigree Z4.aapaaa in male." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008010 ! Z4.aapaa nucleus male
 relationship: part_of WBbt:0008488 ! Z4.aapaaa male
 
@@ -50226,66 +50303,77 @@ relationship: part_of WBbt:0008488 ! Z4.aapaaa male
 id: WBbt:0008015
 name: Z4.aapaap nucleus male
 def: "Nucleus of pedigree Z4.aapaap in male." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008010 ! Z4.aapaa nucleus male
 relationship: part_of WBbt:0008487 ! Z4.aapaap male
 
 [Term]
 id: WBbt:0008016
 name: Z4.aapaaaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008014 ! Z4.aapaaa nucleus male
 relationship: part_of WBbt:0004980 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008017
 name: Z4.aapaaap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008014 ! Z4.aapaaa nucleus male
 relationship: part_of WBbt:0004716 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008018
 name: Z4.aapaapa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008015 ! Z4.aapaap nucleus male
 relationship: part_of WBbt:0008523 ! Z4.aapaapa male
 
 [Term]
 id: WBbt:0008019
 name: Z4.aapaapp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008015 ! Z4.aapaap nucleus male
 relationship: part_of WBbt:0008529 ! Z4.aapaapp male
 
 [Term]
 id: WBbt:0008020
 name: Z4.aapaapaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008018 ! Z4.aapaapa nucleus male
 relationship: part_of WBbt:0004715 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008021
 name: Z4.aapaapap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008018 ! Z4.aapaapa nucleus male
 relationship: part_of WBbt:0004714 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008022
 name: Z4.aapaappa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008019 ! Z4.aapaapp nucleus male
 relationship: part_of WBbt:0008527 ! Z4.aapaappa male
 
 [Term]
 id: WBbt:0008023
 name: Z4.aapaappp nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008019 ! Z4.aapaapp nucleus male
 relationship: part_of WBbt:0004711 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008024
 name: Z4.aapaappaa nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008022 ! Z4.aapaappa nucleus male
 relationship: part_of WBbt:0004713 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008025
 name: Z4.aapaappap nucleus male
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCINMALE WBbt:0008022 ! Z4.aapaappa nucleus male
 relationship: part_of WBbt:0004712 ! gon_male_vdef
 
@@ -50293,12 +50381,14 @@ relationship: part_of WBbt:0004712 ! gon_male_vdef
 id: WBbt:0008026
 name: Z4.apaaaa nucleus male
 is_a: WBbt:0003517 ! Z4.apaaaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008586 ! Z4.apaaaa male
 
 [Term]
 id: WBbt:0008027
 name: Z4.apaaaa nucleus hermaphrodite
 is_a: WBbt:0003517 ! Z4.apaaaa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008585 ! Z4.apaaaa hermaphrodite
 
 [Term]
@@ -50566,6 +50656,7 @@ relationship: DESCENDENTOF WBbt:0001615 ! ABprppppap nucleus
 id: WBbt:0008062
 name: ABprppppapa nucleus hermaphrodite
 def: "nucleus of pedigree ABprppppapa in hermaphrodite." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0008061 ! ABprppppapa nucleus
 relationship: part_of WBbt:0008063 ! B cell hermaphrodite
 
@@ -50596,6 +50687,7 @@ relationship: DESCENDENTOF WBbt:0003462 ! MSappaap nucleus
 id: WBbt:0008066
 name: Z4.p nucleus male
 def: "nucleus of pedigree Z4 in male." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0008065 ! Z4.p nucleus
 relationship: part_of WBbt:0005063 ! gon_male_dtc posterior
 
@@ -50610,6 +50702,7 @@ relationship: DESCENDENTOF WBbt:0003279 ! MSpppaap nucleus
 id: WBbt:0008068
 name: Z1.a nucleus male
 def: "nucleus of pedigree Z1.a in male." [WB:rynl]
+is_a: WBbt:0006803 ! Nucleus
 is_a: WBbt:0008067 ! Z1.a nucleus
 relationship: part_of WBbt:0005064 ! gon_male_dtc anterior
 
@@ -50664,6 +50757,7 @@ id: WBbt:0008075
 name: P10.p nucleus male
 def: "nucleus of pedigree P10.p in male." [WB:rynl]
 is_a: WBbt:0002566 ! P10.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008348 ! P10.p male
 
 [Term]
@@ -50671,6 +50765,7 @@ id: WBbt:0008076
 name: P10.p nucleus hermaphrodite
 def: "nucleus of pedigree P10.p in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002566 ! P10.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004400 ! P10.p hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50679,6 +50774,7 @@ id: WBbt:0008077
 name: P11.p nucleus male
 def: "nucleus of pedigree P11.p in male." [WB:rynl]
 is_a: WBbt:0002585 ! P11.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008486 ! P11.p male
 
 [Term]
@@ -50686,6 +50782,7 @@ id: WBbt:0008078
 name: P11.p nucleus hermaphrodite
 def: "nucleus of pedigree P11.p in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002585 ! P11.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004399 ! P11.p hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50694,6 +50791,7 @@ id: WBbt:0008079
 name: TL.apap nucleus male
 def: "nucleus of pedigree TL.apap in male." [WB:rynl]
 is_a: WBbt:0002862 ! TL.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008510 ! TL.apap male
 
 [Term]
@@ -50701,6 +50799,7 @@ id: WBbt:0008080
 name: TL.apap nucleus hermaphrodite
 def: "nucleus of pedigree TL.apap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002862 ! TL.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004226 ! TL.apap hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50709,6 +50808,7 @@ id: WBbt:0008081
 name: TR.apap nucleus hermaphrodite
 def: "nucleus of pedigree TR.apap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002895 ! TR.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0007029 ! TR.apap hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50717,6 +50817,7 @@ id: WBbt:0008082
 name: TR.apap nucleus male
 def: "nucleus of pedigree TR.apap in male." [WB:rynl]
 is_a: WBbt:0002895 ! TR.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008489 ! TR.apap male
 
 [Term]
@@ -50724,6 +50825,7 @@ id: WBbt:0008083
 name: V5L.pppa nucleus hermaphrodite
 def: "nucleus of pedigree V5L.pppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003077 ! V5L.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004248 ! V5L.pppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50732,6 +50834,7 @@ id: WBbt:0008084
 name: V5L.pppa nucleus male
 def: "nucleus of pedigree V5L.pppa in male." [WB:rynl]
 is_a: WBbt:0003077 ! V5L.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008528 ! V5L.pppa male
 
 [Term]
@@ -50739,6 +50842,7 @@ id: WBbt:0008085
 name: V5R.pppa nucleus hermaphrodite
 def: "nucleus of pedigree V5R.pppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003101 ! V5R.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004244 ! V5R.pppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50747,6 +50851,7 @@ id: WBbt:0008086
 name: V5R.pppa nucleus male
 def: "nuelceus of pedigree V5R.pppa in male." [WB:rynl]
 is_a: WBbt:0003101 ! V5R.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008530 ! V5R.pppa male
 
 [Term]
@@ -50754,6 +50859,7 @@ id: WBbt:0008087
 name: V6L.papa nucleus hermaphrodite
 def: "nucleus of pedigree V6L.papa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003120 ! V6L.papa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004240 ! V6L.papa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50762,6 +50868,7 @@ id: WBbt:0008088
 name: V6L.papa nucleus male
 def: "nucleus of pedigree V6L.papa in male." [WB:rynl]
 is_a: WBbt:0003120 ! V6L.papa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008521 ! V6L.papa male
 
 [Term]
@@ -50769,6 +50876,7 @@ id: WBbt:0008089
 name: V6L.pppa nucleus hermaphrodite
 def: "nucleus of pedigree V6L.pppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003139 ! V6L.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004237 ! V6L.pppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50777,6 +50885,7 @@ id: WBbt:0008090
 name: V6L.pppa nucleus male
 def: "nucleus of pedigree V6L.pppa in male." [WB:rynl]
 is_a: WBbt:0003139 ! V6L.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008525 ! V6L.pppa male
 
 [Term]
@@ -50784,6 +50893,7 @@ id: WBbt:0008091
 name: V6L.ppppa nucleus hermaphrodite
 def: "nucleus of pedigree V6L.ppppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003148 ! V6L.ppppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004236 ! V6L.ppppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50792,6 +50902,7 @@ id: WBbt:0008092
 name: V6L.ppppa nucleus male
 def: "nucleus of pedigree V6L.ppppa in male." [WB:rynl]
 is_a: WBbt:0003148 ! V6L.ppppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008516 ! V6L.ppppa male
 
 [Term]
@@ -50799,6 +50910,7 @@ id: WBbt:0008093
 name: V6R.papa nucleus male
 def: "nucleus of pedigree V6R.papa in male." [WB:rynl]
 is_a: WBbt:0003166 ! V6R.papa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008494 ! V6R.papa male
 
 [Term]
@@ -50806,6 +50918,7 @@ id: WBbt:0008094
 name: V6R.papa nucleus hermaphrodite
 def: "nucleus of pedigree V6R.papa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003166 ! V6R.papa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004233 ! V6R.papa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50814,6 +50927,7 @@ id: WBbt:0008095
 name: V6R.pppa nucleus male
 def: "nucleus of pedigree V6R.pppa in male." [WB:rynl]
 is_a: WBbt:0003185 ! V6R.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008504 ! V6R.pppa male
 
 [Term]
@@ -50821,6 +50935,7 @@ id: WBbt:0008096
 name: V6R.pppa nucleus hermaphrodite
 def: "nucleus of pedigree V6R.pppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003185 ! V6R.pppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004230 ! V6R.pppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50829,6 +50944,7 @@ id: WBbt:0008097
 name: V6R.ppppa nucleus male
 def: "nucleus of pedigree V6R.ppppa in male." [WB:rynl]
 is_a: WBbt:0003194 ! V6R.ppppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008502 ! V6R.ppppa male
 
 [Term]
@@ -50836,6 +50952,7 @@ id: WBbt:0008098
 name: V6R.ppppa nucleus hermaphrodite
 def: "nucleus of pedigree V6R.ppppa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003194 ! V6R.ppppa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004229 ! V6R.ppppa hermaphrodite
 relationship: part_of WBbt:0008071 ! hyp7 syncytium hermaphrodite
 
@@ -50857,6 +50974,7 @@ id: WBbt:0008101
 name: P10.aap nucleus male
 def: "nucleus of pedigree P10.aap in male." [WB:rynl]
 is_a: WBbt:0002564 ! P10.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008099 ! P10.aap male
 
 [Term]
@@ -50864,6 +50982,7 @@ id: WBbt:0008102
 name: P10.aap nucleus hermaphrodite
 def: "nucleus of pedigree P10.aap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002564 ! P10.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008100 ! P10.aap hermaphrodite
 
 [Term]
@@ -50884,6 +51003,7 @@ id: WBbt:0008105
 name: P9.aap nucleus male
 def: "nucleus of pedigree P9.aap in male." [WB:rynl]
 is_a: WBbt:0002558 ! P9.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008103 ! P9.aap male
 
 [Term]
@@ -50891,6 +51011,7 @@ id: WBbt:0008106
 name: P9.aap nucleus hermaphrodite
 def: "nucleus of pedigree P9.aap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002558 ! P9.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008104 ! P9.aap hermaphrodite
 
 [Term]
@@ -50911,6 +51032,7 @@ id: WBbt:0008109
 name: P11.aap nucleus male
 def: "nucleus of pedigree P11.aap in male." [WB:rynl]
 is_a: WBbt:0002583 ! P11.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008107 ! P11.aap male
 
 [Term]
@@ -50918,6 +51040,7 @@ id: WBbt:0008110
 name: P11.aap nucleus hermaphrodite
 def: "nucleus of pedigree P11.aap in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002583 ! P11.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008108 ! P11.aap hermaphrodite
 
 [Term]
@@ -50942,6 +51065,7 @@ id: WBbt:0008113
 name: P3.p nucleus male
 def: "nucleus of pedigree P3.p in male." [WB:rynl]
 is_a: WBbt:0002480 ! P3.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008111 ! P3.p male
 
@@ -50950,6 +51074,7 @@ id: WBbt:0008114
 name: P3.p nucleus hermaphrodite
 def: "nucleus of pedigree P3.p in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002480 ! P3.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008112 ! P3.p hermaphrodite
 
 [Term]
@@ -50981,6 +51106,7 @@ id: WBbt:0008118
 name: P4.p nucleus male
 def: "nucleus of post-embryonic pedigree P4.p in male." [WB:rynl]
 is_a: WBbt:0002488 ! P4.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008116 ! P4.p male
 
@@ -50989,6 +51115,7 @@ id: WBbt:0008119
 name: P4.p nucleus hermaphrodite
 def: "nucleus of post-embryonic pedigree P4.p in hermaphrodite." [WB:rynl]
 is_a: WBbt:0002488 ! P4.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008117 ! P4.p hermaphrodite
 
 [Term]
@@ -51012,6 +51139,7 @@ is_a: WBbt:0007809 ! vulval precursor cell
 id: WBbt:0008122
 name: P5.p nucleus male
 is_a: WBbt:0002496 ! P5.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008120 ! P5.p male
 
@@ -51019,6 +51147,7 @@ relationship: part_of WBbt:0008120 ! P5.p male
 id: WBbt:0008123
 name: P5.p nucleus hermaphrodite
 is_a: WBbt:0002496 ! P5.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008121 ! P5.p hermaphrodite
 
 [Term]
@@ -51040,6 +51169,7 @@ is_a: WBbt:0007809 ! vulval precursor cell
 id: WBbt:0008126
 name: P6.p nucleus male
 is_a: WBbt:0002514 ! P6.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008124 ! P6.p male
 
@@ -51047,6 +51177,7 @@ relationship: part_of WBbt:0008124 ! P6.p male
 id: WBbt:0008127
 name: P6.p nucleus hermaphrodite
 is_a: WBbt:0002514 ! P6.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008125 ! P6.p hermaphrodite
 
 [Term]
@@ -51068,6 +51199,7 @@ is_a: WBbt:0007809 ! vulval precursor cell
 id: WBbt:0008130
 name: P7.p nucleus male
 is_a: WBbt:0002534 ! P7.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008128 ! P7.p male
 
@@ -51075,6 +51207,7 @@ relationship: part_of WBbt:0008128 ! P7.p male
 id: WBbt:0008131
 name: P7.p nucleus hermaphrodite
 is_a: WBbt:0002534 ! P7.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008129 ! P7.p hermaphrodite
 
 [Term]
@@ -51096,6 +51229,7 @@ is_a: WBbt:0007809 ! vulval precursor cell
 id: WBbt:0008134
 name: P8.p nucleus male
 is_a: WBbt:0002552 ! P8.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008070 ! hyp7 syncytium male
 relationship: part_of WBbt:0008132 ! P8.p male
 
@@ -51103,6 +51237,7 @@ relationship: part_of WBbt:0008132 ! P8.p male
 id: WBbt:0008135
 name: P8.p nucleus hermaphrodite
 is_a: WBbt:0002552 ! P8.p nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008133 ! P8.p hermaphrodite
 
 [Term]
@@ -51136,12 +51271,14 @@ is_a: WBbt:0006810 ! adult seam cell right
 id: WBbt:0008140
 name: V5R.ppppp nucleus male
 is_a: WBbt:0003108 ! V5R.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008480 ! V5R.ppppp male
 
 [Term]
 id: WBbt:0008141
 name: V5R.ppppp nucleus hermaphrodite
 is_a: WBbt:0003108 ! V5R.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004732 ! V5R.ppppp hermaphrodite
 relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 
@@ -51150,12 +51287,14 @@ id: WBbt:0008142
 name: V6L.pappp nucleus male
 def: "Nucleus of pedigree V6L.pappp male." [WB:rynl]
 is_a: WBbt:0003130 ! V6L.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008543 ! V6L.pappp male
 
 [Term]
 id: WBbt:0008143
 name: V6L.pappp nucleus hermaphrodite
 is_a: WBbt:0003130 ! V6L.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004731 ! V6L.pappp hermaprhrodite
 relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 
@@ -51164,6 +51303,7 @@ id: WBbt:0008144
 name: V5L.ppppp nucleus male
 def: "Nucleus of pedigree V5L.ppppp in male." [WB:rynl]
 is_a: WBbt:0003084 ! V5L.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008537 ! V5L.ppppp male
 
 [Term]
@@ -51171,6 +51311,7 @@ id: WBbt:0008145
 name: V5L.ppppp nucleus hermaphrodite
 def: "nucleus of pedigree V5L.ppppp in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003084 ! V5L.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004733 ! V5L.ppppp hermaphrodite
 relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 
@@ -51178,12 +51319,14 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008146
 name: TL.appa nucleus male
 is_a: WBbt:0002870 ! TL.appa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008531 ! TL.appa male
 
 [Term]
 id: WBbt:0008147
 name: TL.appa nucleus hermaphrodite
 is_a: WBbt:0002870 ! TL.appa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004727 ! TL.appa hermaphrodite
 relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 
@@ -51191,12 +51334,14 @@ relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 id: WBbt:0008148
 name: V6R.ppppp nucleus male
 is_a: WBbt:0003200 ! V6R.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008518 ! V6R.ppppp male
 
 [Term]
 id: WBbt:0008149
 name: V6R.ppppp nucleus hermaphrodite
 is_a: WBbt:0003200 ! V6R.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004728 ! V6R.ppppp hermaphrodite
 relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 
@@ -51204,12 +51349,14 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 id: WBbt:0008150
 name: TR.appa nucleus male
 is_a: WBbt:0002898 ! TR.appa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008526 ! TR.appa male
 
 [Term]
 id: WBbt:0008151
 name: TR.appa nucleus hermaphrodite
 is_a: WBbt:0002898 ! TR.appa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004726 ! TR.appa hermaphrodite
 relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 
@@ -51217,12 +51364,14 @@ relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 id: WBbt:0008152
 name: V6L.ppppp nucleus male
 is_a: WBbt:0003154 ! V6L.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008534 ! V6L.ppppp male
 
 [Term]
 id: WBbt:0008153
 name: V6L.ppppp nucleus hermaphrodite
 is_a: WBbt:0003154 ! V6L.ppppp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004730 ! V6L.ppppp hermaphrodite
 relationship: part_of WBbt:0008137 ! adult seam cell left hermaphrodite
 
@@ -51231,12 +51380,14 @@ id: WBbt:0008154
 name: V6R.pappp nucleus male
 def: "Nucleus of pedigree V6R.pappp male." [WB:rynl]
 is_a: WBbt:0003176 ! V6R.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008541 ! V6R.pappp male
 
 [Term]
 id: WBbt:0008155
 name: V6R.pappp nucleus hermaphrodite
 is_a: WBbt:0003176 ! V6R.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004729 ! V6R.pappp hermaphrodite
 relationship: part_of WBbt:0008139 ! adult seam cell right hermaphrodite
 
@@ -51402,24 +51553,28 @@ is_a: WBbt:0005754 ! interfacial epithelial cell
 id: WBbt:0008183
 name: ABplppppapp nucleus male
 is_a: WBbt:0002009 ! ABplppppapp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008244 ! F cell male
 
 [Term]
 id: WBbt:0008184
 name: ABplppppapp nucleus hermaphrodite
 is_a: WBbt:0002009 ! ABplppppapp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008243 ! F cell hermaphrodite
 
 [Term]
 id: WBbt:0008185
 name: Y nucleus male
 is_a: WBbt:0003623 ! Y nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008248 ! Y cell male
 
 [Term]
 id: WBbt:0008186
 name: Y nucleus hermaphrodite
 is_a: WBbt:0003623 ! Y nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008041 ! PDA hermaphrodite
 relationship: part_of WBbt:0008247 ! Y cell hermaphrodite
 
@@ -51428,6 +51583,7 @@ id: WBbt:0008187
 name: U nucleus male
 synonym: "ABplppppapa nucleus male" RELATED []
 is_a: WBbt:0002908 ! ABplppppapa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008246 ! U cell male
 
 [Term]
@@ -51435,6 +51591,7 @@ id: WBbt:0008188
 name: U nucleus hermaphrodite
 synonym: "ABplppppapa nucleus hermaphrodite" RELATED []
 is_a: WBbt:0002908 ! ABplppppapa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008245 ! U cell hermaphrodite
 
 [Term]
@@ -51449,72 +51606,84 @@ is_a: WBbt:0008209 ! male gonadal cell
 id: WBbt:0008190
 name: Z4.apaaap nucleus male
 is_a: WBbt:0003520 ! Z4.apaaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005036 ! gon_male_sves
 
 [Term]
 id: WBbt:0008191
 name: Z4.apaaap nucleus hermaphrodite
 is_a: WBbt:0003520 ! Z4.apaaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008533 ! Z4.apaaap hermaphrodite
 
 [Term]
 id: WBbt:0008192
 name: Z4.apap nucleus male
 is_a: WBbt:0003538 ! Z4.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005034 ! gon_male_sves
 
 [Term]
 id: WBbt:0008193
 name: Z4.apap nucleus hermaphrodite
 is_a: WBbt:0003538 ! Z4.apap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008519 ! Z4.apap hermaphrodite
 
 [Term]
 id: WBbt:0008194
 name: Z4.apaap nucleus male
 is_a: WBbt:0003523 ! Z4.apaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005035 ! gon_male_sves
 
 [Term]
 id: WBbt:0008195
 name: Z4.apaap nucleus hermaphrodite
 is_a: WBbt:0003523 ! Z4.apaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008522 ! Z4.apaap hermaphrodite
 
 [Term]
 id: WBbt:0008196
 name: Z4.appap nucleus male
 is_a: WBbt:0003580 ! Z4.appap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005026 ! gon_male_sves
 
 [Term]
 id: WBbt:0008197
 name: Z4.appap nucleus hermaphrodite
 is_a: WBbt:0003580 ! Z4.appap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008514 ! Z4.appap hermaphrodite
 
 [Term]
 id: WBbt:0008198
 name: Z4.appaap nucleus male
 is_a: WBbt:0003567 ! Z4.appaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005028 ! gon_male_sves
 
 [Term]
 id: WBbt:0008199
 name: Z4.appaap nucleus hermaphrodite
 is_a: WBbt:0003567 ! Z4.appaap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008512 ! Z4.appaap hermaphrodite
 
 [Term]
 id: WBbt:0008200
 name: Z1.pappp nucleus male
 is_a: WBbt:0003401 ! Z1.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005048 ! gon_male_sves
 
 [Term]
 id: WBbt:0008201
 name: Z1.pappp nucleus hermaphrodite
 is_a: WBbt:0003401 ! Z1.pappp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008469 ! Z1.pappp hermaphrodite
 
 [Term]
@@ -51530,30 +51699,35 @@ relationship: part_of WBbt:0005337 ! vas deferens
 id: WBbt:0008203
 name: Z1.papapp nucleus male
 is_a: WBbt:0003378 ! Z1.papapp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005004 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008204
 name: Z1.papapp nucleus hermaphrodite
 is_a: WBbt:0003378 ! Z1.papapp nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008474 ! Z1.papapp hermaphrodite
 
 [Term]
 id: WBbt:0008205
 name: Z1.papapa nucleus male
 is_a: WBbt:0003371 ! Z1.papapa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005006 ! gon_male_vdef
 
 [Term]
 id: WBbt:0008206
 name: Z1.papapa nucleus hermaphrodite
 is_a: WBbt:0003371 ! Z1.papapa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008466 ! Z1.papapa hermaphrodite
 
 [Term]
 id: WBbt:0008207
 name: Z1.pappa nucleus male
 is_a: WBbt:0003386 ! Z1.pappa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0005002 ! gon_male_vdef
 
 [Term]
@@ -51561,6 +51735,7 @@ id: WBbt:0008208
 name: Z1.pappa nucleus hermaphrodite
 def: "Nucleus of pedigree Z1.pappa in hermaphrodite." [WB:rynl]
 is_a: WBbt:0003386 ! Z1.pappa nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008471 ! Z1.pappa hermaphrodite
 
 [Term]
@@ -52011,72 +52186,84 @@ is_a: WBbt:0007846 ! hypodermal cell
 id: WBbt:0008277
 name: P3.aap nucleus hermaphrodite
 is_a: WBbt:0002478 ! P3.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004621 ! VC1
 
 [Term]
 id: WBbt:0008278
 name: P3.aap nucleus male
 is_a: WBbt:0002478 ! P3.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008515 ! P3.aap male
 
 [Term]
 id: WBbt:0008279
 name: P4.aap nucleus hermaphrodite
 is_a: WBbt:0003229 ! P4.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004619 ! VC2
 
 [Term]
 id: WBbt:0008280
 name: P4.aap nucleus male
 is_a: WBbt:0003229 ! P4.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008535 ! P4.aap male
 
 [Term]
 id: WBbt:0008281
 name: P5.aap nucleus hermaphrodite
 is_a: WBbt:0002494 ! P5.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004618 ! VC3
 
 [Term]
 id: WBbt:0008282
 name: P5.aap nucleus male
 is_a: WBbt:0002494 ! P5.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008542 ! P5.aap male
 
 [Term]
 id: WBbt:0008283
 name: P6.aap nucleus hermaphrodite
 is_a: WBbt:0002512 ! P6.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004617 ! VC4
 
 [Term]
 id: WBbt:0008284
 name: P6.aap nucleus male
 is_a: WBbt:0002512 ! P6.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008499 ! P6.aap male
 
 [Term]
 id: WBbt:0008285
 name: P7.aap nucleus hermaphrodite
 is_a: WBbt:0002532 ! P7.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004613 ! VC5
 
 [Term]
 id: WBbt:0008286
 name: P7.aap nucleus male
 is_a: WBbt:0002532 ! P7.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008505 ! P7.aap male
 
 [Term]
 id: WBbt:0008287
 name: P8.aap nucleus hermaphrodite
 is_a: WBbt:0002550 ! P8.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0004611 ! VC6
 
 [Term]
 id: WBbt:0008288
 name: P8.aap nucleus male
 is_a: WBbt:0002550 ! P8.aap nucleus
+is_a: WBbt:0006803 ! Nucleus
 relationship: part_of WBbt:0008513 ! P8.aap male
 
 [Term]
