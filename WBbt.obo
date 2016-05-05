@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-05-03
-date: 03:05:2016 14:57
+data-version: 2015-05-05
+date: 05:05:2016 16:18
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -8415,7 +8415,7 @@ relationship: part_of WBbt:0004781 ! GLRVR
 
 [Term]
 id: WBbt:0002040
-name: Z1.ppp OR Z4.aaa
+name: obsolete Z1.ppp OR Z4.aaa
 is_obsolete: true
 
 [Term]
@@ -19127,62 +19127,62 @@ relationship: part_of WBbt:0004504 ! gon_herm_dish_A
 
 [Term]
 id: WBbt:0003312
-name: Z1.paaaaa
+name: obsolete Z1.paaaaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003313
-name: Z1.paaaaaa
+name: obsolete Z1.paaaaaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003314
-name: Z1.paaaaap
+name: obsolete Z1.paaaaap
 is_obsolete: true
 
 [Term]
 id: WBbt:0003315
-name: Z1.paaaap
+name: obsolete Z1.paaaap
 is_obsolete: true
 
 [Term]
 id: WBbt:0003316
-name: Z1.paaaapa
+name: obsolete Z1.paaaapa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003317
-name: Z1.paaaapaa
+name: obsolete Z1.paaaapaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003318
-name: Z1.paaaapap
+name: obsolete Z1.paaaapap
 is_obsolete: true
 
 [Term]
 id: WBbt:0003319
-name: Z1.paaaapp
+name: obsolete Z1.paaaapp
 is_obsolete: true
 
 [Term]
 id: WBbt:0003320
-name: Z1.paaaappa
+name: obsolete Z1.paaaappa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003321
-name: Z1.paaaappaa
+name: obsolete Z1.paaaappaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003322
-name: Z1.paaaappap
+name: obsolete Z1.paaaappap
 is_obsolete: true
 
 [Term]
 id: WBbt:0003323
-name: Z1.paaaappp
+name: obsolete Z1.paaaappp
 is_obsolete: true
 
 [Term]
@@ -19516,22 +19516,22 @@ relationship: part_of WBbt:0006868 ! anterior spermathecal-uterine core cell
 
 [Term]
 id: WBbt:0003365
-name: Z1.papaappa
+name: obsolete Z1.papaappa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003366
-name: Z1.papaappaa
+name: obsolete Z1.papaappaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003367
-name: Z1.papaappap
+name: obsolete Z1.papaappap
 is_obsolete: true
 
 [Term]
 id: WBbt:0003368
-name: Z1.papaappp
+name: obsolete Z1.papaappp
 is_obsolete: true
 
 [Term]
@@ -20062,7 +20062,7 @@ relationship: part_of WBbt:0008178 ! ut3 posterior 5L
 
 [Term]
 id: WBbt:0003430
-name: Z1.ppapad
+name: obsolete Z1.ppapad
 is_obsolete: true
 
 [Term]
@@ -20093,7 +20093,7 @@ relationship: part_of WBbt:0008168 ! ut1 posterior 5L
 
 [Term]
 id: WBbt:0003434
-name: Z1.ppapav
+name: obsolete Z1.ppapav
 is_obsolete: true
 
 [Term]
@@ -20148,12 +20148,12 @@ relationship: part_of WBbt:0008346 ! Z1.pppaa hermaphrodite
 
 [Term]
 id: WBbt:0003441
-name: Z1.pppaaaa
+name: obsolete Z1.pppaaaa
 is_obsolete: true
 
 [Term]
 id: WBbt:0003442
-name: Z1.pppaaap
+name: obsolete Z1.pppaaap
 is_obsolete: true
 
 [Term]
@@ -20167,7 +20167,7 @@ relationship: part_of WBbt:0007670 ! Z1.pppaad
 
 [Term]
 id: WBbt:0003444
-name: Z1.pppaap
+name: obsolete Z1.pppaap
 is_obsolete: true
 
 [Term]
@@ -20597,7 +20597,7 @@ relationship: part_of WBbt:0008173 ! ut2 posterior 5R
 
 [Term]
 id: WBbt:0003493
-name: Z4.aapapd
+name: obsolete Z4.aapapd
 is_obsolete: true
 
 [Term]
@@ -20628,7 +20628,7 @@ relationship: part_of WBbt:0008181 ! ut4 posterior 5R
 
 [Term]
 id: WBbt:0003497
-name: Z4.aapapv
+name: obsolete Z4.aapapv
 is_obsolete: true
 
 [Term]
@@ -21383,19 +21383,19 @@ relationship: part_of WBbt:0005024 ! gon_male_sves
 
 [Term]
 id: WBbt:0003588
-name: Z4.apppa nucleus
+name: obsolete Z4.apppa nucleus
 def: "nucleus of pedigree Z4.apppa" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0003589
-name: Z4.apppaa nucleus
+name: obsolete Z4.apppaa nucleus
 def: "nucleus of pedigree Z4.apppaa" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0003590
-name: Z4.apppaap nucleus
+name: obsolete Z4.apppaap nucleus
 def: "nucleus of pedigree Z4.apppaap" [WB:rynl]
 is_obsolete: true
 
@@ -21716,7 +21716,7 @@ is_a: WBbt:0003742 ! pm2
 
 [Term]
 id: WBbt:0003637
-name: NSMR
+name: obsolete NSMR
 is_obsolete: true
 
 [Term]
@@ -21732,12 +21732,12 @@ relationship: part_of WBbt:0003711 ! metacorpus
 
 [Term]
 id: WBbt:0003639
-name: NSML
+name: obsolete NSML
 is_obsolete: true
 
 [Term]
 id: WBbt:0003641
-name: M3R
+name: obsolete M3R
 is_obsolete: true
 
 [Term]
@@ -21760,32 +21760,32 @@ relationship: part_of WBbt:0003711 ! metacorpus
 
 [Term]
 id: WBbt:0003658
-name: M3L
+name: obsolete M3L
 is_obsolete: true
 
 [Term]
 id: WBbt:0003659
-name: M2R
+name: obsolete M2R
 is_obsolete: true
 
 [Term]
 id: WBbt:0003660
-name: M2L
+name: obsolete M2L
 is_obsolete: true
 
 [Term]
 id: WBbt:0003661
-name: MCR
+name: obsolete MCR
 is_obsolete: true
 
 [Term]
 id: WBbt:0003662
-name: MCL
+name: obsolete MCL
 is_obsolete: true
 
 [Term]
 id: WBbt:0003663
-name: I2R
+name: obsolete I2R
 is_obsolete: true
 
 [Term]
@@ -21804,7 +21804,7 @@ relationship: part_of WBbt:0003711 ! metacorpus
 
 [Term]
 id: WBbt:0003665
-name: I2L
+name: obsolete I2L
 is_obsolete: true
 
 [Term]
@@ -21820,7 +21820,7 @@ relationship: part_of WBbt:0003711 ! metacorpus
 
 [Term]
 id: WBbt:0003667
-name: I1R
+name: obsolete I1R
 is_obsolete: true
 
 [Term]
@@ -21832,7 +21832,7 @@ is_a: WBbt:0005439 ! pharyngeal neuron
 
 [Term]
 id: WBbt:0003669
-name: I1L
+name: obsolete I1L
 is_obsolete: true
 
 [Term]
@@ -21893,7 +21893,7 @@ relationship: part_of WBbt:0005748 ! alimentary system
 
 [Term]
 id: WBbt:0003683
-name: g1AL-g1P
+name: obsolete g1AL-g1P
 is_obsolete: true
 
 [Term]
@@ -21906,12 +21906,12 @@ is_a: WBbt:0003718 ! e1
 
 [Term]
 id: WBbt:0003702
-name: g2R
+name: obsolete g2R
 is_obsolete: true
 
 [Term]
 id: WBbt:0003703
-name: g2L
+name: obsolete g2L
 is_obsolete: true
 
 [Term]
@@ -21927,7 +21927,7 @@ relationship: part_of WBbt:0008350 ! g1ARP
 
 [Term]
 id: WBbt:0003705
-name: g1AR
+name: obsolete g1AR
 is_obsolete: true
 
 [Term]
@@ -31191,7 +31191,7 @@ is_a: WBbt:0007851 ! SPsoL
 
 [Term]
 id: WBbt:0004951
-name: CA9
+name: obsolete CA9
 def: "Male specific cell in ventral cord, neuron-like but lacks synapses" [ISBN:0-87969-307-X]
 synonym: "lineage name: P11.aapa" RELATED []
 is_obsolete: true
@@ -31205,7 +31205,7 @@ is_a: WBbt:0007852 ! SPsoR
 
 [Term]
 id: WBbt:0004953
-name: CA8
+name: obsolete CA8
 def: "Male specific cell in ventral cord, neuron-like but lacks synapses" [ISBN:0-87969-307-X]
 synonym: "lineage name: P10.aapa" RELATED []
 is_obsolete: true
@@ -32198,7 +32198,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 
 [Term]
 id: WBbt:0005069
-name: gon_herm_vut
+name: obsolete gon_herm_vut
 def: "Ventral uterus" [ISBN:0-87969-307-X]
 synonym: "lineage name: Z4.apppaap" RELATED []
 is_obsolete: true
@@ -32479,7 +32479,7 @@ is_a: WBbt:0005105 ! lateral ganglion
 
 [Term]
 id: WBbt:0005104
-name: lateral hypodermis
+name: obsolete lateral hypodermis
 is_obsolete: true
 
 [Term]
@@ -32492,7 +32492,7 @@ is_a: WBbt:0005135 ! head ganglion
 
 [Term]
 id: WBbt:0005106
-name: lateral epidermal blast cells
+name: obsolete lateral epidermal blast cells
 is_obsolete: true
 
 [Term]
@@ -32504,27 +32504,27 @@ is_a: WBbt:0006929 ! sensillum
 
 [Term]
 id: WBbt:0005108
-name: int_post
+name: obsolete int_post
 is_obsolete: true
 
 [Term]
 id: WBbt:0005109
-name: int_emb
+name: obsolete int_emb
 is_obsolete: true
 
 [Term]
 id: WBbt:0005110
-name: intestino-rectal valve
+name: obsolete intestino-rectal valve
 is_obsolete: true
 
 [Term]
 id: WBbt:0005111
-name: intestine
+name: obsolete intestine
 is_obsolete: true
 
 [Term]
 id: WBbt:0005112
-name: intestinal
+name: obsolete intestinal
 is_obsolete: true
 
 [Term]
@@ -32534,12 +32534,12 @@ is_a: WBbt:0003679 ! neuron
 
 [Term]
 id: WBbt:0005114
-name: interfacial cells
+name: obsolete interfacial cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005115
-name: int-5
+name: obsolete int-5
 is_obsolete: true
 
 [Term]
@@ -32600,7 +32600,7 @@ is_a: WBbt:0005116 ! inner labial sensillum
 
 [Term]
 id: WBbt:0005125
-name: head_DML
+name: obsolete head_DML
 is_obsolete: true
 
 [Term]
@@ -32610,42 +32610,42 @@ is_a: WBbt:0005116 ! inner labial sensillum
 
 [Term]
 id: WBbt:0005127
-name: head_DLR
+name: obsolete head_DLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005128
-name: hyp_hook
+name: obsolete hyp_hook
 is_obsolete: true
 
 [Term]
 id: WBbt:0005129
-name: head_DLL
+name: obsolete head_DLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005130
-name: head sensory neurons
+name: obsolete head sensory neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005131
-name: head sensilla
+name: obsolete head sensilla
 is_obsolete: true
 
 [Term]
 id: WBbt:0005132
-name: head neurons
+name: obsolete head neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005133
-name: head neuronal precursors
+name: obsolete head neuronal precursors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005134
-name: head hypodermis
+name: obsolete head hypodermis
 is_obsolete: true
 
 [Term]
@@ -32657,92 +32657,92 @@ relationship: part_of WBbt:0005739 ! head
 
 [Term]
 id: WBbt:0005136
-name: head body wall muscle
+name: obsolete head body wall muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005137
-name: hypodermis
+name: obsolete hypodermis
 is_obsolete: true
 
 [Term]
 id: WBbt:0005138
-name: hypodermal seam cells
+name: obsolete hypodermal seam cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005139
-name: hypodermal ridge
+name: obsolete hypodermal ridge
 is_obsolete: true
 
 [Term]
 id: WBbt:0005140
-name: hypodermal
+name: obsolete hypodermal
 is_obsolete: true
 
 [Term]
 id: WBbt:0005141
-name: hyp10
+name: obsolete hyp10
 is_obsolete: true
 
 [Term]
 id: WBbt:0005142
-name: hyp9
+name: obsolete hyp9
 is_obsolete: true
 
 [Term]
 id: WBbt:0005143
-name: hyp8/9
+name: obsolete hyp8/9
 is_obsolete: true
 
 [Term]
 id: WBbt:0005144
-name: hyp8
+name: obsolete hyp8
 is_obsolete: true
 
 [Term]
 id: WBbt:0005145
-name: head
+name: obsolete head
 is_obsolete: true
 
 [Term]
 id: WBbt:0005146
-name: hyp7 post-embryonic male
+name: obsolete hyp7 post-embryonic male
 is_obsolete: true
 
 [Term]
 id: WBbt:0005147
-name: gut
+name: obsolete gut
 is_obsolete: true
 
 [Term]
 id: WBbt:0005148
-name: hyp7 post-embryonic herm
+name: obsolete hyp7 post-embryonic herm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005149
-name: gubernaculum
+name: obsolete gubernaculum
 is_obsolete: true
 
 [Term]
 id: WBbt:0005150
-name: gon_male_vdef
+name: obsolete gon_male_vdef
 is_obsolete: true
 
 [Term]
 id: WBbt:0005151
-name: gon_male_sves
+name: obsolete gon_male_sves
 is_obsolete: true
 
 [Term]
 id: WBbt:0005152
-name: gon_male_dtc
+name: obsolete gon_male_dtc
 is_obsolete: true
 
 [Term]
 id: WBbt:0005153
-name: gon_male
+name: obsolete gon_male
 is_obsolete: true
 
 [Term]
@@ -32755,82 +32755,82 @@ relationship: part_of WBbt:0006903 ! developing hermaphrodite gonad
 
 [Term]
 id: WBbt:0005155
-name: gon_herm_sujn_P
+name: obsolete gon_herm_sujn_P
 is_obsolete: true
 
 [Term]
 id: WBbt:0005156
-name: gon_herm_sujn_A
+name: obsolete gon_herm_sujn_A
 is_obsolete: true
 
 [Term]
 id: WBbt:0005157
-name: hyp7 post-embryonic
+name: obsolete hyp7 post-embryonic
 is_obsolete: true
 
 [Term]
 id: WBbt:0005158
-name: hyp7 embryonic
+name: obsolete hyp7 embryonic
 is_obsolete: true
 
 [Term]
 id: WBbt:0005159
-name: hyp7
+name: obsolete hyp7
 is_obsolete: true
 
 [Term]
 id: WBbt:0005160
-name: hyp6
+name: obsolete hyp6
 is_obsolete: true
 
 [Term]
 id: WBbt:0005161
-name: hyp5
+name: obsolete hyp5
 is_obsolete: true
 
 [Term]
 id: WBbt:0005162
-name: hyp4
+name: obsolete hyp4
 is_obsolete: true
 
 [Term]
 id: WBbt:0005163
-name: hyp3
+name: obsolete hyp3
 is_obsolete: true
 
 [Term]
 id: WBbt:0005164
-name: hyp2
+name: obsolete hyp2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005165
-name: gon_herm_spth_P
+name: obsolete gon_herm_spth_P
 is_obsolete: true
 
 [Term]
 id: WBbt:0005166
-name: hyp1
+name: obsolete hyp1
 is_obsolete: true
 
 [Term]
 id: WBbt:0005167
-name: gon_herm_spth_A
+name: obsolete gon_herm_spth_A
 is_obsolete: true
 
 [Term]
 id: WBbt:0005168
-name: hook sensillum
+name: obsolete hook sensillum
 is_obsolete: true
 
 [Term]
 id: WBbt:0005169
-name: gon_herm_prsh_P
+name: obsolete gon_herm_prsh_P
 is_obsolete: true
 
 [Term]
 id: WBbt:0005170
-name: gon_herm_prsh_A
+name: obsolete gon_herm_prsh_A
 is_obsolete: true
 
 [Term]
@@ -32843,17 +32843,17 @@ relationship: part_of WBbt:0006903 ! developing hermaphrodite gonad
 
 [Term]
 id: WBbt:0005172
-name: gon_herm_dtc
+name: obsolete gon_herm_dtc
 is_obsolete: true
 
 [Term]
 id: WBbt:0005173
-name: gon_herm_dish_P
+name: obsolete gon_herm_dish_P
 is_obsolete: true
 
 [Term]
 id: WBbt:0005174
-name: gon_herm_dish_A
+name: obsolete gon_herm_dish_A
 is_obsolete: true
 
 [Term]
@@ -32895,52 +32895,52 @@ is_a: WBbt:0005758 ! hermaphrodite-specific
 
 [Term]
 id: WBbt:0005179
-name: herm-specific
+name: obsolete herm-specific
 is_obsolete: true
 
 [Term]
 id: WBbt:0005180
-name: herm reproductive system
+name: obsolete herm reproductive system
 is_obsolete: true
 
 [Term]
 id: WBbt:0005181
-name: herm pseudocoelom
+name: obsolete herm pseudocoelom
 is_obsolete: true
 
 [Term]
 id: WBbt:0005182
-name: head_VMR
+name: obsolete head_VMR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005183
-name: head_VML
+name: obsolete head_VML
 is_obsolete: true
 
 [Term]
 id: WBbt:0005184
-name: head_VLR
+name: obsolete head_VLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005185
-name: germ-line cells
+name: obsolete germ-line cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005186
-name: head_VLL
+name: obsolete head_VLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005187
-name: germ cells
+name: obsolete germ cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005188
-name: head_DMR
+name: obsolete head_DMR
 is_obsolete: true
 
 [Term]
@@ -32958,82 +32958,82 @@ is_a: WBbt:0003679 ! neuron
 
 [Term]
 id: WBbt:0005191
-name: g2 gland cells
+name: obsolete g2 gland cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005192
-name: g1 gland cell
+name: obsolete g1 gland cell
 is_obsolete: true
 
 [Term]
 id: WBbt:0005193
-name: excretory system
+name: obsolete excretory system
 is_obsolete: true
 
 [Term]
 id: WBbt:0005194
-name: excretory pore
+name: obsolete excretory pore
 is_obsolete: true
 
 [Term]
 id: WBbt:0005195
-name: excretory interface
+name: obsolete excretory interface
 is_obsolete: true
 
 [Term]
 id: WBbt:0005196
-name: excretory gland
+name: obsolete excretory gland
 is_obsolete: true
 
 [Term]
 id: WBbt:0005197
-name: excretory
+name: obsolete excretory
 is_obsolete: true
 
 [Term]
 id: WBbt:0005198
-name: excitatory neurons
+name: obsolete excitatory neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005199
-name: EMS lineage
+name: obsolete EMS lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005200
-name: embryos
+name: obsolete embryos
 is_obsolete: true
 
 [Term]
 id: WBbt:0005201
-name: embryonic_founder_cells
+name: obsolete embryonic_founder_cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005202
-name: embryonic_death
+name: obsolete embryonic_death
 is_obsolete: true
 
 [Term]
 id: WBbt:0005203
-name: embryonic pre-founder cells
+name: obsolete embryonic pre-founder cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005205
-name: e3
+name: obsolete e3
 is_obsolete: true
 
 [Term]
 id: WBbt:0005206
-name: e2
+name: obsolete e2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005207
-name: e1
+name: obsolete e1
 is_obsolete: true
 
 [Term]
@@ -33050,7 +33050,7 @@ is_a: WBbt:0006977 ! tail ganglion
 
 [Term]
 id: WBbt:0005213
-name: dorsal stripes
+name: obsolete dorsal stripes
 is_obsolete: true
 
 [Term]
@@ -33062,53 +33062,53 @@ is_a: WBbt:0005135 ! head ganglion
 
 [Term]
 id: WBbt:0005215
-name: dorsal nerve cord
+name: obsolete dorsal nerve cord
 is_obsolete: true
 
 [Term]
 id: WBbt:0005216
-name: Cell_group
+name: obsolete Cell_group
 def: "a group of cells that have shared characteristics" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0005217
-name: dorsal hypodermis
+name: obsolete dorsal hypodermis
 is_obsolete: true
 
 [Term]
 id: WBbt:0005218
-name: zygote
+name: obsolete zygote
 is_obsolete: true
 
 [Term]
 id: WBbt:0005219
-name: Z4 lineage
+name: obsolete Z4 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005220
-name: Z1 lineage
+name: obsolete Z1 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005221
-name: vulval muscle
+name: obsolete vulval muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005222
-name: vulval interface
+name: obsolete vulval interface
 is_obsolete: true
 
 [Term]
 id: WBbt:0005223
-name: vulval epithelial cells
+name: obsolete vulval epithelial cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005224
-name: vulvaF
+name: obsolete vulvaF
 is_obsolete: true
 
 [Term]
@@ -33121,48 +33121,48 @@ is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005226
-name: vulvaE
+name: obsolete vulvaE
 is_obsolete: true
 
 [Term]
 id: WBbt:0005227
-name: unspecified position
+name: obsolete unspecified position
 is_obsolete: true
 
 [Term]
 id: WBbt:0005229
-name: UNC-86-expressing cell
+name: obsolete UNC-86-expressing cell
 synonym: "anatace:unc-86-expressing" RELATED []
 is_obsolete: true
 
 [Term]
 id: WBbt:0005230
-name: dopaminergic neurons
+name: obsolete dopaminergic neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005231
-name: um2
+name: obsolete um2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005232
-name: distal tip cells
+name: obsolete distal tip cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005233
-name: um1
+name: obsolete um1
 is_obsolete: true
 
 [Term]
 id: WBbt:0005234
-name: deirid sensilla
+name: obsolete deirid sensilla
 is_obsolete: true
 
 [Term]
 id: WBbt:0005236
-name: deirid right
+name: obsolete deirid right
 is_obsolete: true
 
 [Term]
@@ -33178,27 +33178,27 @@ is_a: WBbt:0008431 ! mechanosensory neuron
 
 [Term]
 id: WBbt:0005238
-name: deirid neurons
+name: obsolete deirid neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005240
-name: deirid left
+name: obsolete deirid left
 is_obsolete: true
 
 [Term]
 id: WBbt:0005241
-name: testis sheath
+name: obsolete testis sheath
 is_obsolete: true
 
 [Term]
 id: WBbt:0005242
-name: death_in_males
+name: obsolete death_in_males
 is_obsolete: true
 
 [Term]
 id: WBbt:0005243
-name: testis postmitotic cells
+name: obsolete testis postmitotic cells
 is_obsolete: true
 
 [Term]
@@ -33211,7 +33211,7 @@ is_a: WBbt:0006816 ! ciliated neuron
 
 [Term]
 id: WBbt:0005245
-name: death_in_herms
+name: obsolete death_in_herms
 is_obsolete: true
 
 [Term]
@@ -33224,42 +33224,42 @@ is_a: WBbt:0006751 ! head neuron
 
 [Term]
 id: WBbt:0005247
-name: death_in_both_sexes
+name: obsolete death_in_both_sexes
 is_obsolete: true
 
 [Term]
 id: WBbt:0005248
-name: cells_that_die
+name: obsolete cells_that_die
 is_obsolete: true
 
 [Term]
 id: WBbt:0005249
-name: CA.8-9 neuron
+name: obsolete CA.8-9 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005250
-name: CA.1-7 neuron
+name: obsolete CA.1-7 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005251
-name: CA neuron
+name: obsolete CA neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005252
-name: C.xxp
+name: obsolete C.xxp
 is_obsolete: true
 
 [Term]
 id: WBbt:0005253
-name: C lineage
+name: obsolete C lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005254
-name: buccal interface
+name: obsolete buccal interface
 is_obsolete: true
 
 [Term]
@@ -33272,43 +33272,43 @@ relationship: part_of WBbt:0008374 ! stoma
 
 [Term]
 id: WBbt:0005256
-name: vulvaD
+name: obsolete vulvaD
 is_obsolete: true
 
 [Term]
 id: WBbt:0005257
-name: vulvaC
+name: obsolete vulvaC
 is_obsolete: true
 
 [Term]
 id: WBbt:0005258
-name: vulvaB
+name: obsolete vulvaB
 is_obsolete: true
 
 [Term]
 id: WBbt:0005259
-name: vulvaA
+name: obsolete vulvaA
 is_obsolete: true
 
 [Term]
 id: WBbt:0005260
-name: vulva
+name: obsolete vulva
 is_obsolete: true
 
 [Term]
 id: WBbt:0005261
-name: VPC
+name: obsolete VPC
 def: "six vulval precursor cells in early L3" [WB:sdm]
 is_obsolete: true
 
 [Term]
 id: WBbt:0005262
-name: vm2
+name: obsolete vm2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005263
-name: vm1
+name: obsolete vm1
 is_obsolete: true
 
 [Term]
@@ -33319,7 +33319,7 @@ is_a: WBbt:0005298 ! ventral ganglion
 
 [Term]
 id: WBbt:0005265
-name: testis mitotic cells
+name: obsolete testis mitotic cells
 is_obsolete: true
 
 [Term]
@@ -33330,17 +33330,17 @@ is_a: WBbt:0005298 ! ventral ganglion
 
 [Term]
 id: WBbt:0005267
-name: testis
+name: obsolete testis
 is_obsolete: true
 
 [Term]
 id: WBbt:0005268
-name: DD.2-5 neuron
+name: obsolete DD.2-5 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005269
-name: tail spike
+name: obsolete tail spike
 is_obsolete: true
 
 [Term]
@@ -33353,17 +33353,17 @@ is_a: WBbt:0005409 ! motor neuron
 
 [Term]
 id: WBbt:0005271
-name: tail sensory neurons
+name: obsolete tail sensory neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005272
-name: DB.3-7 neuron
+name: obsolete DB.3-7 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005273
-name: tail neurons
+name: obsolete tail neurons
 is_obsolete: true
 
 [Term]
@@ -33376,17 +33376,17 @@ is_a: WBbt:0006840 ! cholinergic neuron
 
 [Term]
 id: WBbt:0005275
-name: tail neuronal precursors
+name: obsolete tail neuronal precursors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005276
-name: DA.2-7 neuron
+name: obsolete DA.2-7 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005277
-name: tail hypodermis
+name: obsolete tail hypodermis
 is_obsolete: true
 
 [Term]
@@ -33399,97 +33399,97 @@ is_a: WBbt:0006840 ! cholinergic neuron
 
 [Term]
 id: WBbt:0005279
-name: tail ganglia
+name: obsolete tail ganglia
 is_obsolete: true
 
 [Term]
 id: WBbt:0005280
-name: D lineage
+name: obsolete D lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005281
-name: tail
+name: obsolete tail
 is_obsolete: true
 
 [Term]
 id: WBbt:0005282
-name: CP.8-9 neuron
+name: obsolete CP.8-9 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005283
-name: syncytial hypoderm
+name: obsolete syncytial hypoderm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005284
-name: body_VR
+name: obsolete body_VR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005285
-name: CP.4-7 neuron
+name: obsolete CP.4-7 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005286
-name: body_VMR
+name: obsolete body_VMR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005287
-name: CP.0-7 neuron
+name: obsolete CP.0-7 neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005288
-name: body_VML
+name: obsolete body_VML
 is_obsolete: true
 
 [Term]
 id: WBbt:0005289
-name: body_VLR
+name: obsolete body_VLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005290
-name: body_VLL
+name: obsolete body_VLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005291
-name: body_VL
+name: obsolete body_VL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005292
-name: body_DR
+name: obsolete body_DR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005293
-name: body_DMR
+name: obsolete body_DMR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005294
-name: body_DML
+name: obsolete body_DML
 is_obsolete: true
 
 [Term]
 id: WBbt:0005295
-name: body_DLR
+name: obsolete body_DLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005296
-name: ventral neuronal precursors
+name: obsolete ventral neuronal precursors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005297
-name: ventral nerve cord
+name: obsolete ventral nerve cord
 is_obsolete: true
 
 [Term]
@@ -33502,7 +33502,7 @@ is_a: WBbt:0005135 ! head ganglion
 
 [Term]
 id: WBbt:0005299
-name: ventral epidermal blast cells
+name: obsolete ventral epidermal blast cells
 is_obsolete: true
 
 [Term]
@@ -33514,12 +33514,12 @@ is_a: WBbt:0006752 ! somatic neuron
 
 [Term]
 id: WBbt:0005301
-name: ventral cord motor neurons
+name: obsolete ventral cord motor neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005302
-name: VD.3-11 neuron
+name: obsolete VD.3-11 neuron
 is_obsolete: true
 
 [Term]
@@ -33543,22 +33543,22 @@ relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0005305
-name: subventral head neurons
+name: obsolete subventral head neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005306
-name: VB.3-11 neurons
+name: obsolete VB.3-11 neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005307
-name: sublateral head neurons
+name: obsolete sublateral head neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005308
-name: CP.0-3 neuron
+name: obsolete CP.0-3 neuron
 is_obsolete: true
 
 [Term]
@@ -33591,7 +33591,7 @@ is_a: WBbt:0005757 ! male-specific
 
 [Term]
 id: WBbt:0005313
-name: spermatocytes
+name: obsolete spermatocytes
 is_obsolete: true
 
 [Term]
@@ -33601,7 +33601,7 @@ is_a: WBbt:0005312 ! copulatory spicule
 
 [Term]
 id: WBbt:0005315
-name: spermatids
+name: obsolete spermatids
 is_obsolete: true
 
 [Term]
@@ -33611,7 +33611,7 @@ is_a: WBbt:0005312 ! copulatory spicule
 
 [Term]
 id: WBbt:0005318
-name: coelomocytes post-embryonic male
+name: obsolete coelomocytes post-embryonic male
 is_obsolete: true
 
 [Term]
@@ -33624,57 +33624,57 @@ relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 
 [Term]
 id: WBbt:0005320
-name: coelomocytes post-embryonic herm
+name: obsolete coelomocytes post-embryonic herm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005321
-name: sperm
+name: obsolete sperm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005322
-name: coelomocytes post-embryonic
+name: obsolete coelomocytes post-embryonic
 is_obsolete: true
 
 [Term]
 id: WBbt:0005324
-name: body_DLL
+name: obsolete body_DLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005325
-name: coelomocytes embryonic
+name: obsolete coelomocytes embryonic
 is_obsolete: true
 
 [Term]
 id: WBbt:0005326
-name: body_DL
+name: obsolete body_DL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005327
-name: coelomocytes
+name: obsolete coelomocytes
 is_obsolete: true
 
 [Term]
 id: WBbt:0005328
-name: body wall muscle precursors
+name: obsolete body wall muscle precursors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005329
-name: body neurons
+name: obsolete body neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005330
-name: body muscle
+name: obsolete body muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005331
-name: body hypodermis
+name: obsolete body hypodermis
 is_obsolete: true
 
 [Term]
@@ -33685,7 +33685,7 @@ is_a: WBbt:0005189 ! ganglion
 
 [Term]
 id: WBbt:0005333
-name: AS.2-10 neuron
+name: obsolete AS.2-10 neuron
 is_obsolete: true
 
 [Term]
@@ -33715,7 +33715,7 @@ relationship: part_of WBbt:0006794 ! male gonad
 
 [Term]
 id: WBbt:0005338
-name: VA.2-11 neuron
+name: obsolete VA.2-11 neuron
 is_obsolete: true
 
 [Term]
@@ -33728,12 +33728,12 @@ is_a: WBbt:0006840 ! cholinergic neuron
 
 [Term]
 id: WBbt:0005340
-name: V lineage
+name: obsolete V lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005341
-name: uterus
+name: obsolete uterus
 is_obsolete: true
 
 [Term]
@@ -33747,17 +33747,17 @@ relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
 [Term]
 id: WBbt:0005343
-name: uterine
+name: obsolete uterine
 is_obsolete: true
 
 [Term]
 id: WBbt:0005344
-name: ut2_toroidal_cells
+name: obsolete ut2_toroidal_cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005345
-name: somatic gonad precursors
+name: obsolete somatic gonad precursors
 is_obsolete: true
 
 [Term]
@@ -33770,7 +33770,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 
 [Term]
 id: WBbt:0005347
-name: somatic gonad
+name: obsolete somatic gonad
 is_obsolete: true
 
 [Term]
@@ -33781,22 +33781,22 @@ is_a: WBbt:0005189 ! ganglion
 
 [Term]
 id: WBbt:0005349
-name: somatic cells
+name: obsolete somatic cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005350
-name: cloaca
+name: obsolete cloaca
 is_obsolete: true
 
 [Term]
 id: WBbt:0005351
-name: socket_cells
+name: obsolete socket_cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005352
-name: circumpharyngeal nerve ring neurons
+name: obsolete circumpharyngeal nerve ring neurons
 is_obsolete: true
 
 [Term]
@@ -33810,7 +33810,7 @@ is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005354
-name: circumpharyngeal nerve ring
+name: obsolete circumpharyngeal nerve ring
 is_obsolete: true
 
 [Term]
@@ -33824,17 +33824,17 @@ is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005356
-name: cephalic sensillum ventral right
+name: obsolete cephalic sensillum ventral right
 is_obsolete: true
 
 [Term]
 id: WBbt:0005357
-name: SM lineage
+name: obsolete SM lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005358
-name: cephalic sensillum ventral left
+name: obsolete cephalic sensillum ventral left
 is_obsolete: true
 
 [Term]
@@ -33848,7 +33848,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 
 [Term]
 id: WBbt:0005360
-name: cephalic sensillum dorsal right
+name: obsolete cephalic sensillum dorsal right
 is_obsolete: true
 
 [Term]
@@ -33862,12 +33862,12 @@ is_a: WBbt:0006974 ! nerve ring neuron
 
 [Term]
 id: WBbt:0005362
-name: cephalic sensillum dorsal left
+name: obsolete cephalic sensillum dorsal left
 is_obsolete: true
 
 [Term]
 id: WBbt:0005363
-name: sheath cell
+name: obsolete sheath cell
 is_obsolete: true
 
 [Term]
@@ -33882,17 +33882,17 @@ relationship: part_of WBbt:0005748 ! alimentary system
 
 [Term]
 id: WBbt:0005365
-name: cephalic sensilla
+name: obsolete cephalic sensilla
 is_obsolete: true
 
 [Term]
 id: WBbt:0005366
-name: anterior ventral cord neuron
+name: obsolete anterior ventral cord neuron
 is_obsolete: true
 
 [Term]
 id: WBbt:0005367
-name: cephalic neurons
+name: obsolete cephalic neurons
 is_obsolete: true
 
 [Term]
@@ -33905,13 +33905,13 @@ relationship: part_of WBbt:0005374 ! anterior gonad arm
 
 [Term]
 id: WBbt:0005369
-name: anterior sheath cell
+name: obsolete anterior sheath cell
 def: "sheath cell with nucleus anterior to metacorpus " [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0005370
-name: anterior pharynx
+name: obsolete anterior pharynx
 def: "undefined" [Wb:rynl]
 is_obsolete: true
 
@@ -33949,52 +33949,52 @@ is_a: WBbt:0005135 ! head ganglion
 
 [Term]
 id: WBbt:0005376
-name: se_male
+name: obsolete se_male
 is_obsolete: true
 
 [Term]
 id: WBbt:0005377
-name: se_herm
+name: obsolete se_herm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005378
-name: set
+name: obsolete set
 is_obsolete: true
 
 [Term]
 id: WBbt:0005380
-name: sensilla
+name: obsolete sensilla
 is_obsolete: true
 
 [Term]
 id: WBbt:0005381
-name: sense organs
+name: obsolete sense organs
 is_obsolete: true
 
 [Term]
 id: WBbt:0005382
-name: seminal vesicle
+name: obsolete seminal vesicle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005383
-name: seam cells
+name: obsolete seam cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005384
-name: seam
+name: obsolete seam
 is_obsolete: true
 
 [Term]
 id: WBbt:0005385
-name: scattered neurons
+name: obsolete scattered neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005388
-name: anal muscle
+name: obsolete anal muscle
 is_obsolete: true
 
 [Term]
@@ -34090,12 +34090,12 @@ is_a: WBbt:0008610 ! head motor neuron
 
 [Term]
 id: WBbt:0005401
-name: ring neurons
+name: obsolete ring neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005402
-name: ring interneuron
+name: obsolete ring interneuron
 is_obsolete: true
 
 [Term]
@@ -34111,7 +34111,7 @@ relationship: part_of WBbt:0005656 ! retrovesicular ganglion
 
 [Term]
 id: WBbt:0005405
-name: rectum_L1
+name: obsolete rectum_L1
 is_obsolete: true
 
 [Term]
@@ -34123,7 +34123,7 @@ is_a: WBbt:0005237 ! touch receptor neuron
 
 [Term]
 id: WBbt:0005407
-name: somatic cell
+name: obsolete somatic cell
 is_obsolete: true
 
 [Term]
@@ -34151,42 +34151,42 @@ relationship: part_of WBbt:0006927 ! anterior deirid sensillum
 
 [Term]
 id: WBbt:0005416
-name: rectum_adult_male
+name: obsolete rectum_adult_male
 is_obsolete: true
 
 [Term]
 id: WBbt:0005417
-name: rectum_adult_herm
+name: obsolete rectum_adult_herm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005418
-name: rectum
+name: obsolete rectum
 is_obsolete: true
 
 [Term]
 id: WBbt:0005419
-name: rectal muscles
+name: obsolete rectal muscles
 is_obsolete: true
 
 [Term]
 id: WBbt:0005420
-name: rectal gland
+name: obsolete rectal gland
 is_obsolete: true
 
 [Term]
 id: WBbt:0005421
-name: rectal epithelium
+name: obsolete rectal epithelium
 is_obsolete: true
 
 [Term]
 id: WBbt:0005422
-name: ray neurons
+name: obsolete ray neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005423
-name: ray cell precursors
+name: obsolete ray cell precursors
 is_obsolete: true
 
 [Term]
@@ -34198,7 +34198,7 @@ is_a: WBbt:0006929 ! sensillum
 
 [Term]
 id: WBbt:0005426
-name: Q lineage
+name: obsolete Q lineage
 is_obsolete: true
 
 [Term]
@@ -34209,18 +34209,18 @@ is_a: WBbt:0005425 ! phasmid sensillum
 
 [Term]
 id: WBbt:0005428
-name: ABpxppxx
+name: obsolete ABpxppxx
 def: "collection of specific banches of the AB.p lineage" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0005429
-name: phasmid neurons
+name: obsolete phasmid neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005430
-name: AB.p lineage
+name: obsolete AB.p lineage
 def: "cells in the AB.p lineage" [WB:rynl]
 is_obsolete: true
 
@@ -34232,18 +34232,18 @@ is_a: WBbt:0005425 ! phasmid sensillum
 
 [Term]
 id: WBbt:0005432
-name: AB.a lineage
+name: obsolete AB.a lineage
 def: "cells in the AB.a lineage" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0005433
-name: pharynx
+name: obsolete pharynx
 is_obsolete: true
 
 [Term]
 id: WBbt:0005434
-name: AB lineage
+name: obsolete AB lineage
 alt_id: WBbt:0005436
 synonym: "AB cells" RELATED []
 is_obsolete: true
@@ -34274,17 +34274,17 @@ relationship: part_of WBbt:0005440 ! pharyngeal nervous system
 
 [Term]
 id: WBbt:0005444
-name: pseudocoelom
+name: obsolete pseudocoelom
 is_obsolete: true
 
 [Term]
 id: WBbt:0005445
-name: proctodeum
+name: obsolete proctodeum
 is_obsolete: true
 
 [Term]
 id: WBbt:0005446
-name: proctodeal cells
+name: obsolete proctodeal cells
 is_obsolete: true
 
 [Term]
@@ -34304,12 +34304,12 @@ is_a: WBbt:0005332 ! body ganglion
 
 [Term]
 id: WBbt:0005449
-name: post_embryonic_death
+name: obsolete post_embryonic_death
 is_obsolete: true
 
 [Term]
 id: WBbt:0005450
-name: posterior ventral neuronal precursors
+name: obsolete posterior ventral neuronal precursors
 is_obsolete: true
 
 [Term]
@@ -34322,37 +34322,37 @@ is_a: WBbt:0005820 ! alimentary muscle
 
 [Term]
 id: WBbt:0005452
-name: posterior ventral body wall muscle
+name: obsolete posterior ventral body wall muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005453
-name: pharyngeal motor neurons
+name: obsolete pharyngeal motor neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005454
-name: pharyngeal marginal cells
+name: obsolete pharyngeal marginal cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005455
-name: pharyngeal isthmus
+name: obsolete pharyngeal isthmus
 is_obsolete: true
 
 [Term]
 id: WBbt:0005456
-name: pharyngeal interneurons
+name: obsolete pharyngeal interneurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005457
-name: pharyngeal gland cell
+name: obsolete pharyngeal gland cell
 is_obsolete: true
 
 [Term]
 id: WBbt:0005458
-name: Pharyngeal gland cell
+name: obsolete Pharyngeal gland cell
 is_obsolete: true
 
 [Term]
@@ -34370,7 +34370,7 @@ relationship: part_of WBbt:0003681 ! pharynx
 
 [Term]
 id: WBbt:0005461
-name: pharyneal marginal cell
+name: obsolete pharyneal marginal cell
 is_obsolete: true
 
 [Term]
@@ -34409,22 +34409,22 @@ relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 
 [Term]
 id: WBbt:0005467
-name: posterior dorsal body wall muscle
+name: obsolete posterior dorsal body wall muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005468
-name: posterior buccal cavity
+name: obsolete posterior buccal cavity
 is_obsolete: true
 
 [Term]
 id: WBbt:0005469
-name: posterior body wall muscle
+name: obsolete posterior body wall muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005470
-name: postdeirids
+name: obsolete postdeirids
 is_obsolete: true
 
 [Term]
@@ -34436,7 +34436,7 @@ xref_unknown: WB:rynl ""
 
 [Term]
 id: WBbt:0005472
-name: postdeirid sensilla
+name: obsolete postdeirid sensilla
 is_obsolete: true
 
 [Term]
@@ -34448,57 +34448,57 @@ relationship: part_of WBbt:0005487 ! postcloacal sensillum
 
 [Term]
 id: WBbt:0005474
-name: P12 lineage
+name: obsolete P12 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005475
-name: P11 lineage
+name: obsolete P11 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005476
-name: P10 lineage
+name: obsolete P10 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005477
-name: P9 lineage
+name: obsolete P9 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005478
-name: P8 lineage
+name: obsolete P8 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005479
-name: P7 lineage
+name: obsolete P7 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005480
-name: P6 lineage
+name: obsolete P6 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005481
-name: P5 lineage
+name: obsolete P5 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005482
-name: postdeirid right
+name: obsolete postdeirid right
 is_obsolete: true
 
 [Term]
 id: WBbt:0005483
-name: postdeirid neurons
+name: obsolete postdeirid neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005484
-name: postdeirid left
+name: obsolete postdeirid left
 is_obsolete: true
 
 [Term]
@@ -34521,12 +34521,12 @@ is_a: WBbt:0006929 ! sensillum
 
 [Term]
 id: WBbt:0005488
-name: post-embryonic blast cell male
+name: obsolete post-embryonic blast cell male
 is_obsolete: true
 
 [Term]
 id: WBbt:0005489
-name: post-embryonic blast cell
+name: obsolete post-embryonic blast cell
 is_obsolete: true
 
 [Term]
@@ -34538,47 +34538,47 @@ is_a: WBbt:0005237 ! touch receptor neuron
 
 [Term]
 id: WBbt:0005491
-name: P4 lineage
+name: obsolete P4 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005493
-name: P3 lineage
+name: obsolete P3 lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005494
-name: P lineage
+name: obsolete P lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005495
-name: oviduct posterior
+name: obsolete oviduct posterior
 is_obsolete: true
 
 [Term]
 id: WBbt:0005496
-name: oviduct anterior
+name: obsolete oviduct anterior
 is_obsolete: true
 
 [Term]
 id: WBbt:0005497
-name: ovary posterior
+name: obsolete ovary posterior
 is_obsolete: true
 
 [Term]
 id: WBbt:0005498
-name: ovary anterior
+name: obsolete ovary anterior
 is_obsolete: true
 
 [Term]
 id: WBbt:0005499
-name: ovarian postmitotic cells
+name: obsolete ovarian postmitotic cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005500
-name: ovarian mitotic cells
+name: obsolete ovarian mitotic cells
 is_obsolete: true
 
 [Term]
@@ -34598,7 +34598,7 @@ is_a: WBbt:0005501 ! outer labial sensillum
 
 [Term]
 id: WBbt:0005504
-name: oocytes
+name: obsolete oocytes
 is_obsolete: true
 
 [Term]
@@ -34633,427 +34633,427 @@ is_a: WBbt:0005503 ! outer labial lateral sensillum
 
 [Term]
 id: WBbt:0005511
-name: non-pharyngeal muscle
+name: obsolete non-pharyngeal muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005513
-name: neuronal precursors
+name: obsolete neuronal precursors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005514
-name: neuronal (amphid sensory neurons)
+name: obsolete neuronal (amphid sensory neurons)
 is_obsolete: true
 
 [Term]
 id: WBbt:0005515
-name: neuronal
+name: obsolete neuronal
 is_obsolete: true
 
 [Term]
 id: WBbt:0005517
-name: neuroblasts
+name: obsolete neuroblasts
 is_obsolete: true
 
 [Term]
 id: WBbt:0005518
-name: neural
+name: obsolete neural
 is_obsolete: true
 
 [Term]
 id: WBbt:0005519
-name: nervous system
+name: obsolete nervous system
 is_obsolete: true
 
 [Term]
 id: WBbt:0005520
-name: nerve ring
+name: obsolete nerve ring
 is_obsolete: true
 
 [Term]
 id: WBbt:0005521
-name: neck_VMR
+name: obsolete neck_VMR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005522
-name: neck_VML
+name: obsolete neck_VML
 is_obsolete: true
 
 [Term]
 id: WBbt:0005523
-name: neck_VLR
+name: obsolete neck_VLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005524
-name: neck_VLL
+name: obsolete neck_VLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005525
-name: neck_DMR
+name: obsolete neck_DMR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005526
-name: neck_DML
+name: obsolete neck_DML
 is_obsolete: true
 
 [Term]
 id: WBbt:0005527
-name: neck_DLR
+name: obsolete neck_DLR
 is_obsolete: true
 
 [Term]
 id: WBbt:0005528
-name: neck_DLL
+name: obsolete neck_DLL
 is_obsolete: true
 
 [Term]
 id: WBbt:0005529
-name: neck body wall muscle
+name: obsolete neck body wall muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005530
-name: mu_male_spic
+name: obsolete mu_male_spic
 is_obsolete: true
 
 [Term]
 id: WBbt:0005531
-name: male_sens_ray.6
+name: obsolete male_sens_ray.6
 is_obsolete: true
 
 [Term]
 id: WBbt:0005532
-name: mu_male_obl
+name: obsolete mu_male_obl
 is_obsolete: true
 
 [Term]
 id: WBbt:0005533
-name: male_sens_ray.5R
+name: obsolete male_sens_ray.5R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005534
-name: male_sens_ray.5L
+name: obsolete male_sens_ray.5L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005535
-name: male_sens_ray.5
+name: obsolete male_sens_ray.5
 is_obsolete: true
 
 [Term]
 id: WBbt:0005536
-name: male_sens_ray.4R
+name: obsolete male_sens_ray.4R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005537
-name: male_sens_ray.4L
+name: obsolete male_sens_ray.4L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005538
-name: male_sens_ray.4
+name: obsolete male_sens_ray.4
 is_obsolete: true
 
 [Term]
 id: WBbt:0005539
-name: male_sens_ray.3R
+name: obsolete male_sens_ray.3R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005540
-name: male_sens_ray.3L
+name: obsolete male_sens_ray.3L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005541
-name: male_sens_ray.3
+name: obsolete male_sens_ray.3
 is_obsolete: true
 
 [Term]
 id: WBbt:0005542
-name: mu_male_long
+name: obsolete mu_male_long
 is_obsolete: true
 
 [Term]
 id: WBbt:0005543
-name: mu_male_gub
+name: obsolete mu_male_gub
 is_obsolete: true
 
 [Term]
 id: WBbt:0005544
-name: mu_male_diag
+name: obsolete mu_male_diag
 is_obsolete: true
 
 [Term]
 id: WBbt:0005545
-name: mu_int
+name: obsolete mu_int
 is_obsolete: true
 
 [Term]
 id: WBbt:0005546
-name: mu_herm_vul
+name: obsolete mu_herm_vul
 is_obsolete: true
 
 [Term]
 id: WBbt:0005547
-name: mu_herm_ut
+name: obsolete mu_herm_ut
 is_obsolete: true
 
 [Term]
 id: WBbt:0005548
-name: mu_bod
+name: obsolete mu_bod
 is_obsolete: true
 
 [Term]
 id: WBbt:0005549
-name: muscle
+name: obsolete muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005550
-name: MS lineage
+name: obsolete MS lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005551
-name: male_sens_ray.2R
+name: obsolete male_sens_ray.2R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005552
-name: mouth
+name: obsolete mouth
 is_obsolete: true
 
 [Term]
 id: WBbt:0005553
-name: male_sens_ray.2L
+name: obsolete male_sens_ray.2L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005554
-name: male_sens_ray.2
+name: obsolete male_sens_ray.2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005555
-name: male_sens_ray.1R
+name: obsolete male_sens_ray.1R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005556
-name: male_sens_ray.1L
+name: obsolete male_sens_ray.1L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005557
-name: male_sens_ray.1
+name: obsolete male_sens_ray.1
 is_obsolete: true
 
 [Term]
 id: WBbt:0005558
-name: male tail hypodermis
+name: obsolete male tail hypodermis
 is_obsolete: true
 
 [Term]
 id: WBbt:0005559
-name: male specific neurons
+name: obsolete male specific neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005560
-name: male specific muscles
+name: obsolete male specific muscles
 is_obsolete: true
 
 [Term]
 id: WBbt:0005561
-name: male sex-specific muscle
+name: obsolete male sex-specific muscle
 is_obsolete: true
 
 [Term]
 id: WBbt:0005563
-name: metacorpus
+name: obsolete metacorpus
 is_obsolete: true
 
 [Term]
 id: WBbt:0005564
-name: mesendoderm
+name: obsolete mesendoderm
 is_obsolete: true
 
 [Term]
 id: WBbt:0005565
-name: mechanosensory neurons
+name: obsolete mechanosensory neurons
 is_obsolete: true
 
 [Term]
 id: WBbt:0005566
-name: mechanoreceptors
+name: obsolete mechanoreceptors
 is_obsolete: true
 
 [Term]
 id: WBbt:0005567
-name: mc3
+name: obsolete mc3
 is_obsolete: true
 
 [Term]
 id: WBbt:0005568
-name: mc2
+name: obsolete mc2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005569
-name: mc1
+name: obsolete mc1
 is_obsolete: true
 
 [Term]
 id: WBbt:0005570
-name: male sensory rays
+name: obsolete male sensory rays
 is_obsolete: true
 
 [Term]
 id: WBbt:0005571
-name: male_specific
+name: obsolete male_specific
 is_obsolete: true
 
 [Term]
 id: WBbt:0005572
-name: male sense organs
+name: obsolete male sense organs
 is_obsolete: true
 
 [Term]
 id: WBbt:0005573
-name: male_sens_ray.9R
+name: obsolete male_sens_ray.9R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005574
-name: male reproductive system
+name: obsolete male reproductive system
 is_obsolete: true
 
 [Term]
 id: WBbt:0005575
-name: male pseudocoelom
+name: obsolete male pseudocoelom
 is_obsolete: true
 
 [Term]
 id: WBbt:0005576
-name: male nervous system
+name: obsolete male nervous system
 is_obsolete: true
 
 [Term]
 id: WBbt:0005577
-name: male gonad
+name: obsolete male gonad
 is_obsolete: true
 
 [Term]
 id: WBbt:0005578
-name: male germ cells
+name: obsolete male germ cells
 is_obsolete: true
 
 [Term]
 id: WBbt:0005579
-name: m8
+name: obsolete m8
 is_obsolete: true
 
 [Term]
 id: WBbt:0005580
-name: m7
+name: obsolete m7
 is_obsolete: true
 
 [Term]
 id: WBbt:0005581
-name: m6
+name: obsolete m6
 is_obsolete: true
 
 [Term]
 id: WBbt:0005582
-name: male_sens_ray.9L
+name: obsolete male_sens_ray.9L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005583
-name: male_sens_ray.9
+name: obsolete male_sens_ray.9
 is_obsolete: true
 
 [Term]
 id: WBbt:0005584
-name: male_sens_ray.8R
+name: obsolete male_sens_ray.8R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005585
-name: male_sens_ray.8L
+name: obsolete male_sens_ray.8L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005586
-name: male_sens_ray.8
+name: obsolete male_sens_ray.8
 is_obsolete: true
 
 [Term]
 id: WBbt:0005587
-name: male_sens_ray.7R
+name: obsolete male_sens_ray.7R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005588
-name: male_sens_ray.7L
+name: obsolete male_sens_ray.7L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005589
-name: male_sens_ray.7
+name: obsolete male_sens_ray.7
 is_obsolete: true
 
 [Term]
 id: WBbt:0005590
-name: m5
+name: obsolete m5
 is_obsolete: true
 
 [Term]
 id: WBbt:0005591
-name: male_sens_ray.6R
+name: obsolete male_sens_ray.6R
 is_obsolete: true
 
 [Term]
 id: WBbt:0005592
-name: m4
+name: obsolete m4
 is_obsolete: true
 
 [Term]
 id: WBbt:0005593
-name: male_sens_ray.6L
+name: obsolete male_sens_ray.6L
 is_obsolete: true
 
 [Term]
 id: WBbt:0005595
-name: m3
+name: obsolete m3
 is_obsolete: true
 
 [Term]
 id: WBbt:0005596
-name: m2
+name: obsolete m2
 is_obsolete: true
 
 [Term]
 id: WBbt:0005597
-name: m1
+name: obsolete m1
 is_obsolete: true
 
 [Term]
 id: WBbt:0005598
-name: M lineage
+name: obsolete M lineage
 is_obsolete: true
 
 [Term]
 id: WBbt:0005599
-name: lumbar neurons
+name: obsolete lumbar neurons
 is_obsolete: true
 
 [Term]
@@ -35089,7 +35089,7 @@ relationship: part_of WBbt:0006927 ! anterior deirid sensillum
 
 [Term]
 id: WBbt:0005604
-name: obsolete
+name: obsolete obsolete
 def: "terms and relations no longer supported." [WB:rynl]
 is_obsolete: true
 
@@ -35979,7 +35979,7 @@ is_a: WBbt:0005735 ! nervous system
 
 [Term]
 id: WBbt:0005761
-name: pharyngeal nervous system
+name: obsolete pharyngeal nervous system
 is_obsolete: true
 
 [Term]
@@ -36150,7 +36150,7 @@ relationship: part_of WBbt:0005747 ! reproductive system
 
 [Term]
 id: WBbt:0005787
-name: neuron of the preproductive system
+name: obsolete neuron of the preproductive system
 is_obsolete: true
 
 [Term]
@@ -42067,7 +42067,7 @@ is_a: WBbt:0007028 ! embryonic cell
 
 [Term]
 id: WBbt:0006676
-name: Cell
+name: obsolete Cell
 is_obsolete: true
 
 [Term]
@@ -43107,7 +43107,7 @@ is_a: WBbt:0006974 ! nerve ring neuron
 
 [Term]
 id: WBbt:0006824
-name: motoneuron interneuron
+name: obsolete motoneuron interneuron
 def: "neuron that have dual motor- and inter-neuron characteristics." [WB:rynl]
 synonym: "interneuron motoneuron" RELATED []
 is_obsolete: true
@@ -44143,7 +44143,7 @@ is_a: WBbt:0006752 ! somatic neuron
 
 [Term]
 id: WBbt:0006975
-name: ring interneuron
+name: obsolete ring interneuron
 def: "interneuron that has processes in the nerve ring." [WB:rynl]
 is_obsolete: true
 
@@ -44178,13 +44178,13 @@ relationship: part_of WBbt:0005741 ! tail
 
 [Term]
 id: WBbt:0006980
-name: B.alaalda
+name: obsolete B.alaalda
 def: "a lineage-defined nucleus." [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0006981
-name: B.alaarda
+name: obsolete B.alaarda
 def: "a lineage-defined nucleus." [WB:rynl]
 is_obsolete: true
 
@@ -44252,13 +44252,13 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0006992
-name: P6.ppp
+name: obsolete P6.ppp
 def: "cell, posterior daughter of P6.pp" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0006993
-name: P6.pppp
+name: obsolete P6.pppp
 def: "cell, posterior daughter of P6.ppp" [WB:rynl]
 is_obsolete: true
 
@@ -44294,7 +44294,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0006999
-name: TL.aaa
+name: obsolete TL.aaa
 def: "cell, which is the anterior descendent of TL.aa." [WB:rynl]
 is_obsolete: true
 
@@ -44312,7 +44312,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007003
-name: TR.aaa
+name: obsolete TR.aaa
 def: "cell, which is the anterior descendent of TR.aa." [WB:rynl]
 is_obsolete: true
 
@@ -44384,13 +44384,13 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007018
-name: TL.aap
+name: obsolete TL.aap
 def: "cell, which is the posterior descendent of TL.aa." [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0007019
-name: TR.aap
+name: obsolete TR.aap
 def: "cell, which is the posterior descendent of TR.aa." [WB:rynl]
 is_obsolete: true
 
@@ -45599,7 +45599,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007235
-name: P2'
+name: obsolete P2'
 def: "post-embryonic cell of pedigree P2'" [WB:rynl]
 is_obsolete: true
 
@@ -45623,7 +45623,7 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007239
-name: P3'
+name: obsolete P3'
 def: "post-embryonic cell of pedigree P3'" [WB:rynl]
 is_obsolete: true
 
@@ -45647,19 +45647,19 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007243
-name: P4'
+name: obsolete P4'
 def: "post-embryonic cell of pedigree P4'" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0007244
-name: P4'.a
+name: obsolete P4'.a
 def: "post-embryonic cell of pedigree P4'.a" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0007245
-name: P4'.p
+name: obsolete P4'.p
 def: "post-embryonic cell of pedigree P4'.p" [WB:rynl]
 is_obsolete: true
 
@@ -48672,13 +48672,13 @@ is_a: WBbt:0007030 ! post-embryonic cell
 
 [Term]
 id: WBbt:0007788
-name: Z4.apppa
+name: obsolete Z4.apppa
 def: "post-embryonic cell of pedigree Z4.apppa" [WB:rynl]
 is_obsolete: true
 
 [Term]
 id: WBbt:0007789
-name: Z4.apppaa
+name: obsolete Z4.apppaa
 def: "post-embryonic cell of pedigree Z4.apppaa" [WB:rynl]
 is_obsolete: true
 
@@ -49164,7 +49164,7 @@ relationship: part_of WBbt:0004833 ! proct
 
 [Term]
 id: WBbt:0007862
-name: B_alpha or B_beta nucleus
+name: obsolete B_alpha or B_beta nucleus
 def: "Nucleus which adopts either the developmental fate of pedigree B_alpha or B_beta." [WB:rynl]
 is_obsolete: true
 
@@ -49292,7 +49292,7 @@ relationship: part_of WBbt:0008495 ! M.vrpaa hermaphrodite
 
 [Term]
 id: WBbt:0007878
-name: P1 or P2 nucleus
+name: obsolete P1 or P2 nucleus
 def: "nucleus of pedigree P1 or P2" [WB:rynl]
 is_obsolete: true
 
@@ -49314,7 +49314,7 @@ relationship: part_of WBbt:0006771 ! P2
 
 [Term]
 id: WBbt:0007881
-name: P3 or P4 nucleus
+name: obsolete P3 or P4 nucleus
 def: "nucleus of pedigree P3 or P4" [WB:rynl]
 is_obsolete: true
 
@@ -49352,7 +49352,7 @@ relationship: part_of WBbt:0004901 ! CP1
 
 [Term]
 id: WBbt:0007886
-name: P5 or P6 nucleus
+name: obsolete P5 or P6 nucleus
 def: "nucleus of pedigree P5 or P6" [WB:rynl]
 is_obsolete: true
 
@@ -49374,7 +49374,7 @@ relationship: part_of WBbt:0006775 ! P6
 
 [Term]
 id: WBbt:0007889
-name: P7 or P8 nucleus
+name: obsolete P7 or P8 nucleus
 def: "nucleus of pedigree P7 or P8" [WB:rynl]
 is_obsolete: true
 
@@ -49396,7 +49396,7 @@ relationship: part_of WBbt:0006777 ! P8
 
 [Term]
 id: WBbt:0007892
-name: P9 or P10 nucleus
+name: obsolete P9 or P10 nucleus
 def: "nucleus of pedigree P9 or P10" [WB:rynl]
 is_obsolete: true
 
@@ -49418,7 +49418,7 @@ relationship: part_of WBbt:0006779 ! P10
 
 [Term]
 id: WBbt:0007895
-name: P11 or P12 nucleus
+name: obsolete P11 or P12 nucleus
 def: "nucleus of pedigree P11 or P12" [WB:rynl]
 is_obsolete: true
 
@@ -50407,7 +50407,7 @@ relationship: part_of WBbt:0005040 ! gon_male_sves
 
 [Term]
 id: WBbt:0008030
-name: B_delta or B_gamma nucleus
+name: obsolete B_delta or B_gamma nucleus
 def: "Nucleus which adopts either the developmental pedigree B_gamma or B_delta." [WB:rynl]
 is_obsolete: true
 
@@ -50419,7 +50419,7 @@ is_a: WBbt:0005113 ! interneuron
 
 [Term]
 id: WBbt:0008032
-name: hyp8 or hyp9 nucleus
+name: obsolete hyp8 or hyp9 nucleus
 def: "nucleus of hyp8 or hyp9 cell." [WB:rynl]
 is_obsolete: true
 
@@ -50478,7 +50478,7 @@ is_a: WBbt:0004386 ! PDA
 
 [Term]
 id: WBbt:0008042
-name: AVFL or AVFR nucleus
+name: obsolete AVFL or AVFR nucleus
 def: "Nucleus of cell AVFL or AVFR." [WB:rynl]
 synonym: "AVFL/R nucleus" RELATED []
 is_obsolete: true
