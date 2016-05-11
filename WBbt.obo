@@ -1,6 +1,6 @@
 format-version: 1.2
 data-version: 2015-05-05
-date: 05:05:2016 16:18
+date: 11:05:2016 13:57
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -21973,6 +21973,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 id: WBbt:0003711
 name: metacorpus
 def: "posterior segment of pharyngeal corpus." [WB:rynl]
+is_a: WBbt:0005789 ! pharyngeal segment
 relationship: part_of WBbt:0003733 ! corpus
 
 [Term]
@@ -21986,6 +21987,7 @@ relationship: part_of WBbt:0003732 ! terminal bulb
 id: WBbt:0003713
 name: procorpus
 def: "anterior section of pharyngeal corpus." [WB:rynl]
+is_a: WBbt:0005789 ! pharyngeal segment
 relationship: part_of WBbt:0003733 ! corpus
 
 [Term]
@@ -27706,8 +27708,8 @@ name: K.a
 def: "Rectal cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: K.a" RELATED []
 synonym: "rect_hyp" RELATED []
-is_a: WBbt:0005800 ! rectal epithelium
 is_a: WBbt:0008182 ! rectal epithelial cell
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0004496
@@ -27722,8 +27724,8 @@ name: K' cell
 def: "Rectal cell" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplpapppap" RELATED []
 synonym: "rect_hyp" RELATED []
-is_a: WBbt:0005800 ! rectal epithelium
 is_a: WBbt:0008182 ! rectal epithelial cell
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0004498
@@ -27999,11 +28001,12 @@ relationship: part_of WBbt:0005736 ! excretory system
 
 [Term]
 id: WBbt:0004535
-name: exc_gl_R
+name: exc_gl_R nucleus
 alt_id: WBbt:0002007
 def: "right nucleus of binuclear syncytium excretory glands, fused, send processes to ring,open into excretory duct." [ISBN:0-87969-307-X, WB:Paper00000596, WB:rynl]
 synonym: "ABprpapapaa nucleus" RELATED []
 synonym: "lineage name: ABprpapapaa" RELATED []
+is_a: WBbt:0006803 ! Nucleus
 relationship: DESCENDENTOF WBbt:0001573 ! ABprpapapa nucleus
 relationship: part_of WBbt:0005776 ! excretory gland cell
 
@@ -28381,9 +28384,9 @@ name: Y cell
 def: "Rectal cell at hatching, becomes PDA in hermaphrodite, postembryonic blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABprpppaaaa" RELATED []
 synonym: "postembryonic C cell" RELATED []
-is_a: WBbt:0005800 ! rectal epithelium
 is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0004579
@@ -29944,9 +29947,9 @@ id: WBbt:0004799
 name: F cell
 def: "Rectal cell, blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplppppapp" RELATED []
-is_a: WBbt:0005800 ! rectal epithelium
 is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0004800
@@ -31123,9 +31126,9 @@ name: U cell
 def: "Rectal cell, postembryonic blast cell in male" [ISBN:0-87969-307-X]
 synonym: "lineage name: ABplppppapa" RELATED []
 synonym: "postembryonic E cell" RELATED []
-is_a: WBbt:0005800 ! rectal epithelium
 is_a: WBbt:0006783 ! blast cell
 is_a: WBbt:0008182 ! rectal epithelial cell
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0004943
@@ -32946,8 +32949,9 @@ is_obsolete: true
 [Term]
 id: WBbt:0005189
 name: ganglion
-def: "a cluster of nerve cells and associated glial cells (nuclear location)" [WB:rynl]
+def: "A cluster of nerve cells and associated glial cells (nuclear location)." [WB:rynl]
 xref: WB:rynl
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005735 ! nervous system
 
 [Term]
@@ -33707,10 +33711,11 @@ is_a: WBbt:0006840 ! cholinergic neuron
 [Term]
 id: WBbt:0005337
 name: vas deferens
-def: "that portion of the male reproductive tract, through which sperm are delivered to the proctodeum and then the cloaca in the tail.  Thus that portion which is distal to the testis, made of a total of 30 cells." [WB:rynl, WBPaper:00038216]
+def: "That portion of the male reproductive tract, through which sperm are delivered to the proctodeum and then the cloaca in the tail.  Thus that portion which is distal to the testis, made of a total of 30 cells." [WB:rynl, WBPaper:00038216]
 synonym: "gon_male_vdef" RELATED []
 synonym: "sperm duct" RELATED []
 xref: WBPaper:00038216
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0006794 ! male gonad
 
 [Term]
@@ -33938,6 +33943,7 @@ is_a: WBbt:0005733 ! hypodermis
 id: WBbt:0005374
 name: anterior gonad arm
 def: "anterior lobe of the bi-lobbed hermaphrodite gonad." [WB:rynl]
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 
 [Term]
@@ -34013,7 +34019,8 @@ is_a: WBbt:0005391 ! amphid sensillum
 [Term]
 id: WBbt:0005393
 name: amphid process
-def: "neuronal process of an amphid neuron" [WB:rynl]
+def: "Neuronal process of an amphid neuron." [WB:rynl]
+is_a: WBbt:0008628 ! cell component
 relationship: part_of WBbt:0003826 ! AWCR
 relationship: part_of WBbt:0003827 ! AWCL
 relationship: part_of WBbt:0003828 ! AWBR
@@ -34251,6 +34258,7 @@ is_obsolete: true
 [Term]
 id: WBbt:0005437
 name: pharyngeal nerve process
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005441 ! pharyngeal nerve
 
 [Term]
@@ -34270,6 +34278,8 @@ relationship: part_of WBbt:0003681 ! pharynx
 [Term]
 id: WBbt:0005441
 name: pharyngeal nerve
+def: "A set of three longitudinal nerves (I1L, NSML and M2L) running along the anterior/posterior axis within the pharynx, each lying within a narrow groove created between syncytial pairs of muscles. One nerve lies dorsally, in close apposition to the dorsal gland duct, while the other two nerves lie subventrally." [WBPaper:00038216]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005440 ! pharyngeal nervous system
 
 [Term]
@@ -34366,6 +34376,7 @@ is_a: WBbt:0005754 ! interfacial epithelial cell
 [Term]
 id: WBbt:0005460
 name: pharyngeal cell
+is_a: WBbt:0004017 ! Cell
 relationship: part_of WBbt:0003681 ! pharynx
 
 [Term]
@@ -34405,6 +34416,7 @@ is_a: WBbt:0005332 ! body ganglion
 id: WBbt:0005466
 name: posterior gonad arm
 def: "posterior lobe of the bi-lobbed hermaphrodite gonad." [WB:rynl]
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 
 [Term]
@@ -35757,6 +35769,7 @@ relationship: part_of WBbt:0004522 ! anchor cell
 id: WBbt:0005729
 name: Tissue
 def: "Association of cells with a common embryological origin or pathway and similar structure and function. Usually, cells of a tissue are contiguous at cell membranes and may be of one or more types. Tissues aggregate to form organs." [ISBN:0-14-051288-8, WB:rynl]
+xref: CARO:0000043
 xref: ISBN:0-14-051288-8
 xref: WB:rynl
 is_a: WBbt:0005763 ! Functional system
@@ -35777,17 +35790,20 @@ relationship: part_of WBbt:0005773 ! rectum
 [Term]
 id: WBbt:0005732
 name: extracellular component
-def: "entities that exist outside of cells; non-cellular" [WB:rynl]
+def: "Anatomical structures that exist outside of cells; non-cellular." [WB:rynl]
+xref: CARO:0000040 "acellular anatomical structure"
 xref: WB:pws
 is_a: WBbt:0005766 ! Anatomy
 
 [Term]
 id: WBbt:0005733
 name: hypodermis
-def: "epidermal layer" [WB:pws]
+def: "Epidermal layer." [WB:pws]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/hypodermis/hypodermis.htm>
 synonym: "epidermis" RELATED []
+xref: CARO:0000066 "epithelium"
 xref: WB:pws
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005730 ! epithelial system
 
 [Term]
@@ -35811,7 +35827,7 @@ is_a: WBbt:0005746 ! Organ system
 [Term]
 id: WBbt:0005736
 name: excretory system
-relationship: part_of WBbt:0006850 ! excretory secretory system
+is_a: WBbt:0006850 ! excretory secretory system
 
 [Term]
 id: WBbt:0005737
@@ -35988,6 +36004,7 @@ name: accessory cell
 def: "cells that support sensory neurons, similar to glial cells in vertebrates. A category which collectively refers to socket cells, sheath cells, and structural cells, or their processes.  All of these cells extend long processes which serve a supporting role, rather like glia, to form a protective environment around sensory neuron endings.  In addition, some of these cells extend broad thin processes from their somata which wrap around neuronal ganglia, again in a glia-like fashion" [WB:rynl, WBPaper:00038216]
 synonym: "support cell" RELATED []
 xref: WBPaper:00038216
+is_a: WBbt:0004017 ! Cell
 relationship: part_of WBbt:0005735 ! nervous system
 
 [Term]
@@ -36021,6 +36038,7 @@ synonym: "esophago-intestinal valve" RELATED []
 synonym: "pharyngeal valve" RELATED []
 synonym: "pharyngo-intestinal valve" RELATED []
 xref: WBPaper:00038216
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005748 ! alimentary system
 
 [Term]
@@ -36090,7 +36108,7 @@ def: "gland cell of the secretory-excretory system, sends processes to ring, ope
 synonym: "exc gl" RELATED []
 is_a: WBbt:0003670 ! gland cell
 is_a: WBbt:0008074 ! syncytium
-relationship: part_of WBbt:0006850 ! excretory secretory system
+relationship: part_of WBbt:0005736 ! excretory system
 
 [Term]
 id: WBbt:0005777
@@ -36139,13 +36157,15 @@ relationship: part_of WBbt:0005747 ! reproductive system
 [Term]
 id: WBbt:0005785
 name: somatic gonad
-def: "The components of the gonad that are separate from the germline proper. In hermaphrodite, these include five tissues which are all derived from the somatic primordium : the distal tip cells, the gonadal sheath, the spermatheca, the spermatheca-uterine valve (sp-ut)  and the uterus. " [WB:rynl, WBPaper:00038216]
+def: "The components of the gonad that are separate from the germline proper. In hermaphrodite, these include five tissues which are all derived from the somatic primordium : the distal tip cells, the gonadal sheath, the spermatheca, the spermatheca-uterine valve (sp-ut)  and the uterus." [WB:rynl, WBPaper:00038216]
 synonym: "somatic germline" RELATED []
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005175 ! gonad
 
 [Term]
 id: WBbt:0005786
 name: muscle of the reproductive system
+is_a: WBbt:0003675 ! muscle cell
 relationship: part_of WBbt:0005747 ! reproductive system
 
 [Term]
@@ -36163,6 +36183,7 @@ is_a: WBbt:0005460 ! pharyngeal cell
 [Term]
 id: WBbt:0005789
 name: pharyngeal segment
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0003681 ! pharynx
 
 [Term]
@@ -36246,6 +36267,7 @@ id: WBbt:0005800
 name: rectal epithelium
 def: "epithelium connecting intestine and anus." [WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/alimentary/alimentary3.htm#rectepith>
+is_a: WBbt:0005733 ! hypodermis
 relationship: part_of WBbt:0005773 ! rectum
 
 [Term]
@@ -36262,37 +36284,43 @@ id: WBbt:0005803
 name: rectal muscle
 def: "muscle that controls hermaphrodite rectal opening." [WB:rynl]
 synonym: "anal muscle" EXACT [WB:rynl]
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005773 ! rectum
 
 [Term]
 id: WBbt:0005804
 name: cloacal rectal valve cell
+is_a: WBbt:0005797 ! rectal valve cell
 relationship: part_of WBbt:0005774 ! cloaca
 
 [Term]
 id: WBbt:0005805
 name: cloacal sphincter muscle
 def: "sphincter muscle of male cloaca." [WB:rynl]
-relationship: part_of WBbt:0005774 ! cloaca
+is_a: WBbt:0005809 ! cloacal muscle
 
 [Term]
 id: WBbt:0005806
 name: cloacal rectal gland cell
+is_a: WBbt:0003670 ! gland cell
 relationship: part_of WBbt:0005774 ! cloaca
 
 [Term]
 id: WBbt:0005807
 name: cloacal neuron
+is_a: WBbt:0003679 ! neuron
 relationship: part_of WBbt:0005774 ! cloaca
 
 [Term]
 id: WBbt:0005808
 name: cloacal epithelium
+is_a: WBbt:0005733 ! hypodermis
 relationship: part_of WBbt:0005774 ! cloaca
 
 [Term]
 id: WBbt:0005809
 name: cloacal muscle
+is_a: WBbt:0003675 ! muscle cell
 relationship: part_of WBbt:0005774 ! cloaca
 
 [Term]
@@ -36424,6 +36452,7 @@ id: WBbt:0005829
 name: ventral nerve cord
 def: "a large process bundle that runs along the vental mid-line extending from the ventral region of the nerve ring." [WB:Paper00000938]
 synonym: "ventral cord" RELATED [WB:Paper00000938]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005760 ! somatic nervous system
 
 [Term]
@@ -42575,6 +42604,7 @@ id: WBbt:0006749
 name: nerve ring
 def: "the most extensive region of neuropil in the animal, consists of a large toroidal bundle of processes." [WB:Paper00000938]
 synonym: "circumpharyngeal nerve ring" RELATED [WB:Paper00000938]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005739 ! head
 relationship: part_of WBbt:0005760 ! somatic nervous system
 
@@ -42583,6 +42613,7 @@ id: WBbt:0006750
 name: dorsal nerve cord
 def: "a bundle of nerve processes that runs along the dorsal mid-line of the animal." [WB:Paper00000938]
 synonym: "dorsal cord" RELATED [WB:Paper00000938]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005760 ! somatic nervous system
 
 [Term]
@@ -42661,6 +42692,7 @@ id: WBbt:0006760
 name: uterus
 def: "The organ in which the eggs are developed and protected until laid." [ISBN:0198611862, WB:rynl]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem3a.htm#Theuterus>
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005178 ! hermaphrodite gonad
 relationship: part_of WBbt:0008587 ! egg-laying apparatus
 
@@ -42723,6 +42755,7 @@ is_a: WBbt:0008074 ! syncytium
 id: WBbt:0006769
 name: lateral nerve cord
 def: "nerve cord positioned at the lateral flanks of the animal, consists of processes of the neuron classes BDU, CAN, PVD and ALA." [WB:rynl]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005760 ! somatic nervous system
 
 [Term]
@@ -43467,6 +43500,7 @@ id: WBbt:0006870
 name: seminal vesicle
 def: "part of male gonad that holds mature sperm, made of a total of 12 nuclei." [WB:Paper00000193, WB:rynl]
 synonym: "gon_male_sves" RELATED []
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0006794 ! male gonad
 
 [Term]
@@ -44172,8 +44206,9 @@ relationship: part_of WBbt:0005741 ! tail
 [Term]
 id: WBbt:0006979
 name: tail spike
-def: "an acellular thin cuticle whip formed at the very end of the tail during embryogenesis." [WB:rynl, WBPaper:00038216]
+def: "An acellular thin cuticle whip formed at the very end of the tail during embryogenesis." [WB:rynl, WBPaper:00038216]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/hypodermis/hypsupportother.htm#tailspikecells>
+is_a: WBbt:0005732 ! extracellular component
 relationship: part_of WBbt:0005741 ! tail
 
 [Term]
@@ -50666,7 +50701,7 @@ name: B cell hermaphrodite
 def: "a rectal epithelial cell in hermaphrodite." [WB:rynl]
 synonym: "lineage name: ABprppppapa" RELATED []
 is_a: WBbt:0003825 ! B cell
-is_a: WBbt:0005800 ! rectal epithelium
+relationship: part_of WBbt:0005800 ! rectal epithelium
 
 [Term]
 id: WBbt:0008064
@@ -52092,6 +52127,7 @@ relationship: part_of WBbt:0008262 ! body wall muscle quadrant
 id: WBbt:0008262
 name: body wall muscle quadrant
 def: "logitudinal quadrant of body wall muscle." [WB:rynl]
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005742 ! body wall
 
 [Term]
@@ -52810,13 +52846,15 @@ is_a: WBbt:0006783 ! blast cell
 [Term]
 id: WBbt:0008374
 name: stoma
-def: "portion of the digestive tract between the oral opening and the definitely tri-radiate beginning of the esophagus (pharynx). " [ISBN:0-8391-0697-1]
+def: "Portion of the digestive tract between the oral opening and the definitely tri-radiate beginning of the esophagus (pharynx)." [ISBN:0-8391-0697-1]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005743 ! digestive tract
 
 [Term]
 id: WBbt:0008375
 name: arcade ring
 def: "cytoplamic ring that surrounds the anterior of the buccal cavity." [WBPaper:00038216]
+is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0008374 ! stoma
 
 [Term]
@@ -53015,6 +53053,7 @@ is_a: WBbt:0007028 ! embryonic cell
 id: WBbt:0008408
 name: grinder
 def: "a structure surrounds the lumen of pharyngeal terminal bulb that is formed by folded cuticles and serves the function of grinding up food, bacteria." [WB:rynl]
+is_a: WBbt:0005732 ! extracellular component
 relationship: part_of WBbt:0003732 ! terminal bulb
 
 [Term]
@@ -53117,12 +53156,13 @@ is_a: WBbt:0008422 ! sex organ
 id: WBbt:0008424
 name: gubernaculum
 def: "A sclerotized cuticular structure at the base of the male tail fan which houses the retracted spicules and guides the eversion of the spicules through the anus." [WB:Paper00038216]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0008423 ! male genital
 
 [Term]
 id: WBbt:0008425
 name: hook
-def: "A small lump on the gubernaculum of the male tail. This structure lies on the ventral surface just anterior and central to the base of the spicule openings and contains a sensory structure called the hook sensillum. " [WB:Paper00038216]
+def: "A small lump on the gubernaculum of the male tail. This structure lies on the ventral surface just anterior and central to the base of the spicule openings and contains a sensory structure called the hook sensillum." [WB:Paper00038216]
 is_a: WBbt:0008424 ! gubernaculum
 
 [Term]
@@ -53220,6 +53260,7 @@ creation_date: 2012-01-26T02:48:40Z
 id: WBbt:0008440
 name: vas deferens valve region
 def: "An anatomical region of the male vas deferens that is adjacent to the seminal vesicle." [WB:rynl, WBPaper:00038216]
+is_a: WBbt:0005766 ! Anatomy
 relationship: part_of WBbt:0005337 ! vas deferens
 created_by: raymond
 creation_date: 2012-01-31T02:30:37Z
@@ -54396,6 +54437,7 @@ creation_date: 2012-07-16T10:21:45Z
 id: WBbt:0008587
 name: egg-laying apparatus
 def: "An apparatus for laying eggs of the hermaphrodite reproductive system, consists of the uterus, the uterine muscles, the vulva, the vulval muscles, and a local neuropil formed by the egg-laying neurons." [WB:Paper00038216, WB:rynl]
+is_a: WBbt:0008422 ! sex organ
 relationship: part_of WBbt:0005747 ! reproductive system
 created_by: raymond
 creation_date: 2012-10-30T12:29:21Z
@@ -54737,6 +54779,15 @@ def: "A cell that is the MS blast cell or is a lineal descendant of MS." [WB:ryn
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
 creation_date: 2016-01-08T08:26:06Z
+
+[Term]
+id: WBbt:0008628
+name: cell component
+def: "Anatomical structure that is a direct part of the cell." [CARO:MAH]
+xref: CARO:0000014
+is_a: WBbt:0005766 ! Anatomy
+created_by: raymond
+creation_date: 2016-05-09T16:15:06Z
 
 [Typedef]
 id: DESCENDENTOF
