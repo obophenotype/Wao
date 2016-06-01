@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2015-05-05
-date: 11:05:2016 13:57
+data-version: 2015-01-06
+date: 01:06:2016 15:34
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.3
 default-namespace: worm_anatomy
@@ -22194,7 +22194,7 @@ is_a: WBbt:0008437 ! gon herm vut (5R)
 [Term]
 id: WBbt:0003769
 name: Z4.aapapv (5L)
-def: "Ventral uterus; cell of pedigree Z4.aapapv (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z4.aapapv (5L), utse precursor." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapapv" RELATED []
 is_a: WBbt:0008436 ! gon herm vut (5L)
@@ -22211,7 +22211,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003771
 name: Z4.aapaav (5L)
-def: "Ventral uterus; cell of pedigree Z4.aapaav (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z4.aapaav (5L), utse precursor." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaav" RELATED []
 is_a: WBbt:0007737 ! Z4.aapaav
@@ -22220,7 +22220,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003772
 name: Z4.aapaad (5L)
-def: "Ventral uterus; cell of pedigree Z4.aapaad (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z4.aapaad (5L), utse precursor." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z4.aapaad" RELATED []
 is_a: WBbt:0007736 ! Z4.aapaad
@@ -22255,7 +22255,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003777
 name: Z1.ppppav (5L)
-def: "Ventral uterus; cell of pedigree Z1.ppppav (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z1.ppppav (5L), utse precursor." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppppav" RELATED []
 is_a: WBbt:0008436 ! gon herm vut (5L)
@@ -22272,7 +22272,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003779
 name: Z1.pppapv (5L)
-def: "Ventral uterus; cell of pedigree Z1.pppapv (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z1.pppapv (5L), utse precursor" [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.pppapv" RELATED []
 is_a: WBbt:0008436 ! gon herm vut (5L)
@@ -22280,7 +22280,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003780
 name: Z1.pppapd (5L)
-def: "Ventral uterus; cell of pedigree Z1.pppapd (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z1.pppapd (5L), utse precursor." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.pppapd" RELATED []
 is_a: WBbt:0008436 ! gon herm vut (5L)
@@ -22288,7 +22288,7 @@ is_a: WBbt:0008436 ! gon herm vut (5L)
 [Term]
 id: WBbt:0003781
 name: Z1.pppaav (5L)
-def: "Ventral uterus; cell of pedigree Z1.pppaav (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z1.pppaav (5L), utse precursor." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.pppaav" RELATED []
 is_a: WBbt:0008436 ! gon herm vut (5L)
@@ -32358,7 +32358,7 @@ is_a: WBbt:0008437 ! gon herm vut (5R)
 [Term]
 id: WBbt:0005087
 name: Z1.ppappv (5L)
-def: "Ventral uterus; cell of pedigree Z1.ppappv (5L)." [ISBN:0-87969-307-X]
+def: "Ventral uterus; cell of pedigree Z1.ppappv (5L), utse precursor." [ISBN:0-87969-307-X, WB:rynl]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppappv" RELATED []
 synonym: "utse precursor" RELATED []
@@ -52378,7 +52378,7 @@ is_a: WBbt:0008293 ! Z1.ppa hermaphrodite
 [Term]
 id: WBbt:0008300
 name: Z4.aaa (5L)
-def: "post-embryonic cell of pedigree Z4.aaa in hermaphrodite that will follow the 5L configuration of development." [WB:rynl]
+def: "post-embryonic cell of pedigree Z4.aaa in hermaphrodite that will follow the 5L configuration of development; anchor cell and utse precursor" [WB:rynl]
 is_a: WBbt:0008294 ! Z4.aaa hermaphrodite
 
 [Term]
@@ -52424,7 +52424,7 @@ is_a: WBbt:0008305 ! Z1.ppp hermaphrodite
 [Term]
 id: WBbt:0008307
 name: Z1.ppp (5R)
-def: "post-embryonic cell of pedigree Z1.ppp in hermaphrodite that will follow the 5R configuration of development." [WB:rynl]
+def: "post-embryonic cell of pedigree Z1.ppp in hermaphrodite that will follow the 5R configuration of development; anchor cell and utse precursor." [WB:rynl]
 is_a: WBbt:0008305 ! Z1.ppp hermaphrodite
 
 [Term]
