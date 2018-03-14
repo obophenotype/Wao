@@ -1,8 +1,8 @@
 format-version: 1.2
-data-version: 2018-02-09
-date: 02:09:2018 12:06
+data-version: 2018-03-14
+date: 14:03:2018 15:32
 saved-by: raymond
-auto-generated-by: OBO-Edit 2.3
+auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
 remark: $
 ontology: wbbt
@@ -34273,8 +34273,9 @@ relationship: part_of WBbt:0005440 ! pharyngeal nervous system
 [Term]
 id: WBbt:0005440
 name: pharyngeal nervous system
-is_a: WBbt:0005735 ! nervous system
+def: "The pharyngeal nervous system is composed of 20 pharyngeal neurons which lie completely within the pharynx." [WBPaper:00038216]
 relationship: part_of WBbt:0003681 ! pharynx
+relationship: part_of WBbt:0005735 ! nervous system
 
 [Term]
 id: WBbt:0005441
@@ -35778,7 +35779,7 @@ is_a: WBbt:0005763 ! Functional system
 [Term]
 id: WBbt:0005730
 name: epithelial system
-def: "lies within the body wall, in close relation to nervouse system and excretory system" [WBPaper:00038216]
+def: "lies within the body wall, in close relation to nervous system and excretory system." [WBPaper:00038216]
 xref: WB:rynl
 is_a: WBbt:0005746 ! Organ system
 
@@ -35792,7 +35793,7 @@ relationship: part_of WBbt:0005773 ! rectum
 id: WBbt:0005732
 name: extracellular component
 def: "Anatomical structures that exist outside of cells; non-cellular." [WB:rynl]
-xref: CARO:0000040 "acellular anatomical structure"
+xref: CARO:0000040
 xref: WB:pws
 is_a: WBbt:0005766 ! Anatomy
 
@@ -35802,7 +35803,7 @@ name: hypodermis
 def: "Epidermal layer." [WB:pws]
 comment: LINKOUT::WORMATLAS::<http://www.wormatlas.org/ver1/handbook/hypodermis/hypodermis.htm>
 synonym: "epidermis" RELATED []
-xref: CARO:0000066 "epithelium"
+xref: CARO:0000066
 xref: WB:pws
 is_a: WBbt:0005729 ! Tissue
 relationship: part_of WBbt:0005730 ! epithelial system
@@ -35992,7 +35993,8 @@ is_a: WBbt:0003679 ! neuron
 [Term]
 id: WBbt:0005760
 name: somatic nervous system
-is_a: WBbt:0005735 ! nervous system
+def: "Part of the nervous system that lies completely outside the pharynx." [WB:rynl]
+relationship: part_of WBbt:0005735 ! nervous system
 
 [Term]
 id: WBbt:0005761
@@ -43351,7 +43353,7 @@ is_a: WBbt:0005784 ! germ line
 [Term]
 id: WBbt:0006850
 name: excretory secretory system
-def: "an organ system consists of the excretory system and associated glands." [WB:Paper00000536, WB:rynl]
+def: "An organ system consists of the excretory system and associated glands." [WB:Paper00000536, WB:rynl]
 is_a: WBbt:0005746 ! Organ system
 
 [Term]
@@ -54498,7 +54500,7 @@ name: neuroblast
 def: "A blast cell from which a neuron develops." [WB:rynl]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
-creation_date: 2013-10-17T15:51:19Z
+creation_date: 2013-10-17T03:51:19Z
 
 [Term]
 id: WBbt:0008595
@@ -54515,7 +54517,7 @@ name: H cell
 def: "Head lateral ectoblast which gives rise to hypodermal cells in the head." [WB:rynl, WBpaper:00038216]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
-creation_date: 2013-12-02T15:03:09Z
+creation_date: 2013-12-02T03:03:09Z
 
 [Term]
 id: WBbt:0008597
@@ -54523,7 +54525,7 @@ name: V cell
 def: "Ventrolateral ectoblast of the body that gives rise to neurons, hypodermis and seam cells." [WB:rynl, WBpaper:00038216]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
-creation_date: 2013-12-02T15:10:16Z
+creation_date: 2013-12-02T03:10:16Z
 
 [Term]
 id: WBbt:0008598
@@ -54531,7 +54533,7 @@ name: Q cell
 def: "One of a pair of lateral neuroblasts that migrate separately within the body cavity during larval stages to produce a variety of cell types." [WB:rynl, WBpaper:00038216]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
-creation_date: 2013-12-02T15:27:57Z
+creation_date: 2013-12-02T03:27:57Z
 
 [Term]
 id: WBbt:0008599
@@ -54539,7 +54541,7 @@ name: G cell
 def: "Ventral ganglion neuroblasts present at hatching, located near the excretory pore." [WBpaper:00038216]
 is_a: WBbt:0006783 ! blast cell
 created_by: raymond
-creation_date: 2013-12-02T15:30:08Z
+creation_date: 2013-12-02T03:30:08Z
 
 [Term]
 id: WBbt:0008600
@@ -54547,7 +54549,7 @@ name: enteric muscle
 def: "Muscle cell of the alimentary canal, excluding the pharynx." [WB:rynl]
 is_a: WBbt:0005820 ! alimentary muscle
 created_by: raymond
-creation_date: 2014-01-23T14:01:20Z
+creation_date: 2014-01-23T02:01:20Z
 
 [Term]
 id: WBbt:0008601
@@ -54555,7 +54557,7 @@ name: SM lineage cell
 def: "A cell that is a sex myoblast or is a lineal descendant of a sex myoblast." [WB:rynl]
 is_a: WBbt:0008439 ! M lineage cell
 created_by: raymond
-creation_date: 2014-03-20T15:36:22Z
+creation_date: 2014-03-20T03:36:22Z
 
 [Term]
 id: WBbt:0008602
@@ -54563,7 +54565,7 @@ name: SM lineage cell male
 def: "An SM lineage cell in a male animal." [WB:rynl]
 is_a: WBbt:0008601 ! SM lineage cell
 created_by: raymond
-creation_date: 2014-03-20T15:39:07Z
+creation_date: 2014-03-20T03:39:07Z
 
 [Term]
 id: WBbt:0008603
@@ -54571,7 +54573,7 @@ name: SM lineage cell hermaphrodite
 def: "An SM lineage cell in a hermaphrodite animal." [WB:rynl]
 is_a: WBbt:0008601 ! SM lineage cell
 created_by: raymond
-creation_date: 2014-03-20T15:40:25Z
+creation_date: 2014-03-20T03:40:25Z
 
 [Term]
 id: WBbt:0008604
@@ -54580,7 +54582,7 @@ def: "Male-specific blast cell which divides to product muscle cell." [WB:rynl]
 is_a: WBbt:0005757 ! male-specific
 is_a: WBbt:0008373 ! sex myoblast
 created_by: raymond
-creation_date: 2014-03-20T15:48:36Z
+creation_date: 2014-03-20T03:48:36Z
 
 [Term]
 id: WBbt:0008605
@@ -54588,7 +54590,7 @@ name: hermaphrodite sex myoblast
 def: "Hermaphrodite-specific blast cell which divides to product muscle cell." [WB:rynl]
 is_a: WBbt:0008373 ! sex myoblast
 created_by: raymond
-creation_date: 2014-03-20T15:56:15Z
+creation_date: 2014-03-20T03:56:15Z
 
 [Term]
 id: WBbt:0008606
@@ -54596,7 +54598,7 @@ name: P11/12L
 def: "Postembryonic blast cells for ventral cord motorneurons, ventral hypodermis, vulva, male preanal ganglion; ventral hypodermis in L1." [ISBN:0-87969-307-X]
 is_a: WBbt:0008115 ! ventral cord blast cell
 created_by: raymond
-creation_date: 2014-09-10T13:15:00Z
+creation_date: 2014-09-10T01:15:00Z
 
 [Term]
 id: WBbt:0008607
@@ -54604,7 +54606,7 @@ name: P11/12R
 def: "Postembryonic blast cells for ventral cord motorneurons, ventral hypodermis, vulva, male preanal ganglion; ventral hypodermis in L1." [ISBN:0-87969-307-X]
 is_a: WBbt:0008115 ! ventral cord blast cell
 created_by: raymond
-creation_date: 2014-09-10T13:15:00Z
+creation_date: 2014-09-10T01:15:00Z
 
 [Term]
 id: WBbt:0008608
@@ -54612,7 +54614,7 @@ name: B lineage cell
 def: "A cell that is the B post-embryonic blast cell or is a lineal descendant of B, in male." [WB:rynl]
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
-creation_date: 2014-11-10T15:11:46Z
+creation_date: 2014-11-10T03:11:46Z
 
 [Term]
 id: WBbt:0008609
@@ -54621,7 +54623,7 @@ def: "The remnant the midbody from the first embryonic cell division, eventually
 xref: GO:0030496
 is_a: WBbt:0005732 ! extracellular component
 created_by: raymond
-creation_date: 2015-03-20T15:02:28Z
+creation_date: 2015-03-20T03:02:28Z
 
 [Term]
 id: WBbt:0008610
@@ -54637,7 +54639,7 @@ name: AB lineage cell
 def: "A cell that is the AB blast cell or is a lineal descendant of AB." [WB:rynl]
 is_a: WBbt:0004017 ! Cell
 created_by: raymond
-creation_date: 2015-05-27T13:48:04Z
+creation_date: 2015-05-27T01:48:04Z
 
 [Term]
 id: WBbt:0008612
@@ -54647,7 +54649,7 @@ synonym: "mystery cells of the male" RELATED []
 is_a: WBbt:0005113 ! interneuron
 is_a: WBbt:0005757 ! male-specific
 created_by: raymond
-creation_date: 2015-09-22T13:17:56Z
+creation_date: 2015-09-22T01:17:56Z
 
 [Term]
 id: WBbt:0008613
@@ -54655,7 +54657,7 @@ name: MCML
 def: "Left cell of MCM neuron class." [WB:rynl]
 is_a: WBbt:0008612 ! MCM
 created_by: raymond
-creation_date: 2015-09-22T13:29:29Z
+creation_date: 2015-09-22T01:29:29Z
 
 [Term]
 id: WBbt:0008614
@@ -54663,7 +54665,7 @@ name: MCMR
 def: "Right cell of MCM neuron class." [WB:rynl]
 is_a: WBbt:0008612 ! MCM
 created_by: raymond
-creation_date: 2015-09-22T13:29:29Z
+creation_date: 2015-09-22T01:29:29Z
 
 [Term]
 id: WBbt:0008615
@@ -54788,7 +54790,7 @@ def: "Anatomical structure that is a direct part of the cell." [CARO:MAH]
 xref: CARO:0000014
 is_a: WBbt:0005766 ! Anatomy
 created_by: raymond
-creation_date: 2016-05-09T16:15:06Z
+creation_date: 2016-05-09T04:15:06Z
 
 [Typedef]
 id: DESCENDENTOF
