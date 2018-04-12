@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2018-03-14
-date: 14:03:2018 15:32
+data-version: 2018-04-12
+date: 12:04:2018 10:51
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -54655,6 +54655,7 @@ creation_date: 2015-09-22T01:17:56Z
 id: WBbt:0008613
 name: MCML
 def: "Left cell of MCM neuron class." [WB:rynl]
+synonym: "lineage name: AB.plpaapapap" RELATED []
 is_a: WBbt:0008612 ! MCM
 created_by: raymond
 creation_date: 2015-09-22T01:29:29Z
@@ -54663,6 +54664,7 @@ creation_date: 2015-09-22T01:29:29Z
 id: WBbt:0008614
 name: MCMR
 def: "Right cell of MCM neuron class." [WB:rynl]
+synonym: "lineage name: AB.prpaapapap" RELATED []
 is_a: WBbt:0008612 ! MCM
 created_by: raymond
 creation_date: 2015-09-22T01:29:29Z
