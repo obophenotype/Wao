@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: 2018-05-21
-date: 21:05:2018 13:38
+data-version: 2018-07-23
+date: 23:07:2018 10:42
 saved-by: raymond
 auto-generated-by: OBO-Edit 2.1-beta16
 default-namespace: worm_anatomy
@@ -21885,7 +21885,7 @@ relationship: part_of WBbt:0005735 ! nervous system
 id: WBbt:0003681
 name: pharynx
 def: "the feeding organ, a neuro-muscular pump in the head of the animal, used to ingest food, bacteria suspended in liquid, filter them out, grind them up and transport posteriorly into the instestine." [WB:rynl]
-comment: LINKOUT::WORMATLAS::<http://wormatlas.org/ver1/handbook/alimentary/alimentary1.htm#generalinfopharynx>\n
+comment: LINKOUT::WORMATLAS::<http://wormatlas.org/ver1/handbook/alimentary/alimentary1.htm#generalinfopharynx>
 synonym: "esophagus" RELATED []
 xref: WBPaper:00038216
 is_a: WBbt:0003760 ! organ
@@ -32379,7 +32379,7 @@ is_a: WBbt:0008437 ! gon herm vut (5R)
 id: WBbt:0005089
 name: Z1.ppapav (5R)
 alt_id: WBbt:0007663
-def: "MERGED DEFINITION:\nTARGET DEFINITION: Ventral uterus; cell of pedigree Z1.ppapav (5R).\n--------------------\nSOURCE DEFINITION: post-embryonic cell of pedigree Z1.ppapav" [ISBN:0-87969-307-X]
+def: "Ventral uterus; post-embryonic cell of pedigree Z1.ppapav (5R)." [ISBN:0-87969-307-X]
 synonym: "gon_herm_vut" RELATED []
 synonym: "lineage name: Z1.ppapav" RELATED []
 synonym: "VT4l" RELATED []
@@ -35132,7 +35132,7 @@ relationship: part_of WBbt:0005368 ! anterior spermatheca
 [Term]
 id: WBbt:0005656
 name: retrovesicular ganglion
-def: "ganglion that lies at the anterior limit of the ventral nerve cord, near the ventral ganglion and nerve ring in the head posterior to the excretory pore. It is open and continuous with the region containing the motoneurons of the ventral cord. In the early L1 this ganglion holds 12 neuron cell bodies plus one neuroblast (Sulston and Horvitz, 1977; White et al., 1986). In the adult animal, the ganglion holds 20 neuron cell bodies.\nReversal 	  		\n\n" [WBPaper:00038216]
+def: "Ganglion that lies at the anterior limit of the ventral nerve cord, near the ventral ganglion and nerve ring in the head posterior to the excretory pore. It is open and continuous with the region containing the motoneurons of the ventral cord. In the early L1 this ganglion holds 12 neuron cell bodies plus one neuroblast (Sulston and Horvitz, 1977; White et al., 1986). In the adult animal, the ganglion holds 20 neuron cell bodies." [WBPaper:00038216]
 is_a: WBbt:0005332 ! body ganglion
 
 [Term]
